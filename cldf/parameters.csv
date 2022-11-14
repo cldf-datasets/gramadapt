@@ -1,0 +1,381 @@
+ID,Name,Description,datatype,Question_ID
+F,Focus language,,,
+OT1,1. How long have [q2o1answer] and [q2o2answer] people been in contact overall?,,Comment,OT1
+OT1N,"Coarse time range, numerical",,Value,OT1N
+OT2,2. What is the overall time frame when the largest number of people had the most opportunities for interaction?,,Comment,OT2
+OT2N,"Coarse time range, numerical",,Value,OT2N
+OD1,1. What is the total number of native-like speakers of [q2o1answer]?,,Types,OD1
+OD3,2. What is the total number of native-like speakers of [q2o2answer]?,,Types,OD3
+OD4,3. What is the approximate proportion of native-like speakers in the total population of all speakers of [q2o1answer]?,,Scalar,OD4
+OD5,4. What is the approximate proportion of native-like speakers in the total population of all speakers of [q2o2answer]?,,Scalar,OD5
+OG1,5. What is the population density within the area where [q2o1answer] is spoken?,,Types,OG1
+OS7,6. What is the mean size of the [q2o1answer] speaking communities at the local level?,,Types,OS7
+OS9,7. How frequently do [q2o1answer] people generally interact with out-group people?,,Scalar,OS9
+OI1-1,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Group centered around shared descent, such as clan, house, lineage group, kinship group",,Binary-YesNo,OI1
+OI1-2,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Race, ethnicity, or some other similar grouping",,Binary-YesNo,OI1
+OI1-3,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Micro-level (politico-)territorial group, including regional or areal groups, clans, bands, tribes",,Binary-YesNo,OI1
+OI1-4,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Macro-level (politico-)territorial group, such as nation, tribe, state",,Binary-YesNo,OI1
+OI1-5,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Formal or informal relationships between non-kin, such as alliances, sodality membership, ad-hoc relationships between families or individuals",,Binary-YesNo,OI1
+OI3,9. Is there a codified standard variety for [q2o1answer]?,,Binary-YesNo,OI3
+OI6,"10. What are the [q2o1answer] speakers' attitudes towards linguistic transfers from [q2o2answer], such as lexical or grammatical borrowing?",,Scalar,OI6
+OI7,"11. What are the [q2o1answer] speakers' general attitudes towards linguistic transfer, such as lexical or grammatical borrowing, from any other language than [q2o2answer]?",,Scalar,OI7
+OI9,12. What are the [q2o1answer] speakers' attitudes towards lectal differences within [q2o1answer]?,,Scalar,OI9
+OI8,13. How significant is language as part of group identity for the speakers of [q2o1answer]?,,Scalar,OI8
+OB1,14. There is an emic conception of [q2o1answer] as “a language” or some other categorical or objective thing?,,Binary-YesNo,OB1
+O10,[q2o1answer] peoples’ language loyalty towards [q2o1answer] can be characterised as:,,Scalar,O10
+OL3,15. Do the [q2o1answer] speaking people use some orthography in writing their language?,,Types,OL3
+OL1,16. What is the approximate rate of formal literacy in the [q2o1answer] speaking community?,,Scalar,OL1
+OL2-1,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain hierarchy groups associated with profession or wealth (such as class and caste)?",,Binary-YesNo,OL2
+OL2-2,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain magico-religiously sanctioned groups (such as religious denomination)?",,Binary-YesNo,OL2
+OL2-3,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain descent groups, such as clan, house, lineage group, kinship group)?",,Binary-YesNo,OL2
+OL2-4,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain races, ethnicities, or some other similar grouping?",,Binary-YesNo,OL2
+OL2-5,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain age cohorts or life stages?",,Binary-YesNo,OL2
+OL2-6,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to a certain sex or genders?",,Binary-YesNo,OL2
+OL2-7,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to other communities of practice not mentioned above?",,Binary-YesNo,OL2
+OS1,"18. Typically, how many levels of jurisdictional hierarchy are there in the [q2o1answer] speaking society, beyond the local community?",,Scalar,OS1
+OS2,"19. Typically, how many levels of jurisdictional hierarchy are there in [q2o2answer] society, beyond the local community?",,Scalar,OS2
+OS4,"20. Which of the following best characterises the dominant form of the [q2o1answer] speaking group's mobility and sedentism, in regards to subsistence?",,Types,OS4
+OS5,"21. Which of the following best characterises the dominant form of the [q2o2answer] speaking group's mobility and sedentism, in regards to subsistence?",,Types,OS5
+OS6,22. The [q2o1answer] speaking society's subsistence pattern can be broadly characterised as...,,Types,OS6
+OH1,"23. Have there been any natural disasters or major societal upheaval during the densest period of contact between the [q2o1answer] speaking and [q2o2answer] speaking people, such it impacted people's mobility, and [q2o1answer] speaking people talk about it?",,Binary-YesNo,OH1
+OE1,24. How long time have you spent working with this community?,,Comment,OE1
+OE2,25. Whom did you mostly interact with during your stay and through community-based research?,,Comment,OE2
+OE3,26. Was your interaction with members of the community typically mediated by one/a few person(s)? Who were they?,,Comment,OE3
+OC1,27. How certain are you in your responses to the set of questions about each domain?,,Scalar,OC1
+OC2,28. How certain are you in your responses to the set of questions about social networks (The S-Set of questions)?,,Scalar,OC2
+OC3,29. How certain are you in your responses to the set of questions about attitudes and ideologies (The B-Set of questions)?,,Scalar,OC3
+OC4,30. How certain are you in your responses to the set of questions about language production (The O-Set of questions)?,,Scalar,OC4
+OC5,31. How certain are you in your responses to the set of questions about the languages spoken to the [q2o1answer] people (The I-Set of questions)?,,Scalar,OC5
+OC6,32. How certain are you in your responses to the set of questions about children (The T-Set of questions)?,,Scalar,OC6
+DEM00,1. Has exchange ever been a relevant domain of contact between [q2o1answer] and [q2o2answer]?,,Binary-YesNo,DEM00
+DEM0a,3. How long have [q2o1answer] and [q2o2answer] people practised exchange for?,,Comment,DEM0a
+DEM0aN,"Coarse time range, numerical",,Value,DEM0aN
+DEM0b,4. What is the time frame when the largest number of people had the most opportunities for interaction in exchange?,,Comment,DEM0b
+DEM0bN,"Coarse time range, numerical",,Value,DEM0bN
+DEM01,"5. What other languages, if any, are spoken in this domain?",,Comment,DEM01
+DEM02-1,6. Characteristic of the domain of Exchange. Is Exchange between [q2o1answer] and [q2o2answer] the individual’s initiative?,,Binary-YesNo,DEM02
+DEM02-2,6. Characteristic of the domain of Exchange. Is Exchange between [q2o1answer] and [q2o2answer] an institutionalised procedure?,,Binary-YesNo,DEM02
+DEM02-3,6. Characteristic of the domain of Exchange. Is Exchange between [q2o1answer] and [q2o2answer] part of a ceremonial event to which both communities participate?,,Binary-YesNo,DEM02
+DEM04,7. Where does exchange between [q2o1answer] and [q2o2answer] people typically take place?,,Types,DEM04
+DEM19,8. How much influence can the [q2o1answer] exert over exchange?,,Scalar,DEM19
+DEM38,9. Are there any speech styles used during practices of exchange?,,Binary-YesNo,DEM38
+DEM45,"10. How often are these speech styles typically used during practices of exchange, in comparison with unmonitored speech?",,Scalar,DEM45
+DEM03-1,"11. Social categories. Does involvement in Exchange practices differ based on hierarchies associated to profession or wealth, such as a person's class or caste?",,Binary-YesNo,DEM03
+DEM03-2,"11. Social categories. Does involvement in Exchange practices differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,Binary-YesNo,DEM03
+DEM03-3,"11. Social categories. Does involvement in Exchange practices differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,Binary-YesNo,DEM03
+DEM03-4,"11. Social categories. Does involvement in Exchange practices differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,Binary-YesNo,DEM03
+DEM03-5,"11. Social categories. Does involvement in Exchange practices differ based on a person’s race, ethnicity, or some other similar grouping?",,Binary-YesNo,DEM03
+DEM03-6,11. Social categories. Does involvement in Exchange practices differ based on a person’s age or life stage?,,Binary-YesNo,DEM03
+DEM03-7,11. Social categories. Does involvement in Exchange practices differ based on a person’s place identity and affiliation?,,Binary-YesNo,DEM03
+DEM03-8,11. Social categories. Does involvement in Exchange practices differ based on a person’s sex or gender?,,Binary-YesNo,DEM03
+DEM03-9,11. Social categories. Does involvement in Exchange practices differ based on any other communities of practice?,,Binary-YesNo,DEM03
+DEM41,12. Do [q2o1answer] people experience exchange differently depending on social group?,,Binary-YesNo,DEM41
+DEM08,13. How often do [q2o1answer] people exchange with [q2o2answer] people?,,Scalar,DEM08
+DEM11,14. How many people are typically involved in interactions between [q2o1answer] and [q2o2answer] in the context of exchange?,,Scalar,DEM11
+DEM10,15. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in the domain of exchange?,,Scalar,DEM10
+DEM40,16. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people in the context of exchange?,,Scalar,DEM40
+DEM44,17. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people in the context of exchange?,,Scalar,DEM44
+DEM17,18. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in the context of exchange?,,Scalar,DEM17
+DEM18,19. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people in the context of exchange?,,Scalar,DEM18
+DEM05,20. What language do [q2o1answer] people expect to be used when interacting with [q2o2answer] people through practices of exchange?,,Types,DEM05
+DEM14,21. What language do [q2o1answer] people typically speak during practices of exchange with [q2o2answer] people?,,Types,DEM14
+DEM15,22. Do [q2o1answer] people typically simplify their [q2o1answer] language when speaking with [q2o2answer] people during practices of Exchange?,,Types,DEM15
+DEM16,"23. Typically in the context of exchange practices, how fluently to [q2o1answer] people speak the [q2o2answer] language?",,Scalar,DEM16
+DEM12,24. What language do [q2o2answer] people typically speak to [q2o1answer] people during practices of exchange?,,Types,DEM12
+DEM13,"25. Typically in contexts of exchange practices, how well do [q2o1answer] people understand the [q2o2answer] language?",,Types,DEM13
+DEM06,26. How much do [q2o1answer] children participate in practices of exchange?,,Scalar,DEM06
+DEM39-1,"27. Child socialisation. Typically during practices of exchange, do adults other than the parents look after children up to five year of age?",,Binary-YesNo,DEM39
+DEM39-2,"27. Child socialisation. QTypically during practices of exchange, do parents look after children up to five year of age?",,Binary-YesNo,DEM39
+DEM39-3,"27. Child socialisation. Typically during practices of exchange, do children from sibling-kin groups look after children up to five year of age?",,Binary-YesNo,DEM39
+DEM39-4,"27. Child socialisation. Typically during practices of exchange, do children up to five year of age look after each other as part of the same peer group?",,Binary-YesNo,DEM39
+DEM20,"28. Typically, how much supervision do adults provide to children during practices of exchange?",,Scalar,DEM20
+DEM21,29. What language do [q2o2answer] adults typically speak to [q2o1answer] children during practices of exchange?,,Types,DEM21
+DEM22,"30. Typically, what language do [q2o1answer] children prefer to speak with [q2o2answer] adults in the context of exchange?",,Types,DEM22
+DEM25,"31. Typically, what language do [q2o1answer] children speak to [q2o2answer] children during practices of exchange?",,Types,DEM25
+DEM26-1,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their village or other kind of local community?",,Binary-YesNo,DEM26
+DEM26-2,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their descent group or clan?",,Binary-YesNo,DEM26
+DEM26-3,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their designated marriage group such as a moiety?",,Binary-YesNo,DEM26
+DEM26-4,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their hierarchical social group such as class or caste?",,Binary-YesNo,DEM26
+DEM26-5,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their linguistic group?",,Binary-YesNo,DEM26
+DEM27-1,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same village or other kind of local community?",,Binary-YesNo,DEM27
+DEM27-2,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same descent group or clan?",,Binary-YesNo,DEM27
+DEM27-3,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same designated marriage group such as a moiety?",,Binary-YesNo,DEM27
+DEM27-4,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same hierarchical social group such as class or caste?",,Binary-YesNo,DEM27
+DEM27-5,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same linguistic group?",,Binary-YesNo,DEM27
+DEM28-1,34. Polygyny. Is polygyny possible for [q2o1answer] men?,,Binary-YesNo,DEM28
+DEM28-2,34. Polygyny. Is polygyny possible for [q2o2answer] men?,,Binary-YesNo,DEM28
+DEM28-3,34. Polygyny. Is polygyny possible for men from all societal strata?,,Binary-YesNo,DEM28
+DEM29-1,35. Polyandry. Is polyandry possible for [q2o1answer] women?,,Binary-YesNo,DEM29
+DEM29-2,35. Polyandry. Is polyandry possible for [q2o2answer] women?,,Binary-YesNo,DEM29
+DEM29-3,"35. Polyandry. If possible, is polyandry of fraternal type?",,Binary-YesNo,DEM29
+DEM29-4,"35. Polyandry. If possible, is polyandry of non-fraternal type?",,Binary-YesNo,DEM29
+DEM37-1,36. What type of marriage payments and transfers are expected when [q2o1answer] and [q2o2answer] marry? Bride wealth,,Binary-YesNo,DEM37
+DEM37-2,36. What type of marriage payments and transfers are expected when [q2o1answer] and [q2o2answer] marry? Dowry,,Binary-YesNo,DEM37
+DEM37-3,36. What type of marriage payments and transfers are expected when [q2o1answer] and [q2o2answer] marry? Other,,Binary-YesNo,DEM37
+DEM31-1,37. Intermarriage. Is it typical for [q2o1answer] men to marry [q2o2answer] women?,,Binary-YesNo,DEM31
+DEM31-2,37. Intermarriage. Is it typical for [q2o1answer] women to marry [q2o2answer] men?,,Binary-YesNo,DEM31
+DEM32,38. Where do marriage ceremonies between [q2o1answer] and [q2o2answer] take place?,,Types,DEM32
+DEM34,39. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in practices of marriage exchanges?,,Scalar,DEM34
+DEM42,40. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people in the context of marriage exchanges?,,Scalar,DEM42
+DEM43,41. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people in the context of marriage exchanges?,,Scalar,DEM43
+DEM35,42. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in practices of marriage exchanges?,,Scalar,DEM35
+DEM36,"43. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, within the context of marriage?",,Scalar,DEM36
+DEM33,44. What language do [q2o1answer] people expect to be used in marriage ceremonies with [q2o2answer] people?,,Types,DEM33
+DEM30-1,45. Does marriage impose any child rearing obligations for both parents and grandparents on both sides?,,Binary-YesNo,DEM30
+DEM30-2,"45. Does marriage impose any child rearing obligations for one parent, and grandparents on both sides?",,Binary-YesNo,DEM30
+DEM30-3,"45. Does marriage impose any child rearing obligations for one parent, and grandparents on that side?",,Binary-YesNo,DEM30
+DEM30-4,"45. Does marriage impose any child rearing obligations for one parent, and grandparents from the other side?",,Binary-YesNo,DEM30
+DEM96,"46. List any other groups that the [q2o1answer] practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this contact through Social Exchange practices happened.",,Comment,DEM96
+DEM97,47. What type of data informed your answers to the questions in the domain of social exchange overall?,,TypesMultiple,DEM97
+DEM98,48. How certain are you in your responses for the domain of social exchange?,,Scalar,DEM98
+DEM99,49. List any comments or notes that you feel are relevant to this section of the questionnaire.,,Comment,DEM99
+DFK00,"2. Do [q2o1answer] people and [q2o2answer] people marry each other, or have they done so in the past?",,Binary-YesNo,DFK00
+DFK0a,2. How long have [q2o1answer] and [q2o2answer] peoples been forming families with each other for?,,Comment,DFK0a
+DFK0aN,"Coarse time range, numerical",,Value,DFK0aN
+DFK0b,3. What’s the time frame of densest contact between [q2o1answer] and [q2o2answer] as far as family formation is concerned?,,Comment,DFK0b
+DFK0bN,"Coarse time range, numerical",,Value,DFK0bN
+DFK01,"4. What other languages, if any, are spoken between family members?",,Comment,DFK01
+DFK35,5. What is the typical pattern of relocation for [q2o1answer] women when starting a new family?,,Scalar,DFK35
+DFK39,6. What is the typical pattern of relocation for [q2o2answer] women when starting a new family?,,Scalar,DFK39
+DFK02-1,7. Do mothers form a co-residential unit with their children and their husbands?,,Binary-YesNo,DFK02
+DFK02-2,7. Do mothers form a co-residential unit with their children and their mothers?,,Binary-YesNo,DFK02
+DFK02-3,7. Do mothers form a co-residential unit with their children and their mother in laws?,,Binary-YesNo,DFK02
+DFK40,8. Do [q2o1answer] people experience family life differently depending on social group?,,Binary-YesNo,DFK40
+DFK03,"9. Typically, how much of their lives do spouses spend with each other during the course of their lifetime?",,Scalar,DFK03
+DFK37,10. How physically proximate to each other are the households of the husband and wife?,,Scalar,DFK37
+DFK16,11. What is the overall level of affection that the [q2o1answer] person has towards their [q2o2answer] spouse?,,Scalar,DFK16
+DFK06,12. What language do [q2o1answer] people typically speak with their [q2o2answer] spouse?,,Types,DFK06
+DFK07,13. Do [q2o1answer] people typically simplify their [q2o1answer] language when speaking with their [q2o2answer] spouse?,,Types,DFK07
+DFK08,"14. Typically in the domain of family, how fluently to [q2o1answer] people speak the [q2o2answer] language?",,Scalar,DFK08
+DFK09,15. What language do [q2o2answer] people typically speak with their [q2o1answer] spouse?,,Types,DFK09
+DFK10,"16. Typically in the domain of family, how well do [q2o1answer] people understand the [q2o2answer] language?",,Scalar,DFK10
+DFK04-1,"17. Looking after children. Typically, do fathers look after children up to five year of age?",,Binary-YesNo,DFK04
+DFK04-2,"17. Looking after children. Typically, do mothers primarily look after children up to five year of age?",,Binary-YesNo,DFK04
+DFK04-3,17. Looking after children. Do adults other than the parents look after children up to five year of age?,,Binary-YesNo,DFK04
+DFK04-4,17. Looking after children. Do children from sibling-kin groups look after children up to five year of age?,,Binary-YesNo,DFK04
+DFK04-5,17. Looking after children. Do children up to five year of age look after each other as part of the same peer group?,,Binary-YesNo,DFK04
+DFK24,"18. Typically, how much supervision do grandparents provide to children?",,Scalar,DFK24
+DFK05,19. What language are children expected to speak to their [q2o2answer] parent?,,Types,DFK05
+DFK20,20. What language do [q2o1answer] parents typically speak with their children?,,Types,DFK20
+DFK21,21. What language do [q2o2answer] parents typically speak with their children?,,Types,DFK21
+DFK22,22. What language do children typically speak with their [q2o1answer] parent?,,Types,DFK22
+DFK23,23. What language do children typically speak with their [q2o2answer] parent?,,Types,DFK23
+DFK25,24. What language do [q2o2answer] grandparent/aunts/uncles typically speak to the children?,,Types,DFK25
+DFK26,"25. Typically, what language do [q2o1answer] children speak with their [q2o2answer] grandparents/aunts/uncles?",,Types,DFK26
+DFK38-1,26. Are any of the following features characteristic when speaking to one’s [q2o2answer] in-laws? Lexical avoidance,,Binary-YesNo,DFK38
+DFK38-2,26. Are any of the following features characteristic when speaking to one’s [q2o2answer] in-laws? The use of certain morphosyntactic forms,,Binary-YesNo,DFK38
+DFK38-3,26. Are any of the following features characteristic when speaking to one’s [q2o2answer] in-laws? The use of certain pronominal forms,,Binary-YesNo,DFK38
+DFK12,"27. Thinking about the [q2o1answer] person and their [q2o2answer] in-laws, how often would they typically meet?",,Scalar,DFK12
+DFK15,28. How many people are typically involved in interactions between a [q2o1answer] person and their [q2o2answer] in-laws?,,Scalar,DFK15
+DFK11,29. How physically proximate to each other are a [q2o1answer] person and their [q2o2answer] in-laws?,,Scalar,DFK11
+DFK14,30. How would you rate the overall relationship between a [q2o1answer] person and their [q2o2answer] in-laws?,,Scalar,DFK14
+DFK33,31. What is the overall attitude that a [q2o1answer] person has towards their [q2o2answer] in-laws?,,Scalar,DFK33
+DFK30,32. Your child has married a [q2o2answer] person. What language do you typically speak when speaking with your [q2o2answer] son/daughter-in-law?,,Types,DFK30
+DFK31,"33. Typically, does a [q2o1answer] person simplify their [q2o1answer] language when speaking to their [q2o2answer] in-laws?",,Types,DFK31
+DFK32,"34. Typically, how fluently does a [q2o1answer] person speak the [q2o2answer] language when speaking to their [q2o2answer] in-laws?",,Scalar,DFK32
+DFK28,"35. Your child has married a [q2o2answer] person. What language does your child’s spouse typically speak to you, a [q2o1answer] person?",,Types,DFK28
+DFK29,"36. Typically, how well does a [q2o1answer] person understand the [q2o2answer] in-law’s language?",,Scalar,DFK29
+DFK34,37. You have married a [q2o2answer] person. What language do you typically speak to your [q2o2answer] in-laws (your spouse’s parents and siblings)?,,Types,DFK34
+DFKXX,"37b. Typically, how well does a [q2o1answer] person understand the [q2o2answer] in-law’s language?",,Scalar,DFKXX
+DFK96,38. Who do [q2o1answer] people typically form families with besides [q2o2answer] people?,,Types,DFK96
+DFK97,"39. What type of data informed your answers to the questions in the domain of family and kin, overall?",,TypesMultiple,DFK97
+DFK98,40. How certain are you in your responses for the domain of family and kin?,,Scalar,DFK98
+DFK99,41. List any comments or notes that you feel are relevant to this section of the questionnaire.,,Comment,DFK99
+DLB00,1. Has work ever been a relevant domain of contact between [q2o1answer] and [q2o2answer]?,,Binary-YesNo,DLB00
+DLB0a,2. How long have [q2o1answer] people and [q2o2answer] people worked together for?,,Comment,DLB0a
+DLB0aN,"Coarse time range, numerical",,Value,DLB0aN
+DLB0b,3. What is the time frame when the largest number of people had the most opportunities for interaction in the labour domain?,,Comment,DLB0b
+DLB0bN,"Coarse time range, numerical",,Value,DLB0bN
+DLB01,"4. What other languages, if any, are spoken in the labour domain?",,Comment,DLB01
+DLB02,5. How commonly are [q2o1answer] people and [q2o2answer] people involved in public modes of production?,,Scalar,DLB02
+DLB04,6. Is there hierarchy involved in work?,,Binary-YesNo,DLB04
+DLB05,7. Where do [q2o1answer] people and [q2o2answer] people typically work together?,,Types,DLB05
+DLB29,8. How much influence can the [q2o1answer] exert over the terms of work?,,Scalar,DLB29
+DLB06,9. Are there any speech styles used during work?,,Binary-YesNo,DLB06
+DLB31,"10. How often are these speech styles typically used during work, in comparison with unmonitored speech?",,Scalar,DLB31
+DLB03-1,"11. Involvement in work. Does involvement in work differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,Binary-YesNo,DLB03
+DLB03-2,"11. Involvement in work. Does involvement in work differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,Binary-YesNo,DLB03
+DLB03-3,"11. Involvement in work. Does involvement in work domain differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,Binary-YesNo,DLB03
+DLB03-4,"11. Involvement in work. Does involvement in work domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,Binary-YesNo,DLB03
+DLB03-5,"11. Involvement in work. Does involvement in work differ based on a person’s race, ethnicity, or some other similar grouping?",,Binary-YesNo,DLB03
+DLB03-6,11. Involvement in work. Does involvement in work differ based on a person’s age or life stage?,,Binary-YesNo,DLB03
+DLB03-7,11. Involvement in work. Does involvement in work differ based on a person’s place identity and affiliation?,,Binary-YesNo,DLB03
+DLB03-8,11. Involvement in work. Does involvement in work differ based on a person’s sex or gender?,,Binary-YesNo,DLB03
+DLB03-9,11. Involvement in work. Does involvement in work differ based on any other communities of practice?,,Binary-YesNo,DLB03
+DLB30,12. Do [q2o1answer] people experience work differently depending on social group?,,Binary-YesNo,DLB30
+DLB07,13. How often do [q2o1answer] people work with [q2o2answer] people?,,Scalar,DLB07
+DLB09,14. How many people are typically involved in interactions between [q2o1answer] people and [q2o2answer] people when working?,,Scalar,DLB09
+DLB10,15. How physically proximate to each other are people when working?,,Scalar,DLB10
+DLB11,16. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people involved in work?,,Scalar,DLB11
+DLB27,"17. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people, in work?",,Scalar,DLB27
+DLB28,"18. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people, in work?",,Scalar,DLB28
+DLB22,19. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in work?,,Scalar,DLB22
+DLB23,"20. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, within the context of work?",,Scalar,DLB23
+DLB25,21. What language do [q2o1answer] people expect to be used when working with [q2o2answer] people?,,Types,DLB25
+DLB32,22. What language do [q2o1answer] people typically speak when working with [q2o2answer] people?,,Types,DLB32
+DLB13,23. Do [q2o1answer] people typically simplify their language when working with [q2o2answer] people?,,Types,DLB13
+DLB14,"24. Typically in work, how fluently do [q2o1answer] people speak the [q2o2answer] language?",,Scalar,DLB14
+DLB15,25. What language do [q2o2answer] people typically speak when working with [q2o1answer] people?,,Types,DLB15
+DLB16,"26. Typically in work, how well do [q2o1answer] people understand the [q2o2answer] language?",,Scalar,DLB16
+DLB17,27. How much do [q2o1answer] children participate in work?,,Scalar,DLB17
+DLB21-1,"28. Looking after children during work. Typically, do adults other than the parents look after children up to five year of age during work?",,Binary-YesNo,DLB21
+DLB21-2,"28. Looking after children during work. Typically, do parents look after children up to five year of age during work?",,Binary-YesNo,DLB21
+DLB21-3,"28. Looking after children during work. Typically, do children from sibling-kin groups look after children up to five year of age during work?",,Binary-YesNo,DLB21
+DLB21-4,"28. Looking after children during work. Typically, do children up to five year of age look after each other as part of the same peer group during work?",,Binary-YesNo,DLB21
+DLB26,"29. Typically, how much supervision do adults provide to children in work?",,Scalar,DLB26
+DLB18,30. What language do [q2o2answer] adults typically speak to a [q2o1answer] children in work?,,Types,DLB18
+DLB19,"31. Typically, what language do [q2o1answer] children from four/five year of age prefer to speak with [q2o2answer] adults in work?",,Types,DLB19
+DLB20,"32. Typically, what language would a [q2o1answer] child speak to [q2o2answer] children in work?",,Types,DLB20
+DLB96,"33. List any other groups that the [q2o1answer] people worked with in the past. List any other group in so far as you believe they had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this interaction happened.",,Comment,DLB96
+DLB97,"34. What type of data informed your answers to the questions in the domain of labour, overall?",,TypesMultiple,DLB97
+DLB98,35. How certain are you in your responses for the domain of labour?,,Scalar,DLB98
+DLB99,36. List any comments or notes that you feel are relevant to this section of the questionnaire.,,Comment,DLB99
+DLC00,1. Has the local community ever been a relevant domain of contact between [q2o1answer] and [q2o2answer]?,,Binary-YesNo,DLC00
+DLC0a,2. How long have [q2o1answer] and [q2o2answer] people been in contact in the local community?,,Comment,DLC0a
+DLC0aN,"Coarse time range, numerical",,Value,DLC0aN
+DLC0b,3. What is the time frame when the largest number of people had the most opportunities for interaction in the local community?,,Comment,DLC0b
+DLC0bN,"Coarse time range, numerical",,Value,DLC0bN
+DLC01,"4. What other languages, if any, are spoken in the local community?",,Comment,DLC01
+DLC02,5. Choose one of the following where [q2o1answer] people are most likely to speak in an unmonitored way.,,Types,DLC02
+DLC28,6. Where do [q2o1answer] and [q2o2answer] people typically meet up in the local community?,,Types,DLC28
+DLC27,7. How much influence can the [q2o1answer] exert over [q2o2answer] in the activities of the local community?,,Scalar,DLC27
+DLC25-1,"8. Involvement in the Local Community. Does involvement in the local community differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,Binary-YesNo,DLC25
+DLC25-2,"8. Involvement in the Local Community. Does involvement in the local community differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,Binary-YesNo,DLC25
+DLC25-3,"8. Involvement in the Local Community. Does involvement in the local community differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,Binary-YesNo,DLC25
+DLC25-4,"8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,Binary-YesNo,DLC25
+DLC25-5,"8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s race, ethnicity, or some other similar grouping?",,Binary-YesNo,DLC25
+DLC25-6,8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s age or life stage?,,Binary-YesNo,DLC25
+DLC25-7,8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s place identity and affiliation?,,Binary-YesNo,DLC25
+DLC25-8,8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s sex or gender?,,Binary-YesNo,DLC25
+DLC25-9,8. Involvement in the Local Community. Does involvement in the local community differ based on any other communities of practice?,,Binary-YesNo,DLC25
+DLC29,9. Do [q2o1answer] people experience the local community differently depending on social group?,,Binary-YesNo,DLC29
+DLC16,10. How often do [q2o1answer] people interact with [q2o2answer] people in the local community?,,Scalar,DLC16
+DLC15,11. How many people are typically involved in interactions between [q2o1answer] people and [q2o2answer] people in the local community?,,Scalar,DLC15
+DLC05,12. How physically proximate to each other are people in the local community?,,Scalar,DLC05
+DLC14,13. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in the local community?,,Scalar,DLC14
+DLC32,"14. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people, in the form of local communities?",,Scalar,DLC32
+DLC33,"15. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people, in the form of local communities?",,Scalar,DLC33
+DLC18,16. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in the local community?,,Scalar,DLC18
+DLC19,"17. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, in the context of the local community?",,Scalar,DLC19
+DLC04,18. What language do [q2o1answer] people expect to be used with [q2o2answer] people in the local community?,,Types,DLC04
+DLC11,19. What language do [q2o1answer] people typically speak with [q2o2answer] people in the local community?,,Types,DLC11
+DLC12,20. Do [q2o1answer] people typically simplify their language when speaking with [q2o2answer] people in the local community?,,Types,DLC12
+DLC13,"21. Typically in the local community, how fluently do [q2o1answer] people speak the [q2o2answer] language?",,Scalar,DLC13
+DLC09,22. What language do [q2o2answer] people typically speak with [q2o1answer] people in the local community?,,Types,DLC09
+DLC10,"23. Typically in the local community, how well do [q2o1answer] people understand the [q2o2answer] language?",,Scalar,DLC10
+DLC31,24. How much do [q2o1answer] children participate in the activities of the local community?,,Scalar,DLC31
+DLC03-1,"25. Looking after children in the local community. Typically, do adults other than the parents look after children up to five year of age in the local community?",,Binary-YesNo,DLC03
+DLC03-2,"25. Looking after children in the local community. Typically, do parents look after children up to five year of age in the local community?",,Binary-YesNo,DLC03
+DLC03-3,"25. Looking after children in the local community. Typically, do children from sibling-kin groups look after children up to five year of age in local community?",,Binary-YesNo,DLC03
+DLC03-4,"25. Looking after children in the local community. Typically, do children up to five year of age look after each other as part of the same peer group in the local community?",,Binary-YesNo,DLC03
+DLC20,"26. Typically in the local community, how much supervision do adults provide to children’s own activities, such as playing?",,Scalar,DLC20
+DLC21,27. What language do [q2o2answer] adults typically speak to a [q2o1answer] children?,,Types,DLC21
+DLC22,"28. Typically, what language do [q2o1answer] children from four/five year of age prefer to speak with [q2o2answer] adults?",,Types,DLC22
+DLC23,"29. Typically, what language would a [q2o1answer] child speak to [q2o2answer] children in the local community?",,Types,DLC23
+DLC96,"30. List any other groups that the [q2o1answer] formed local communities with in the past, in so far as you believe this had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this happened.",,Comment,DLC96
+DLC97,"31. What type of data informed your answers to the questions in the domain of local community, overall?",,TypesMultiple,DLC97
+DLC98,32. How certain are you in your responses for the domain of local community?,,Scalar,DLC98
+DLC99,33. List any comments or notes that you feel are relevant to this section of the questionnaire.,,Comment,DLC99
+DKN00,1. Have [q2o1answer] and [q2o2answer] people occupied the same spaces of knowledge transfer together?,,Binary-YesNo,DKN00
+DKN0a,2. How long have [q2o1answer] and [q2o2answer] people been involved in the knowledge domain together for?,,Comment,DKN0a
+DKN0aN,"Coarse time range, numerical",,Value,DKN0aN
+DKN0b,3. What is the time frame when the largest number of people had the most opportunities for interaction in the knowledge domain?,,Comment,DKN0b
+DKN0bN,"Coarse time range, numerical",,Value,DKN0bN
+DKN01,"4. What other languages, if any, are spoken in the knowledge domain?",,Comment,DKN01
+DKN02,5. The most influential form of knowledge in this contact scenario is:,,Types,DKN02
+DKN04,6. The relationship between [q2o1answer] people and [q2o2answer] people in the knowledge domain can typically be characterised as:,,Types,DKN04
+DKN05,7. Where does knowledge transmission between [q2o1answer] people and [q2o2answer] people typically take place?,,Types,DKN05
+DKN28,8. How much influence can the [q2o1answer] people exert over the decision of what constitutes legitimate knowledge in this domain?,,Scalar,DKN28
+DKN06,9. Are there any speech styles used in the knowledge domain?,,Binary-YesNo,DKN06
+DKN31,"10. How often are these speech styles typically used in knowledge transmission, in comparison with unmonitored speech?",,Scalar,DKN31
+DKN03-1,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,Binary-YesNo,DKN03
+DKN03-2,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,Binary-YesNo,DKN03
+DKN03-3,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,Binary-YesNo,DKN03
+DKN03-4,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,Binary-YesNo,DKN03
+DKN03-5,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s race, ethnicity, or some other similar grouping?",,Binary-YesNo,DKN03
+DKN03-6,11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s age or life stage?,,Binary-YesNo,DKN03
+DKN03-7,11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s place identity and affiliation?,,Binary-YesNo,DKN03
+DKN03-8,11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s sex or gender?,,Binary-YesNo,DKN03
+DKN03-9,11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on any other communities of practice?,,Binary-YesNo,DKN03
+DKN07,12. Do [q2o1answer] people experience the knowledge domain differently depending on social group?,,Binary-YesNo,DKN07
+DKN08,13. How often do [q2o1answer] people interact with [q2o2answer] people in the knowledge domain?,,Scalar,DKN08
+DKN10,14. How many people are typically involved in interactions between [q2o1answer] people and [q2o2answer] people in the knowledge domain?,,Scalar,DKN10
+DKN11,15. How physically proximate to each other are people in the knowledge domain?,,Scalar,DKN11
+DKN12,16. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in the knowledge domain?,,Scalar,DKN12
+DKN29,"17. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people, in the knowledge domain?",,Scalar,DKN29
+DKN30,"18. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people, in the knowledge domain?",,Scalar,DKN30
+DKN13,19. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in the knowledge domain?,,Scalar,DKN13
+DKN14,"20. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, in the context of the knowledge domain?",,Scalar,DKN14
+DKN16,21. What language do [q2o1answer] people expect to be used with [q2o2answer] people in the knowledge domain?,,Types,DKN16
+DKN17,22. What language do [q2o1answer] people typically speak with [q2o2answer] people when in the knowledge domain?,,Types,DKN17
+DKN18,23. Do [q2o1answer] people typically simplify their language when speaking with [q2o2answer] people in the knowledge domain?,,Types,DKN18
+DKN19,"24. Typically in the knowledge domain, how fluently do [q2o1answer] people speak the [q2o2answer] language?",,Scalar,DKN19
+DKN20,25. What language do [q2o2answer] people typically speak with [q2o1answer] people in the knowledge domain?,,Types,DKN20
+DKN21,"26. Typically in the knowledge domain, how well do [q2o1answer] people understand the [q2o2answer] language?",,Scalar,DKN21
+DKN22,27. How much do [q2o1answer] children participate in the activities of the knowledge domain?,,Scalar,DKN22
+DKN23-1,"28. Looking after children in the knowledge domain. Typically, do adults other than the parents look after children up to five year of age in the knowledge domain?",,Binary-YesNo,DKN23
+DKN23-2,"28. Looking after children in the knowledge domain. Typically, do parents look after children up to five year of age in the knowledge domain?",,Binary-YesNo,DKN23
+DKN23-3,"28. Looking after children in the knowledge domain. Typically, do children from sibling-kin groups look after children up to five year of age in the knowledge domain?",,Binary-YesNo,DKN23
+DKN23-4,"28. Looking after children in the knowledge domain. Typically, do children up to five year of age look after each other as part of the same peer group in the knowledge domain?",,Binary-YesNo,DKN23
+DKN27,"29. Typically, how much structured instruction do adults provide to children in the knowledge domain?",,Scalar,DKN27
+DKN24,30. What language do [q2o2answer] adults typically speak to a [q2o1answer] children in the knowledge domain?,,Types,DKN24
+DKN25,"31. Typically, what language do [q2o1answer] children from four/five year of age prefer to speak with [q2o2answer] adults?",,Types,DKN25
+DKN26,"32. Typically, what language would a [q2o1answer] child speak to [q2o2answer] children in the knowledge domain?",,Types,DKN26
+DKN96,"33. List any other groups that the [q2o1answer] people intereacted with in the past, in the knowledge domain. List any other group in so far as you believe they had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this interaction happened.",,Comment,DKN96
+DKN97,"34. What type of data informed your answers to the questions in the domain of knowledge, overall?",,TypesMultiple,DKN97
+DKN98,35. How certain are you in your responses for the domain of knowledge? QID: DKN98,,Scalar,DKN98
+DKN99,36. List any comments or notes that you feel are relevant to this section of the questionnaire.,,Comment,DKN99
+DTR00,1. Has trade ever been a relevant domain of contact between [q2o1answer] and [q2o2answer]?,,Binary-YesNo,DTR00
+DTR0a,2. How long have [q2o1answer] and [q2o2answer] people traded for?,,Comment,DTR0a
+DTR0aN,"Coarse time range, numerical",,Value,DTR0aN
+DTR0b,3. What is the time frame when the largest number of people had the most opportunities for interaction in trade?,,Comment,DTR0b
+DTR0bN,"Coarse time range, numerical",,Value,DTR0bN
+DTR01,"4. What other languages, if any, are spoken in trade?",,Comment,DTR01
+DTR02-1,5. Traded good types. Do [q2o1answer] people trade raw materials and primary produce to [q2o2answer] people?,,Binary-YesNo,DTR02
+DTR02-2,5. Traded good types. Do [q2o1answer] people trade luxury items to [q2o2answer] people?,,Binary-YesNo,DTR02
+DTR02-3,5. Traded good types. Do [q2o1answer] people trade manufactured goods to [q2o2answer] people?,,Binary-YesNo,DTR02
+DTR02-4,5. Traded good types. Do [q2o2answer] people trade raw material and primary produce to [q2o1answer] people?,,Binary-YesNo,DTR02
+DTR02-5,5. Traded good types. Do [q2o2answer] people trade luxury items to [q2o1answer] people?,,Binary-YesNo,DTR02
+DTR02-6,5. Traded good types. Do [q2o2answer] people trade manufactured goods to [q2o1answer] people?,,Binary-YesNo,DTR02
+DTR24,"6. Typically when trading with [q2o2answer] people, the [q2o1answer] people will",,Types,DTR24
+DTR06,7. Where does trade between [q2o1answer] and [q2o2answer] people typically take place?,,Types,DTR06
+DTR17,8. How much influence can the [q2o1answer] exert over the [q2o2answer] in terms of trade?,,Scalar,DTR17
+DTR28,9. Are there any speech styles used in trade?,,Binary-YesNo,DTR28
+DTR35,"10. How often are these speech styles typically used in trade, in comparison with unmonitored speech?",,Scalar,DTR35
+DTR03-1,"11. Involvement in trade. Does involvement in trade differ based on hierarchies associated to profession or wealth, such as a person's class or caste?",,Binary-YesNo,DTR03
+DTR03-2,"11. Involvement in trade. Does involvement in trade differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,Binary-YesNo,DTR03
+DTR03-3,"11. Involvement in trade. Does involvement in trade differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,Binary-YesNo,DTR03
+DTR03-4,"11. Involvement in trade. Does involvement in the knowledge domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,Binary-YesNo,DTR03
+DTR03-5,"11. Involvement in trade. Does involvement in trade differ based on a person’s race, ethnicity, or some other similar grouping?",,Binary-YesNo,DTR03
+DTR03-6,11. Involvement in trade. Does involvement in trade differ based on a person’s age or life stage?,,Binary-YesNo,DTR03
+DTR03-7,11. Involvement in trade. Does involvement in trade differ based on a person’s place identity and affiliation?,,Binary-YesNo,DTR03
+DTR03-8,11. Involvement in trade. Does involvement in trade differ based on a person’s sex or gender?,,Binary-YesNo,DTR03
+DTR03-9,11. Involvement in trade. Does involvement in trade differ based on any other communities of practice?,,Binary-YesNo,DTR03
+DTR32,12. Do [q2o1answer] people experience trade differently depending on social group?,,Binary-YesNo,DTR32
+DTR14,13. How often do [q2o1answer] people trade with [q2o2answer] people?,,Scalar,DTR14
+DTR22,14. How many people are typically involved in interactions between [q2o1answer] people and [q2o2answer] people when trading?,,Scalar,DTR22
+DTR36,15. How physically proximate to each other are people involved in trade?,,Scalar,DTR36
+DTR23,16. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in trade?,,Scalar,DTR23
+DTR33,17. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people in trade?,,Scalar,DTR33
+DTR34,18. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people in trade?,,Scalar,DTR34
+DTR16,19. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in trade?,,Scalar,DTR16
+DTR29,"20. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, within the context of trade?",,Scalar,DTR29
+DTR08,21. What language do [q2o1answer] people expect to be used when trading with [q2o2answer] people?,,Types,DTR08
+DTR11,22. What language do [q2o1answer] people typically speak when trading with [q2o2answer] people?,,Types,DTR11
+DTR12,23. Do [q2o1answer] people typically simplify their language when speaking with [q2o2answer] people during trade?,,Types,DTR12
+DTR13,"24. Typically in trade, how fluently do [q2o1answer] people speak the [q2o2answer] language?",,Scalar,DTR13
+DTR09,25. What language do [q2o2answer] people typically speak when trading with the [q2o1answer]?,,Types,DTR09
+DTR10,"26. Typically in trade, how well do [q2o1answer] people understand the [q2o2answer] language?",,Scalar,DTR10
+DTR18,27. How much do [q2o1answer] children participate in trade?,,Scalar,DTR18
+DTR27-1,"28. Looking after children during trade. Typically, do adults other than the parents look after children up to five year of age during trade?",,Binary-YesNo,DTR27
+DTR27-2,"28. Looking after children during trade. Typically, do parents look after children up to five year of age during trade?",,Binary-YesNo,DTR27
+DTR27-3,"28. Looking after children during trade. Typically, do children from sibling-kin groups look after children up to five year of age during trade?",,Binary-YesNo,DTR27
+DTR27-4,"28. Looking after children during trade. Typically, do children up to five year of age look after each other as part of the same peer group during trade?",,Binary-YesNo,DTR27
+DTR31,"29. Typically, how much supervision do adults provide to children in trade?",,Scalar,DTR31
+DTR19,30. What language do [q2o2answer] adults typically speak to a [q2o1answer] children in trade?,,Types,DTR19
+DTR20,"31. Typically, what language do [q2o1answer] children from four/five year of age prefer to speak with [q2o2answer] adults?",,Types,DTR20
+DTR37,"32. Typically, what language would a [q2o1answer] child speak to [q2o2answer] children in trade?",,Types,DTR37
+DTR96,"33. List any other groups that the [q2o1answer] traded with in the past, in so far as you believe this had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this happened.",,Comment,DTR96
+DTR97,"34. What type of data informed your answers to the questions in the domain of trade, overall?",,TypesMultiple,DTR97
+DTR98,35. How certain are you in your responses for the domain of trade?,,Scalar,DTR98
+DTR99,36. List any comments or notes that you feel are relevant to this section of the questionnaire. QID: DTR99,,Comment,DTR99

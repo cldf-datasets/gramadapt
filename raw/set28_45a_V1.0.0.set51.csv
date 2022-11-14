@@ -1,0 +1,1109 @@
+Version,Set,Old_Set_ID,CID,QID,Sub-ID,Wording,Response,Comment,Respondent,Dom,DomOrder,DataType,Answer1,Answer2,Answer3,Answer4,Answer5,Answer6,Answer7,Answer8,Surname,[q2o1answer],FLang,F_ISO,[q2o2answer],NLang,N_ISO,ContactPair,ContactPair_ISO,AArea,Reviewer
+1.0.0,set28,set45a,OT1,OT1,,1. How long have [q2o1answer] and [q2o2answer] people been in contact overall?,As per other domains,,Eri Kashima & Dineke Schokkin,OV,6,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OT1N,OT1N,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima & Dineke Schokkin,OV,6,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OT2,OT2,,2. What is the overall time frame when the largest number of people had the most opportunities for interaction?,As per other domains,,Eri Kashima & Dineke Schokkin,OV,6,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OT2N,OT2N,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima & Dineke Schokkin,OV,6,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OD1,OD1,,1. What is the total number of native-like speakers of [q2o1answer]?,100-999 speakers,"The village of Bimabdn has roughly 500 people (children included) in 2014 or so. x2 for other Nen women who have married out of Bimadbn, and those children who are likely to speak some Nen. So by the definition for this questionnaire, perhaps 1000 people speak Nen at ""native-like"" fluency.",Eri Kashima & Dineke Schokkin,OV,6,Types,10-99 speakers,100-999 speakers,"1,000-9,999 speakers","10,000-99,999 speakers","100,000-999,999 speakers","1,000,000-9,999,999 speakers","10,000,000-99,999,999 speakers","100,000,000-999,999,999 speakers",Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OD3,OD3,,2. What is the total number of native-like speakers of [q2o2answer]?,"1,000-9,999 speakers",Closer to the lower end,Eri Kashima & Dineke Schokkin,OV,6,Types,10-99 speakers,100-999 speakers,"1,000-9,999 speakers","10,000-99,999 speakers","100,000-999,999 speakers","1,000,000-9,999,999 speakers","10,000,000-99,999,999 speakers","100,000,000-999,999,999 speakers",Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OD4,OD4,,3. What is the approximate proportion of native-like speakers in the total population of all speakers of [q2o1answer]?,High proportion,This is an educated guess.,Eri Kashima & Dineke Schokkin,OV,6,Scalar,High proportion,Fairly high proportion,Intermediate proportion,Fairly low proportion,Low proportion,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OD5,OD5,,4. What is the approximate proportion of native-like speakers in the total population of all speakers of [q2o2answer]?,High proportion,"Again, an educated guess",Eri Kashima & Dineke Schokkin,OV,6,Scalar,High proportion,Fairly high proportion,Intermediate proportion,Fairly low proportion,Low proportion,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OG1,OG1,,5. What is the population density within the area where [q2o1answer] is spoken?,Less than 2 persons per 10 sq. km,"Hitchcock 2010: 75. (Hitchcock, Garrick. (2010). Mound-and-ditch taro gardens of the Bensbach or Torassi River area, southwest Papua New Guinea. The Artefact, 33, 70–90.)",Eri Kashima & Dineke Schokkin,OV,6,Types,Less than 2 persons per 10 sq. km,2–4 persons per 10 sq. km,5–19 persons per 10 sq. km,20–99 persons per 10 sq. km,100–399 persons per 10 sq. km,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OS7,OS7,,6. What is the mean size of the [q2o1answer] speaking communities at the local level?,"From 400 to 1,000 persons",More like 200-600,Eri Kashima & Dineke Schokkin,OV,6,Types,Fewer than 50 persons,From 50 to 99 persons,From 100 to 199 persons,From 200 to 399 persons,"From 400 to 1,000 persons","More than 1,000 persons in the absence of indigenous urban aggregations","One or more indigenous towns of more than 5,000 inhabitants but none of more than 50,000",NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OS9,OS9,,7. How frequently do [q2o1answer] people generally interact with out-group people?,Neither frequently nor infrequently,,Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very Frequently,Frequently,Neither frequently nor infrequently,Infrequently,Very infrequently,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI1,OI1,OI1-1,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Group centered around shared descent, such as clan, house, lineage group, kinship group",No,,Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI1,OI1,OI1-2,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Race, ethnicity, or some other similar grouping",No,,Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI1,OI1,OI1-3,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Micro-level (politico-)territorial group, including regional or areal groups, clans, bands, tribes",Yes,,Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI1,OI1,OI1-4,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Macro-level (politico-)territorial group, such as nation, tribe, state",No,,Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI1,OI1,OI1-5,"8. Is [q2o1answer] stated as an expression of identity of any of the following? Formal or informal relationships between non-kin, such as alliances, sodality membership, ad-hoc relationships between families or individuals",No,,Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI3,OI3,,9. Is there a codified standard variety for [q2o1answer]?,No,,Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI6,OI6,,"10. What are the [q2o1answer] speakers' attitudes towards linguistic transfers from [q2o2answer], such as lexical or grammatical borrowing?",Negative,"EK: People of the area tend to publicly state that one should speak a “true” version of any language. People state that “mixing” languages is not good, and express embarrassment when they catch themselves using lexical items or expressions from a language other than their designated own.
+
+DS: Attitudes towards codeswitching and lexical borrowing are generally negative, and Idi speakers comment on certain quirks that Nen people have when speaking Idi - I assume that the same will happen the other way around.",Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very positive,Positive,Neither positive nor negative,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI7,OI7,,"11. What are the [q2o1answer] speakers' general attitudes towards linguistic transfer, such as lexical or grammatical borrowing, from any other language than [q2o2answer]?",Negative,"EK: People in the area can be sensitive, for example, to the use of English “OK” and other English loan words, so I suspect the general attitude to transfer from other languages is negative. Though this may be more heavily monitored for other local languages. I’m not sure what people think about transfers from Tok Pisin, or other vernaculars from outside the immediate region.
+
+DS: Likewise for Idi, as Idi does not have a status different from any other language spoken in the region (including languages brought in during colonial times).",Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very positive,Positive,Neither positive nor negative,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI9,OI9,,12. What are the [q2o1answer] speakers' attitudes towards lectal differences within [q2o1answer]?,Negative,"EK: I would imagine that Nen speakers do not really comment on Nen internal differences, aside from the ""young people are ruining the language"". The neighbouring Nmbo speakers will speak negative about inter-village differences, but since Nen is only spoken in one village, this would not occur. Any commentary on Nen-internal differences might be tied more to specific individuals. Or possibly people who have moved away from the Nen area. Either way, I would imagine these are negative evaluations.",Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very positive,Positive,Neither positive nor negative,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OI8,OI8,,13. How significant is language as part of group identity for the speakers of [q2o1answer]?,Very significant,"Mary Ayers (1980) has written extensively on how language is inextricably tied to “tribal” identity. But I can't say for certain whether ""threats to language are a threat to security"" itself.",Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very significant,Significant,Neither significant nor insignificant,Insignificant,Very insignificant,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OB1,OB1,,14. There is an emic conception of [q2o1answer] as “a language” or some other categorical or objective thing?,Yes,"Hard to say. I have chosen ""yes"" since in Nen, the expression which is translated by locals as ""Nen language"", nen zi, can be possessed (tande nen zi).",Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O10,O10,,[q2o1answer] peoples’ language loyalty towards [q2o1answer] can be characterised as:,High,,Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very high,High,Neither low nor high,Low,Very low,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL3,OL3,,15. Do the [q2o1answer] speaking people use some orthography in writing their language?,"No, the Focus Group language is not written","There is an orthography, though I am not sure how widely this is used",Eri Kashima & Dineke Schokkin,OV,6,Types,"Yes, in a non-standardised way","Yes, in a standardised way","No, the Focus Group language is not written",NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL1,OL1,,16. What is the approximate rate of formal literacy in the [q2o1answer] speaking community?,Low,,Eri Kashima & Dineke Schokkin,OV,6,Scalar,High,Fairly high,Intermediate,Fairly low,Low,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL2,OL2,OL2-1,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain hierarchy groups associated with profession or wealth (such as class and caste)?",No,Some individuals in the age cohort of people who received formal education during the Australian colonial administration (1970s) seem to have the highest rate of literacy.,Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL2,OL2,OL2-2,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain magico-religiously sanctioned groups (such as religious denomination)?",No,[See above],Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL2,OL2,OL2-3,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain descent groups, such as clan, house, lineage group, kinship group)?",No,[See above],Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL2,OL2,OL2-4,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain races, ethnicities, or some other similar grouping?",No,[See above],Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL2,OL2,OL2-5,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain age cohorts or life stages?",Yes,[See above],Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL2,OL2,OL2-6,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to a certain sex or genders?",No,[See above],Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OL2,OL2,OL2-7,"17. Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to other communities of practice not mentioned above?",No,[See above],Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OS1,OS1,,"18. Typically, how many levels of jurisdictional hierarchy are there in the [q2o1answer] speaking society, beyond the local community?",No levels,"Technically today the laws of the nation of Papua New Guinea are applied and exercised in the Morehead area, but traditionally there would have been only the level of the local community",Eri Kashima & Dineke Schokkin,OV,6,Scalar,Four levels,Three levels,Two levels,One level,No levels,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OS2,OS2,,"19. Typically, how many levels of jurisdictional hierarchy are there in [q2o2answer] society, beyond the local community?",No levels,,Eri Kashima & Dineke Schokkin,OV,6,Scalar,Four levels,Three levels,Two levels,One level,No levels,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OS4,OS4,,"20. Which of the following best characterises the dominant form of the [q2o1answer] speaking group's mobility and sedentism, in regards to subsistence?",Mixed,"Horticulture is swidden, so gardening plots are changed every few years",Eri Kashima & Dineke Schokkin,OV,6,Types,Sedentary,Mobile,Mixed,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OS5,OS5,,"21. Which of the following best characterises the dominant form of the [q2o2answer] speaking group's mobility and sedentism, in regards to subsistence?",Mixed,,Eri Kashima & Dineke Schokkin,OV,6,Types,Sedentary,Mobile,Mixed,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OS6,OS6,,22. The [q2o1answer] speaking society's subsistence pattern can be broadly characterised as...,"Agricultural, shifting",,Eri Kashima & Dineke Schokkin,OV,6,Types,Hunter-gatherer,Fishing,Animal Husbadry,"Agricultural, casual","Agricultural, shifting","Agricultural, permanent",Highly Mixed,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OH1,OH1,,"23. Have there been any natural disasters or major societal upheaval during the densest period of contact between the [q2o1answer] speaking and [q2o2answer] speaking people, such it impacted people's mobility, and [q2o1answer] speaking people talk about it?",Yes,"Marind-Anim raiders mentioned, but also contested, by ethnographers (Williams, Ayers). The increased presence  of ""white men"" throughout the 20th century with the accompanying missionary work brought about changes in traditional customs and living arrangements. Williams also mentions a panDEMic in the early 20th century",Eri Kashima & Dineke Schokkin,OV,6,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OE1,OE1,,24. How long time have you spent working with this community?,"I worked with the neighbouring Nmbo speakers for about 8 months (2014-2017). I have spent some time in the Nen community (total 3 weeks?). Culturally, these communities are quite similar.",NA,Eri Kashima & Dineke Schokkin,OV,6,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OE2,OE2,,25. Whom did you mostly interact with during your stay and through community-based research?,"I worked mostly with Keraki people I stayed with in the Nmbo speaking areas, and when it came to Nen, a few Nen speaking women who had moved to Nmbo areas. While in the Nen village, I would also work with Keraki women who had married into the village.",NA,Eri Kashima & Dineke Schokkin,OV,6,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OE3,OE3,,26. Was your interaction with members of the community typically mediated by one/a few person(s)? Who were they?,"Yes, a handful of people, as described above. These people were either my consultants, or siblings of my consultants.",NA,Eri Kashima & Dineke Schokkin,OV,6,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OC1,OC1,,27. How certain are you in your responses to the set of questions about each domain?,Somewhat certain,"Since my main experience was with Nmbo speakers, my responses about Nen speakers is based often on inference from what I know about Nmbo speakers - also based on what I know from speaking with linguists who have worked directly with Nen speakers (e.g. Evans, Miller, Döhler), and Idi speakers (Schokkin)  While I believe there are broad similarities, I would expect there to be some differences between the two groups also.",Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OC2,OC2,,28. How certain are you in your responses to the set of questions about social networks (The S-Set of questions)?,Certain,,Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OC3,OC3,,29. How certain are you in your responses to the set of questions about attitudes and ideologies (The B-Set of questions)?,Somewhat certain,,Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OC4,OC4,,30. How certain are you in your responses to the set of questions about language production (The O-Set of questions)?,Somewhat certain,,Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OC5,OC5,,31. How certain are you in your responses to the set of questions about the languages spoken to the [q2o1answer] people (The I-Set of questions)?,Somewhat certain,,Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,OC6,OC6,,32. How certain are you in your responses to the set of questions about children (The T-Set of questions)?,Somewhat certain,I am the least certain about this set,Eri Kashima & Dineke Schokkin,OV,6,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P1,DEM00,,1. Has exchange ever been a relevant domain of contact between [q2o1answer] and [q2o2answer]?,Yes,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2,DEM0a,,3. How long have [q2o1answer] and [q2o2answer] people practised exchange for?,"The Williams ethnography has data from 1920, and six generations will have been claimed from then. So if we say each generation is about 20 years, then contact has been ongoing since at least 1800. But I imagine contact has been ongoing for much longer than that.",,Eri Kashima & Dineke Schokkin,DEM,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2N,DEM0aN,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima & Dineke Schokkin,DEM,3,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3,DEM0b,,4. What is the time frame when the largest number of people had the most opportunities for interaction in exchange?,There is no evidence that the domain of social exchange and marriage as a domain of contact has been disrupted in the present or past. So the same as above.,,Eri Kashima & Dineke Schokkin,DEM,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3,DEM0bN,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima & Dineke Schokkin,DEM,3,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P4,DEM01,,"5. What other languages, if any, are spoken in this domain?","Any of the other vernacular languages in the area. From a Nen perspective: Nmbo, Nambo, Neme, Täme, perhaps Nama, perhaps even Suki or Agob.",,Eri Kashima & Dineke Schokkin,DEM,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM02,DEM02-1,6. Characteristic of the domain of Exchange. Is Exchange between [q2o1answer] and [q2o2answer] the individual’s initiative?,Yes,"EK: There is no hard evidence for the latter two options (institutionalised procedure, and ceremonial exchange), but it is possible that there are/were some instances of this kind of exchange. As I wrote for the trade answer, it seems that important rituals involved a male initiate's paternal relatives, in which case they would be speakers of the same tribe/language. So I am inclined to say ""No"" for the latter two options.",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM02,DEM02-2,6. Characteristic of the domain of Exchange. Is Exchange between [q2o1answer] and [q2o2answer] an institutionalised procedure?,No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM02,DEM02-3,6. Characteristic of the domain of Exchange. Is Exchange between [q2o1answer] and [q2o2answer] part of a ceremonial event to which both communities participate?,No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D6,DEM04,,7. Where does exchange between [q2o1answer] and [q2o2answer] people typically take place?,This is highly contextual,"Since exchange is an individual endeavour, the location of the exchange would also be variable.",Eri Kashima & Dineke Schokkin,DEM,3,Types,At places which belong to the [q2o1answer],At places which belong to the [q2o2answer],At places which belong to some other group,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D11,DEM19,,8. How much influence can the [q2o1answer] exert over exchange?,Influence is somewhat exerted,See above.,Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Influence is practically always exerted,Influence is often exerted,Influence is somewhat exerted,Influence is exerted very little,Influence is practically never exerted,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D9,DEM38,,9. Are there any speech styles used during practices of exchange?,No,"It is possible that there are, but as far as I am aware, secret words and expressions are used internally (e.g. between owners of Nen) rather than with outsiders, so any exchange between Nen and Idi speakers is likely conducted in language(s) that are relevant for the individuals involved.",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D12,DEM45,,"10. How often are these speech styles typically used during practices of exchange, in comparison with unmonitored speech?",NA,,Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Always,Sometimes,As much as unmonitored speech,Rarely,Never,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-1,"11. Social categories. Does involvement in Exchange practices differ based on hierarchies associated to profession or wealth, such as a person's class or caste?",No,"There is significant overlap between tribe and place identity, I would treat these as one and the same, not two different factors.",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-2,"11. Social categories. Does involvement in Exchange practices differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-3,"11. Social categories. Does involvement in Exchange practices differ based on a person's descent group, such as clan, house, lineage group, kinship group?",Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-4,"11. Social categories. Does involvement in Exchange practices differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-5,"11. Social categories. Does involvement in Exchange practices differ based on a person’s race, ethnicity, or some other similar grouping?",No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-6,11. Social categories. Does involvement in Exchange practices differ based on a person’s age or life stage?,No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-7,11. Social categories. Does involvement in Exchange practices differ based on a person’s place identity and affiliation?,Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-8,11. Social categories. Does involvement in Exchange practices differ based on a person’s sex or gender?,Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM03,DEM03-9,11. Social categories. Does involvement in Exchange practices differ based on any other communities of practice?,No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D10,DEM41,,12. Do [q2o1answer] people experience exchange differently depending on social group?,Yes,"My hunch is that Men would exchange with men, and women with women. Much like for Trade. Initiated Nen men. [Answering for social group] Initiated Nen men",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S1,DEM08,,13. How often do [q2o1answer] people exchange with [q2o2answer] people?,Sometimes,"A lot of things would be exchanged under the label of ""exchange"" so it's hard to say.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Very often,Often,Sometimes,Rarely,Very rarely,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S3,DEM11,,14. How many people are typically involved in interactions between [q2o1answer] and [q2o2answer] in the context of exchange?,Interactions are often under 5 people,Maybe the same as trade.,Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Interactions are practically always under 5 people,Interactions are often under 5 people,Interactions are sometimes under 5 people,Interactions are rarely under 5 people,Interactions are practically never under 5 people,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S5,DEM10,,15. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in the domain of exchange?,Somewhat friendly,"It strikes me that one of the main purpose of exchange is to express affection, or to foster affection, so i would say""some what friendly"" - i can also imagine that not all exchanges are so friendly.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Friendly,Somewhat friendly,Neutral,Somewhat hostile,Hostile,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S6,DEM40,,16. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people in the context of exchange?,Some people,"This really depends on the personal connections that exist at any given time - some Nen speakers have personal connections with Idi speakers, while others seem to have very little.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S7,DEM44,,17. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people in the context of exchange?,Few people,"The total population of Idi speakers include the people who live further away from the Nen contact area (e.g. Sibidiri village). So if we take this aggregate, and consider, we would say our best guess is the 30% mark, ""Few people"" response.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BA,DEM17,,18. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in the context of exchange?,Neutral,,Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Very positive,Positive,Neutral,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BH,DEM18,,19. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people in the context of exchange?,[q2o1answer] see themselves as neither superior nor inferior to [q2o2answer].,"EK: I imagine it would depend on what is being exchanged. Anecdotally, I have heard from Nmbo speakers that Idi speakers were known as having particular kinds of sorcerers and sorcery, so it's possible that sorcery services were exchanged... although I would imagine this wouldn't be a major kind of exchange, and I have nothing concretely to present to support this intuition. So ""neither superior nor inferior"" is probably accurate.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,[q2o1answer] see themselves as very superior to [q2o2answer],[q2o1answer] see themselves as superior to [q2o2answer],q2o1answer] see themselves as neither superior nor inferior to [q2o2answer],[q2o1answer] see themselves as inferior to [q2o2answer],[q2o1answer] see themselves as very inferior to [q2o2answer],NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BI,DEM05,,20. What language do [q2o1answer] people expect to be used when interacting with [q2o2answer] people through practices of exchange?,This is highly contextual,"One of the stated ideals is that people should speak Nen while in a Nen village, Idi in an Idi village etc, but there are also stated ideals that say ""you should speak the interlocutor's language"". I take this variation to mean that the expectation is also highly contextual.",Eri Kashima & Dineke Schokkin,DEM,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O1,DEM14,,21. What language do [q2o1answer] people typically speak during practices of exchange with [q2o2answer] people?,This is highly contextual,"We don’t know for certain, but Nen speakers would likely change their speech depending on their knowledge of the interlocutor’s biography/competence etc.",Eri Kashima & Dineke Schokkin,DEM,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O2,DEM15,,22. Do [q2o1answer] people typically simplify their [q2o1answer] language when speaking with [q2o2answer] people during practices of Exchange?,This is highly contextual,,Eri Kashima & Dineke Schokkin,DEM,3,Types,Yes,No,This is highly contextual,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O3,DEM16,,"23. Typically in the context of exchange practices, how fluently to [q2o1answer] people speak the [q2o2answer] language?",Fluently,"I didn't choose ""very fluently"" because I imagine there would be individual differences. Overall I would expect people to be on the fluent side of things rather than not.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Very fluently,Fluently,Somewhat fluently,A little fluently,Not fluently at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DEM12,,24. What language do [q2o2answer] people typically speak to [q2o1answer] people during practices of exchange?,This is highly contextual,"As per our response for the corresponding question regarding Nen speakers, we don’t know for certain -  but Idi  speakers would likely change their speech depending on their knowledge of the interlocutor’s biography/competence etc.",Eri Kashima & Dineke Schokkin,DEM,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DEM13,,"25. Typically in contexts of exchange practices, how well do [q2o1answer] people understand the [q2o2answer] language?",Well,,Eri Kashima & Dineke Schokkin,DEM,3,Types,Very well,Well,Somewhat fluently,Poorly,Very poorly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T1,DEM06,,26. How much do [q2o1answer] children participate in practices of exchange?,They participate a little,"This response is for personal and private modes of exchange. The answer is also if children are present at all - I would not expect the presence of children to be typical, but more incidental.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,They practically always participate,They participate a lot,They participate somewhat,They participate a little,They practically never participate,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DEM39,DEM39-1,"27. Child socialisation. Typically during practices of exchange, do adults other than the parents look after children up to five year of age?",No,"Again, given that I'm answering for personal and private modes of exchange, I would not imagine adults other than parents would be present (if children are present at all).",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DEM39,DEM39-2,"27. Child socialisation. QTypically during practices of exchange, do parents look after children up to five year of age?",Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DEM39,DEM39-3,"27. Child socialisation. Typically during practices of exchange, do children from sibling-kin groups look after children up to five year of age?",Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DEM39,DEM39-4,"27. Child socialisation. Typically during practices of exchange, do children up to five year of age look after each other as part of the same peer group?",No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T11,DEM20,,"28. Typically, how much supervision do adults provide to children during practices of exchange?",Little supervision,I wouldn't say that children are participants in exchange but.,Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Constant supervision,A lot of supervision,Some supervision,Little supervision,No supervision at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T2,DEM21,,29. What language do [q2o2answer] adults typically speak to [q2o1answer] children during practices of exchange?,This is highly contextual,"We don’t know for certain, but we’d guess that the Idi adult’s language choice would depend on their relationship to the Nen child. For example, if the Nen child were a relative of the Idi adult (e.g. the child of their siblings, a grandchild etc), the Idi adult will probably speak Idi. If the child is unrelated, the Idi adult may use imperatives or some other short expressions in Nen with the child. The honest answer is, however, we do not know.",Eri Kashima & Dineke Schokkin,DEM,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T4,DEM22,,"30. Typically, what language do [q2o1answer] children prefer to speak with [q2o2answer] adults in the context of exchange?",This is highly contextual,"I have no idea, but I imagine it would be highly variable, and would depend on the child's own repertoire and how socially attuned they are regarding their interlocutor's linguistic repertoire.",Eri Kashima & Dineke Schokkin,DEM,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T5,DEM25,,"31. Typically, what language do [q2o1answer] children speak to [q2o2answer] children during practices of exchange?",This is highly contextual,"If Idi children are incidentally present, my response would be the same as above: I imagine this would be highly variable, and would depend on the child's own repertoire and how socially attuned they are regarding their interlocutor's linguistic repertoire.",Eri Kashima & Dineke Schokkin,DEM,3,Types,There are no [q2o2answer] children in the domain of exchange,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM26,DEM26-1,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their village or other kind of local community?",Yes,"Marrying outside their village is stated, but not as important as marrying outside moiety. Marrying outside the descent group or clan is also stated important",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM26,DEM26-2,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their descent group or clan?",Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM26,DEM26-3,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their designated marriage group such as a moiety?",Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM26,DEM26-4,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their hierarchical social group such as class or caste?",No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM26,DEM26-5,"32. Marrying out: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody outside their linguistic group?",No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM27,DEM27-1,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same village or other kind of local community?",No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM27,DEM27-2,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same descent group or clan?",No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM27,DEM27-3,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same designated marriage group such as a moiety?",No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM27,DEM27-4,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same hierarchical social group such as class or caste?",No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM27,DEM27-5,"33. Marrying within: When marrying each other, should [q2o1answer] people and [q2o2answer] people marry somebody from the same linguistic group?",No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM28,DEM28-1,34. Polygyny. Is polygyny possible for [q2o1answer] men?,Yes,"Polygyny was more common in the past for both groups, but even then it was not common (i.e. less than 50% of mariages were polygynous). there was maybe one case of polygyny in the Idi speech community that I am aware of when I was in the area (it was an older man)",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM28,DEM28-2,34. Polygyny. Is polygyny possible for [q2o2answer] men?,No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM28,DEM28-3,34. Polygyny. Is polygyny possible for men from all societal strata?,Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM29,DEM29-1,35. Polyandry. Is polyandry possible for [q2o1answer] women?,No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM29,DEM29-2,35. Polyandry. Is polyandry possible for [q2o2answer] women?,No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM29,DEM29-3,"35. Polyandry. If possible, is polyandry of fraternal type?",No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM29,DEM29-4,"35. Polyandry. If possible, is polyandry of non-fraternal type?",No,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM37,DEM37-1,36. What type of marriage payments and transfers are expected when [q2o1answer] and [q2o2answer] marry? Bride wealth,No,Sister exchange is an expected form of exchange (see Williams 1936: 134-140),Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM37,DEM37-2,36. What type of marriage payments and transfers are expected when [q2o1answer] and [q2o2answer] marry? Dowry,No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DEM37,DEM37-3,36. What type of marriage payments and transfers are expected when [q2o1answer] and [q2o2answer] marry? Other,Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM31,DEM31-1,37. Intermarriage. Is it typical for [q2o1answer] men to marry [q2o2answer] women?,Yes,"Typical, in that it happens, but perhaps not typical in terms of absolute numbers - Nen men and Idi men, as an aggregate, have opportunities to marry women from other tribes also. Given that Bimadebn and Dimsisi are neighbouring villages, I would assume that marriages across this network has been relatively common.",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DEM31,DEM31-2,37. Intermarriage. Is it typical for [q2o1answer] women to marry [q2o2answer] men?,Yes,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D6,DEM32,,38. Where do marriage ceremonies between [q2o1answer] and [q2o2answer] take place?,This is highly contextual,"Williams describes a marriage ceremony he saw (1936: 140-145), and states that ""on this occasion the marriage was held in Gubam"", suggesting that there are no hard rules regarding ceremony location - likely due to the sister exchange element.",Eri Kashima & Dineke Schokkin,DEM,3,Types,At places which belong to the [q2o1answer],At places which belong to the [q2o2answer],At places which belong to some other group,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S5,DEM34,,39. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in practices of marriage exchanges?,Somewhat friendly,"Since sister exchange and marriage are arranged, and are either inter-generationally recurring exchanges or are based on friendship between the exchanging men, I would be inclined to characterise the dynamics as ""somewhat friendly"". I didn't choose ""friendly"" because sister exchange can also bring about bad blood between parties based on senses of obligation, entitlement, betrayal etc. A lot of comunity disharmony seems to stem from issues relating to marriage exchanges.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Friendly,Somewhat friendly,Neutral,Somewhat hostile,Hostile,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S6,DEM42,,40. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people in the context of marriage exchanges?,Many people,"The vast majority of licensced Nen speakers are in concentrated around one locale, which borders an Idi speaking locale. So in theory a lot of people would have opportunities to marry Idi people, but the importance of inter-generational reciprocal sister exchange might mean is is the same families of Nen and Idi speakers who are marrying each other. Because of this uncertainty, I choose ""many people"" rather than ""almost everyone.""",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S7,DEM43,,41. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people in the context of marriage exchanges?,Some people,"Nen is predominately spoken in one locale, and Idi is spoken across a couple more - Bimadebn (Nen) and Dimsisi (Idi) are directly neighbouring each other, so these groups of people at least have ample opportinity for marriage exchange. I am not sure about the other Idi locales (Dimiri and Sibidiri). Given their geographical distance, I would not assume there is much incidental opportunity.",Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BA,DEM35,,42. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in practices of marriage exchanges?,Positive,See comment for earlier regarding ceremony (DEM34),Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Very positive,Positive,Neutral,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BH,DEM36,,"43. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, within the context of marriage?",[q2o1answer] see themselves as neither superior nor inferior to [q2o2answer].,,Eri Kashima & Dineke Schokkin,DEM,3,Scalar,[q2o1answer] see themselves as very superior to [q2o2answer],[q2o1answer] see themselves as superior to [q2o2answer],q2o1answer] see themselves as neither superior nor inferior to [q2o2answer],[q2o1answer] see themselves as inferior to [q2o2answer],[q2o1answer] see themselves as very inferior to [q2o2answer],NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BI,DEM33,,44. What language do [q2o1answer] people expect to be used in marriage ceremonies with [q2o2answer] people?,This is highly contextual,"The description by Williams suggests that speaking isn't really a big part of ceremonies. I suspect where there is speaking, it would be highly multilingual.",Eri Kashima & Dineke Schokkin,DEM,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DEM30,DEM30-1,45. Does marriage impose any child rearing obligations for both parents and grandparents on both sides?,No,"Impose is a strong word, but expectations exist for sure. ""Grandparents on both sides"" is chosen to flag that there are obligations for maternal male kin for boys... not specifically grandfathers as far as I'm aware but.",Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DEM30,DEM30-2,"45. Does marriage impose any child rearing obligations for one parent, and grandparents on both sides?",Yes,,Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DEM30,DEM30-3,"45. Does marriage impose any child rearing obligations for one parent, and grandparents on that side?",No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DEM30,DEM30-4,"45. Does marriage impose any child rearing obligations for one parent, and grandparents from the other side?",No,[See above],Eri Kashima & Dineke Schokkin,DEM,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E1,DEM96,,"46. List any other groups that the [q2o1answer] practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this contact through Social Exchange practices happened.","The usual: Nmbo, Neme, Nambo, perhaps a handful of Täme (Pahoturi)",NA,Eri Kashima & Dineke Schokkin,DEM,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E4,DEM97,,47. What type of data informed your answers to the questions in the domain of social exchange overall?,Impressions from my own fieldwork with the exact or related community Published materials by researchers in other fields Other,NA,Eri Kashima & Dineke Schokkin,DEM,3,TypesMultiple,Impressions from my own fieldwork with the exact or related community,Reports from language consultants,Published or ongoing research project of my own on topics covered in this questionnaire,Published material by linguists,Published materials by other researchers in other fields,Other,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E5,DEM98,,48. How certain are you in your responses for the domain of social exchange?,Somewhat certain,NA,Eri Kashima & Dineke Schokkin,DEM,3,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E6,DEM99,,49. List any comments or notes that you feel are relevant to this section of the questionnaire.,,NA,Eri Kashima & Dineke Schokkin,DEM,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P1,DFK00,,"2. Do [q2o1answer] people and [q2o2answer] people marry each other, or have they done so in the past?",Yes,,Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2,DFK0a,,2. How long have [q2o1answer] and [q2o2answer] peoples been forming families with each other for?,Generations. See response to other domains.,,Eri Kashima & Dineke Schokkin,DFK,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2N,DFK0aN,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima & Dineke Schokkin,DFK,3,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3,DFK0b,,3. What’s the time frame of densest contact between [q2o1answer] and [q2o2answer] as far as family formation is concerned?,see above,,Eri Kashima & Dineke Schokkin,DFK,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3N,DFK0bN,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima & Dineke Schokkin,DFK,3,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P4,DFK01,,"4. What other languages, if any, are spoken between family members?","We are led to believe it depends somewhat on the language biographies and repertoires of the couples. The stated ideal is for women to speak their husband's variety, which is the village variety.",,Eri Kashima & Dineke Schokkin,DFK,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D6,DFK35,,5. What is the typical pattern of relocation for [q2o1answer] women when starting a new family?,[q2o1answer] women practically always relocate to [q2o2answer] locations,,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,[q2o1answer] women practically always relocate to [q2o2answer] locations,[q2o1answer] women often relocate to [q2o2answer] locations,[q2o1answer] women sometimes relocate to [q2o2answer] locations,[q2o1answer] women rarely relocate to [q2o2answer] locations,[q2o1answer] women practically never relocate to [q2o2answer] locations,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D6,DFK39,,6. What is the typical pattern of relocation for [q2o2answer] women when starting a new family?,[q2o2answer] women practically always relocate to [q2o1answer] locations,,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,[q2o1answer] women practically always relocate to [q2o2answer] locations,[q2o1answer] women often relocate to [q2o2answer] locations,[q2o1answer] women sometimes relocate to [q2o2answer] locations,[q2o1answer] women rarely relocate to [q2o2answer] locations,[q2o1answer] women practically never relocate to [q2o2answer] locations,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DFK02,DFK02-1,7. Do mothers form a co-residential unit with their children and their husbands?,Yes,The co-residential unit often seems to be that of a nuclear family.,Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DFK02,DFK02-2,7. Do mothers form a co-residential unit with their children and their mothers?,No,[See above],Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DFK02,DFK02-3,7. Do mothers form a co-residential unit with their children and their mother in laws?,No,[See above],Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D10,DFK40,,8. Do [q2o1answer] people experience family life differently depending on social group?,No,,Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S1,DFK03,,"9. Typically, how much of their lives do spouses spend with each other during the course of their lifetime?",A little of their lives,"In the past, ""practically all their lives"" (e.g. child brides were common), but in the modern period, ""a little of their lives."" Given that I don't know how common child brides were in the last, I'll choose ""a little of their lives"" as the appropriate answer here.",Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Practically all their lives,Much of their lives,Some of their lives,A little of their lives,Practically none of their lives,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S4,DFK37,,10. How physically proximate to each other are the households of the husband and wife?,Very proximate to each other,,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very proximate to each other,Proximate to each other,Somewhat proximate to each other,Far from each other,Very far from each other,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BA,DFK16,,11. What is the overall level of affection that the [q2o1answer] person has towards their [q2o2answer] spouse?,Affectionate,,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very affectionate,Affectionate,Neutral,Unaffectionate,Very unaffectionate,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O1,DFK06,,12. What language do [q2o1answer] people typically speak with their [q2o2answer] spouse?,This is highly contextual,"Speakers report what sounds like receptive multilingual interactions, with code-switching also occurring. We couldn’t tell you whether one form of interaction is more prevalent than the other. (See Evans 2012 for brief observation of multilingual interaction between Nen and Idi speakers, although not in context of marriage.)",Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O2,DFK07,,13. Do [q2o1answer] people typically simplify their [q2o1answer] language when speaking with their [q2o2answer] spouse?,This is highly contextual,They may at some stages.,Eri Kashima & Dineke Schokkin,DFK,3,Types,Yes,No,This is highly contextual,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O3,DFK08,,"14. Typically in the domain of family, how fluently to [q2o1answer] people speak the [q2o2answer] language?",Fluently,Would be dependent on the Nen speaker's biography.,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very fluently,Fluently,Somewhat fluently,A little fluently,Not fluently at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DFK09,,15. What language do [q2o2answer] people typically speak with their [q2o1answer] spouse?,This is highly contextual,"As per our comment to DFK06, speakers report what sounds like receptive multilingual interactions, with code-switching also occurring. We couldn’t tell you whether one form of interaction is more prevalent than the other.",Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I2,DFK10,,"16. Typically in the domain of family, how well do [q2o1answer] people understand the [q2o2answer] language?",Well,"Again, dependent.",Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very well,Well,Somewhat,Poorly,Very poorly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DFK04,DFK04-1,"17. Looking after children. Typically, do fathers look after children up to five year of age?",Yes,"Not sure about the last one. Presumably ""no"" in the domain of family and kin.",Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DFK04,DFK04-2,"17. Looking after children. Typically, do mothers primarily look after children up to five year of age?",Yes,[See above],Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DFK04,DFK04-3,17. Looking after children. Do adults other than the parents look after children up to five year of age?,Yes,[See above],Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DFK04,DFK04-4,17. Looking after children. Do children from sibling-kin groups look after children up to five year of age?,Yes,[See above],Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DFK04,DFK04-5,17. Looking after children. Do children up to five year of age look after each other as part of the same peer group?,No,[See above],Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T11,DFK24,,"18. Typically, how much supervision do grandparents provide to children?",Little supervision,"Grandparents presumably can, but I did not get a sense that this was a highly important relationship.",Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Constant supervision,A lot of supervision,Some supervision,Little supervision,No supervision at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BI,DFK05,,19. What language are children expected to speak to their [q2o2answer] parent?,This is highly contextual,"The child would be expected to speak Idi to their Idi father, since the child’s identity would also be linked to the Idi language (having inherited the tribal designation patrilineally). If the child’s mother is a Nen speaker, they are likely to speak to her in Nen at least sometimes. But we wouldn’t say that this is an expectation - Nen and Idi speakers discuss this as a matter of fact.",Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T7,DFK20,,20. What language do [q2o1answer] parents typically speak with their children?,The [q2o1answer] language,,Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T8,DFK21,,21. What language do [q2o2answer] parents typically speak with their children?,The [q2o2answer] language,,Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T9,DFK22,,22. What language do children typically speak with their [q2o1answer] parent?,This is highly contextual,Nen and Idi speakers say that they spoke their mother’s language when speaking to her. This would mean that the language a child speaks to their parent depends on which parent it is.,Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T10,DFK23,,23. What language do children typically speak with their [q2o2answer] parent?,This is highly contextual,As per our comment to DFK22: Nen and Idi speakers say that they spoke their mother’s language when speaking to her. This would mean that the language a child speaks to their parent depends on which parent it is.,Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T2,DFK25,,24. What language do [q2o2answer] grandparent/aunts/uncles typically speak to the children?,The [q2o2answer] language,,Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T4,DFK26,,"25. Typically, what language do [q2o1answer] children speak with their [q2o2answer] grandparents/aunts/uncles?",The [q2o2answer] language,"EK: I am not particularly confident in this response, but people will report speaking ""their mother's language"" to their mother's kin. This doesn't mean that they do not speak Nen as well, so the better answer may be ""this is highly contextual"".",Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D9,DFK38,DFK38-1,26. Are any of the following features characteristic when speaking to one’s [q2o2answer] in-laws? Lexical avoidance,Yes,,Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D9,DFK38,DFK38-2,26. Are any of the following features characteristic when speaking to one’s [q2o2answer] in-laws? The use of certain morphosyntactic forms,No,,Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D9,DFK38,DFK38-3,26. Are any of the following features characteristic when speaking to one’s [q2o2answer] in-laws? The use of certain pronominal forms,No,,Eri Kashima & Dineke Schokkin,DFK,3,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S1,DFK12,,"27. Thinking about the [q2o1answer] person and their [q2o2answer] in-laws, how often would they typically meet?",Sometimes,Partially depends on physical proximity (i.e. Bima residents and Dimsisi residents may meet more frequently than Bima and Sibidiri residents),Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very often,Often,Sometimes,Rarely,Very rarely,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S3,DFK15,,28. How many people are typically involved in interactions between a [q2o1answer] person and their [q2o2answer] in-laws?,Interactions are often under 5 people,,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Interactions are practically always under 5 people,Interactions are often under 5 people,Interactions are sometimes under 5 people,Interactions are rarely under 5 people,Interactions are practically never under 5 people,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S4,DFK11,,29. How physically proximate to each other are a [q2o1answer] person and their [q2o2answer] in-laws?,Somewhat proximate to each other,This is for Bimadbn and Dimsisi residents,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very proximate to each other,Proximate to each other,Somewhat proximate to each other,Far from each other,Very far from each other,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S5,DFK14,,30. How would you rate the overall relationship between a [q2o1answer] person and their [q2o2answer] in-laws?,Somewhat friendly,,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Friendly,Somewhat friendly,Neutral,Somewhat hostile,Hostile,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BA,DFK33,,31. What is the overall attitude that a [q2o1answer] person has towards their [q2o2answer] in-laws?,Very positive,,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very positive,Positive,Neutral,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O1,DFK30,,32. Your child has married a [q2o2answer] person. What language do you typically speak when speaking with your [q2o2answer] son/daughter-in-law?,This is highly contextual,"We think: If I am able to speak Idi due to my biography, I may speak Idi to the son/daughter-in-law. If I grew up speaking Idi to my relatives, I would surely speak Idi to my son/daughter-in-law.",Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O2,DFK31,,"33. Typically, does a [q2o1answer] person simplify their [q2o1answer] language when speaking to their [q2o2answer] in-laws?",This is highly contextual,,Eri Kashima & Dineke Schokkin,DFK,3,Types,Yes,No,This is highly contextual,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O3,DFK32,,"34. Typically, how fluently does a [q2o1answer] person speak the [q2o2answer] language when speaking to their [q2o2answer] in-laws?",Somewhat fluently,This is highly contextual,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very fluently,Fluently,Somewhat fluently,A little fluently,Not fluently at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DFK28,,"35. Your child has married a [q2o2answer] person. What language does your child’s spouse typically speak to you, a [q2o1answer] person?",This is highly contextual,"This would depend on the spouse’s biography. If they grew up speaking Nen, they will probably speak Nen to me (we think this would be the case).",Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I2,DFK29,,"36. Typically, how well does a [q2o1answer] person understand the [q2o2answer] in-law’s language?",Somewhat,This is highly contextual,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very well,Well,Somewhat,Poorly,Very poorly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DFK34,,37. You have married a [q2o2answer] person. What language do you typically speak to your [q2o2answer] in-laws (your spouse’s parents and siblings)?,The [q2o2answer] language,Assuming Idi is part of my repertoire.,Eri Kashima & Dineke Schokkin,DFK,3,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I2,DFKXX,,"37b. Typically, how well does a [q2o1answer] person understand the [q2o2answer] in-law’s language?",Well,Not so confident about this response.,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very well,Well,Somewhat,Poorly,Very poorly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E1,DFK96,,38. Who do [q2o1answer] people typically form families with besides [q2o2answer] people?,People from other groups,NA,Eri Kashima & Dineke Schokkin,DFK,3,Types,Other [q2o1answer] people,People from other groups,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E4,DFK97,,"39. What type of data informed your answers to the questions in the domain of family and kin, overall?",Impressions from my own fieldwork with a related community Published or ongoing research project of my own on topics covered in this questionnaire Published material by linguists Published materials by researchers in other fields Other,NA,Eri Kashima & Dineke Schokkin,DFK,3,TypesMultiple,Impressions from my own fieldwork with the exact or related community,Reports from language consultants,Published or ongoing research project of my own on topics covered in this questionnaire,Published material by linguists,Published materials by other researchers in other fields,Other,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E5,DFK98,,40. How certain are you in your responses for the domain of family and kin?,Certain,NA,Eri Kashima & Dineke Schokkin,DFK,3,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E6,DFK99,,41. List any comments or notes that you feel are relevant to this section of the questionnaire.,"The responses concerning Nen are based predominantly on Kashima’s experience with Nmbo speakers, and what she knows of Nmbo/Nen marriages. The responses concerning Idi speakers are based on Schokkin’s own experience",NA,Eri Kashima & Dineke Schokkin,DFK,3,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P1,DLB00,,1. Has work ever been a relevant domain of contact between [q2o1answer] and [q2o2answer]?,Yes,"Labour would overlap with family and kin. Labour in this part of Southern New Guinea is subsistence agriculture, which is typically done at the nuclear family level.",Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2,DLB0a,,2. How long have [q2o1answer] people and [q2o2answer] people worked together for?,As long as they have been forming families,,Eri Kashima,DLB,4,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2N,DLB0aN,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima,DLB,4,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3,DLB0b,,3. What is the time frame when the largest number of people had the most opportunities for interaction in the labour domain?,As per my other answers,,Eri Kashima,DLB,4,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3N,DLB0bN,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima,DLB,4,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P4,DLB01,,"4. What other languages, if any, are spoken in the labour domain?","Any of the other vernacular languages in the area. From a Nen perspective: Nmbo, Nambo, Neme, Täme, perhaps Nama, perhaps even Suki or Agob.",,Eri Kashima,DLB,4,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DLB02,,5. How commonly are [q2o1answer] people and [q2o2answer] people involved in public modes of production?,Somewhat commonly,,Eri Kashima,DLB,4,Scalar,Very commonly,Commonly,Somewhat commonly,Uncommonly,Very uncommonly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D4,DLB04,,6. Is there hierarchy involved in work?,No,"There would be age based hierarchy, but not hierarchy between adults in the sense of socially stratified hierarchies.",Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D6,DLB05,,7. Where do [q2o1answer] people and [q2o2answer] people typically work together?,This is highly contextual,"Work occurs on patrilineally inherited land. So if you are a man you will work on ""your land"", while if you are a woman you will work on your husband land - so not your tribal land.",Eri Kashima,DLB,4,Types,At places which belong to the [q2o1answer],At places which belong to the [q2o2answer],At places which belong to some other group,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D11,DLB29,,8. How much influence can the [q2o1answer] exert over the terms of work?,Influence is practically always exerted,"Since people are completely responsible for their terms of work, in this sense, Influence is practically always exerted(but see my previous response).",Eri Kashima,DLB,4,Scalar,Influence is practically always exerted,Influence is very much exerted,Influence is somewhat exerted,Influence is exerted very little,Influence is practically never exerted,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D9,DLB06,,9. Are there any speech styles used during work?,No,But I suppose in theory kinship avoidance terms may be used,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D12,DLB31,,"10. How often are these speech styles typically used during work, in comparison with unmonitored speech?",NA,NA,Eri Kashima,DLB,4,Scalar,Always,Sometimes,As much as unmonitored speech,Rarely,Never,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-1,"11. Involvement in work. Does involvement in work differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",No,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-2,"11. Involvement in work. Does involvement in work differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",No,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-3,"11. Involvement in work. Does involvement in work domain differ based on a person's descent group, such as clan, house, lineage group, kinship group?",No,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-4,"11. Involvement in work. Does involvement in work domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",No,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-5,"11. Involvement in work. Does involvement in work differ based on a person’s race, ethnicity, or some other similar grouping?",No,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-6,11. Involvement in work. Does involvement in work differ based on a person’s age or life stage?,Yes,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-7,11. Involvement in work. Does involvement in work differ based on a person’s place identity and affiliation?,No,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-8,11. Involvement in work. Does involvement in work differ based on a person’s sex or gender?,Yes,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLB03,DLB03-9,11. Involvement in work. Does involvement in work differ based on any other communities of practice?,No,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D10,DLB30,,12. Do [q2o1answer] people experience work differently depending on social group?,No,,Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S1,DLB07,,13. How often do [q2o1answer] people work with [q2o2answer] people?,Very often,"Again, in the context of family",Eri Kashima,DLB,4,Scalar,Very often,Often,Sometimes,Rarely,Very rarely,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S3,DLB09,,14. How many people are typically involved in interactions between [q2o1answer] people and [q2o2answer] people when working?,Interactions are sometimes under 5 people,"Again, in the context of family",Eri Kashima,DLB,4,Scalar,Interactions are practically always under 5 people,Interactions are often under 5 people,Interactions are sometimes under 5 people,Interactions are rarely under 5 people,Interactions are practically never under 5 people,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S4,DLB10,,15. How physically proximate to each other are people when working?,Very proximate to each other,"While working, as well as during the gardening period in a year as a whole.",Eri Kashima,DLB,4,Scalar,Very proximate to each other,Proximate to each other,Somewhat proximate to each other,Far from each other,Very far from each other,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S5,DLB11,,16. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people involved in work?,Neutral,,Eri Kashima,DLB,4,Scalar,Friendly,Somewhat friendly,Neutral,Somewhat hostile,Hostile,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S6,DLB27,,"17. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people, in work?",Some people,It actually depends on what proportion of Nen speakers are married to Idi speakers. So hard to say. I would place little stock in my response here.,Eri Kashima,DLB,4,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S7,DLB28,,"18. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people, in work?",Some people,See comment above.,Eri Kashima,DLB,4,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BA,DLB22,,19. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in work?,Neutral,,Eri Kashima,DLB,4,Scalar,Very positive,Positive,Neutral,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BH,DLB23,,"20. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, within the context of work?",[q2o1answer] see themselves as neither superior nor inferior to [q2o2answer].,,Eri Kashima,DLB,4,Scalar,[q2o1answer] see themselves as very superior to [q2o2answer],[q2o1answer] see themselves as superior to [q2o2answer],q2o1answer] see themselves as neither superior nor inferior to [q2o2answer],[q2o1answer] see themselves as inferior to [q2o2answer],[q2o1answer] see themselves as very inferior to [q2o2answer],NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BI,DLB25,,21. What language do [q2o1answer] people expect to be used when working with [q2o2answer] people?,This is highly contextual,,Eri Kashima,DLB,4,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O1,DLB32,,22. What language do [q2o1answer] people typically speak when working with [q2o2answer] people?,This is highly contextual,"It probably partially depends on you gender and where you are. If you are a man, and are working off your land, I can imagine a Nen person would prefer to speak Nen. But also, if there are more Idi people present, then the Nen person will probably speak Idi.",Eri Kashima,DLB,4,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O2,DLB13,,23. Do [q2o1answer] people typically simplify their language when working with [q2o2answer] people?,This is highly contextual,,Eri Kashima,DLB,4,Types,Yes,No,This is highly contextual,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O3,DLB14,,"24. Typically in work, how fluently do [q2o1answer] people speak the [q2o2answer] language?",Fluently,,Eri Kashima,DLB,4,Scalar,Very fluently,Fluently,Somewhat fluently,A little fluently,Not fluently at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DLB15,,25. What language do [q2o2answer] people typically speak when working with [q2o1answer] people?,This is highly contextual,"As per my comment earlier about Nen speakers but for Idi people: It probably partially depends on you gender and where you are. If you are a man, and are working off your land, I can imagine a Nen person would prefer to speak Nen. But also, if there are more Idi people present, then the Nen person will probably speak Idi.",Eri Kashima,DLB,4,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I2,DLB16,,"26. Typically in work, how well do [q2o1answer] people understand the [q2o2answer] language?",Very well,"Could plausibly be ""well"" depending on the indivdual. But shared norms of work across Idi and Nen speakers means the answer is very unlikely be anything below ""well""",Eri Kashima,DLB,4,Scalar,Very well,Well,Somewhat,Poorly,Very poorly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T1,DLB17,,27. How much do [q2o1answer] children participate in work?,They participate a lot,"Plausibly ""They practically always participate"", or ""They participate somewhat"". I'm not entirely sure how much children speak to adults during work.",Eri Kashima,DLB,4,Scalar,They practically always participate,They participate a lot,They participate somewhat,They participate a little,They practically never participate,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DLB21,DLB21-1,"28. Looking after children during work. Typically, do adults other than the parents look after children up to five year of age during work?",Yes,"While work is often done within nuclear families, I'm led to believe that related families often garden together too. I'm led to believe this as I have anecdotally had some people described as ""a funny fellow"" for preferring to be alone with his family for most of the working period of the year",Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DLB21,DLB21-2,"28. Looking after children during work. Typically, do parents look after children up to five year of age during work?",Yes,[See above],Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DLB21,DLB21-3,"28. Looking after children during work. Typically, do children from sibling-kin groups look after children up to five year of age during work?",Yes,[See above],Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DLB21,DLB21-4,"28. Looking after children during work. Typically, do children up to five year of age look after each other as part of the same peer group during work?",Yes,[See above],Eri Kashima,DLB,4,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T11,DLB26,,"29. Typically, how much supervision do adults provide to children in work?",Some supervision,"I actually have no idea, but I doubt adults are entirely absent",Eri Kashima,DLB,4,Scalar,Constant supervision,A lot of supervision,Some supervision,Little supervision,No supervision at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T2,DLB18,,30. What language do [q2o2answer] adults typically speak to a [q2o1answer] children in work?,This is highly contextual,,Eri Kashima,DLB,4,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T4,DLB19,,"31. Typically, what language do [q2o1answer] children from four/five year of age prefer to speak with [q2o2answer] adults in work?",This is highly contextual,I have no idea,Eri Kashima,DLB,4,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T5,DLB20,,"32. Typically, what language would a [q2o1answer] child speak to [q2o2answer] children in work?",This is highly contextual,"Idi children would not necessarily be common in work, but could be present if, say, an Idi speaker's relatives are helping out with garden work.",Eri Kashima,DLB,4,Types,[q2o1answer] children do not interact with [q2o2answer] children,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E1,DLB96,,"33. List any other groups that the [q2o1answer] people worked with in the past. List any other group in so far as you believe they had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this interaction happened.",The usual.,NA,Eri Kashima,DLB,4,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E4,DLB97,,"34. What type of data informed your answers to the questions in the domain of labour, overall?",Impressions from my own fieldwork with the exact or related community Published materials by researchers in other fields,NA,Eri Kashima,DLB,4,TypesMultiple,Impressions from my own fieldwork with the exact or related community,Reports from language consultants,Published or ongoing research project of my own on topics covered in this questionnaire,Published material by linguists,Published materials by other researchers in other fields,Other,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E5,DLB98,,35. How certain are you in your responses for the domain of labour?,Somewhat certain,NA,Eri Kashima,DLB,4,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E6,DLB99,,36. List any comments or notes that you feel are relevant to this section of the questionnaire.,,NA,Eri Kashima,DLB,4,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P1,DLC00,,1. Has the local community ever been a relevant domain of contact between [q2o1answer] and [q2o2answer]?,Yes,,Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2,DLC0a,,2. How long have [q2o1answer] and [q2o2answer] people been in contact in the local community?,"As per other domains, multiple generations.",,Eri Kashima & Dineke Schokkin,DLC,5,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2N,DLC0aN,,"Coarse time range, numerical",1800-2020,NA,Eri Kashima & Dineke Schokkin,DLC,5,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3,DLC0b,,3. What is the time frame when the largest number of people had the most opportunities for interaction in the local community?,"Since villages were officially formed under the colonial administration in the mid 1960s. The Williams ethnography already mentions villages in the 1910-20s, so at least for the last 100 years people have been living in villages. Perhaps the population increase in the 20th century has also contributed to larger village units becoming a more typical form of local community. Today, people still spend a lot of time in their garden places, and we believe this may have been the more common form of local community prior to the village system (see Kashima 2020: 37-39). Garden places can consist of a couple of nuclear families (see answers in DLB)",,Eri Kashima & Dineke Schokkin,DLC,5,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3N,DLC0bN,,"Coarse time range, numerical",1910-2020,NA,Eri Kashima & Dineke Schokkin,DLC,5,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P4,DLC01,,"4. What other languages, if any, are spoken in the local community?","As per other domains. But since we are talking about a period which includes the present, we will include English. (Though the role of English would be pretty minimal.)",,Eri Kashima & Dineke Schokkin,DLC,5,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DLC02,,5. Choose one of the following where [q2o1answer] people are most likely to speak in an unmonitored way.,Band,"Geographically, this would be in the garden places that are located in pockets around the area. So in fact, the local community today may not be the space where a truly unmonitored form of speech will be produced.",Eri Kashima & Dineke Schokkin,DLC,5,Types,Nuclear Family,Band,Neighbourhood or village,Town or city,Other,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D6,DLC28,,6. Where do [q2o1answer] and [q2o2answer] people typically meet up in the local community?,This is highly contextual,"As per labour, it would depend on whether the Nen speaker is a man or woman, and therefore working on ""his own land"" or ""her husband's land""",Eri Kashima & Dineke Schokkin,DLC,5,Types,At places which belong to the [q2o1answer],At places which belong to the [q2o2answer],At places which belong to some other group,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D11,DLC27,,7. How much influence can the [q2o1answer] exert over [q2o2answer] in the activities of the local community?,Influence is somewhat exerted,"Contextual, by virtue of being tied to the answer above. But I wouldn't say the extremes of ""always"" or ""never"" on the scale above",Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Influence is practically always exerted,Influence is very much exerted,Influence is somewhat exerted,Influence is exerted very little,Influence is practically never exerted,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-1,"8. Involvement in the Local Community. Does involvement in the local community differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",No,"The three YES's overlap almost entirely, in my understanding",Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-2,"8. Involvement in the Local Community. Does involvement in the local community differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",No,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-3,"8. Involvement in the Local Community. Does involvement in the local community differ based on a person's descent group, such as clan, house, lineage group, kinship group?",Yes,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-4,"8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",Yes,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-5,"8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s race, ethnicity, or some other similar grouping?",No,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-6,8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s age or life stage?,No,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-7,8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s place identity and affiliation?,Yes,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-8,8. Involvement in the Local Community. Does involvement in the local community differ based on a person’s sex or gender?,Yes,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DLC25,DLC25-9,8. Involvement in the Local Community. Does involvement in the local community differ based on any other communities of practice?,No,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D10,DLC29,,9. Do [q2o1answer] people experience the local community differently depending on social group?,Yes,"EK: My responses will be that of Nen speaking men who remained in their patrilineal village, as these are the people who I would know most about - not necessarily because this is the group that has the densest contact.",Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S1,DLC16,,10. How often do [q2o1answer] people interact with [q2o2answer] people in the local community?,Very often,,Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Very often,Often,Sometimes,Rarely,Very rarely,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S3,DLC15,,11. How many people are typically involved in interactions between [q2o1answer] people and [q2o2answer] people in the local community?,Interactions are sometimes under 5 people,"When people to meet together in the local community (i.e. come together as a village), it's often for the purpose of doing something as a group. So in these contexts there may be more interactions with more than five people, say, compared to the other social domains.",Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Interactions are practically always under 5 people,Interactions are often under 5 people,Interactions are sometimes under 5 people,Interactions are rarely under 5 people,Interactions are practically never under 5 people,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S4,DLC05,,12. How physically proximate to each other are people in the local community?,Proximate to each other,"Effort being relative. In absolute terms, people live very close to each other. If a Nen person wanted to interact with Idi pepople in the local community, aside from their own nuclear family member, they may have to meander through the village. It's not without some effort.",Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Very proximate to each other,Proximate to each other,Somewhat proximate to each other,Far from each other,Very far from each other,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S5,DLC14,,13. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in the local community?,Neutral,"Hard to say. We can imagine that there may be some antagonism that runs through a community at any given time. We would not be confident saying that they are ""friendly"", but couldn't say that they are ""hostile"" either.",Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Friendly,Somewhat friendly,Neutral,Somewhat hostile,Hostile,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S6,DLC32,,"14. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people, in the form of local communities?",Many people,"In theory, any Nen person could speak to a Idi person of the local community. I say ""many"" rather than ""everyone"" since there may be some gender preferences here, where men tend to socialise with other men, meaning that Nen men would not be socialising so much with Idi women. And most of the Idi people in the local community would be women.",Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S7,DLC33,,"15. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people, in the form of local communities?",Many people,"As above, but the reverse. If we consider the Idi local community point of view.",Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BA,DLC18,,16. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in the local community?,Neutral,,Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Very positive,Positive,Neutral,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BH,DLC19,,"17. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, in the context of the local community?",[q2o1answer] see themselves as neither superior nor inferior to [q2o2answer].,,Eri Kashima & Dineke Schokkin,DLC,5,Scalar,[q2o1answer] see themselves as very superior to [q2o2answer],[q2o1answer] see themselves as superior to [q2o2answer],q2o1answer] see themselves as neither superior nor inferior to [q2o2answer],[q2o1answer] see themselves as inferior to [q2o2answer],[q2o1answer] see themselves as very inferior to [q2o2answer],NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BI,DLC04,,18. What language do [q2o1answer] people expect to be used with [q2o2answer] people in the local community?,This is highly contextual,"One of the stated ideal is that people should speak Nen while in a Nen village, Idi in an Idi village etc, but there are also stated ideals that say ""you should speak the interlocutor's language"". We take this variation to mean that the expectation is also highly contextual.",Eri Kashima & Dineke Schokkin,DLC,5,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O1,DLC11,,19. What language do [q2o1answer] people typically speak with [q2o2answer] people in the local community?,This is highly contextual,,Eri Kashima & Dineke Schokkin,DLC,5,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O2,DLC12,,20. Do [q2o1answer] people typically simplify their language when speaking with [q2o2answer] people in the local community?,This is highly contextual,,Eri Kashima & Dineke Schokkin,DLC,5,Types,Yes,No,This is highly contextual,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O3,DLC13,,"21. Typically in the local community, how fluently do [q2o1answer] people speak the [q2o2answer] language?",Fluently,,Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Very fluently,Fluently,Somewhat fluently,A little fluently,Not fluently at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DLC09,,22. What language do [q2o2answer] people typically speak with [q2o1answer] people in the local community?,This is highly contextual,,Eri Kashima & Dineke Schokkin,DLC,5,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I2,DLC10,,"23. Typically in the local community, how well do [q2o1answer] people understand the [q2o2answer] language?",Well,"This would depend on the degree of cross-linguistic intermarriage within a person’s immediate family. We think it likely that everyone has at least some knowledge of Idi, particularly receptive. Also due to the size of the Nen community, a larger percentage of people would be expected to be highly fluent in Idi, compared to within the Idi community which is numerically larger and so a comparatively lower proportion of people marry Nen speakers.",Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Very well,Well,Somewhat,Poorly,Very poorly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T1,DLC31,,24. How much do [q2o1answer] children participate in the activities of the local community?,They participate somewhat,,Eri Kashima & Dineke Schokkin,DLC,5,Scalar,They practically always participate,They participate a lot,They participate somewhat,They participate a little,They practically never participate,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DLC03,DLC03-1,"25. Looking after children in the local community. Typically, do adults other than the parents look after children up to five year of age in the local community?",Yes,"Yes in the village. For garden places, only if other adults and other children are part of the same garden place.",Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DLC03,DLC03-2,"25. Looking after children in the local community. Typically, do parents look after children up to five year of age in the local community?",Yes,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DLC03,DLC03-3,"25. Looking after children in the local community. Typically, do children from sibling-kin groups look after children up to five year of age in local community?",Yes,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DLC03,DLC03-4,"25. Looking after children in the local community. Typically, do children up to five year of age look after each other as part of the same peer group in the local community?",Yes,[See above],Eri Kashima & Dineke Schokkin,DLC,5,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T11,DLC20,,"26. Typically in the local community, how much supervision do adults provide to children’s own activities, such as playing?",Some supervision,,Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Constant supervision,A lot of supervision,Some supervision,Little supervision,No supervision at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T2,DLC21,,27. What language do [q2o2answer] adults typically speak to a [q2o1answer] children?,This is highly contextual,I'd imagine it would depend on the relationship between the adult and child,Eri Kashima & Dineke Schokkin,DLC,5,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T4,DLC22,,"28. Typically, what language do [q2o1answer] children from four/five year of age prefer to speak with [q2o2answer] adults?",This is highly contextual,I'd imagine it would depend on the relationship between the child and adult,Eri Kashima & Dineke Schokkin,DLC,5,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T5,DLC23,,"29. Typically, what language would a [q2o1answer] child speak to [q2o2answer] children in the local community?",[q2o1answer] children do not interact with [q2o2answer] children,"If we take the stated ideal to reflect reality, children who speak Nen in the village would all be children of male Nen speakers, i.e. this local community would be a Nen village. Ergo, there should be no ""Idi children"" in the sense that there should be no (or few) children who speak Idi most of the time as an emblematic language.",Eri Kashima & Dineke Schokkin,DLC,5,Types,[q2o1answer] children do not interact with [q2o2answer] children],The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E1,DLC96,,"30. List any other groups that the [q2o1answer] formed local communities with in the past, in so far as you believe this had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this happened.",Same as other domains.,NA,Eri Kashima & Dineke Schokkin,DLC,5,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E4,DLC97,,"31. What type of data informed your answers to the questions in the domain of local community, overall?",Impressions from my own fieldwork with the exact or related community Other,NA,Eri Kashima & Dineke Schokkin,DLC,5,TypesMultiple,Impressions from my own fieldwork with the exact or related community,Reports from language consultants,Published or ongoing research project of my own on topics covered in this questionnaire,Published material by linguists,Published materials by other researchers in other fields,Other,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E5,DLC98,,32. How certain are you in your responses for the domain of local community?,Somewhat certain,NA,Eri Kashima & Dineke Schokkin,DLC,5,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E6,DLC99,,33. List any comments or notes that you feel are relevant to this section of the questionnaire.,,NA,Eri Kashima & Dineke Schokkin,DLC,5,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P1,DKN00,,1. Have [q2o1answer] and [q2o2answer] people occupied the same spaces of knowledge transfer together?,No,"We do not have direct evidence, but assume this to be the case. Williams (1936:187-206) extensively describes male initiation of Kerake (Nmbo) people, and the rituals appear to be tribally or village based. Membership to tribe and village are patrilineally traced, much like language. So Nen speakers are likely to have been involved in the knowledge domain with other Äkämär, who are ostensibly licensed Nen speakers. Unfortunately, neither of us know much about women's private circles. EK has heard about neighbouring Keraki women having gatherings where older women taught secret words of power to younger women, but does not know whether this included non-Keraki women. We understand of Idi speakers (Dibläg tribes people) is that they are considered culturally distinct from the Kerake/Äkämär/Nambu branch speakers, and so we are lead to believe that Dibläg have their own distinct set of esoteric and ritual knowledge. 
+
+Church is a significant community space today, but again, these are organised on a village basis. Sometimes there are larger gatherings that span multiple villages, such as the women's fellowship held every few years - but this is something that only began with a specific missionary in the 1980s as far as we are aware. While this is a major event in the social calendar when it occurs, we feel it is yet to be established as a significant space of knowledge exchange across the Nen-Idi tribal divide.
+
+For these reasons, we would say there is no contact in this domain for this contact set.",Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2,DKN0a,,2. How long have [q2o1answer] and [q2o2answer] people been involved in the knowledge domain together for?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2N,DKN0aN,,"Coarse time range, numerical",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3,DKN0b,,3. What is the time frame when the largest number of people had the most opportunities for interaction in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3N,DKN0bN,,"Coarse time range, numerical",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P4,DKN01,,"4. What other languages, if any, are spoken in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DKN02,,5. The most influential form of knowledge in this contact scenario is:,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,Global,Local,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D4,DKN04,,6. The relationship between [q2o1answer] people and [q2o2answer] people in the knowledge domain can typically be characterised as:,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,"[q2o1answer] people are masters, [q2o2answer] are novices","[q2o2answer] people are masters, [q2o1answer] are novices",None of the above,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D6,DKN05,,7. Where does knowledge transmission between [q2o1answer] people and [q2o2answer] people typically take place?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,At places which belong to the [q2o1answer],At places which belong to the [q2o2answer],At places which belong to some other group,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D11,DKN28,,8. How much influence can the [q2o1answer] people exert over the decision of what constitutes legitimate knowledge in this domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Influence is practically always exerted,Influence is very much exerted,Influence is somewhat exerted,Influence is exerted very little,Influence is practically never exerted,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D9,DKN06,,9. Are there any speech styles used in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D12,DKN31,,"10. How often are these speech styles typically used in knowledge transmission, in comparison with unmonitored speech?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Always,Sometimes,As much as unmonitored speech,Rarely,Never,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-1,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-2,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-3,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person's descent group, such as clan, house, lineage group, kinship group?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-4,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-5,"11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s race, ethnicity, or some other similar grouping?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-6,11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s age or life stage?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-7,11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s place identity and affiliation?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-8,11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s sex or gender?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DKN03,DKN03-9,11. Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on any other communities of practice?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D10,DKN07,,12. Do [q2o1answer] people experience the knowledge domain differently depending on social group?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S1,DKN08,,13. How often do [q2o1answer] people interact with [q2o2answer] people in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Very often,Often,Sometimes,Rarely,Very rarely,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S3,DKN10,,14. How many people are typically involved in interactions between [q2o1answer] people and [q2o2answer] people in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Interactions are practically always under 5 people,Interactions are  often under 5 people,Interactions are sometimes under 5 people,Interactions are rarely under 5 people,Interactions are practically never under 5 people,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S4,DKN11,,15. How physically proximate to each other are people in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Very proximate to each other,Proximate to each other,Somewhat proximate to each other,Far from each other,Very far from each other,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S5,DKN12,,16. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Friendly,Somewhat friendly,Neutral,Somewhat hostile,Hostile,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S6,DKN29,,"17. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people, in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S7,DKN30,,"18. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people, in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BA,DKN13,,19. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Very positive,Positive,Neutral,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BH,DKN14,,"20. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, in the context of the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,[q2o1answer] see themselves as very superior to [q2o2answer],[q2o1answer] see themselves as superior to [q2o2answer],q2o1answer] see themselves as neither superior nor inferior to [q2o2answer],[q2o1answer] see themselves as inferior to [q2o2answer],[q2o1answer] see themselves as very inferior to [q2o2answer],NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BI,DKN16,,21. What language do [q2o1answer] people expect to be used with [q2o2answer] people in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O1,DKN17,,22. What language do [q2o1answer] people typically speak with [q2o2answer] people when in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O2,DKN18,,23. Do [q2o1answer] people typically simplify their language when speaking with [q2o2answer] people in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,Yes,No,This is highly contextual,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O3,DKN19,,"24. Typically in the knowledge domain, how fluently do [q2o1answer] people speak the [q2o2answer] language?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Very fluently,Fluently,Somewhat fluently,A little fluently,Not fluently at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DKN20,,25. What language do [q2o2answer] people typically speak with [q2o1answer] people in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I2,DKN21,,"26. Typically in the knowledge domain, how well do [q2o1answer] people understand the [q2o2answer] language?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Very well,Well,Somewhat,Poorly,Very poorly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T1,DKN22,,27. How much do [q2o1answer] children participate in the activities of the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,They practically always participate,They participate a lot,They participate somewhat,They participate a little,They practically never participate,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DKN23,DKN23-1,"28. Looking after children in the knowledge domain. Typically, do adults other than the parents look after children up to five year of age in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DKN23,DKN23-2,"28. Looking after children in the knowledge domain. Typically, do parents look after children up to five year of age in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DKN23,DKN23-3,"28. Looking after children in the knowledge domain. Typically, do children from sibling-kin groups look after children up to five year of age in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DKN23,DKN23-4,"28. Looking after children in the knowledge domain. Typically, do children up to five year of age look after each other as part of the same peer group in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T11,DKN27,,"29. Typically, how much structured instruction do adults provide to children in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Constant structured supervision,A lot of structured supervision,Some structured supervision,Little structured supervision,No structured supervision at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T2,DKN24,,30. What language do [q2o2answer] adults typically speak to a [q2o1answer] children in the knowledge domain?,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T4,DKN25,,"31. Typically, what language do [q2o1answer] children from four/five year of age prefer to speak with [q2o2answer] adults?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T5,DKN26,,"32. Typically, what language would a [q2o1answer] child speak to [q2o2answer] children in the knowledge domain?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Types,[q2o1answer] children do not interact with [q2o2answer] children,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E1,DKN96,,"33. List any other groups that the [q2o1answer] people intereacted with in the past, in the knowledge domain. List any other group in so far as you believe they had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this interaction happened.",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E4,DKN97,,"34. What type of data informed your answers to the questions in the domain of knowledge, overall?",NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,TypesMultiple,Impressions from my own fieldwork with the exact or related community,Reports from language consultants,Published or ongoing research project of my own on topics covered in this questionnaire,Published material by linguists,Published materials by other researchers in other fields,Other,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E5,DKN98,,35. How certain are you in your responses for the domain of knowledge? QID: DKN98,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E6,DKN99,,36. List any comments or notes that you feel are relevant to this section of the questionnaire.,NA,NA,Eri Kashima & Dineke Schokkin,DKN,1,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P1,DTR00,,1. Has trade ever been a relevant domain of contact between [q2o1answer] and [q2o2answer]?,No,"Initially EK has thought a ""yes"" for this domain, but after discussion with DS we have decided a ""no"" would be more accurate given the definition of trade given here. We very rarely observed what could be described as commercial transactions - we feel that the exchange of goods and services are more centered around relationship building rather than with complete strangers. 
+
+Transactions of some skills and special items may have occured in a some-what commercial fashion; in the sense that relationship building wasn't necessarily a primary motivator for the exchange. Some things exchanged include possibly tobacco plants, and maybe sorcery services. Though again, we imagine these exchanges would have happened via personal ties, and not via strangers.",Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2,DTR0a,,2. How long have [q2o1answer] and [q2o2answer] people traded for?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P2N,DTR0aN,,"Coarse time range, numerical",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3,DTR0b,,3. What is the time frame when the largest number of people had the most opportunities for interaction in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P3N,DTR0bN,,"Coarse time range, numerical",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Value,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,P4,DTR01,,"4. What other languages, if any, are spoken in trade?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DTR02,DTR02-1,5. Traded good types. Do [q2o1answer] people trade raw materials and primary produce to [q2o2answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DTR02,DTR02-2,5. Traded good types. Do [q2o1answer] people trade luxury items to [q2o2answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DTR02,DTR02-3,5. Traded good types. Do [q2o1answer] people trade manufactured goods to [q2o2answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DTR02,DTR02-4,5. Traded good types. Do [q2o2answer] people trade raw material and primary produce to [q2o1answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DTR02,DTR02-5,5. Traded good types. Do [q2o2answer] people trade luxury items to [q2o1answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D1,DTR02,DTR02-6,5. Traded good types. Do [q2o2answer] people trade manufactured goods to [q2o1answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D4,DTR24,,"6. Typically when trading with [q2o2answer] people, the [q2o1answer] people will",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,Use money,Exchange objects,This is contextual,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D6,DTR06,,7. Where does trade between [q2o1answer] and [q2o2answer] people typically take place?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,At places which belong to the [q2o1answer],At places which belong to the [q2o2answer],At places which belong to some other group,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D11,DTR17,,8. How much influence can the [q2o1answer] exert over the [q2o2answer] in terms of trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Influence is practically always exerted,Influence is very much exerted,Influence is somewhat exerted,Influence is exerted very little,Influence is practically never exerted,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D9,DTR28,,9. Are there any speech styles used in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D12,DTR35,,"10. How often are these speech styles typically used in trade, in comparison with unmonitored speech?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Always,Sometimes,As much as monitored speech,Rarely,Never,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-1,"11. Involvement in trade. Does involvement in trade differ based on hierarchies associated to profession or wealth, such as a person's class or caste?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-2,"11. Involvement in trade. Does involvement in trade differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-3,"11. Involvement in trade. Does involvement in trade differ based on a person's descent group, such as clan, house, lineage group, kinship group?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-4,"11. Involvement in trade. Does involvement in the knowledge domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-5,"11. Involvement in trade. Does involvement in trade differ based on a person’s race, ethnicity, or some other similar grouping?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-6,11. Involvement in trade. Does involvement in trade differ based on a person’s age or life stage?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-7,11. Involvement in trade. Does involvement in trade differ based on a person’s place identity and affiliation?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-8,11. Involvement in trade. Does involvement in trade differ based on a person’s sex or gender?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D3,DTR03,DTR03-9,11. Involvement in trade. Does involvement in trade differ based on any other communities of practice?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,D10,DTR32,,12. Do [q2o1answer] people experience trade differently depending on social group?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S1,DTR14,,13. How often do [q2o1answer] people trade with [q2o2answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Very often,Often,Sometimes,Rarely,Very rarely,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S3,DTR22,,14. How many people are typically involved in interactions between [q2o1answer] people and [q2o2answer] people when trading?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Interactions are practically always under 5 people,Interactions are often under 5 people,Interactions are sometimes under 5 people,Interactions are rarely under 5 people,Interactions are practically never under 5 people,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S4,DTR36,,15. How physically proximate to each other are people involved in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Very proximate to each other,Proximate to each other,Somewhat proximate to each other,Far from each other,Very far from each other,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S5,DTR23,,16. How would you rate the overall relationship between [q2o1answer] and [q2o2answer] people in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Friendly,Somewhat friendly,Neutral,Somewhat hostile,Hostile,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S6,DTR33,,17. What is the proportion of total [q2o1answer] people who have opportunities for contact with [q2o2answer] people in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,S7,DTR34,,18. What is the proportion of total [q2o2answer] people who have opportunities for contact with [q2o1answer] people in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Almost everyone,Many people,Some people,Few people,Practically no one,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BA,DTR16,,19. What is the overall attitude that [q2o1answer] people have towards [q2o2answer] people in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Very positive,Positive,Neutral,Negative,Very negative,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BH,DTR29,,"20. How do [q2o1answer] people view themselves overall in relation to [q2o2answer] people, within the context of trade?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,[q2o1answer] see themselves as very superior to [q2o2answer],[q2o1answer] see themselves as superior to [q2o2answer],q2o1answer] see themselves as neither superior nor inferior to [q2o2answer],[q2o1answer] see themselves as inferior to [q2o2answer],[q2o1answer] see themselves as very inferior to [q2o2answer],NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,BI,DTR08,,21. What language do [q2o1answer] people expect to be used when trading with [q2o2answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O1,DTR11,,22. What language do [q2o1answer] people typically speak when trading with [q2o2answer] people?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O2,DTR12,,23. Do [q2o1answer] people typically simplify their language when speaking with [q2o2answer] people during trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,Yes,No,This is highly contextual,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,O3,DTR13,,"24. Typically in trade, how fluently do [q2o1answer] people speak the [q2o2answer] language?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Very fluently,Fluently,Somewhat fluently,A little fluently,Not fluently at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I1,DTR09,,25. What language do [q2o2answer] people typically speak when trading with the [q2o1answer]?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,I2,DTR10,,"26. Typically in trade, how well do [q2o1answer] people understand the [q2o2answer] language?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Very well,Well,Somewhat,Poorly,Very poorly,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T1,DTR18,,27. How much do [q2o1answer] children participate in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,They practically always participate,They participate a lot,They participate somewhat,They participate a little,They practically never participate,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DTR27,DTR27-1,"28. Looking after children during trade. Typically, do adults other than the parents look after children up to five year of age during trade?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DTR27,DTR27-2,"28. Looking after children during trade. Typically, do parents look after children up to five year of age during trade?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DTR27,DTR27-3,"28. Looking after children during trade. Typically, do children from sibling-kin groups look after children up to five year of age during trade?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T6,DTR27,DTR27-4,"28. Looking after children during trade. Typically, do children up to five year of age look after each other as part of the same peer group during trade?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Binary-YesNo,Yes,No,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T11,DTR31,,"29. Typically, how much supervision do adults provide to children in trade?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Constant supervision,A lot of supervision,Some supervision,Little supervision,No supervision at all,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T2,DTR19,,30. What language do [q2o2answer] adults typically speak to a [q2o1answer] children in trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T4,DTR20,,"31. Typically, what language do [q2o1answer] children from four/five year of age prefer to speak with [q2o2answer] adults?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,T5,DTR37,,"32. Typically, what language would a [q2o1answer] child speak to [q2o2answer] children in trade?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Types,[q2o1answer] children do not interact with [q2o2answer] children,The [q2o1answer] language,The [q2o2answer] language,Some other language,This is highly contextual,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E1,DTR96,,"33. List any other groups that the [q2o1answer] traded with in the past, in so far as you believe this had linguistic consequences for the [q2o1answer] language. Where possible, please also give an indication of when this happened.",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E4,DTR97,,"34. What type of data informed your answers to the questions in the domain of trade, overall?",NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,TypesMultiple,Impressions from my own fieldwork with the exact or related community,Reports from language consultants,Published or ongoing research project of my own on topics covered in this questionnaire,Published material by linguists,Published materials by other researchers in other fields,Other,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E5,DTR98,,35. How certain are you in your responses for the domain of trade?,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Scalar,Very certain,Certain,Somewhat certain,Uncertain,Very uncertain,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+1.0.0,set28,set45a,E6,DTR99,,36. List any comments or notes that you feel are relevant to this section of the questionnaire. QID: DTR99,NA,NA,Eri Kashima & Dineke Schokkin,DTR,2,Comment,NA,NA,NA,NA,NA,NA,NA,NA,Kashima1 Schokkin2,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,FDG
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

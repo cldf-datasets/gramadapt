@@ -1,0 +1,35 @@
+QN_SetMetadata,,,,,,,,,,,,,,,,,,,,,
+Set,Sukunimi,[q2o1answer],FLang,FISO,[q2o2answer],NLang,NISO,ContactPair,ContactPairCode,AArea,AAreaNum,Continent,Continent2,OrderDEM,OrderDFK,OrderDLB,OrderDLC,OrderDKN,OrderDTR,Coder,JoinedData
+set01,Cobbinah,Baïnounk Gubëeher,Baïnounk Gubëeher,gube1234,Mandinka,Mandinka,mnk,Baïnounk Gubëeher - Mandinka,gube1234-mnk,African Savannah,African Savannah I,Africa,Africa,,,,,,,EK,V0M
+set02,Ziegelmeyer,Bade,Bade,bde,Manga Kanuri,Manga Kanuri,kby,Bade - Manga Kanuri,bde-kby,African Savannah,African Savannah II,Africa,Africa,3,3,,,1,5,FDG,V0M
+set04,Tries1,Kambaata,Kambaata,ktb,Wolaytta,Wolaytta,wal,Kambaata - Wolaytta,ktb-wal,Greater Abyssinia,Greater Abyssinia II,Africa,Africa,,,,,,,FDG,V0M
+set05,Souag,Korandje,Korandje,dsq,North African Arabic,North African Arabic,tez,Korandje - NA Arabic,aaa-bbb,North Africa,North Africa I,Africa,Africa,,,,,,,FDG,V0M
+set06a,Linguist,FLNA,FLNA,fff,NLNA,NLNA,nnn,FLNA-NLNA,fff-nnn,North Africa,North Africa II,Africa,Africa,,,,,,,FDG,V0M
+set07,Phiri,Ndebele,Ndebele,nde,Tjwao,Tjwao,tjwa1234,Ndebele - Tjawo,nde-tjwa1234,Southern Africa,Southern Africa I,Africa,Africa,,,,,,,FDG,V0M
+set08,Gibson,Rangi,Rangi,lag,Alagwa,Alagwa,wbj,Rangi - Alagwa,lag-wbj,South Africa,South Africa II,Africa,Africa,,,,,,,FDG,V0M
+set09,Singer,Mawng,Mawng,mph,Kunbarlang,Kunbarlang,wlg,Mawng - Kunbarlang,mph-wlg,North Australia,North Australia I,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,EK,V0M
+set10,Vaughan,Burarra,Burarra,bvr,Yolngu Matha,Yolngu Matha,yuul1239,Burara - Yolngu Matha,bvr-yuul1239,North Australia,North Australia II,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,EK,V2
+set13b,Kowalik,South Saami,South Saami,sma,Norwegian/Swedish,Norwegian/Swedish,nor,South Saami - NorwegianSwedish,sma-nor,Europe,Europe I,Eurasia,Eurasia,,,,,,,OR,V2
+set14,Brincat,Maltese,Maltese,mlt,Sicilian,Sicilian,scn,Maltese - Scicilian,mlt-scn,Europe,Europe II,Eurasia,Eurasia,,,,,,,OR,V0M
+set15a,Haynie,Yurok,Yurok,yur,Karuk,Karuk,kyh,Yurok - Karuk,yur-kyh,California,California I,Americas,N America,,,,,,,OR,V2
+set19a,Ocasio,Garifuna,Garifuna,cab,Galibi,Galibi,car,Garifuna - Galibi,cab-car,Mesoamerica,Mesoamerica I,Americas,S +C America,,,,,,,EK,V2
+set20a,Avelino,Toluca (Temoaya) Otomi,Toluca (Temoaya) Otomi,ott,Mexican Spanish,Mexican Spanish,ieu,Temoaya Otomi - Mexican Spanish,ott-ieu,Mesoamerica,Mesoamerica II,Americas,S +C America,,,,,,,FDG,V0M
+set21,SmithDennis,Papapana,Papapana,ppn,Rotokas,Rotokas,roo,Papapana - Rotokas,ppn-roo,Oceania,Oceania I,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,EK,V0M
+set22,Moro1,Alorese,Alorese,aol,Adang,Adang,adn,Alorese - Adang,aol-adn,Oceania,Oceania II,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,EK,V0M
+set23,Hannss,Chipaya,Chipaya,cap,Central (aka Bolivian) Aymara,Central (aka Bolivian) Aymara,ayr,Chipaya - Central Aymara,cap-ayr,Andean,Andean I,Americas,S +C America,,,,,,,FDG,V0M
+set26a,Gholami,Zaza,Zaza,zza,Turkish,Turkish,tur,Zaza - Turkish,zza-tur,Greater Mesopotamia,Greater Mesopotamia II,Eurasia,Eurasia,,,,,,,OR,V0M
+set27,Ghosh,Santali,Santali,atc,Bengali,Bengali,ieu,Santali - Bengali,atc-ieu,Indic,Indic I,Eurasia,Eurasia,,,,,,,OR,V0M
+set28,Kulkarni-Joshi,Kupwar Marathi,Kupwar Marathi,mar,Kupwar Kannada,Kupwar Kannada,kan,Kupwar Marathi - Kupwar Kannada,mar-kan,Indic,Indic II,Eurasia,Eurasia,,,,,,,EK,V2
+set30d,Zikmundova,Sibe,Sibe,sjo,Uighur,Uighur,uig,Sibe - Uighur,sjo-uig,Inner Asia,Inner Asia II,Eurasia,Eurasia,,,,,,,FDG,V2
+set33,Hall,Muak Sa-aak,Muak Sa-aak,tlq,Tai Lue,Tai Lue,khb,Muak Sa-aak - Tai Lue,tlq-khb,Southeast Asia,Southeast Asia I,Eurasia,Eurasia,,,,,,,OR,V0M
+set34,Jenny,Burmese,Burmese,mya,Mon,Mon,mnw,Burmese - Mon,mya-mnw,Southeast Asia,Southeast Asia II,Eurasia,Eurasia,,,,,,,OR,V0M
+set35c,Berge,Aleut,Aleut,ale,Eyak,Eyak,eya,Aleut - Eyak,ale-eya,Alaska-Oregon,Alaska-Oregon I,Americas,N America,,,,,,,OR,V2
+set36,Nater,Nuxalk,Nuxalk,blc,North Wakashan,North Wakashan,kwk,Nuxalk - North Wakashan,blc-kwk,Alaska-Oregon,Alaska-Oregon II,Americas,N America,,,,,,,EK,V0M
+set40a,Jacka,Ipili,Ipili,ipi,Hewa,Hewa,ham,Ipili - Hewa,ipi-ham,Interior New Guinea,Interior New Guinea II,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,EK,V0M
+set41c,Bowden,Kwoma,Kwoma,kmo,Manambu,Manambu,mle,Kwoma - Manambu,kmo-mle,North Coast New Guinea,North Coast New Guinea I,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,EK,V0M
+set42a,Schokkin,Paluai,Paluai,blq,Tok Pisin,Tok Pisin,tpi,Paluai-Tok Pisin,blq-tpi,North Coast New Guinea,North Coast New Guinea II,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,FDG,V2
+set43,Olsson,Marind,Marind,mrz,Marori,Marori,mok,Marind - Marori,mrz-mok,Southern New Guinea,Southern New Guinea I,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,EK,V0M
+set45a,Kashima1,Nen,Nen,nqn,Idi,Idi,idi,Nen - Idi,nqn-idi,Southern New Guinea,Southern New Guinea III,Papuanesia + Pacific,Papuanesia + Pacific,,,,,,,FDG,V2
+set48,OspinaBozzi,Yuhup,Yuhup,yab,Macuna,Macuna,myy,Yuhup - Macuna,yab-myy,Northeast South America,Northeast South America III,Americas,S +C America,,,,,,,EK,V0M
+set49a,Carpio1,Western Toba,Western Toba,tob,Wichí,Wichí,wich1261,Western Toba - Wichí,tob-wich1261,Southest South America,Southest South America I,Americas,S +C America,,,,,,,OR,V0M
+set51,Messineo,Toba,Toba,tob,Spanish,Spanish,spa,Toba-Spanish,tob-spa,Southest South America,Southest South America II,Americas,S +C America,,,,,,,OR,V0M

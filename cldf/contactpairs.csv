@@ -1,0 +1,33 @@
+ID,Focus_Language_ID,Neighbour_Language_ID,Area
+set01,set01-F,set01-N,African Savannah
+set02,set02-F,set02-N,African Savannah
+set04,set04-F,set04-N,Greater Abyssinia
+set05,set05-F,set05-N,North Africa
+set07,set07-F,set07-N,Southern Africa
+set08,set08-F,set08-N,South Africa
+set09,set09-F,set09-N,North Australia
+set10,set10-F,set10-N,North Australia
+set13b,set13b-F,set13b-N,Europe
+set14,set14-F,set14-N,Europe
+set15a,set15a-F,set15a-N,California
+set19a,set19a-F,set19a-N,Mesoamerica
+set20a,set20a-F,set20a-N,Mesoamerica
+set21,set21-F,set21-N,Oceania
+set22,set22-F,set22-N,Oceania
+set23,set23-F,set23-N,Andean
+set26a,set26a-F,set26a-N,Greater Mesopotamia
+set27,set27-F,set27-N,Indic
+set28,set28-F,set28-N,Indic
+set30d,set30d-F,set30d-N,Inner Asia
+set33,set33-F,set33-N,Southeast Asia
+set34,set34-F,set34-N,Southeast Asia
+set35c,set35c-F,set35c-N,Alaska-Oregon
+set36,set36-F,set36-N,Alaska-Oregon
+set40a,set40a-F,set40a-N,Interior New Guinea
+set41c,set41c-F,set41c-N,North Coast New Guinea
+set42a,set42a-F,set42a-N,North Coast New Guinea
+set43,set43-F,set43-N,Southern New Guinea
+set45a,set45a-F,set45a-N,Southern New Guinea
+set48,set48-F,set48-N,Northeast South America
+set49a,set49a-F,set49a-N,Southest South America
+set51,set51-F,set51-N,Southest South America
