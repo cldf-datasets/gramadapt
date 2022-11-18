@@ -85,10 +85,19 @@ class Dataset(BaseDataset):
                 Parameter_ID='F',
                 Name=code,
             ))
+        args.writer.objects['ParameterTable'].append(dict(
+            ID='S',
+            Name='Contact pair',
+        ))
 
         for d in self.raw_dir.read_csv('QN_SetMetadata.Sheet1QNSetMetadata.csv', dicts=True, dialect=Dialect(skipRows=1)):
             if d['FLang'] == 'FLNA':
                 continue
+            args.writer.objects['CodeTable'].append(dict(
+                ID='S-{}'.format(d['Set']),
+                Parameter_ID='S',
+                Name=d['Set'],
+            ))
             for ltype in ['F', 'N']:
                 glang = glangs[LCODES.get(d[ltype + 'ISO'], d[ltype + 'ISO'])]
                 args.writer.objects['LanguageTable'].append(dict(
@@ -100,11 +109,18 @@ class Dataset(BaseDataset):
                     Macroarea=glang.macroareas[0].name if glang.macroareas else None,
                 ))
                 args.writer.objects['ValueTable'].append(dict(
-                    ID='{}-{}'.format(d['Set'], ltype),
+                    ID='F-{}-{}'.format(d['Set'], ltype),
                     Language_ID='{}-{}'.format(d['Set'], ltype),
                     Parameter_ID='F',
                     Code_ID='F-yes' if ltype == 'F' else 'F-no',
                     Value='Yes' if ltype == 'F' else 'No',
+                ))
+                args.writer.objects['ValueTable'].append(dict(
+                    ID='S-{}-{}'.format(d['Set'], ltype),
+                    Language_ID='{}-{}'.format(d['Set'], ltype),
+                    Parameter_ID='S',
+                    Code_ID='S-{}'.format(d['Set']),
+                    Value=d['Set'],
                 ))
             args.writer.objects['contactpairs.csv'].append(dict(
                 ID=d['Set'],

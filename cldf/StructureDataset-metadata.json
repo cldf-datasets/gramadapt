@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "7bbb0bd",
+            "dc:created": "1616b98",
             "dc:title": "Repository"
         },
         {
@@ -37,7 +37,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 348,
+            "dc:extent": 412,
             "tableSchema": {
                 "columns": [
                     {
@@ -276,7 +276,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 380,
+            "dc:extent": 381,
             "tableSchema": {
                 "columns": [
                     {
@@ -330,7 +330,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 1170,
+            "dc:extent": 1202,
             "tableSchema": {
                 "columns": [
                     {

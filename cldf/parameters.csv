@@ -1,5 +1,6 @@
 ID,Name,Description,datatype,Question_ID
 F,Focus language,,,
+S,Contact pair,,,
 OT1,1. How long have [q2o1answer] and [q2o2answer] people been in contact overall?,,Comment,OT1
 OT1N,"Coarse time range, numerical",,Value,OT1N
 OT2,2. What is the overall time frame when the largest number of people had the most opportunities for interaction?,,Comment,OT2
