@@ -4,7 +4,7 @@ bs4==0.0.1
 certifi==2022.9.24
 chardet==5.0.0
 cldfbench==1.12.0
--e git+https://github.com/cldf-datasets/gramadapt@1616b98dea1727113e5972ec3dba0b9ddfdede7f#egg=cldfbench_gramadapt
+-e git+https://github.com/cldf-datasets/gramadapt@9b9366b3c76c65e42e16f9c660b2099375c268be#egg=cldfbench_gramadapt
 cldfcatalog==1.5.1
 cldfzenodo==0.2.0
 clldutils==3.12.0

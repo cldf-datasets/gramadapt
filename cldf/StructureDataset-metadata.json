@@ -12,13 +12,13 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "1616b98",
+            "dc:created": "9b9366b",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6-21-g51e5fe3f92",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         }
     ],

@@ -31,7 +31,7 @@ Since `cldfbench` will lookup language metadata in Glottolog data, we also need 
 and the `pyglottolog` package (to be installed via `pip install pyglottolog`).
 
 
-## Conversion
+## Conversion overview
 
 `cldfbench` supports a two-step conversion workflow, implemented as two commandlind commands
 - `cldfbench download`: Many `cldfbench`-curated datasets use this to actually download raw data (hence the name). Here, we repurpose the command
@@ -44,6 +44,34 @@ A couple more `cldfbench` subcommands are used to convert metadata into various 
 - `cldfbench readme` will create a landing page for the repository at README.md
 
 
-## Releasing
+## Conversion walk-through
 
-The full process to create a release of the data will be described in a document RELEASING.md, similar to e.g. https://github.com/cldf-datasets/wacl/blob/main/RELEASING.md
+Typically, conversion would be triggered by new data.
+
+1. Put new questionaires in `raw/`, ideally using a naming convention for files that allows addressing
+   them via `.glob()` so that rewriting code in `cldfbench_gramadapt.py` is not necessary.
+2. Extract data from excel sheets:
+   ```shell
+   cldfbench download cldfbench_gramadapt.py
+   ```
+3. Recreate the CLDF data:
+   ```shell
+   cldfbench makecldf cldfbench_gramadapt.py --glottolog-version v4.6 --glottolog PATH/TO/CLONE/OF/glottolog/glottolog
+   ```
+4. Validate the output:
+   ```shell
+   pytest
+   ```
+5. Inspect whether the changes are reasonable:
+   ```shell
+   git diff -b cldf
+   ```
+6. Commit and push changes.
+
+
+## Visualization
+
+Create a map showing the GramAdapt contact pairs running (requires `pip install cldfviz`):
+```shell
+cldfbench cldfviz.map cldf --parameters F,S --colormaps '{"Yes":"circle","No":"diamond"},tol' --output galangs.html --language-labels --markersize 20
+```
