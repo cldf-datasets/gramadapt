@@ -13,28 +13,31 @@ LCODES = {
 def norm_answer(s, opts=None, dt=''):
     if s.strip() == 'NA':
         return None
-    if s.startswith('q2o1answer'):
+    # We fix a couple of smaller consistency issues with the data here.
+    if s.startswith('q2o1answer'):  # A missing "["
         s = '[' + s
+    # Inconsistent spellings:
     if s == 'Published materials by other researchers in other fields':
         s = 'Published materials by researchers in other fields'
     if 'Impressions from my own fieldwork with a related community' in s:
         s = s.replace(
             'Impressions from my own fieldwork with a related community',
             'Impressions from my own fieldwork with the exact or related community')
-    if opts:
+    if opts:  # A fixed set of options is given for valid answers. We try to pick one.
         if dt.endswith('Multiple'):
+            # If multiple answers are allowed, we have to match repeatedly.
             res = []
             for opt in opts:
                 if opt in s:
                     res.append(opt)
                     s = s.replace(opt, '').strip()
-            assert not s
+            assert not s, 'Unmatched stuff in answer'
             return res
 
         for opt in opts:
             if s == opt:
                 return opt
-            if slug(s) == slug(opt):
+            if slug(s) == slug(opt):  # Match fuzzily.
                 return opt
         return s
     return s
@@ -47,16 +50,22 @@ class Dataset(BaseDataset):
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
 
-    def cmd_download(self, args):
+    def cmd_download(self, args):  # called from "cldfbench download"
         self.raw_dir.xlsx2csv('QN_V1.0.0_Template.xlsx')
         self.raw_dir.xlsx2csv('set28_45a_V1.0.0.xlsx')
 
-    def cmd_makecldf(self, args):
+    def cmd_makecldf(self, args):  # called from "cldfbench makecldf"
         glangs = {}
         for l in args.glottolog.api.languoids():
+            # cldfbench has injected a Glottolog API instance into `args`.
             glangs[l.id] = l
             if l.iso:
                 glangs[l.iso] = l
+        # `args.writer.cldf` is a `pycldf.Dataset` instance.
+        # See https://pycldf.readthedocs.io/en/latest/dataset.html#pycldf.dataset.Dataset
+
+        # Extend the data schema:
+        # -----------------------
         args.writer.cldf.add_component(
             'LanguageTable',
         )
@@ -74,7 +83,21 @@ class Dataset(BaseDataset):
             'Area',
         )
         args.writer.cldf.add_foreign_key('contactpairs.csv', 'Neighbour_Language_ID', 'LanguageTable', 'ID')
+        args.writer.cldf.add_table(
+            'questions.csv',
+            {
+                "name": "ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            }
+        )
+        args.writer.cldf.add_component('ParameterTable', 'datatype', 'Question_ID')
+        args.writer.cldf.add_foreign_key('ParameterTable', 'Question_ID', 'questions.csv', 'ID')
+        args.writer.cldf.add_component('CodeTable')
 
+        # Add data:
+        # ---------
+
+        # We add two "synthetic" parameters which can later be used to plot contact pairs on a map.
         args.writer.objects['ParameterTable'].append(dict(
             ID='F',
             Name='Focus language',
@@ -85,11 +108,13 @@ class Dataset(BaseDataset):
                 Parameter_ID='F',
                 Name=code,
             ))
+        # We add the contact pair ID as value of a parameter.
         args.writer.objects['ParameterTable'].append(dict(
             ID='S',
             Name='Contact pair',
         ))
 
+        # Add language metadata:
         for d in self.raw_dir.read_csv('QN_SetMetadata.Sheet1QNSetMetadata.csv', dicts=True, dialect=Dialect(skipRows=1)):
             if d['FLang'] == 'FLNA':
                 continue
@@ -98,7 +123,7 @@ class Dataset(BaseDataset):
                 Parameter_ID='S',
                 Name=d['Set'],
             ))
-            for ltype in ['F', 'N']:
+            for ltype in ['F', 'N']:  # We add both, focus and neighburing languages to the table.
                 glang = glangs[LCODES.get(d[ltype + 'ISO'], d[ltype + 'ISO'])]
                 args.writer.objects['LanguageTable'].append(dict(
                     ID='{}-{}'.format(d['Set'], ltype),
@@ -128,23 +153,14 @@ class Dataset(BaseDataset):
                 Neighbour_Language_ID='{}-N'.format(d['Set']),
                 Area=d['AArea'],
             ))
-        args.writer.cldf.add_table(
-            'questions.csv',
-            {
-                "name": "ID",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-            }
-        )
-        args.writer.cldf.add_component('ParameterTable', 'datatype', 'Question_ID')
-        args.writer.cldf.add_foreign_key('ParameterTable', 'Question_ID', 'questions.csv', 'ID')
-        args.writer.cldf.add_component('CodeTable')
 
+        # Add question metadata:
         domains = collections.defaultdict(dict)
         qids = set()
         #Version, Set, Old_Set_ID, CID, QID, Sub-ID, Wording, Response, Comment, Respondent, Dom, DomOrder, DataType, Answer1, Answer2, Answer3, Answer4, Answer5, Answer6, Answer7, Answer8, Surname,
         # [q2o1answer], FLang, F_ISO, [q2o2answer], NLang, N_ISO, ContactPair, ContactPair_ISO, AArea, Reviewer
         for d in self.raw_dir.read_csv('QN_V1.0.0_Template.set51.csv', dicts=True):
-            if not d['QID']:
+            if not d['QID']:  # There are trailing empty rows in the sheet.
                 continue
             pid = d['Sub-ID'] or d['QID']
 
@@ -180,6 +196,7 @@ class Dataset(BaseDataset):
                     ))
                     domains[pid][code] = '{}-{}'.format(pid, code.lower())
 
+        # Add data from completed questionaires:
         for d in self.raw_dir.read_csv('set28_45a_V1.0.0.set51.csv', dicts=True):
             if not d['QID']:
                 continue
