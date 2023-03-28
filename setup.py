@@ -9,6 +9,9 @@ setup(
     entry_points={
         'cldfbench.dataset': [
             'gramadapt=cldfbench_gramadapt:Dataset',
+        ],
+        'cldfbench.commands': [
+            'gramadapt=gramadaptcommands',
         ]
     },
     install_requires=[
