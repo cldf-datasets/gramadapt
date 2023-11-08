@@ -28,6 +28,7 @@ Asking about orthography gives us a sense of degrees in literacy. Asking about s
 - Halh Mongolian (Mongolic; Mongolia, Russian Federation) uses both Cyrillic and Mongolian script. Mongolian script was used prior to 1941 and again since the 1990s. According to Ethnologue, also Phags-pa script and Tibetan script were previously in use.
 - Lao (Kra-Dai; Laos) uses Lao script. Ethnologue lists the literacy rate of L1 speakers as 30–60% and L2 speakers 50–75%.
 - Gujari (Indo-European; India, Pakistan, Afghanistan) uses primarily the Nastaliq variant of Arabic script. According to Ethnologue, also Devanagari script is used and there are plans for future development of using Devanagari to write the language. Ethnologue lists the literacy rate of L2 speakers as 5–15%.
+- Adang (Timor-Alor-Pantar; Indonesia) does not have a standard orthography. Children seem to be mostly educated in Indonesian (Haan 2001; Hamilton et al. 2013: 18). Literacy rate appears low but no figures are available.
 
 
 
@@ -37,3 +38,6 @@ Asking about orthography gives us a sense of degrees in literacy. Asking about s
 
 
 OR
+
+Hamilton, Amanda, Jawee Perla & Laura C. Robinson. 2013. A psycholinguistic assessment of language change in eastern Indonesia: Evidence from the HALA project. In Mari C. Jones & Sarah Ogilvie (eds.), Keeping Languages Alive: Documentation, Pedagogy and Revitalization, 16-28. Cambridge: Cambridge University Press.
+
