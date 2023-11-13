@@ -54,7 +54,9 @@ Population density may affect linguistic diversity either directly or indirectly
 
 On the other hand, population density is one of the factors that may have rather immediate consequences to social networks and thus to the way linguistic innovations spread in the language community (e.g., Bowern 2010: 667; see also Fagyal et al. 2010). Where populations are dense, social networks also tend to be dense and complex, being favorable to the local clustering of linguistic innovations. High population density may also favor stronger interpersonal contacts and such intense contacts tend to lead to faster spread of innovations (Wolfram & Schilling-Estes 2003). This line of thinking goes back to Bloomfield (1933) and his "principle of local density". At best, population density could function as a measure for the degree of contact between two language populations.
 
-However, population density alone may be an insufficient predictor of the intensity of contact. In his "gravity model", Trudgill (1974) proposed that population density should be treated together with the geographic distance between populations to explain dialect diffusion. Later work suggested even more factors were needed to better understand which factors may inhibit and speed up the spread of innovations (see e.g. the discussion in Wolfram & Schilling-Estes 2003). All in all, population density has been suggested as an important factor that may be related to both the rate of innovations and the speed of their diffusion across the language group.
+However, population density alone may be an insufficient predictor of the intensity of contact. In his "gravity model", Trudgill (1974) proposed that population density should be treated together with the geographic distance between populations to explain dialect diffusion. Later work suggested even more factors were needed to better understand which factors may inhibit and speed up the spread of innovations (see e.g. the discussion in Wolfram & Schilling-Estes 2003).
+
+All in all, population density has been suggested as an important factor that may be related to both the rate of innovations and the speed of their diffusion across the language group. For further work (also by non-linguists) see for instance Baxter (2006), Burridge (2017), and Burridge & Blaxter (2021).
 
 
 **References**
@@ -162,6 +164,41 @@ pages = {2097-2102},
 year = {2015},
 doi = {10.1073/pnas.1419704112},
 URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
+}
+
+@article{burridge2021a,
+  author = {Burridge, James and Blaxter, Tamsin},
+  date = {2021},
+  title = {Inferring the drivers of language change using spatial models},
+  volume = {2},
+  pages = {035018},
+  url = {https://doi.org/10.1088/2632-072X/abfa82},
+  doi = {10.1088/2632-072X/abfa82},
+  journal = {Journal of Physics: Complexity},
+  number = {3}
+}
+
+
+@inproceedings{baxter2006a,
+  author = {Baxter, G.J.},
+  date = {2006},
+  title = {The effect of population density on the propagation of language changes},
+  pages = {99–105},
+  booktitle = {Eighteenth Annual Colloquium of the Spatial Information Research Centre},
+  address = {Dunedin, New Zealand}
+}
+
+
+@article{burridge2017a,
+  author = {Burridge, James},
+  date = {2017},
+  title = {Spatial evolution of human dialects},
+  volume = {7},
+  pages = {031008},
+  url = {https://doi.org/10.1103/PhysRevX.7.031008},
+  doi = {10.1103/PhysRevX.7.031008},
+  journal = {Physical Review X},
+  number = {3}
 }
 
 *KS, EK, OR*
