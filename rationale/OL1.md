@@ -1,6 +1,7 @@
 
 ## OL1: What is the approximate rate of formal literacy in the Focus Group community?
 
+(in the questionnaire this question is formulated as: "What is the approximate rate of formal literacy in the Focus language speaking community?")
 
 
 **Goal**
@@ -11,13 +12,12 @@ The purpose of this question is to get an approximate sense of how prevalent lit
 
 **Definitions**
 
-- Literacy can be grouped into formal and functional literacy. *Formal literacy* refers minimally to knowing the orthography and being able to read simple texts familiar to the reader but potentially still with problems in understanding. *Functional literacy* refers to the ability of reading and understanding a range of different kinds of texts that are new to the reader, and to the ability of writing.
-
-
+Literacy can be grouped into formal and functional literacy.
+- *Formal literacy* refers minimally to knowing the orthography and being able to read simple texts familiar to the reader but potentially still with problems in understanding.
+- *Functional literacy* refers to the ability of reading and understanding a range of different kinds of texts that are new to the reader, and to the ability of writing.
 
 
 Please answer from the perspective of *formal literacy.*
-
 
 
 The scale is as follows:
@@ -26,7 +26,7 @@ The scale is as follows:
 
 *Fairly low:* a minority of members in the language community (roughly 20–40%) are literate.
 
-*Intermediate:*roughly half of all members in the language community (roughly 40–60%) are literate.
+*Intermediate:* roughly half of all members in the language community (roughly 40–60%) are literate.
 
 *Fairly high:* the majority of members in the language community (roughly 60–80%) are literate.
 
