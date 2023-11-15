@@ -23,17 +23,16 @@ The scale is as follows:
 
 **Examples**
 
-The following examples are from The Ethnologue (Eberhard, Simons & Fennig 2023) unless otherwise specified.
-- Rotokas (North Bougainville, Papua New Guinea) uses Latin script. The literacy rate of both L1 and L2 Rotokas speakers is 50–75%.
-- North Saami (Uralic; Norway, Sweden, Finland) uses Latin script. A spelling reform in 1979 resulted in a "pan-Scandinavian" orthography, meaning that the language is to be spelled the same way irrespective of the state where it is written (Östman 2011: 367). The Ethnologue lists the literacy rate of L1 North Saami speakers as 30–60% and L2 speakers as 75–100%.
-- Huichol (Uto-Aztecan; Mexico) uses Latin script.The literacy rate of L1 Huichol speakers is 5–10% and that of L2 speakers 5–15%.
-- Halh Mongolian (Mongolic; Mongolia, Russian Federation) uses both Cyrillic and Mongolian script. Mongolian script was used prior to 1941 and again since the 1990s. According to The Ethnologue, also Phags-pa script and Tibetan script were previously in use.
-- Lao (Kra-Dai; Laos) uses Lao script. The literacy rate of L1 speakers is 30–60% and that of L2 speakers 50–75%.
-- Gujari (Indo-European; India, Pakistan, Afghanistan) uses primarily the Nastaliq variant of Arabic script. Also Devanagari script is used and there are plans for future development of using Devanagari to write the language. The literacy rate of L2 speakers is 5–15%, but no figures are reported for L1 speakers. It appears that literacy rate of L1 speakers is fairly low: even in villages with education (which is unusual), fewer than half of the males and hardly any females had received any schooling (see Losey 2002: 6-7 and references there).
-- Adang (Timor-Alor-Pantar; Indonesia) does not have a standard orthography. Children seem to be mostly educated in Indonesian (Haan 2001; Hamilton et al. 2013: 18). Literacy rate appears low but no figures are available.
+The following examples are from *The Ethnologue* (Eberhard, Simons & Fennig 2023) unless otherwise specified.
+- Rotokas speakers (North Bougainville, Papua New Guinea) use Latin script; it seems to have a standard ortography. The literacy rate of both L1 and L2 Rotokas speakers is 50–75%.
+- North Saami speakers (Uralic; Norway, Sweden, Finland) use Latin script. A spelling reform in 1979 resulted in a "pan-Scandinavian" standard orthography, meaning that the language is to be spelled the same way irrespective of the state where it is written (Östman 2011: 367). The Ethnologue lists the literacy rate of L1 North Saami speakers as 30–60% and L2 speakers as 75–100%.
+- Huichol speakers (Uto-Aztecan; Mexico) use Latin script; it appears to have a standard ortography.The literacy rate of L1 Huichol speakers is 5–10% and that of L2 speakers 5–15%.
+- Halh Mongolian speakers (Mongolic; Mongolia, Russian Federation) use both Cyrillic and Mongolian script; a standard ortography is in use. Mongolian script was used prior to 1941 and again since the 1990s. According to The Ethnologue, also Phags-pa script and Tibetan script were previously in use.
+- Lao speakers (Kra-Dai; Laos) use the standard Lao script. The literacy rate of L1 speakers is 30–60% and that of L2 speakers 50–75%.
+- Gujari speakers (Indo-European; India, Pakistan, Afghanistan) use primarily the Nastaliq variant of Arabic script. Also Devanagari script is used and there are plans for future development of using Devanagari to write the language. All in all, ortography seems to be used but in a non-standard way, although attempts at standardizing have been underway (see Losey 2002). The literacy rate of L2 speakers is 5–15%, but no figures are reported for L1 speakers. It appears that literacy rate of L1 speakers is fairly low: even in villages with education (which is unusual), fewer than half of the males and hardly any females had received any schooling (see Losey 2002: 6-7 and references there).
+- Adang speakers (Timor-Alor-Pantar; Indonesia) do not have a standard orthography. Children seem to be mostly educated in Indonesian (Haan 2001; Hamilton et al. 2013: 18). Literacy rate appears low but no figures are available.
 
 
-  
 
 **Theoretical & Empirical Support**
 
