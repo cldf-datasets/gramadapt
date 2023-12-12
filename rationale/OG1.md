@@ -16,7 +16,10 @@ Underlyingly this question requires data about the number of speakers/users of t
 
 This question and possible answers are adapted from the question [SCCS64](https://d-place.org/parameters/SCCS64#2/14.3/151.2) in the Standard Cross-Cultural Sample (Murdock & White 1969; Murdock & Wilson 1972) and the question [WNAI288](https://d-place.org/parameters/WNAI288#4/46.38/240.03) in the Western North American Indian database (Jorgensen 1980). Both features are available in D-Place (Kirby et al. 2016; 2018c; 2018d); they can be accessed by clicking the links above.
 
-The scale is as follows:
+
+**Scale**
+
+The scale of answers is the following:
 
 *Less than 2 persons per 10 sq. km*
 
