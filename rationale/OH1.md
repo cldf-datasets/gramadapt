@@ -10,6 +10,8 @@ This question seeks information about the occurrence of any societal upheaval or
 
 **Scale**
 
+The scale of answers is the following:
+
 *Yes*
 
 *No*
