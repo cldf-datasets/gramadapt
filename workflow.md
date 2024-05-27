@@ -56,7 +56,7 @@ Typically, conversion would be triggered by new data.
    ```
 3. Recreate the CLDF data:
    ```shell
-   cldfbench makecldf cldfbench_gramadapt.py --glottolog-version v4.6 --glottolog PATH/TO/CLONE/OF/glottolog/glottolog
+   cldfbench makecldf cldfbench_gramadapt.py --glottolog-version v5.0 --glottolog PATH/TO/CLONE/OF/glottolog/glottolog
    ```
 4. Validate the output:
    ```shell
@@ -73,5 +73,5 @@ Typically, conversion would be triggered by new data.
 
 Create a map showing the GramAdapt contact pairs running (requires `pip install cldfviz`):
 ```shell
-cldfbench cldfviz.map cldf --parameters F,S --colormaps '{"Yes":"circle","No":"diamond"},tol' --output galangs.html --language-labels --markersize 20
+cldfbench cldfviz.map cldf --parameters F,S --colormaps '{"Yes":"circle","No":"diamond"},tol' --output map.svg --language-labels --markersize 7 --format svg --width 20 --pacific-centered --with-ocean --no-legend --padding-top 3 --padding-bottom 3
 ```

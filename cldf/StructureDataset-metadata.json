@@ -5,27 +5,30 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "Eri Kashima, Francesca Di Garbo, Oona Raatikainen, Rosn\u00e1taly Avelino, Sacha Beck, Anna Berge, Ana Blanco, Ross Bowden, Nicol\u00e1s Brid, Joseph M Brincat, Mar\u00eda Bel\u00e9n Carpio, Alexander Cobbinah, Paola C\u00faneo, Anne-Maria Fehn, Saloumeh Gholami, Arun Ghosh, Hannah Gibson, Elizabeth Hall, Katja Hann\u00df, Hannah Haynie, Jerry Jacka, Matias Jenny, Richard Kowalik, Sonal Kulkarni-Joshi, Maarten Mous, Marcela Mendoza, Cristina Messineo, Francesca Moro, Hank Nater, Michelle A Ocasio, Bruno Olsson, Ana Mar\u00eda Ospina Bozzi, Agustina Paredes, Admire Phiri, Nicolas Quint, Erika Sandman, Dineke Schokkin, Ruth Singer, Ellen Smith-Dennis, Lameen Souag, Yunus Sulistyono, Yvonne Treis, Matthias Urban, Jill Vaughan, Deginet Wotango Doyiso, Georg Ziegelmeyer, Veronika Zikmundov\u00e1. (2023). GramAdapt Crosslinguistic Social Contact Dataset. (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7508054",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:title": "The title",
+    "dc:description": "This dataset is a first attempt at collecting socio-cultural-demographic data about contact scenarios, including attempts at quantification as well as qualitative elaborations by respondents.\n\nRespondents were approached as academic collaborators, not as volunteers in an experiment. Respondents were not chosen at random. Respondents were chosen based on their published research and fieldwork experience with either or both Focus and Neighbour language communities.",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:title": "GramAdapt Crosslinguistic Social Contact Dataset",
     "dcat:accessURL": "https://github.com/cldf-datasets/gramadapt",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "9b9366b",
+            "dc:created": "8a745a4",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
@@ -37,7 +40,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 412,
+            "dc:extent": 12924,
             "tableSchema": {
                 "columns": [
                     {
@@ -93,6 +96,10 @@
                         "required": false,
                         "separator": ";",
                         "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Respondent"
                     }
                 ],
                 "foreignKeys": [
@@ -138,7 +145,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 64,
+            "dc:extent": 68,
             "tableSchema": {
                 "columns": [
                     {
@@ -209,12 +216,44 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 32,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:description": "Contributions in GramAdapt are 'contact sets', i.e. descriptions of a contact situation between two neighbouring languages. Each contact set is unique in terms of the timeframe they respond for. We urge researchers who use this dataset to read the Comments column for questions CID P1, P2, and P3 carefully for each set, to get a sense of the heterogeneity of timeframes represented in each set, as well as the whole dataset.",
+            "dc:extent": 34,
             "tableSchema": {
                 "columns": [
                     {
+                        "dc:description": "The unique identifier of a contact pair. The two digit IDs were assigned based on order of completion. Sets that are linked by language communities, but represent different time slices, contain a Roman alphabet symbol, i.e. Set06a and Set06b are for the contact scenario between Maltese and Sicilian, but for different time periods of contact.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
                         "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "name": "Contributor"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
                     },
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
@@ -225,7 +264,12 @@
                         "name": "Neighbour_Language_ID"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "The GramAdapt team members responsible for checking the responses.",
+                        "separator": " & ",
+                        "name": "Reviewers"
+                    },
+                    {
+                        "dc:description": "Information about the geographical location of each contact set based on Autotyp areal classification",
                         "name": "Area"
                     }
                 ],
@@ -257,7 +301,7 @@
                     "ID"
                 ]
             },
-            "url": "contactpairs.csv"
+            "url": "contributions.csv"
         },
         {
             "dc:extent": 280,
@@ -301,6 +345,12 @@
                         "name": "Description"
                     },
                     {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
+                    },
+                    {
                         "datatype": "string",
                         "name": "datatype"
                     },
@@ -330,7 +380,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 1202,
+            "dc:extent": 1535,
             "tableSchema": {
                 "columns": [
                     {

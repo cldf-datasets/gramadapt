@@ -1,0 +1,174 @@
+{
+    "creators": [
+        {
+            "name": "Eri Kashima"
+        },
+        {
+            "name": "Francesca Di Garbo"
+        },
+        {
+            "name": "Oona Raatikainen"
+        },
+        {
+            "name": "Rosn\u00e1taly Avelino"
+        },
+        {
+            "name": "Sacha Beck"
+        },
+        {
+            "name": "Anna Berge"
+        },
+        {
+            "name": "Ana Blanco"
+        },
+        {
+            "name": "Ross Bowden"
+        },
+        {
+            "name": "Nicol\u00e1s Brid"
+        },
+        {
+            "name": "Joseph M Brincat"
+        },
+        {
+            "name": "Mar\u00eda Bel\u00e9n Carpio"
+        },
+        {
+            "name": "Alexander Cobbinah"
+        },
+        {
+            "name": "Paola C\u00faneo"
+        },
+        {
+            "name": "Anne-Maria Fehn"
+        },
+        {
+            "name": "Saloumeh Gholami"
+        },
+        {
+            "name": "Arun Ghosh"
+        },
+        {
+            "name": "Hannah Gibson"
+        },
+        {
+            "name": "Elizabeth Hall"
+        },
+        {
+            "name": "Katja Hann\u00df"
+        },
+        {
+            "name": "Hannah Haynie"
+        },
+        {
+            "name": "Jerry Jacka"
+        },
+        {
+            "name": "Matias Jenny"
+        },
+        {
+            "name": "Richard Kowalik"
+        },
+        {
+            "name": "Sonal Kulkarni-Joshi"
+        },
+        {
+            "name": "Maarten Mous"
+        },
+        {
+            "name": "Marcela Mendoza"
+        },
+        {
+            "name": "Cristina Messineo"
+        },
+        {
+            "name": "Francesca Moro"
+        },
+        {
+            "name": "Hank Nater"
+        },
+        {
+            "name": "Michelle A. Ocasio"
+        },
+        {
+            "name": "Bruno Olsson"
+        },
+        {
+            "name": "Ana Mar\u00eda Ospina Bozzi"
+        },
+        {
+            "name": "Agustina Paredes"
+        },
+        {
+            "name": "Admire Phiri"
+        },
+        {
+            "name": "Nicolas Quint"
+        },
+        {
+            "name": "Erika Sandman"
+        },
+        {
+            "name": "Dineke Schokkin"
+        },
+        {
+            "name": "Ruth Singer"
+        },
+        {
+            "name": "Ellen Smith-Dennis"
+        },
+        {
+            "name": "Lameen Souag"
+        },
+        {
+            "name": "Yunus Sulistyono"
+        },
+        {
+            "name": "Yvonne Treis"
+        },
+        {
+            "name": "Matthias Urban"
+        },
+        {
+            "name": "Jill Vaughan"
+        },
+        {
+            "name": "Deginet Wotango Doyiso"
+        },
+        {
+            "name": "Georg Ziegelmeyer"
+        },
+        {
+            "name": "Veronika Zikmundov\u00e1"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Eri Kashima",
+            "type": "Editor"
+        },
+        {
+            "name": "Francesca Di Garbo",
+            "type": "Editor"
+        },
+        {
+            "name": "Oona Raatikainen",
+            "type": "Editor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ],
+    "title": "GramAdapt Crosslinguistic Social Contact Dataset",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Eri Kashima, Francesca Di Garbo, Oona Raatikainen, Rosn\u00e1taly Avelino, Sacha Beck, Anna Berge, Ana Blanco, Ross Bowden, Nicol\u00e1s Brid, Joseph M Brincat, Mar\u00eda Bel\u00e9n Carpio, Alexander Cobbinah, Paola C\u00faneo, Anne-Maria Fehn, Saloumeh Gholami, Arun Ghosh, Hannah Gibson, Elizabeth Hall, Katja Hann\u00df, Hannah Haynie, Jerry Jacka, Matias Jenny, Richard Kowalik, Sonal Kulkarni-Joshi, Maarten Mous, Marcela Mendoza, Cristina Messineo, Francesca Moro, Hank Nater, Michelle A Ocasio, Bruno Olsson, Ana Mar\u00eda Ospina Bozzi, Agustina Paredes, Admire Phiri, Nicolas Quint, Erika Sandman, Dineke Schokkin, Ruth Singer, Ellen Smith-Dennis, Lameen Souag, Yunus Sulistyono, Yvonne Treis, Matthias Urban, Jill Vaughan, Deginet Wotango Doyiso, Georg Ziegelmeyer, Veronika Zikmundov\u00e1. (2023). GramAdapt Crosslinguistic Social Contact Dataset. (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7508054</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

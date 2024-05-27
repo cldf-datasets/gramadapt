@@ -1,0 +1,35 @@
+ID,Name,Description,Contributor,Citation,Focus_Language_ID,Neighbour_Language_ID,Reviewers,Area
+set01,Nuxalk - North Wakashan,,Hank Nater,,set01-F,set01-N,Eri Kashima,Alaska-Oregon
+set02,Burmese - Mon,,Matias Jenny,,set02-F,set02-N,Oona Raatikainen,Southeast Asia
+set03,Kambaata - Wolaytta,,Yvonne Treis & Deginet Wotango Doyiso,,set03-F,set03-N,Francesca Di Garbo & Oona Raatikainen,Greater Abyssinia
+set04,Langi - Alagwa,,Hannah Gibson & Maarten Mous,,set04-F,set04-N,Francesca Di Garbo & Oona Raatikainen,Southern Africa
+set05,Papapana - Rotokas,,Ellen Smith-Dennis,,set05-F,set05-N,Eri Kashima,Oceania
+set06a,Maltese - Sicilian,,Joseph Brincat,,set06a-F,set06a-N,Oona Raatikainen & Eri Kashima,Europe
+set07,Ndebele - Tjwao,,Admire Phiri,,set07-F,set07-N,Francesca Di Garbo & Eri Kashima,Southern Africa
+set08,Kwoma - Manambu,,Ross Bowden,,set08-F,set08-N,Eri Kashima & Oona Raatikainen,North Coast New Guinea
+set09,Korandje - North African Arabic,,Lameen Souag,,set09-F,set09-N,Francesca Di Garbo & Oona Raatikainen,North Africa
+set10,FLNA-NLNA,,Anonymous,,set10-F,set10-N,Francesca Di Garbo & Eri Kashima,North Africa
+set11,Bainounk Gubeeher - Mandinka,,Alexander Cobbinah,,set11-F,set11-N,Eri Kashima,African Savannah
+set12,Zaza - Turkish,,Saloumeh Gholami,,set12-F,set12-N,Oona Raatikainen,Greater Mesopotamia
+set13,Ipili - Hewa,,Jerry Jacka,,set13-F,set13-N,Eri Kashima,Interior New Guinea 
+set14,Yuhup - Macuna,,Ana María Ospina Bozzi,,set14-F,set14-N,Eri Kashima & Oona Raatikainen,Northeast South America
+set15,Marind - Marori,,Bruno Olsson,,set15-F,set15-N,Eri Kashima & Oona Raatikainen,Southern New Guinea
+set16,Chipaya - Central Aymara,,Katja Hannß & Matthias Urban,,set16-F,set16-N,Francesca Di Garbo & Oona Raatikainen,Andean
+set17,Temoaya Otomi - Mexican Spanish,,Rosnátaly Avelino,,set17-F,set17-N,Francesca Di Garbo & Oona Raatikainen,Mesoamerica
+set18,Mawng - Kunbarlang,,Ruth Singer,,set18-F,set18-N,Eri Kashima & Oona Raatikainen,North Australia
+set19,Alorese - Adang,,Francesca Moro & Yunus Sulistyono,,set19-F,set19-N,Eri Kashima & Oona Raatikainen,Oceania
+set20,Santali - Bengali,,Arun Ghosh,,set20-F,set20-N,Oona Raatikainen,Indic
+set21,Bade - Manga Kanuri,,Georg Ziegelmeyer,,set21-F,set21-N,Francesca Di Garbo & Eri Kashima,African Savannah
+set22,Muak Sa-aak - Tau Lü,,Elizabeth Hall,,set22-F,set22-N,Oona Raatikainen & Eri Kashima,Southeast Asia
+set23,Sibe - Uighur,,Veronika Zikmundová,,set23-F,set23-N,Francesca Di Garbo & Oona Raatikainen,Inner Asia
+set24,Toba - Spanish,,Cristina Messineo & Paola Cúneo & Agustina Paredes & Nicolás Brid & Ana Blanco,,set24-F,set24-N,Oona Raatikainen,Southeast South America
+set25,Western Toba - Wichí,,María Belén Carpio & Marcela Mendoza,,set25-F,set25-N,Oona Raatikainen,Southeast South America
+set26,Garifuna - Galibi,,Michelle Ocasio,,set26-F,set26-N,Eri Kashima,Mesoamerica
+set27,Paluai - Tok Pisin,,Dineke Schokkin,,set27-F,set27-N,Francesca Di Garbo & Eri Kashima,North Coast New Guinea
+set28,Nen - Idi,,Eri Kashima & Dineke Schokkin,,set28-F,set28-N,Francesca Di Garbo & Oona Raatikainen,Southern New Guinea
+set29,Burarra - Yolngu Matha,,Jill Vaughan,,set29-F,set29-N,Eri Kashima,North Australia
+set30,South Saami - NorwegianSwedish,,Richard Kowalik,,set30-F,set30-N,Oona Raatikainen & Eri Kashima,Europe
+set31,Kupwar Marathi - Kupwar Kannada,,Sonal Kulkarni-Joshi,,set31-F,set31-N,Eri Kashima,Indic
+set32,Yurok - Karuk,,Hannah Haynie,,set32-F,set32-N,Oona Raatikainen,California
+set33,Aleut - Eyak,,Anna Berge,,set33-F,set33-N,Oona Raatikainen,Alaska-Oregon
+set34,Wutun - Bonan,,Erika Sandman,,set34-F,set34-N,Eri Kashima,Inner Asia
