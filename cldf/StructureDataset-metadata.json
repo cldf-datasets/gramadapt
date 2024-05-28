@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "8a745a4",
+            "dc:created": "25c2059",
             "dc:title": "Repository"
         },
         {
@@ -357,6 +357,14 @@
                     {
                         "datatype": "string",
                         "name": "Question_ID"
+                    },
+                    {
+                        "dc:description": "Indicating the domain to which the responses apply. Possible options are the overview questionnaire (OV) and social domains (DEM = Exchange and Marriage; DFK = Family and Kin; DKN = Knowledge; DLB = Labour; DLC = Local Community; DTR = Trade).",
+                        "datatype": {
+                            "base": "string",
+                            "format": "OV|DEM|DFK|DKN|DLB|DLC|DTR"
+                        },
+                        "name": "Domain"
                     }
                 ],
                 "foreignKeys": [

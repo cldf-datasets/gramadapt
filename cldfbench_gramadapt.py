@@ -7,6 +7,9 @@ from clldutils.markup import add_markdown_text
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 from cldfbench.metadata import get_creators_and_contributors
 
+#
+# FIXME: integrate bib!
+#
 NOTES = """
 ## Contact pairs
 
@@ -203,6 +206,7 @@ class Dataset(BaseDataset):
                 Question_ID=qid,
                 Description=cid.read_text(encoding='utf8') if cid else None,
                 datatype=d['DataType'],
+                Domain=d['Dom'],
             ))
             #
             # Add response "B" as code for all questions with domains!
@@ -327,7 +331,19 @@ class Dataset(BaseDataset):
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
             }
         )
-        cldf.add_component('ParameterTable', 'datatype', 'Question_ID')
+        cldf.add_component(
+            'ParameterTable',
+            'datatype',
+            'Question_ID',
+            {
+                'name': 'Domain',
+                'dc:description':
+                    'Indicating the domain to which the responses apply. Possible options are the '
+                    'overview questionnaire (OV) and social domains (DEM = Exchange and Marriage; '
+                    'DFK = Family and Kin; DKN = Knowledge; DLB = Labour; DLC = Local Community; '
+                    'DTR = Trade).',
+                'datatype': {'base': 'string', 'format': 'OV|DEM|DFK|DKN|DLB|DLC|DTR'}
+            }
+        )
         cldf.add_foreign_key('ParameterTable', 'Question_ID', 'questions.csv', 'ID')
-        # Dom: Indicating the domain to which the responses apply. Possible options are the overview questionnaire (OV) and social domains (DEM = Exchange and Marriage; DFK = Family and Kin; DKN = Knowledge; DLB = Labour; DLC = Local Community; DTR = Trade).
         cldf.add_component('CodeTable')
