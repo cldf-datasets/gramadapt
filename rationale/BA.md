@@ -53,7 +53,7 @@ For contact situations, then, a person who is positively oriented towards a pers
 
 **References**
 
-@article{Collar2007,
+@article{Collar2007a,
   title = {Network Theory and Religious Innovation},
   author = {Collar, Anna},
   year = {2007},
@@ -65,7 +65,7 @@ For contact situations, then, a person who is positively oriented towards a pers
   keywords = {Cult Diffusion,Evolution,Network Theory}
 }
 
-@incollection{Giles1978,
+@incollection{Giles1978a,
   title = {Linguistic Differentiation between Ethnic Groups},
   booktitle = {Differentiation between Social Groups: Studies in the Social Psychology of Intergroup Relations},
   author = {Giles, Howard},
@@ -81,7 +81,7 @@ For contact situations, then, a person who is positively oriented towards a pers
   keywords = {Differentiation (Sociology),Intergroup relations,Social groups,Social status}
 }
 
-@article{GilesByrne1982,
+@article{GilesByrne1982a,
   title = {An Intergroup Approach to Second Language Acquisition},
   author = {Giles, Howard and Byrne, Jane L.},
   year = {1982},
@@ -92,7 +92,18 @@ For contact situations, then, a person who is positively oriented towards a pers
   doi = {10.1080/01434632.1982.9994069}
 }
 
-@incollection{Moore2008,
+@incollection{GilesJohnson1981,
+  title = {The Role of Language in Ethnic Group Relations},
+  booktitle = {Intergroup Behaviour},
+  author = {Giles, Howard and Johnson, Patricia},
+  editor = {Turner, J. C. and Giles, Howard},
+  year = {1981},
+  pages = {199--243},
+  publisher = {Blackwell},
+  address = {Oxford}
+}
+
+@incollection{Moore2008a,
   title = {No More Walkabout Long {{Chinatown}}: {{Asian}} Involvement in the Economic and Political Process},
   booktitle = {Politics and State Building in {{Solomon Islands}}},
   author = {Moore, Clive R.},
@@ -101,11 +112,10 @@ For contact situations, then, a person who is positively oriented towards a pers
   pages = {64--95},
   publisher = {Australian National University Press},
   address = {Canberra},
-  doi = {10.22459/psbs.05.2008.03},
-  langid = {english}
+  doi = {10.22459/psbs.05.2008.03}
 }
 
-@incollection{PalomaresEtAl2016,
+@incollection{PalomaresEtAl2016a,
   title = {Intergroup Accommodation, Social Categories, and Identities},
   booktitle = {Communication {{Accommodation Theory}}: {{Negotiating Personal Relationships}} and {{Social Identities}} across {{Contexts}}},
   author = {Palomares, Nicholas A. and Giles, Howard and Soliz, Jordan and Gallois, Cindy},
@@ -115,7 +125,6 @@ For contact situations, then, a person who is positively oriented towards a pers
   publisher = {Cambridge University Press},
   address = {Cambridge},
   isbn = {978-1-316-22653-7},
-  langid = {english},
   annotation = {10.1017/CBO9781316226537.007}
 }
 
