@@ -1,7 +1,7 @@
 
 ## D1: Polygyny - Exchange & Marriage (DEM28)
 
-Is polygyny possible for Focus Group men?Is polygyny possible for Focus Group men?
+Is polygyny possible for Focus Group men? Is polygyny possible for Focus Group men?
 Is polygyny possible for Neighbour Group men?
 Is polygyny possible for men from all societal strata?
 
@@ -34,6 +34,59 @@ Characterizing patterns of intermarriage between Focus Group and Neighbour Group
 
 
 Several explanations have been proposed to account for polygyny as a feature of marriage exchange. Among these, it has been suggested that polygyny occurs in situations of demographic imbalance between the two sexes, where women significantly outnumber men, for instance as a consequence of warfare. However, polygyny is also attested in societies where no such demographic imbalance exists between the sexes or, if it exists, it goes in the opposite direction (more men then women). In societies that practice polygyny, typically some men accumulate more spouses than others, because they are older and/or because they have have more means to sustain bridewealth requirements. In such contexts, polygyny becomes a way of defining social prestige and power dynamics in the male populations.
+
+
+**References**
+
+@article{Butt2001,
+  title = {An Epidemic of Runaway Wives: {{Discourses}} by {{Dani}} Men on Sex and Marriage in Highlands {{Irian Jaya}}, {{Indonesia}}},
+  author = {Butt, Leslie},
+  year = {2001},
+  journal = {Crossroads: An Interdisciplinary Journal of Southeast Asian Studies},
+  volume = {15},
+  number = {1},
+  pages = {55--87}
+}
+
+@article{DeliusGlaser2004,
+  title = {The {{Myths}} of {{Polygamy}}: {{A History}} of {{Extra-Marital}} and {{Multi-Partnership Sex}} in {{South Africa}}},
+  shorttitle = {The {{Myths}} of {{Polygamy}}},
+  author = {Delius, Peter and Glaser, Clive},
+  year = {2004},
+  month = jan,
+  journal = {South African Historical Journal},
+  volume = {50},
+  number = {1},
+  pages = {84--114},
+  issn = {0258-2473, 1726-1686},
+  doi = {10.1080/02582470409464797},
+  urldate = {2022-10-27},
+  langid = {english}
+}
+
+@article{Musisi1991,
+  title = {Women, "{{Elite Polygyny}}," and {{Buganda State Formation}}},
+  author = {Musisi, Nakanyike B.},
+  year = {1991},
+  journal = {Signs},
+  volume = {16},
+  number = {4},
+  eprint = {3174572},
+  eprinttype = {jstor},
+  pages = {757--786},
+  publisher = {University of Chicago Press},
+  issn = {00979740, 15456943},
+  urldate = {2022-10-26}
+}
+
+@misc{Schwimmer1995,
+  title = {Kinship and Social Organization},
+  author = {Schwimmer, Brian},
+  year = {1995/2003},
+  urldate = {2021-03-24},
+  collaborator = {{University of Manitoba}},
+  howpublished = {https://www.umanitoba.ca/faculties/arts/anthropology/tutor/kinmenu.html}
+}
 
 
 
