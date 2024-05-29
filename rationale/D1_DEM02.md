@@ -32,4 +32,38 @@ With this question we also aim at capturing the intensity of contact between Foc
 
 
 
+**References**
+
+
+@article{Chernela2003,
+  title = {Language {{Ideology}} and {{Women}}'s {{Speech}}: {{Talking Community}} in the {{Northwest Amazon}}},
+  author = {Chernela, Janet M.},
+  year = {2003},
+  journal = {American Anthropologist},
+  volume = {105},
+  number = {4},
+  pages = {794--806},
+  doi = {10.1525/aa.2003.105.4.794}
+}
+
+@incollection{Yan2012,
+  title = {The {{Gift}} and {{Gift Economy}}},
+  booktitle = {A Handbook of Economic Anthropology},
+  author = {Yan, Yunxiang},
+  editor = {Carrier, James G.},
+  year = {2012},
+  series = {Elgar Original Reference},
+  edition = {2nd ed},
+  pages = {246--261},
+  publisher = {Edward Elgar},
+  address = {Cheltenham},
+  isbn = {978-1-84980-928-3 978-1-84980-929-0},
+  lccn = {GN448 .H36 2012},
+  keywords = {Economic anthropology},
+  annotation = {OCLC: ocn779245892}
+}
+
+
+
+
 FDG
