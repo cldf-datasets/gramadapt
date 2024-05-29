@@ -1,11 +1,11 @@
 
 ## BH: How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of domain X?
 
--Very superior
--Superior
--Neither superior nor inferior
--Inferior
--Very inferior
+- Very superior
+- Superior
+- Neither superior nor inferior
+- Inferior
+- Very inferior
 
 
 
