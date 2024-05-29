@@ -64,5 +64,74 @@ By defining the range of people with whom marriage is forbidden, exogamic rules 
 Recent research shows that kinship structures may strongly influence the mapping between languages and population structures. Kinship structures are often defined through marriage patterns. Lansing et al. (2017) find that postmarital residence patterns, which promote movements of individuals between speech communities, also lead to uniparental language transmission. More specifically, languages tend to be transmitted matrilineally in matrilocal societies and patrilineally in patrilocal societies. This is demonstrated by looking at the interaction between molecular anthropological data and data on language transmission. In matrilocal communities, language correlates with genetic similarities between individuals on the maternally inherited mtDNA, whereas in patrilocal communities, language correlates with genetic similarities between individuals on the paternally inherited Y chromosome. The study was based on comparisons of genetic and language phylogenies in 25 villages located on two Eastern Indonesian islands, Sumba and Timor. While Sumba villages are traditionally patrilocal, Timor is characterised by a more varied landscape of postmarital residence types: most villages are traditionally matrilocal, but pockets of patri- and ambi-locality are also found.
 
 
+**References**
+
+@article{Fleming2016,
+  title = {Linguistic Exogamy and Language Shift in the Northwest {{Amazon}}},
+  author = {Fleming, Luke},
+  year = {2016},
+  journal = {International Journal of the Sociology of Language},
+  volume = {2016},
+  number = {240},
+  pages = {9--27},
+  doi = {10.1515/ijsl-2016-0013},
+  keywords = {Amazonia,exogamy,language shift,multilingualism}
+}
+
+@article{LansingEtAl2017,
+  title = {Kinship Structures Create Persistent Channels for Language Transmission},
+  author = {Lansing, J. Stephen and Abundo, Cheryl and Jacobs, Guy S. and Guillot, Elsa G. and Thurner, Stefan and Downey, Sean S. and Chew, Lock Yue and Bhattacharya, Tanmoy and Chung, Ning Ning and Sudoyo, Herawati and Cox, Murray P.},
+  year = {2017},
+  journal = {Proceedings of the National Academy of Sciences of the United States of America},
+  volume = {114},
+  number = {49},
+  pages = {12910--12915},
+  doi = {10.1073/pnas.1706416114},
+  keywords = {Coevolution,Cultural evolution,Kinship,Language,Population genetics}
+}
+
+@misc{Schwimmer1995,
+  title = {Kinship and Social Organization},
+  author = {Schwimmer, Brian},
+  year = {1995/2003},
+  urldate = {2021-03-24},
+  collaborator = {{University of Manitoba}},
+  howpublished = {https://www.umanitoba.ca/faculties/arts/anthropology/tutor/kinmenu.html}
+}
+
+@book{Sharma2004,
+  title = {Indian Society: Institutions and Change},
+  shorttitle = {Indian Society},
+  author = {Sharma, Rajendra Kumar},
+  year = {2004},
+  publisher = {{Atlantic Publ. and Distributors}},
+  address = {New Delhi},
+  isbn = {978-81-7156-665-5},
+  langid = {english}
+}
+
+@phdthesis{Stanford2007,
+  title = {Dialect Contact and Identity: A Case Study of Exogamous {{Sui}} Clans},
+  author = {Stanford, James N.},
+  year = {2007},
+  school = {Michigan State University},
+  annotation = {10.25335/M52B8VQ8S}
+}
+
+@article{Stanford2010,
+  title = {Gender, Generations, and Nations: {{An}} Experiment in {{Hmong American}} Discourse and Sociophonetics},
+  author = {Stanford, James N.},
+  year = {2010},
+  journal = {Language and Communication},
+  volume = {30},
+  number = {4},
+  pages = {285--296},
+  issn = {0271-5309},
+  doi = {10.1016/j.langcom.2010.05.002},
+  keywords = {Age,Authority,Diaspora,Gender,Immigration,Indigenous language,Sociophonetics,Southeast Asia}
+}
+
+
+
 
 FDG, EK
