@@ -56,5 +56,53 @@ The options listed in the question correspond to the following types of endogami
 Rules of endogamy contribute to define group identity, status, and power dynamics between neighbouring groups. They thus reinforce and define group boundaries through marriage exchange. Characterising the rules of endogamy that regulate intermarriage between Focus Group and Neighbour Group helps us the relationship between the two groups in terms of community identity. If marriage between individuals from the two groups is encouraged or prescribed as a means of reinforcing and perpetrating group identity, this likely means that, independently of the languages they speak, the two groups conceive of themselves as one (e.g. one descent group, one social group, one ethnicity, one area etc). In other words,
 
 
+**References**
+
+@article{Blackwell1998,
+  title = {Marital {{Homogamy}} in the {{United States}}: {{The Influence}} of {{Individual}} and {{Paternal Education}}},
+  shorttitle = {Marital {{Homogamy}} in the {{United States}}},
+  author = {Blackwell, Debra L.},
+  year = {1998},
+  month = jun,
+  journal = {Social Science Research},
+  volume = {27},
+  number = {2},
+  pages = {159--188},
+  issn = {0049089X},
+  doi = {10.1006/ssre.1998.0618},
+  urldate = {2022-11-28},
+  langid = {english}
+}
+
+@article{Epps2018,
+  title = {Contrasting Linguistic Ecologies: {{Indigenous}} and Colonially Mediated Language Contact in Northwest {{Amazonia}}},
+  author = {Epps, Patience},
+  year = {2018},
+  journal = {Language and Communication},
+  volume = {62},
+  number = {B},
+  pages = {156--169},
+  keywords = {Amazonia,Linguistic ecology,Linguistic exogamy,Maintenance,Multilingualism,Shift}
+}
+
+@misc{Schwimmer1995,
+  title = {Kinship and Social Organization},
+  author = {Schwimmer, Brian},
+  year = {1995/2003},
+  urldate = {2021-03-24},
+  collaborator = {{University of Manitoba}},
+  howpublished = {https://www.umanitoba.ca/faculties/arts/anthropology/tutor/kinmenu.html}
+}
+
+@book{Stirling1965,
+  title = {Turkish {{Village}}},
+  author = {Stirling, Paul},
+  year = {1965},
+  series = {Nature of Human Society Series},
+  publisher = {{Weidenfeld and Nicolson}},
+  address = {London},
+  lccn = {lc66001526}
+}
+
 
 *FDG, EK, OR*
