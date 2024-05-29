@@ -3,13 +3,13 @@
 
 
 
-The Focus Group language The Focus Group language
+- The Focus Group language 
 
-The Neighbour Group language The Neighbour Group language
+- The Neighbour Group language 
 
-Some other language Some other language
+- Some other language 
 
-This is highly contextualThis is highly contextual
+- This is highly contextual
 
 
 
