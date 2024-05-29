@@ -1,12 +1,12 @@
 
 ## D1: Polyandry - Exchange & Marriage (DEM29)
 
-Is polyandry possible for Focus Group women?andry
-Is poly possible for Neighbour Group women?
+Is polyandry possible for Focus Group women?
+Is polyandry possible for Neighbour Group women?
 
-If possible, is polyandry of fraternal type?If possible, is polyandry of fraternal type?
+If possible, is polyandry of fraternal type? If possible, is polyandry of fraternal type?
 
-If possible, is polyandry of non-fraternal type?If possible, is polyandry of non-fraternal type?
+If possible, is polyandry of non-fraternal type? If possible, is polyandry of non-fraternal type?
 
 
 
@@ -41,6 +41,151 @@ The answers to this question may help us further understand the nature of popula
 **Theoretical & Empirical Support**
 
 tba
+
+
+
+**References**
+
+@article{Berreman1962,
+  title = {Pahari {{Polyandry}}: {{A}} Comparison},
+  author = {Berreman, Gerald D.},
+  year = {1962},
+  journal = {American Anthropologist New Series},
+  volume = {64},
+  number = {1},
+  pages = {60--75}
+}
+
+@article{Berreman1978,
+  title = {Ecology, {{Demography}} and {{Domestic Strategies}} in the {{Western Himalayas}}},
+  author = {Berreman, Gerald D.},
+  year = {1978},
+  month = oct,
+  journal = {Journal of Anthropological Research},
+  volume = {34},
+  number = {3},
+  pages = {326--368},
+  issn = {0091-7710, 2153-3806},
+  doi = {10.1086/jar.34.3.3629783},
+  urldate = {2022-10-26},
+  langid = {english}
+}
+
+@article{Berreman1980,
+  title = {Polyandry: {{Exotic Custom Vs}}. {{Analytic Concept}}},
+  shorttitle = {Polyandry},
+  author = {Berreman, Gerald D.},
+  year = {1980},
+  month = sep,
+  journal = {Journal of Comparative Family Studies},
+  volume = {11},
+  number = {3},
+  pages = {377--383},
+  issn = {0047-2328, 1929-9850},
+  doi = {10.3138/jcfs.11.3.377},
+  urldate = {2022-10-26},
+  langid = {english}
+}
+
+@article{Goldstein1971,
+  title = {Stratification, {{Polyandry}}, and {{Family Structure}} in {{Central Tibet}}},
+  author = {Goldstein, Melvyn C.},
+  year = {1971},
+  journal = {Southwestern Journal of Anthropology},
+  volume = {27},
+  number = {1},
+  eprint = {3629185},
+  eprinttype = {jstor},
+  pages = {64--74},
+  publisher = {University of New Mexico},
+  issn = {00384801},
+  urldate = {2022-10-26}
+}
+
+@article{Goldstein1976,
+  title = {Fraternal Polyandry and Fertility in a High {{Himalayan}} Valley in {{Northwest Nepal}}},
+  author = {Goldstein, Melvyn C.},
+  year = {1976},
+  month = jul,
+  journal = {Human Ecology},
+  volume = {4},
+  number = {3},
+  pages = {223--233},
+  issn = {0300-7839, 1572-9915},
+  doi = {10.1007/BF01534287},
+  urldate = {2022-10-26},
+  langid = {english}
+}
+
+@article{Gough1952,
+  title = {Changing {{Kinship Usages}} in the {{Setting}} of {{Political}} and {{Economic Change Among}} the {{Nayars}} of {{Malabar}}},
+  author = {Gough, Kathleen},
+  year = {1952},
+  month = jan,
+  journal = {The Journal of the Royal Anthropological Institute of Great Britain and Ireland},
+  volume = {82},
+  number = {1},
+  eprint = {2844041},
+  eprinttype = {jstor},
+  pages = {71},
+  issn = {03073114},
+  doi = {10.2307/2844041},
+  urldate = {2022-10-26}
+}
+
+@article{Gough1959,
+  title = {The {{Nayars}} and the {{Definition}} of {{Marriage}}},
+  author = {Gough, Kathleen},
+  year = {1959},
+  month = jan,
+  journal = {The Journal of the Royal Anthropological Institute of Great Britain and Ireland},
+  volume = {89},
+  number = {1},
+  eprint = {2844434},
+  eprinttype = {jstor},
+  pages = {23},
+  issn = {03073114},
+  doi = {10.2307/2844434},
+  urldate = {2022-10-26}
+}
+
+@article{Gough1965,
+  title = {A {{Note}} on {{Nayar Marriage}}},
+  author = {Gough, Kathleen},
+  year = {1965},
+  month = jan,
+  journal = {Man},
+  volume = {65},
+  eprint = {2796033},
+  eprinttype = {jstor},
+  pages = {8--11},
+  issn = {00251496},
+  doi = {10.2307/2796033},
+  urldate = {2022-10-26}
+}
+
+@book{Levine1988,
+  title = {The Dynamics of Polyandry: Kinship, Domesticity, and Population on the {{Tibetan}} Border},
+  shorttitle = {The Dynamics of Polyandry},
+  author = {Levine, Nancy E.},
+  year = {1988},
+  publisher = {University of Chicago Press},
+  address = {Chicago},
+  isbn = {978-0-226-47568-4 978-0-226-47569-1},
+  lccn = {DS493.9.N92 L48 1988},
+  keywords = {Kinship,Nepal,Nyinba (Nepalese people),Polyandry,Social life and customs}
+}
+
+@article{Willett1997,
+  title = {Tibetan {{Fraternal Polyandry}}: {{A Review}} of Its {{Advantages}} and {{Breakdown}}},
+  shorttitle = {Tibetan {{Fraternal Polyandry}}},
+  author = {Willett, Jeff},
+  year = {1997},
+  month = jan,
+  journal = {Nebraska Anthropologist},
+  volume = {113},
+  }
+
 
 
 
