@@ -53,4 +53,5 @@ In this questionnaire we treat overt prestige as one of the many factors that af
 
 
 [^1] As Meyerhoff (2011: 41–42) points out, the traditional notion of *covert prestige* as put forward by Trudgill (1972) is different to that of local prestige. Trudgill’s use of covert prestige refers to the mismatch between the stated ideals around language varieties versus what speakers were actually producing in speech. For example, a English speaker from Norwich states that local pronunciations of certain words are “better” than the Standard Southern British realisations, but in unmonitored speech would produce the Standard realisation. This, Trudgill argues, is evidence of covert prestige. In this questionnaire we have chosen not to consider this form of covert prestige, since we predict there are few studies that will have such evidence for the speech communities in our sample.
+
 [^1] *EK*
