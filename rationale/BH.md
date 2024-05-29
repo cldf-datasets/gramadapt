@@ -54,4 +54,91 @@ In this questionnaire we treat overt prestige as one of the many factors that af
 
 [^1] As Meyerhoff (2011: 41–42) points out, the traditional notion of *covert prestige* as put forward by Trudgill (1972) is different to that of local prestige. Trudgill’s use of covert prestige refers to the mismatch between the stated ideals around language varieties versus what speakers were actually producing in speech. For example, a English speaker from Norwich states that local pronunciations of certain words are “better” than the Standard Southern British realisations, but in unmonitored speech would produce the Standard realisation. This, Trudgill argues, is evidence of covert prestige. In this questionnaire we have chosen not to consider this form of covert prestige, since we predict there are few studies that will have such evidence for the speech communities in our sample.
 
+**References**
+
+@article{AkynovaEtAl2014,
+  title = {Language {{Choice Among}} the {{Youth}} of {{Kazakhstan}}: {{English}} as a {{Self-Representation}} of {{Prestige}}},
+  author = {Akynova, Damira and Zharkynbekova, Sholpan and Agmanova, Atirkul and Aimoldina, Aliya and Dalbergenova, Lyazzat},
+  year = {2014},
+  journal = {Procedia - Social and Behavioral Sciences},
+  volume = {143},
+  pages = {228--232},
+  issn = {7778364891},
+  doi = {10.1016/j.sbspro.2014.07.393},
+  abstract = {Due to its popularity in the world, the scope of English functioning is changing nowadays. In Kazakhstan, English is the most taught foreign language in the educational system of Kazakhstan and the world. It is an education discipline as well as the medium of instruction both at secondary and tertiary schools which is supported at the state level. Being in the Expanding circle, English in Kazakhstan is perceived as a language of developed world and prestige. It is clearly observable among the young people. Based on sociolinguistic and discourse-analytic approach, the paper focuses on the analysis of students' speech. By examining daily conversations and social networks of students, the present paper demonstrates that the use of English in Kazakhstan's linguistic landscape serves as a means of constructing identity and communality. The results demonstrate that English is perceived as a language of developed countries, developed economies, therefore, prestige.},
+  keywords = {code-switching,english,language choice,self-representation}
+}
+
+@article{CouplandBishop2007,
+  title = {Ideologised Values for {{British}} Accents},
+  author = {Coupland, Nikolas and Bishop, Hywel},
+  year = {2007},
+  journal = {Journal of Sociolinguistics},
+  volume = {11},
+  number = {1},
+  pages = {74--93},
+  doi = {10.1111/j.1467-9841.2007.00311.x},
+  abstract = {We report quantitative results from a large online survey of 5010 U.K. informants' reactions to 34 different accents ofEnglish, based on simple accent labels. Patterns of accent evaluation, in terms of adjudged levels of prestige, social attractiveness and some other variables, in many regards confirm broad findings from earlier research. Accent-types associated with 'standard' speech are, for example, strongly favoured in the prestige and attractiveness dimensions. Several urban U.K. vernaculars, but not all, are systematically downgraded. On the other hand, robust differences emerge which have not been strongly evidenced previously -particularly differences according to informant gender (with females regularly producing more favourable evaluations) and region (with informants often favouring their own and linked varieties). There are also some important effects by informant age, for example with younger informants attributing less prestige to 'standard' accents. We interpret the findings as indicating rather persistent U.K. language-ideologies around accent difference that are being reconstituted only gradually and in specific regards. {\copyright}The authors 2007 Journal compilation {\copyright} Blackwell Publishing Ltd. 2007.},
+  keywords = {Accents of English,Gender differences,Ideologies,Language attitudes,Language loyalty,Prestige,Social attractiveness}
+}
+
+@incollection{Grusky2015,
+  title = {Social {{Stratification}}},
+  booktitle = {International {{Encyclopedia}} of the {{Social}} \& {{Behavioral Sciences}}},
+  author = {Grusky, David B.},
+  editor = {Wright, James D.},
+  year = {2015},
+  pages = {706--712},
+  publisher = {Elsevier},
+  doi = {10.1016/B978-0-08-097086-8.32137-7},
+  urldate = {2022-12-07},
+  isbn = {978-0-08-097087-5},
+  langid = {english}
+}
+
+@book{Labov1972,
+  title = {Sociolinguistic {{Patterns}}},
+  author = {Labov, William},
+  year = {1972},
+  publisher = {University of Pennsylvania Press},
+  address = {Philadelphia}
+}
+
+@book{Meyerhoff2011,
+  title = {Introducing {{Sociolinguistics}}},
+  author = {Meyerhoff, Miriam},
+  year = {2011},
+  edition = {2},
+  publisher = {Routledge},
+  address = {New York}
+}
+
+@article{Trudgill1972,
+  title = {Sex , {{Covert Prestige}} and {{Linguistic Change}} in the {{Urban British English}} of {{Norwich}}},
+  author = {Trudgill, Peter},
+  year = {1972},
+  journal = {Language in Society},
+  volume = {1},
+  number = {2},
+  pages = {179--195}
+}
+
+@article{VentselStruchkova2015,
+  title = {Sakha Language and Education in a Social, Cultural and Political Context},
+  author = {Ventsel, Aimar and Struchkova, Natalia},
+  year = {2015},
+  month = sep,
+  journal = {Sociolinguistic Studies},
+  volume = {9},
+  number = {2-3},
+  pages = {269--288},
+  issn = {1750-8657, 1750-8649},
+  doi = {10.1558/sols.v9i2.26728},
+  urldate = {2022-11-27},
+  abstract = {This paper analyses the language situation in the Republic of Sakha, Russian Far East. Due economic, social and political processes, Sakha language occupies at least two niches in the society -- as a language of disadvataged low social strata and as a language for the national elite. The paper demonstrates that one language can have several social positions simultaneously in an envirounment where multiple social, economic and political factors determe the social and cultural identity of its speakers. The role of education and access to the good quality schools is in the Republic of Sakha more crucial in creating a social status of the speakers and their language than official national language policy. Our paper is critical to sociolinguistic theories of ``killer languages'', language utility, code switching and other theories that see a language group as homogenous body acting as a unit. The Sakha case demonstrates that in reality language speakers do not form a coherent group and the status of their language can vary according to the social position of the speakers. The paper also shows that processes we call ``elitarisation'' and ``lumpenisation'' of the language are intermingled and that people can move from one language strata into another using various strategies. As a result we conclude that in multilingual environment, education system is important as an institution that affects people's life paths via networks they are able to establish in school or social groups they study with.}
+}
+
+
+
+
 [^1] *EK*
