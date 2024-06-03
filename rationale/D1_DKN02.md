@@ -1,13 +1,10 @@
 
 ## D1: Domain Detail - Knowledge (DKN02)
 
-The most influential form of knowledge in this contact scenario is:The most influential form of knowledge in this contact scenario is:
+The most influential form of knowledge in this contact scenario is:
 
-
-
-GlobalGlobal
-
-LocalLocal
+- Global
+- Local
 
 
 
