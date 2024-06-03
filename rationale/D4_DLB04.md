@@ -3,7 +3,9 @@ Is there hierarchy involved in work?
 
 **Answer Options** 
 
-Binary Yes vs No 
+Binary 
+- Yes
+- No 
 
 **Goal**
 
@@ -49,7 +51,6 @@ Hierarchy in profession intersects with other societal variables, so we would no
   doi = {10.1016/j.langcom.2014.12.008},
  
 }
-
 @article{Takano2000,
   title = {The Myth of a Homogeneous Speech {{Community}}: A Sociolinguistic Study of the Speech of {{Japanese}} Women in Diverse Gender Roles},
   shorttitle = {The Myth of a Homogeneous Speech {{Community}}},
