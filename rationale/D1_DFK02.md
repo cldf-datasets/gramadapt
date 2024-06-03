@@ -2,8 +2,8 @@
 ## D1: Domain Detail - Family & Kin (DFK02)
 
 - Do mothers (and their children) live with their husbands as part of a co-residential unit? Do mothers (and their children) live with their husbands as part of a co-residential unit?
-- Do mothers (and their children) live with their mothers?Do mothers (and their children) live with their mothers?
-- Do mothers (and their children) live with their mother-in-laws?Do mothers (and their children) live with their mother-in-laws?
+- Do mothers (and their children) live with their mothers? Do mothers (and their children) live with their mothers?
+- Do mothers (and their children) live with their mother-in-laws? Do mothers (and their children) live with their mother-in-laws?
 
 
 
@@ -43,10 +43,8 @@ The answer to this question is treated as one of a number of factors that play a
   issn = {0142-7164, 1469-1817},
   doi = {10.1017/S0142716407070221},
   urldate = {2024-04-18},
-  abstract = {This article reports on a study that addresses the following question: why do some children exposed to two languages from early on fail to speak those two languages? Questionnaire data were collected in 1,899 families in which at least one of the parents spoke a language other than the majority language. Each questionnaire asked about the home language use of a family consisting of at least one parent and one child between the ages of 6 and 10 years old. The results show that the children in these families all spoke the majority language, but that minority language use was not universal. Differences in parental language input patterns used at home correlated with differences in child minority language use. Home input patterns where both parents used the minority language and where at most one parent spoke the majority language had a high chance of success. The ``one parent--one language'' strategy did not provide a necessary nor sufficient input condition. Implications for bilingual families are discussed.},
   copyright = {https://www.cambridge.org/core/terms},
-  langid = {english},
-  file = {/Users/eri/Common Place/3 Resources/Papers/De Houwer (2007).pdf}
+  langid = {english}
 }
 
 @article{Diebold1966,
@@ -57,11 +55,10 @@ The answer to this question is treated as one of a number of factors that play a
   volume = {5},
   number = {1},
   pages = {37--79},
-  doi = {10.2307/3772900},
-  file = {/Users/eri/Google Drive/References/Bibliography/Anthropology - Kinship/Diebold (1966).pdf}
+  doi = {10.2307/3772900}
 }
 
-@article{Gough1959,
+@article{Gough1959a,
   title = {The {{Nayars}} and the {{Definition}} of {{Marriage}}},
   author = {Gough, Kathleen},
   year = {1959},
@@ -96,18 +93,16 @@ The answer to this question is treated as one of a number of factors that play a
   journal = {Oceania},
   volume = {62},
   number = {3},
-  pages = {179--193},
-  file = {/Users/eri/Google Drive/References/Bibliography/Anthropology - Kinship/Helliwell (1992).pdf}
+  pages = {179--193}
 }
 
 @book{Thargyal2007,
-  title = {Nomads of Eastern Tibet : {{Social}} Organization and Economy of a Pastoral Estate in the Kingdom of Dege},
+  title = {Nomads of Eastern {{Tibet}}: {{Social}} Organization and Economy of a Pastoral Estate in the Kingdom of {{Dege}}},
   author = {Thargyal, Rinzin},
   year = {2007},
   publisher = {Brill},
-  address = {Leiden, The Netherlands},
-  doi = {10.5810/kentucky/9780813141626.003.0008},
-  file = {/Users/eri/Google Drive/References/Bibliography/Anthropology - Kinship/Thargyal (2008) Ch8.pdf;/Users/eri/Google Drive/References/Bibliography/Anthropology - Residence/Thargyal (2007).pdf}
+  address = {Leiden},
+  doi = {10.5810/kentucky/9780813141626.003.0008}
 }
 
 @book{Yamamoto2001,
@@ -123,3 +118,4 @@ The answer to this question is treated as one of a number of factors that play a
   lccn = {P115.5.J3 Y36 2001},
   keywords = {Bilingualism,English language,Families,Japan,Japanese language,Language,Languages,Social aspects}
 }
+
