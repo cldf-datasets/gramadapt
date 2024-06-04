@@ -29,5 +29,63 @@ The term *codified* refers to rules and standards enshrined in orthography and i
 We are interested in standard varieties, as defined above, for a number of reasons. 1) Standard varieties seem to appear in societies with more than one level of jurisdictional authority, 2) standard varieties seem to have an effect of flattening community internal linguistic variation, and 3) the use of orthographies appear to have some cognitive consequences for learning of languages.
 
 
+**References**
+
+@book{Burke2004,
+  title = {Languages and Communities in Early Modern {{Europe}}},
+  author = {Burke, Peter},
+  year = {2004},
+  publisher = {Cambridge University Press},
+  address = {Cambridge},
+  isbn = {978-0-511-23050-9},
+  langid = {english},
+  annotation = {OCLC: 252527692},
+ }
+
+@book{Lodge1993,
+  title = {French: {{From Dialect}} to {{Standard}}},
+  shorttitle = {French},
+  author = {Lodge, R. Anthony},
+  year = {1993},
+  publisher = {Routledge},
+  address = {London},
+  doi = {10.4324/9780203158142},
+  urldate = {2022-10-26},
+  isbn = {978-0-203-15814-2},
+  langid = {english}
+}
+
+@incollection{Nordlund2012,
+  title = {Standardization of {{Finnish}} Orthography: {{From}} Reformists to National Awakeners},
+  shorttitle = {Standardization of {{Finnish}} Orthography},
+  booktitle = {Orthographies in {{Early Modern Europe}}},
+  author = {Nordlund, Taru},
+  editor = {Baddeley, Susan and Voeste, Anja},
+  year = {2012},
+  month = jul,
+  pages = {351--372},
+  publisher = {De Gruyter Mouton},
+  address = {Berlin},
+  doi = {10.1515/9783110288179.351},
+  urldate = {2022-10-26},
+  isbn = {978-3-11-028817-9},
+  langid = {english},
+  }
+
+@book{Penny2002,
+  title = {{A history of the Spanish language}},
+  author = {Penny, Ralph J.},
+  year = {2002},
+  edition = {2nd ed},
+  publisher = {Cambridge University Press},
+  address = {Cambridge},
+  isbn = {978-0-521-80587-2 978-0-521-01184-6},
+  langid = {engspa},
+  lccn = {PC4101 .P46 2002},
+  keywords = {Grammar Historical,Spanish language}
+}
+
+
+
 
 *OR, EK*
