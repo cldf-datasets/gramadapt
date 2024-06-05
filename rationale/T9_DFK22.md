@@ -1,13 +1,13 @@
 
 ## T9: What language do children typically speak with their Focus Group parent? (DFK22)
 
-The Focus Group language
+- The Focus Group language
 
-The Neighbour Group language
+- The Neighbour Group language
 
-Some other language
+- Some other language
 
-This is highly contextual
+- This is highly contextual
 
 
 
@@ -22,7 +22,7 @@ This question seeks to understand what languages children speak with their Focus
 - *The Focus Group language/The Neighbour Group language/Some other language:* So-called monolingual modes of interaction. These options are mutually exclusive, that is, if more than one language is used in interaction, please select the fourth option, "This is highly contextual”.
 - *This is highly contextual:* encompasses interaction in which more than one language is used, including but not limited to phenomena that come under the umbrella terms "code-switching" and/or "code-mixing".Syncretism: In terms of linguistics, syncretism refers to the copresence of two codes in a speech used by a speech community. This can be both inter-and intrasentential code-switching (Makihara 2004: 532).
 - *Parent:* For this study, we define the parent as the guardians or adults who are the primary caretakers of the child. We look to understand family linguistic practices better, and thus it is crucial to understand the input children receive from their primary caregivers. In addition, we recognize that family practices vary across communities/cultures. For these reasons, we want to clarify that the adults responsible for taking care of a child on a day-to-day basis will be considered the parents in these contexts.
-- *Syncretism:*In terms of linguistics, syncretism refers to the co-presence of two codes in a speech used by a speech community. This can be both inter-and intrasentential code-switching (Makihara 2004: 532).
+- *Syncretism:* In terms of linguistics, syncretism refers to the co-presence of two codes in a speech used by a speech community. This can be both inter-and intrasentential code-switching (Makihara 2004: 532).
 
 
 
