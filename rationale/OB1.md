@@ -1,6 +1,8 @@
 
-## OT1 (P2): How long have Focus Group and Neighbour Group people traded for?
+## OB1: Is there an emic conception of Focus Group as “a language” or some other categorical or objective thing? 
 
+- *Yes*
+- *No*
 
 
 **Goal**
@@ -9,7 +11,8 @@
 
 **Definitions**
 
-
+- *Yes*
+- *No*
 
 
 **Example**
