@@ -1,11 +1,24 @@
 
 ## OI0: How would you characterise Focus Group People's language loyalty towards the Focus Language?
 
+- Very low
+- Low
+- Neither low nor high
+- High
+- Very high
+
+
 **Goal**
 Here we wish to get a general assessment of language loyalty in the Focus Group. Language loyalty can be characterised by a variety of parameters, so here we ask you to make that assessment along parameters you believe are important and relevant for the community in question.
 
 **Definitions**
-*Language loyalty:*A tendency to be loyal to one’s language, typically by expressing a desire to retain an identity that is expressed through the use of that language. High levels of language loyalty lead people to using and maintaining a language actively, “even in adverse conditions” (González 2008: 445)
+*Language loyalty:*A tendency to be loyal to one’s language, typically by expressing a desire to retain an identity that is expressed through the use of that language. High levels of language loyalty lead people to using and maintaining a language actively, “even in adverse conditions” (González 2008: 445).
+
+- *Very low*, e.g. people do not consider it very important to speak “their language” and will speak other languages in many contexts. May express linguistic shame, denigrate their language.
+- *Low*, e.g. people do not consider it particularly important to speak their language. May be self-deprecating about their language.
+- *Neither low nor high*, e.g. people do not have particularly strong opinions about their language. The choice of what language to speak may be motivated by pragmatism, or not clearly motivated by anything.
+- *High*, e.g. people consider it important. People prefer to speak “their language” in most contexts but will also speak other languages where appropriate.
+- *Very high*, e.g. people consider it very important to speak “their language”. People choose to speak “their language” in the vast majority of contexts. 
 
 **Theoretical & Empirical Support:**
 As per the definition, language loyalty is an aspect of language attitude that contributes to languages’ continued use social life. The term is typically used in context of minority languages within nation-state contexts (beginning with Fishman’s seminal 1966 publication). As such, high levels of language loyalty are associated with the vitality of minority languages (indigenous languages, migrant heritage languages).
