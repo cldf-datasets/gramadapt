@@ -46,3 +46,120 @@ Subsistence patterns have at times been treated as representative of certain kin
 
 
 Other suggestions in the literature link subsistence patterns with behavioural characteristics. It has been suggested that adults in “low food accumulation” societies (hunter-gatherers, foragers) tend to be “individualistic, assertive, and venturesome” compared to adults of “high food accumulation societies” (Berry 1967; Diamond 1997). Rice-growing societies of China were found to be more collectivistic than wheat-growing ones (Talhelm et al. 2014, however see Roberts 2015 for caution in accepting Talhelm et al.’s results). If there are indeed behavioural characteristics associated with subsistence patterns, we may find some evidence that links subsistence patterns with linguistic adaptation.
+
+
+**References**
+
+@book{Bellwood2005,
+  title = {First Farmers: {{The}} Origins of Agricultural Societies},
+  author = {Bellwood, Peter},
+  year = {2005},
+  publisher = {Wiley-Blackwell},
+  address = {Malden, MA}
+}
+
+@article{Berry1967,
+  title = {Independence and {{Conformity}} in {{Subsistence-Level Societies}}},
+  author = {Berry, J. W.},
+  year = {1967},
+  journal = {Journal of Personality and Social Psychology},
+  volume = {7},
+  number = {4},
+  pages = {415--418},
+  doi = {10.1037/h0025231}
+}
+
+@book{Diamond1997,
+  title = {Guns, Germs, and Steel: The Fates of Human Societies},
+  shorttitle = {Guns, Germs, and Steel},
+  author = {Diamond, Jared M.},
+  year = {1997},
+  edition = {1st ed},
+  publisher = {W.W. Norton \& Co},
+  address = {New York},
+  isbn = {978-0-393-03891-0},
+  lccn = {HM206 .D48 1997},
+  keywords = {Civilization,Culture diffusion,Effect of environment on,Ethnology,History,Human beings,Social evolution}
+}
+
+@article{Gray1999,
+  title = {A Corrected Ethnographic Atlas},
+  author = {Gray, J. Patrick},
+  year = {1999},
+  journal = {World Cultures},
+  volume = {10},
+  number = {1},
+  pages = {24--85}
+}
+
+@article{Janowski2007,
+  title = {Book {{Reviews}}},
+  author = {Janowski, Monica},
+  year = {2007},
+  month = jan,
+  journal = {Anthropology in Action},
+  volume = {14},
+  number = {3},
+  issn = {0967-201X, 1752-2285},
+  doi = {10.3167/aia.2007.140308},
+  urldate = {2022-12-07},
+ }
+
+@article{KirbyEtAl2016,
+  title = {D-{{PLACE}}: {{A Global Database}} of {{Cultural}}, {{Linguistic}} and {{Environmental Diversity}}},
+  shorttitle = {D-{{PLACE}}},
+  author = {Kirby, Kathryn R. and Gray, Russell D. and Greenhill, Simon J. and Jordan, Fiona M. and {Gomes-Ng}, Stephanie and Bibiko, Hans-J{\"o}rg and Blasi, Dami{\'a}n E. and Botero, Carlos A. and Bowern, Claire and Ember, Carol R. and Leehr, Dan and Low, Bobbi S. and McCarter, Joe and Divale, William and Gavin, Michael C.},
+  year = {2016},
+  month = jul,
+  journal = {PLOS ONE},
+  volume = {11},
+  number = {7},
+  pages = {e0158391},
+  issn = {1932-6203},
+  doi = {10.1371/journal.pone.0158391},
+  urldate = {2022-11-27},
+  langid = {english},
+}
+
+@incollection{KirbyEtAl2018,
+  title = {Ethnographic {{Atlas}}},
+  booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
+  editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
+  year = {2018},
+  publisher = {Max Planck Institute for the Science of Human History},
+  address = {Jena}
+}
+
+@article{MurdockEtAl1999,
+  title = {Ethnographic {{Atlas}}},
+  author = {Murdock, George P. and Textor, R. and Barry, H. and White, Douglas R. and Gray, J. Patrick and Divale, William},
+  year = {1999},
+  journal = {World Cultures},
+  volume = {10},
+  number = {1},
+  pages = {24--136}
+}
+
+@article{Roberts2015,
+  title = {Commentary: Large-Scale Psychological Differences within {{China}} Explained by Rice vs. Wheat Agriculture},
+  author = {Roberts, Se{\'a}n G.},
+  year = {2015},
+  journal = {Frontiers in Psychology},
+  volume = {6},
+  number = {950},
+  doi = {10.1126/science.1246850},
+  keywords = {China,collectivism,linguistics,phylogenetics,rice vs,rice vs. wheat,wheat}
+}
+
+@article{TalhelmEtAl2014,
+  title = {Large-{{Scale Psychological Rice Versus Wheat Agriculture}}},
+  author = {Talhelm, T. and Zhang, X. and Oishi, S. and Shimin, C. and Duan, D. and Lan, X. and Kitayama, S.},
+  year = {2014},
+  journal = {Science},
+  volume = {344},
+  number = {5},
+  pages = {603--609},
+  doi = {10.1126/science.1246850},
+  keywords = {Agriculture,Asian Continental Ancestry Group,Asian Continental Ancestry Group: psychology,China,Female,Humans,Individuation,Male,Oryza sativa,Triticum}
+}
+

@@ -56,3 +56,95 @@ The motivation behind the interest in political complexity is based on observati
 
 
 Note it has also been noted that these scales of political complexity may also in fact be proxies for social network cohesion (Skirgård 2021: 53; c.f. Grace 1992).
+
+
+**References**
+
+@article{CurrieMace2009,
+  title = {Political Complexity Predicts the Spread of Ethnolinguistic Groups},
+  author = {Currie, Thomas E. and Mace, Ruth},
+  year = {2009},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {106},
+  number = {18},
+  pages = {7339--7344}
+}
+
+@article{GiulianoNunn2018,
+  title = {Ancestral {{Characteristics}} of {{Modern Populations}}},
+  author = {Giuliano, Paola and Nunn, Nathan},
+  year = {2018},
+  month = jan,
+  journal = {Economic History of Developing Regions},
+  volume = {33},
+  number = {1},
+  pages = {1--17},
+  issn = {2078-0389, 2078-0397},
+  doi = {10.1080/20780389.2018.1435267},
+  urldate = {2022-11-28},
+  langid = {english},
+}
+
+@article{Grace1992,
+  title = {How {{Do Languages Change}}? ({{More}} on "{{Aberrant}}" {{Languages}})},
+  author = {Grace, George W.},
+  year = {1992},
+  journal = {Oceanic Linguistics},
+  volume = {31},
+  number = {1},
+  pages = {115--130},
+  doi = {10.2307/3622968}
+}
+
+@article{KirbyEtAl2016,
+  title = {D-{{PLACE}}: {{A Global Database}} of {{Cultural}}, {{Linguistic}} and {{Environmental Diversity}}},
+  shorttitle = {D-{{PLACE}}},
+  author = {Kirby, Kathryn R. and Gray, Russell D. and Greenhill, Simon J. and Jordan, Fiona M. and {Gomes-Ng}, Stephanie and Bibiko, Hans-J{\"o}rg and Blasi, Dami{\'a}n E. and Botero, Carlos A. and Bowern, Claire and Ember, Carol R. and Leehr, Dan and Low, Bobbi S. and McCarter, Joe and Divale, William and Gavin, Michael C.},
+  year = {2016},
+  month = jul,
+  journal = {PLOS ONE},
+  volume = {11},
+  number = {7},
+  pages = {e0158391},
+  issn = {1932-6203},
+  doi = {10.1371/journal.pone.0158391},
+  urldate = {2022-11-27},
+  langid = {english},
+}
+
+@incollection{KirbyEtAl2018,
+  title = {Ethnographic {{Atlas}}},
+  booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
+  editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
+  year = {2018},
+  publisher = {Max Planck Institute for the Science of Human History},
+  address = {Jena}
+}
+
+@book{MurdockEtAl1945,
+  title = {Outline of {{Cultural Materials II}}},
+  author = {Murdock, George P. and Hudson, Alfred E. and Ford, Clellan S. and Kennedy, Raymond and Simmons, Leo W. and Whiting, John W. M.},
+  year = {1945},
+  publisher = {Yale University},
+  address = {Department of Anthropology}
+}
+
+@article{MurdockEtAl1999,
+  title = {Ethnographic {{Atlas}}},
+  author = {Murdock, George P. and Textor, R. and Barry, H. and White, Douglas R. and Gray, J. Patrick and Divale, William},
+  year = {1999},
+  journal = {World Cultures},
+  volume = {10},
+  number = {1},
+  pages = {24--136}
+}
+
+@phdthesis{Skirgard2020,
+  title = {Multilevel Dynamics of Language Diversity in {{Oceania}}},
+  author = {Skirg{\aa}rd, Hedvig},
+  year = {2020},
+  address = {Canberra},
+  school = {Australian National University},
+  annotation = {10.25911/WY2B-AQ30}
+}
+

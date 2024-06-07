@@ -1,13 +1,10 @@
 
 ## D1: Domain Detail - Knowledge (DKN02)
 
-The most influential form of knowledge in this contact scenario is:The most influential form of knowledge in this contact scenario is:
+The most influential form of knowledge in this contact scenario is:
 
-
-
-GlobalGlobal
-
-LocalLocal
+- Global
+- Local
 
 
 
@@ -40,6 +37,77 @@ This question reflects the skew in publications concerning language and educatio
 
 
 At the stage of writing, we as a project are not familiar with what language change phenomena are attributed to the practices of localised forms of knowledge. The only forms that come to mind are investigations of lexicon of specialised domains such as ethnobotanical knowledge, often in the context of cultural endangerment (e.g. Carlson 2001). In cases where knowledge systems of larger groups brush up against knowledge systems of localised groups, it seems that there is a threat of localised knowledge being lost (however there are also cases of precarious but successful intergenerational transmission, e.g. ethnobotanical knowledge of Ngunnuwal and Yuin people of Australia (Heaney et al. 2020).
+
+
+**References**
+
+@incollection{Carlson2001,
+  title = {Language, Ethnobotanical Knowledge, and Tropical Public Health.},
+  booktitle = {On Biocultural Diversity. {{Linking}} Language, Knowledge, and the Environment},
+  author = {Carlson, Thomas},
+  editor = {Maffi, Luisa},
+  year = {2001},
+  publisher = {Smithsonian Institution Press},
+  address = {Washington, DC}
+}
+
+@article{HeaneyEtAl2020,
+  title = {Knowledge and Use of Traditional Plants by {{Ngunnawal}} and {{Yuin}} Peoples of {{Australia}}},
+  author = {Heaney, Emily and Sutherland, Stewart and Bell, Tyronne and Moritz, Craig},
+  year = {2020},
+  month = oct,
+  journal = {Mahika Kai Journal},
+  volume = {1},
+  number = {1},
+  pages = {52--95},
+  publisher = {Mahika Kai Journal},
+  doi = {10.34900/MK.V1I1.1156},
+  urldate = {2022-11-28},
+  copyright = {Creative Commons Attribution 4.0 International},
+  langid = {english}
+}
+
+@incollection{OmoniyiEtAl2006,
+  title = {Introduction},
+  booktitle = {Explorations in the Sociology of Language and Religion},
+  author = {Omoniyi, Tope and Fishman, Joshua A. and Spolsky, Bernard},
+  editor = {Omoniyi, Tope and Fishman, Joshua A.},
+  year = {2006},
+  series = {Discourse {{Approaches}} to {{Politics}}, {{Society}} and {{Culture}}},
+  number = {25},
+  pages = {1--9},
+  publisher = {Benjamins},
+  address = {Amsterdam},
+  doi = {10.1075/dapsac.20.01omo},
+  urldate = {2022-12-01},
+  isbn = {978-90-272-2710-2 978-90-272-9337-4},
+  langid = {english}
+}
+
+@book{Pentikainen1996,
+  title = {Shamanism and {{Northern}} Ecology},
+  editor = {Pentik{\"a}inen, Juha},
+  year = {1996},
+  series = {Religion and Society},
+  number = {36},
+  publisher = {De Gruyter Mouton},
+  address = {Berlin},
+  isbn = {978-3-11-014186-3},
+  lccn = {GN475.8 .S45 1996},
+  keywords = {Arctic peoples,Arctic regions,Congresses,Human ecology,Religion Congresses,Shamanism}
+}
+
+@incollection{SpolskyLambert2006,
+  title = {Language Planning and Policy: Models},
+  booktitle = {Encyclopedia of Language and Linguistics},
+  author = {Spolsky, Bernard and Lambert, Richard D.},
+  editor = {Brown, Keith},
+  year = {2006},
+  edition = {2},
+  pages = {561--575},
+  publisher = {Elsevier},
+  address = {Oxford}
+}
 
 
 

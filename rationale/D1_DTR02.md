@@ -5,11 +5,11 @@ Traded good types. Which of the following do Focus Group and Neighbour Group tra
 
 
 
-Raw materials and primary produce
+- Raw materials and primary produce
 
-Luxury items
+- Luxury items
 
-Manufactured goods
+- Manufactured goods
 
 
 
@@ -38,6 +38,8 @@ This question tries to capture the nature of the trade relationship between Focu
 **Theoretical & Empirical Support**
 
 Pertaining to prestige, possibly.
+
+**References**
 
 
 

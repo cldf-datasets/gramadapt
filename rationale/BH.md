@@ -1,11 +1,11 @@
 
 ## BH: How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of domain X?
 
-Very superiorVery superior
-Superior
-Neither superior nor inferior
-Inferior
-Very inferior
+- Very superior
+- Superior
+- Neither superior nor inferior
+- Inferior
+- Very inferior
 
 
 
@@ -53,4 +53,90 @@ In this questionnaire we treat overt prestige as one of the many factors that af
 
 
 [^1] As Meyerhoff (2011: 41–42) points out, the traditional notion of *covert prestige* as put forward by Trudgill (1972) is different to that of local prestige. Trudgill’s use of covert prestige refers to the mismatch between the stated ideals around language varieties versus what speakers were actually producing in speech. For example, a English speaker from Norwich states that local pronunciations of certain words are “better” than the Standard Southern British realisations, but in unmonitored speech would produce the Standard realisation. This, Trudgill argues, is evidence of covert prestige. In this questionnaire we have chosen not to consider this form of covert prestige, since we predict there are few studies that will have such evidence for the speech communities in our sample.
+
+**References**
+
+@article{AkynovaEtAl2014,
+  title = {Language {{Choice Among}} the {{Youth}} of {{Kazakhstan}}: {{English}} as a {{Self-Representation}} of {{Prestige}}},
+  author = {Akynova, Damira and Zharkynbekova, Sholpan and Agmanova, Atirkul and Aimoldina, Aliya and Dalbergenova, Lyazzat},
+  year = {2014},
+  journal = {Procedia - Social and Behavioral Sciences},
+  volume = {143},
+  pages = {228--232},
+  issn = {7778364891},
+  doi = {10.1016/j.sbspro.2014.07.393},
+  keywords = {code-switching,english,language choice,self-representation}
+}
+
+@article{CouplandBishop2007,
+  title = {Ideologised Values for {{British}} Accents},
+  author = {Coupland, Nikolas and Bishop, Hywel},
+  year = {2007},
+  journal = {Journal of Sociolinguistics},
+  volume = {11},
+  number = {1},
+  pages = {74--93},
+  doi = {10.1111/j.1467-9841.2007.00311.x},
+  keywords = {Accents of English,Gender differences,Ideologies,Language attitudes,Language loyalty,Prestige,Social attractiveness}
+}
+
+@incollection{Grusky2015,
+  title = {Social {{Stratification}}},
+  booktitle = {International {{Encyclopedia}} of the {{Social}} \& {{Behavioral Sciences}}},
+  author = {Grusky, David B.},
+  editor = {Wright, James D.},
+  year = {2015},
+  pages = {706--712},
+  publisher = {Elsevier},
+  doi = {10.1016/B978-0-08-097086-8.32137-7},
+  urldate = {2022-12-07},
+  isbn = {978-0-08-097087-5},
+  langid = {english}
+}
+
+@book{Labov1972,
+  title = {Sociolinguistic {{Patterns}}},
+  author = {Labov, William},
+  year = {1972},
+  publisher = {University of Pennsylvania Press},
+  address = {Philadelphia}
+}
+
+@book{Meyerhoff2011,
+  title = {Introducing {{Sociolinguistics}}},
+  author = {Meyerhoff, Miriam},
+  year = {2011},
+  edition = {2},
+  publisher = {Routledge},
+  address = {New York}
+}
+
+@article{Trudgill1972,
+  title = {Sex , {{Covert Prestige}} and {{Linguistic Change}} in the {{Urban British English}} of {{Norwich}}},
+  author = {Trudgill, Peter},
+  year = {1972},
+  journal = {Language in Society},
+  volume = {1},
+  number = {2},
+  pages = {179--195}
+}
+
+@article{VentselStruchkova2015,
+  title = {Sakha Language and Education in a Social, Cultural and Political Context},
+  author = {Ventsel, Aimar and Struchkova, Natalia},
+  year = {2015},
+  month = sep,
+  journal = {Sociolinguistic Studies},
+  volume = {9},
+  number = {2-3},
+  pages = {269--288},
+  issn = {1750-8657, 1750-8649},
+  doi = {10.1558/sols.v9i2.26728},
+  urldate = {2022-11-27}
+}
+
+
+
+
+
 [^1] *EK*

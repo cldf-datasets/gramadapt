@@ -5,15 +5,15 @@ Focus Group people are the most likely to speak in an unmonitored way in:
 
 
 
-Nuclear family
+- Nuclear family
 
-Band
+- Band
 
-Neighbourhood or village
+- Neighbourhood or village
 
-Town or city
+- Town or city
 
-Other
+- Other
 
 
 
@@ -73,6 +73,143 @@ Monitored vs unmonitored was chosen as an axis of importance because sociolingui
 
 
 There are other terms used in linguistics that fall under this notion of monitored vs unmonitored speech. Formal registers, for example, can be defined as speech styles that involve maximal attention to speech. They are typically used when communicating with non-intimates in non-familiar, highly codified contexts. Informal registers on the other hand are speech styles that correlate with minimal attention to speech and are typically used when communicating with intimates in familiar contexts.
+
+
+**References**
+
+@article{Bowern2010,
+  title = {Correlates of {{Language Change}} in {{Hunter-Gatherer}} and {{Other}} `{{Small}}' {{Languages}}},
+  author = {Bowern, Claire},
+  year = {2010},
+  journal = {Language and Linguistics Compass},
+  volume = {4},
+  number = {8},
+  pages = {665--679}
+}
+
+@article{Dunbar1993,
+  title = {Coevolution of Neocortical Size, Group Size and Language in Humans},
+  author = {Dunbar, Robert I. M.},
+  year = {1993},
+  journal = {Behavioral and Brain Sciences},
+  volume = {16},
+  number = {4},
+  pages = {681--694},
+  doi = {10.1017/S0140525X00032325},
+  keywords = {group size,humans,language,Machiavellian Intelligence,neocortical size}
+}
+
+@book{Eckert1989,
+  title = {Jocks and Burnouts: {{Social}} Categories and Identity in the High School},
+  author = {Eckert, Penelope},
+  year = {1989},
+  publisher = {Teachers College Press},
+  address = {New York}
+}
+
+@incollection{GumperzWilson1971,
+  title = {Convergence and Creolization: A Case from the {{Indo-Aryan}}/{{Dravidian}} Border in {{India}}},
+  booktitle = {Pigdinization and Creolization of Languages},
+  author = {Gumperz, John J. and Wilson, Robert},
+  editor = {Hymes, Dell H.},
+  year = {1971},
+  pages = {151--167},
+  publisher = {Cambridge University Press},
+  address = {Cambridge}
+}
+
+@incollection{Johnstone2010,
+  title = {Language and {{Place}}},
+  booktitle = {Cambridge Handbook of Sociolinguistics},
+  author = {Johnstone, Barbara},
+  editor = {Mesthrie, Rajend},
+  year = {2010},
+  pages = {203--218},
+  publisher = {Cambridge University Press},
+  address = {Cambridge},
+  doi = {10.2307/j.ctt7sjpn.8}
+}
+
+@article{Kulkarni-Joshi2016,
+  title = {Forty Years of Language Contact and Change in {{Kupwar}}: {{A}} Critical Assessment of the Intertranslatability Model},
+  author = {{Kulkarni-Joshi}, Sonal},
+  year = {2016},
+  journal = {Journal of South Asian Languages and Linguistics},
+  volume = {3},
+  number = {2},
+  pages = {147--174},
+  doi = {10.1515/jsall-2016-0008},
+  keywords = {convergence,intertranslatability,kupwar,language change,marathi}
+}
+
+@book{Labov1972a,
+  title = {Sociolinguistic {{Patterns}}},
+  author = {Labov, William},
+  year = {1972},
+  publisher = {University of Pennsylvania Press},
+  address = {Philadelphia}
+}
+
+@book{LabovEtAl2006,
+  title = {The {{Atlas}} of {{North American English}}: {{Phonetics}}, {{Phonology}} and {{Sound Change}}},
+  author = {Labov, William and Ash, Sharon and Boberg, Charles},
+  year = {2006},
+  publisher = {De Gruyter Mouton},
+  address = {Berlin}
+}
+
+@article{Munson2007,
+  title = {The {{Acoustic Correlates}} of {{Perceived Masculinity}}, {{Perceived Femininity}}, and {{Perceived Sexual Orientation}}},
+  author = {Munson, Benjamin},
+  year = {2007},
+  month = mar,
+  journal = {Language and Speech},
+  volume = {50},
+  number = {1},
+  pages = {125--142},
+  issn = {0023-8309, 1756-6053},
+  doi = {10.1177/00238309070500010601},
+  urldate = {2022-12-02},
+  langid = {english}
+}
+
+@article{NaessEtAl2010,
+  title = {Cooperative Pastoral Production - the Importance of Kinship},
+  author = {N{\ae}ss, Marius Warg and B{\aa}rdsen, B{\aa}rd J{\o}rgen and Fauchald, Per and Tveraa, Torkild},
+  year = {2010},
+  journal = {Evolution and Human Behavior},
+  volume = {31},
+  number = {4},
+  pages = {246--258},
+  doi = {10.1016/j.evolhumbehav.2009.12.004},
+  keywords = {Cooperation,Labour,Negative density dependence,Nomadic pastoralism,Production,Rangifer tarandus,Saami reindeer husbandry,Tragedy of the commons}
+}
+
+@article{PoplackTagliamonte1999,
+  title = {The Grammaticization of "Going to" in {{African American English}}},
+  author = {Poplack, Shana and Tagliamonte, Sali A.},
+  year = {1999},
+  journal = {Language Variation and Change},
+  volume = {11},
+  number = {3},
+  pages = {315--342}
+}
+
+@incollection{Vorren1978,
+  title = {Bosetning Og Ressursutnytting i Ressursutvalgets Mandatomr{\aa}de under Veidekulturen Og Dens Differensiering},
+  booktitle = {Finnmarksvidda: Natur -- Kultur},
+  author = {Vorren, {\O}rnulv},
+  year = {1978},
+  series = {Norges Offentlige Utredninger},
+  number = {1978:18 A-B},
+  pages = {145--181},
+  publisher = {Universitetsforlaget},
+  address = {Oslo},
+  isbn = {978-82-00-70430-0 978-82-00-70431-7},
+  lccn = {DL576.F5 N68 1978},
+  keywords = {Description and travel,Finnmark fylke (Norway),Natural history,Norway,Norway Finnmark,Ressursutvalget for Finnmarksvidda}
+}
+
 
 
 

@@ -11,3 +11,53 @@ Here we wish to get a general assessment of language loyalty in the Focus Group.
 As per the definition, language loyalty is an aspect of language attitude that contributes to languages’ continued use social life. The term is typically used in context of minority languages within nation-state contexts (beginning with Fishman’s seminal 1966 publication). As such, high levels of language loyalty are associated with the vitality of minority languages (indigenous languages, migrant heritage languages).
 
 Language loyalty is partially related to concepts of language and identity, in that language loyalty and “linguistic acts of loyalty” (Stanford 2009a) are kinds of “acts of identity” (Le Page & Tabouret-Keller 1985). For example, Stanford (2009a) analyses the continued use of clan-indexing tonal patterns by Sui women as linguistic acts of loyalty to their patrilineal clan, despite these women marrying and residing with their husband’s on his patrilineal clan lands.
+
+
+**References**
+
+
+@book{Fishman1966,
+  title = {Language Loyalty in the {{United States}}: {{The}} Maintenance and Perpetuation of Non-{{English}} Mother Tongues by {{American}} Ethnic and Religious Groups},
+  author = {Fishman, Joshua A.},
+  year = {1966},
+  series = {Janua Linguarum. {{Series}} Maior},
+  number = {21},
+  publisher = {Mouton},
+  address = {The Hague}
+}
+
+@book{Gonzalez2008,
+  title = {Encyclopedia of Bilingual Education},
+  editor = {Gonz{\'a}lez, Josu{\'e} M.},
+  year = {2008},
+  publisher = {Sage},
+  address = {Los Angeles},
+  isbn = {978-1-4129-3720-7},
+  lccn = {LC3707 .E523 2008},
+  keywords = {Education Bilingual,Encyclopedias},
+  annotation = {OCLC: ocn185031294}
+}
+
+@book{LePageTabouret-Keller1985,
+  title = {Acts of Identity: {{Creole-based}} Approaches to Language and Ethnicity},
+  author = {Le Page, Robert Brock and {Tabouret-Keller}, Andr{\'e}e},
+  year = {1985},
+  publisher = {Cambridge University Press},
+  address = {Cambridge}
+}
+
+@incollection{Stanford2009,
+  title = {Clan as a Sociolinguistic Variable: {{Three}} Approaches to {{Sui}} Clans},
+  booktitle = {Variation in {{Indigenous Minority Languages}}},
+  author = {Stanford, James N.},
+  editor = {Stanford, James N. and Preston, Dennis R.},
+  year = {2009},
+  series = {{{IMPACT}}: {{Studies}} in {{Language}}, {{Culture}} and {{Society}}},
+  number = {25},
+  pages = {463--484},
+  publisher = {Benjamins},
+  address = {Amsterdam}
+}
+
+
+

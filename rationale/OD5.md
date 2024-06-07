@@ -21,7 +21,7 @@ The scale is as follows:
 
 - *Low proportion:* a small minority (roughly 20% or less) of all speakers are native-like speakers
 - *Fairly low proportion:* a minority of all speakers (roughly 20–40%) are native-like speakers.
-- *Intermediate proportion:*roughly half of all speakers (roughly 40–60%) are native-like speakers.
+- *Intermediate proportion:* roughly half of all speakers (roughly 40–60%) are native-like speakers.
 - *Fairly high proportion:* the majority of speakers (roughly 60–80%) are native like speakers
 - *High proportion:* an overwhelming majority (roughly 80% or higher) of speakers are native-like speakers
 
@@ -43,6 +43,91 @@ This question is adapted from question SCCS1122 in the Standard Cross-Cultural S
 
 Proportion of native-like vs. non-native-like speakers has been used in the typological literature as a proxy for contact effects on language structures, especially on morphological complexity (e.g. Bentz & Winter 2013; Sinnemäki & Di Garbo 2018; Sinnemäki 2020). We are not so keen on using this proportion as a measure on its own, because it may be linked to various different explanatory factors (see Bentz & Winter 2013: 3-5; and references there). Instead we intend to assess whether this proportion correlates with any other sociolinguistic features in our questionnaire. This will help us assessing whether this proportion can really serve as a proxy for the degree of language contact and its effects on language structures, whether it serves as a proxy for something else or whether it serves as a proxy for nothing theoretically interesting.
 
+
+**References**
+
+@article{BentzWinter2013,
+  title = {Languages with {{More Second Language Learners Tend}} to {{Lose Nominal Case}}},
+  author = {Bentz, Christian and Winter, Bodo},
+  year = {2013},
+  journal = {Language Dynamics and Change},
+  volume = {3},
+  number = {1},
+  pages = {1--27},
+  doi = {10.1163/22105832-13030105},
+  keywords = {case,language evolution,second language acquisition,sociolinguistic typology}
+}
+
+@article{KirbyEtAl2016,
+  title = {D-{{PLACE}}: {{A Global Database}} of {{Cultural}}, {{Linguistic}} and {{Environmental Diversity}}},
+  shorttitle = {D-{{PLACE}}},
+  author = {Kirby, Kathryn R. and Gray, Russell D. and Greenhill, Simon J. and Jordan, Fiona M. and {Gomes-Ng}, Stephanie and Bibiko, Hans-J{\"o}rg and Blasi, Dami{\'a}n E. and Botero, Carlos A. and Bowern, Claire and Ember, Carol R. and Leehr, Dan and Low, Bobbi S. and McCarter, Joe and Divale, William and Gavin, Michael C.},
+  year = {2016},
+  month = jul,
+  journal = {PLOS ONE},
+  volume = {11},
+  number = {7},
+  pages = {e0158391},
+  issn = {1932-6203},
+  doi = {10.1371/journal.pone.0158391},
+  urldate = {2022-11-27},
+  langid = {english},
+  file = {C:\Users\anuhyvon\Zotero\storage\BTFXQ8GP\Kirby ym. - 2016 - D-PLACE A Global Database of Cultural, Linguistic.pdf}
+}
+
+@article{MurdockWhite1969,
+  title = {Standard {{Cross-Cultural Sample}}},
+  author = {Murdock, George P. and White, Douglas R.},
+  year = {1969},
+  month = oct,
+  journal = {Ethnology},
+  volume = {8},
+  number = {4},
+  eprint = {3772907},
+  eprinttype = {jstor},
+  pages = {329},
+  issn = {00141828},
+  doi = {10.2307/3772907},
+  urldate = {2022-11-28}
+}
+
+@article{Sinnemaki2020,
+  title = {Linguistic System and Sociolinguistic Environment as Competing Factors in Linguistic Variation: {{A}} Typological Approach},
+  shorttitle = {Linguistic System and Sociolinguistic Environment as Competing Factors in Linguistic Variation},
+  author = {Sinnem{\"a}ki, Kaius},
+  year = {2020},
+  month = oct,
+  journal = {Journal of Historical Sociolinguistics},
+  volume = {6},
+  number = {2},
+  pages = {20191010},
+  issn = {2199-2908, 2199-2894},
+  doi = {10.1515/jhsl-2019-1010},
+  urldate = {2022-11-30},
+  langid = {english},
+  file = {C:\Users\anuhyvon\Zotero\storage\MUTIJ734\Sinnemäki - 2020 - Linguistic system and sociolinguistic environment .pdf}
+}
+
+@article{SinnemakiDiGarbo2018,
+  title = {Language Structures May Adapt to the Sociolinguistic Environment, but It Matters What and How You Count: {{A}} Typological Study of Verbal and Nominal Complexity},
+  author = {Sinnem{\"a}ki, Kaius and Di Garbo, Francesca},
+  year = {2018},
+  journal = {Frontiers in Psychology},
+  volume = {9},
+  number = {AUG},
+  pages = {1--22},
+  doi = {10.3389/fpsyg.2018.01141},
+  keywords = {Adaptation,Grammatical gender,Inflectional synthesis,Language complexity,Language typology,Population size,Second language learning,Sociolinguistic environment}
+}
+
+@article{White2009,
+  title = {Pinpointing Sheets for the Standard Cross-Cultural Sample: Complete Edition},
+  author = {White, Douglas R.},
+  year = {2009},
+  journal = {World Cultures eJournal},
+  volume = {17},
+  number = {1}
+}
 
 
 *KS, EK*

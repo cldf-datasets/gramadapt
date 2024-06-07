@@ -50,5 +50,65 @@ This question and possible answers are the same as in the question EA031 in The 
 Humans arrange themselves socially in fairly small populations. Dunbar (1993) shows that human social groups tend to be between 100 and 250 persons, averaging to 150 individuals. Such groups are maintained by interaction of sufficiently regular basis that the social bonds are based on direct personal knowledge. Social groups can be larger but then there's a need for intermediating authorities within the group; otherwise social cohesion could not be maintained and the group would disperse (Dunbar 1993: 686–687).
 
 
+**References**
+
+@article{Dunbar1993,
+  title = {Coevolution of Neocortical Size, Group Size and Language in Humans},
+  author = {Dunbar, Robert I. M.},
+  year = {1993},
+  journal = {Behavioral and Brain Sciences},
+  volume = {16},
+  number = {4},
+  pages = {681--694},
+  doi = {10.1017/S0140525X00032325},
+  keywords = {group size,humans,language,Machiavellian Intelligence,neocortical size}
+}
+
+@article{Gray1999,
+  title = {A Corrected Ethnographic Atlas},
+  author = {Gray, J. Patrick},
+  year = {1999},
+  journal = {World Cultures},
+  volume = {10},
+  number = {1},
+  pages = {24--85}
+}
+
+@article{KirbyEtAl2016,
+  title = {D-{{PLACE}}: {{A Global Database}} of {{Cultural}}, {{Linguistic}} and {{Environmental Diversity}}},
+  shorttitle = {D-{{PLACE}}},
+  author = {Kirby, Kathryn R. and Gray, Russell D. and Greenhill, Simon J. and Jordan, Fiona M. and {Gomes-Ng}, Stephanie and Bibiko, Hans-J{\"o}rg and Blasi, Dami{\'a}n E. and Botero, Carlos A. and Bowern, Claire and Ember, Carol R. and Leehr, Dan and Low, Bobbi S. and McCarter, Joe and Divale, William and Gavin, Michael C.},
+  year = {2016},
+  month = jul,
+  journal = {PLOS ONE},
+  volume = {11},
+  number = {7},
+  pages = {e0158391},
+  issn = {1932-6203},
+  doi = {10.1371/journal.pone.0158391},
+  urldate = {2022-11-27},
+  langid = {english},
+}
+
+@incollection{KirbyEtAl2018,
+  title = {Ethnographic {{Atlas}}},
+  booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
+  editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
+  year = {2018},
+  publisher = {Max Planck Institute for the Science of Human History},
+  address = {Jena}
+}
+
+@article{MurdockEtAl1999,
+  title = {Ethnographic {{Atlas}}},
+  author = {Murdock, George P. and Textor, R. and Barry, H. and White, Douglas R. and Gray, J. Patrick and Divale, William},
+  year = {1999},
+  journal = {World Cultures},
+  volume = {10},
+  number = {1},
+  pages = {24--136}
+}
+
+
 
 OR

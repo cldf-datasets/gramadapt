@@ -1,11 +1,11 @@
 
 ## D1: Terms of Marriage Exchange - Exchange & Marriage (DEM37)
 
-What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry?What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry?
+What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry? What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry?
 
-BridewealthBridewealth
-Dowry
-Other
+- Bridewealth
+- Dowry
+- Other
 
 
 
