@@ -31,5 +31,98 @@ We use the label disruptive change to signify any major socio-political and/or n
 
 **References**
 
+@incollection{Bergs2012,
+  title = {The {{Uniformitarian Principle}} and the {{Risk}} of {{Anachronisms}} in {{Language}} and {{Social History}}},
+  booktitle = {The {{Handbook}} of {{Historical Sociolinguistics}}},
+  author = {Bergs, Alexander},
+  editor = {{Hern{\'a}ndez-Campoy}, Juan Manuel and {Conde-Silvestre}, Juan Camilo},
+  year = {2012},
+  pages = {80--98},
+  publisher = {Wiley-Blackwell},
+  address = {Malden, MA},
+  keywords = {Anachronism as 'against time',Dangers of anachronism,Gender Paradox itself,Linguistic behavior men and women,Social class in modern sociolinguistics,Uniformitarian Principle (UP),UP risk of anachronisms}
+}
+
+@article{Chrisp2005,
+  title = {M{\=a}ori Intergenerational Language Transmission},
+  author = {Chrisp, Steven},
+  year = {2005},
+  journal = {International Journal of the Sociology of Language},
+  volume = {172},
+  pages = {149--181},
+  doi = {10.1515/ijsl.2005.2005.172.149}
+}
+
+@phdthesis{Dickson2015,
+  title = {Marra and {{Kriol}}: {{The}} Loss and Maintenance of Knowledge across a Language Shift Boundary},
+  author = {Dickson, Gregory F.},
+  year = {2015},
+  address = {Canberra},
+  school = {Australian National University}
+}
+
+@book{Hodder1995,
+  title = {Theory and Practice in Archaeology},
+  author = {Hodder, Ian},
+  year = {1995},
+  publisher = {Routledge},
+  address = {London},
+  isbn = {978-0-415-12777-6},
+  langid = {english}
+}
+
+@incollection{Lindstedt2016,
+  title = {Multilingualism in the {{Central Balkans}} in Late {{Ottoman}} Times},
+  booktitle = {In Search of the Center and Periphery: {{Linguistic}} Attitudes, Minorities, and Landscapes in the {{Central Balkans}}},
+  author = {Lindstedt, Jouko},
+  editor = {Makartsev, Maxim and Wahlstr{\"o}m, Max},
+  year = {2016},
+  series = {Slavica {{Helsingiensia}}},
+  number = {49},
+  pages = {51--67},
+  publisher = {Helsingin yliopisto, nykykielten laitos},
+  address = {Helsinki},
+  isbn = {978-951-51-2520-0}
+}
+
+@article{SookiasEtAl2018,
+  title = {Deep Cultural Ancestry and Human Development Indicators across Nation States},
+  author = {Sookias, Roland B. and Passmore, Samuel and Atkinson, Quentin D.},
+  year = {2018},
+  journal = {Royal Society Open Science},
+  volume = {5},
+  number = {4},
+  doi = {10.1098/rsos.171411},
+  keywords = {Cultural evolution,Indo-European,International development,Phylogenetics}
+}
+
+@incollection{Trudgill2020,
+  title = {Sociolinguistic Typology and the Uniformitarian Hypothesis},
+  booktitle = {Language {{Dispersal}}, {{Diversification}}, and {{Contact}}},
+  author = {Trudgill, Peter},
+  editor = {Trudgill, Peter},
+  year = {2020},
+  month = jul,
+  pages = {44--57},
+  publisher = {Oxford University Press},
+  doi = {10.1093/oso/9780198723813.003.0003},
+  urldate = {2022-10-25},
+  isbn = {978-0-19-872381-3 978-0-19-179115-4},
+  langid = {english}
+}
+
+@book{Wenke1980,
+  title = {Patterns in Prehistory: Mankind's First Three Million Years},
+  shorttitle = {Patterns in Prehistory},
+  author = {Wenke, Robert J.},
+  year = {1980},
+  publisher = {Oxford University Press},
+  address = {New York},
+  isbn = {978-0-19-502556-9 978-0-19-502557-6},
+  lccn = {GN740 .W46},
+  keywords = {Prehistoric peoples}
+}
+
+
 
 *EK*
