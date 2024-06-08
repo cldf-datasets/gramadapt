@@ -47,7 +47,7 @@ For works overviewing and discussing identity:
 
 The connection between language and identity is thought to play a role in language variation and change in a number of ways: 
 - It may form a psychological boundary between languages, enforcing a linguistic boundary between linguistic codes in speakers' minds. This may, for example, maintain the separation of parts of linguistic codes in multilingual/language contact situations (Francois 2012), and even contribute to language differentiation (Irvine and Gal 2000).
-- It may enforce norms within a language (Milroy and Margrain 1980) and may hinder language shift speakers/signers assume a positive self identity that is tied to language (Giles & Johnson, 1987).
+- It may enforce norms within a language (Milroy & Margrain 1980) and may hinder language shift speakers/signers assume a positive self identity that is tied to language (Giles & Johnson, 1987).
 
 The exact role of identity as a causal factor in language change is debated. Labov (2001) expresses skepticism that the concept of local identity motivates language change (p.191). Mufwene (2001) suggests that speakers of creoles do not create languages but that creoles emerge from linguistic production without intention. Trudgill (2008) argues that European colonial varieties such as Brazillian Portugese and New Zealand English emerge from dialect mixture rather than from a desire to mark out a new national identity. 
 

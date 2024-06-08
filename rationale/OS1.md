@@ -49,7 +49,7 @@ The motivation behind the interest in political complexity is based on observati
 Scales of political complexity may in fact be proxies for social network cohesion (Skirgård 2021: 53; c.f. Grace 1992), which would link this variable to social network structures as a variable of interest.
 
 **References**
-``
+
 @article{GiulianoNunn2018a,
   title = {Ancestral {{Characteristics}} of {{Modern Populations}}},
   author = {Giuliano, Paola and Nunn, Nathan},
