@@ -11,9 +11,6 @@
 
 **Definitions**
 
-- *Yes*
-- *No*
-
 
 **Example**
 

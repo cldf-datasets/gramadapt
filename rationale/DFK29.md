@@ -1,7 +1,11 @@
 
 ## DFK29: Typically, how well does a Focus Group person understand the Neighbour Group in-law’s language?
 
-
+- Very well
+- Well 
+- Somewhat
+- Poorly
+- Very poorly
 
 **Goal**
 
