@@ -115,11 +115,11 @@ Scales of political complexity may in fact be proxies for social network cohesio
   address = {Department of Anthropology}
 }
 
-@phdthesis{Skirgard2020,
+@phdthesis{Skirgard2021,
   type = {Unpublished {{PhD Dissertation}}},
   title = {Multilevel Dynamics of Language Diversity in {{Oceania}}},
   author = {Skirg{\aa}rd, Hedvig},
-  year = {2020},
+  year = {2021},
   address = {Canberra, Australia},
   school = {The Australian National University},
 }

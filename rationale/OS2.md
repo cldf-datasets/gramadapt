@@ -139,10 +139,10 @@ Note it has also been noted that these scales of political complexity may also i
   pages = {24--136}
 }
 
-@phdthesis{Skirgard2020,
+@phdthesis{Skirgard2021,
   title = {Multilevel Dynamics of Language Diversity in {{Oceania}}},
   author = {Skirg{\aa}rd, Hedvig},
-  year = {2020},
+  year = {2021},
   address = {Canberra},
   school = {Australian National University},
   annotation = {10.25911/WY2B-AQ30}
