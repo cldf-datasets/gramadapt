@@ -30,13 +30,28 @@ The question and possible answers are adapted from question B009 of the Binford 
 
 
 
-
 **Theoretical Support**
 
-Mobile and sedentary groups tend to have certain societal characteristics EXPAND Check Hunter Gatherer’s Database, Harald Hammarström
+The consequences of nomadism on linguistic structure appear related to the spread of languages. For example the mobile nomads of Eurasia were crucial in the spread of the Turkic languages (Yunusbayev et al. 2015) at different points in time. The deep and continued relationship between nomads and their sedentary neighbours is well attested (see Khazanov 2001), so one would expect this relational crux to be a point of interest for contact linguists.
 
+Theoretically, nomadism may have consequences on linguistic structures due to it's social organisation. As has been argued for hunter-gatherers and their linguistic structures, the gross social organisation and interactional patterns of non-agriculturalists may have consequences for linguistic behaviours and long-term linguistic change (though see Bickel and Nichols 2020 for suggestion that are no structural differences between hunter-gatherer languages and sedentary languages). To the best of our knowledge, there have been no specific studies investigating the relationship between nomadism and linguistic structure, or language contact outcomes. 
 
 **References**
+
+@incollection{BickelNichols2020,
+  title = {Linguistic {{Typology}} and {{Hunter-Gatherer Languages}}},
+  booktitle = {The {{Language}} of {{Hunter-Gatherers}}},
+  author = {Bickel, Balthasar and Nichols, Johanna},
+  editor = {G{\"u}ldemann, Tom and McConvell, Patrick and Rhodes, Richard A.},
+  year = {2020},
+  month = feb,
+  edition = {1},
+  pages = {67--75},
+  publisher = {Cambridge University Press},
+  doi = {10.1017/9781139026208.004},
+  urldate = {2024-01-02},
+  isbn = {978-1-139-02620-8 978-1-107-00368-2}
+}
 
 @book{Binford2001,
   title = {Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Hunter-Gatherer and Environmental Data Sets},
@@ -92,6 +107,17 @@ Mobile and sedentary groups tend to have certain societal characteristics EXPAND
   address = {Pullman}
 }
 
+@incollection{Khazanov2001,
+  title = {Nomads in the History of the Sedentary World},
+  booktitle = {Nomads in the Sedentary World},
+  author = {Khazanov, Anatoly M.},
+  editor = {Khazanov, Anatoly M. and Wink, Andre},
+  year = {2001},
+  pages = {1--23},
+  address = {London}
+}
+
+
 @article{KirbyEtAl2016,
   title = {D-{{PLACE}}: {{A Global Database}} of {{Cultural}}, {{Linguistic}} and {{Environmental Diversity}}},
   shorttitle = {D-{{PLACE}}},
@@ -106,7 +132,7 @@ Mobile and sedentary groups tend to have certain societal characteristics EXPAND
   doi = {10.1371/journal.pone.0158391},
   urldate = {2022-11-27},
   langid = {english},
- }
+}
 
 @incollection{KirbyEtAl2018,
   title = {Binford {{Hunter-Gatherer}}},
@@ -141,6 +167,24 @@ Mobile and sedentary groups tend to have certain societal characteristics EXPAND
   school = {University of New Mexico}
 }
 
+@article{YunusbayevEtAl2015,
+  title = {The {{Genetic Legacy}} of the {{Expansion}} of {{Turkic-Speaking Nomads}} across {{Eurasia}}},
+  author = {Yunusbayev, Bayazit and Metspalu, Mait and Metspalu, Ene and Valeev, Albert and Litvinov, Sergei and Valiev, Ruslan and Akhmetova, Vita and Balanovska, Elena and Balanovsky, Oleg and Turdikulova, Shahlo and Dalimova, Dilbar and Nymadawa, Pagbajabyn and Bahmanimehr, Ardeshir and Sahakyan, Hovhannes and Tambets, Kristiina and Fedorova, Sardana and Barashkov, Nikolay and Khidiyatova, Irina and Mihailov, Evelin and Khusainova, Rita and Damba, Larisa and Derenko, Miroslava and Malyarchuk, Boris and Osipova, Ludmila and Voevoda, Mikhail and Yepiskoposyan, Levon and Kivisild, Toomas and Khusnutdinova, Elza and Villems, Richard},
+  editor = {Coop, Graham},
+  year = {2015},
+  month = apr,
+  journal = {PLOS Genetics},
+  volume = {11},
+  number = {4},
+  pages = {e1005068},
+  issn = {1553-7404},
+  doi = {10.1371/journal.pgen.1005068},
+  urldate = {2024-06-10},
+  langid = {english}
+}
+
+
+*EK, OR*
 
 
 *EK, OR*
