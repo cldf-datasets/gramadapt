@@ -49,7 +49,7 @@ The possible answer options are as follows:
 - *Other:*An example of what may count as ‘other’ in the proposed list of answer types would be those groups analysed under the community of practice model, such as being a jock/burn out (Eckert 1989), or identifying with one’s sexual orientation (Munson 2007). For most pre-modern communities, however, we assume this option is unlikely, and that most groups will have formed communities in geographic space.
 
 
-- Choose “other” only if the community of practice associated with the use of unmonitored speech cannot be identified with any of the other interactional spaces listed above (cf. wiki for examples from the ethnographic literature)
+- Choose “other” only if the community of practice associated with the use of unmonitored speech cannot be identified with any of the other interactional spaces listed above.
 
 
 
