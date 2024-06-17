@@ -44,5 +44,16 @@ SOURCE: *Kin and Social Organisation Tutorial,*copyright 1995-2003 Brian Schwimm
 tba
 
 
+**References**
+
+@misc{Schwimmer1995,
+  title = {Kinship and Social Organization},
+  author = {Schwimmer, Brian},
+  year = {1995/2003},
+  urldate = {2021-03-24},
+  collaborator = {{University of Manitoba}},
+  howpublished = {https://www.umanitoba.ca/faculties/arts/anthropology/tutor/kinmenu.html}
+}
+
 
 *FDG, EK*
