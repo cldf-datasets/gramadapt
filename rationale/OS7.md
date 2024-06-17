@@ -110,5 +110,4 @@ Humans arrange themselves socially in fairly small populations. Dunbar (1993) sh
 }
 
 
-
-OR
+*KS*
