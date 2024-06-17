@@ -204,6 +204,6 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
   number = {3}
 }
 
-*KS, EK, OR*
+*KS*
 
 
