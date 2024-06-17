@@ -12,7 +12,7 @@
 
 **Definitions**
 
-
+(If you choose “The Focus Group language” or “Some other language” skip question 16.)
 
 **Example**
 
