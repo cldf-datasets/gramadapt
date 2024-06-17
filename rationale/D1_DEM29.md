@@ -1,8 +1,7 @@
 
 ## D1: Polyandry - Exchange & Marriage (DEM29)
 
-- Is polyandry possible for Focus Group women?
-- Is polyandry possible for Neighbour Group women?
+Is polyandry possible for Focus Group women? Is polyandry possible for Neighbour Group women?
 
 - If possible, is polyandry of fraternal type? 
 
