@@ -124,4 +124,21 @@ Scales of political complexity may in fact be proxies for social network cohesio
   school = {The Australian National University},
 }
 
+@article{CurrieMace2009,
+  title = {Political Complexity Predicts the Spread of Ethnolinguistic Groups},
+  author = {Currie, Thomas E. and Mace, Ruth},
+  year = {2009},
+  month = may,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {106},
+  number = {18},
+  pages = {7339--7344},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.0804698106},
+  urldate = {2022-11-30},
+  langid = {english},
+  
+}
+
+
 *EK*
