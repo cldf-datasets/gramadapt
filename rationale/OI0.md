@@ -12,7 +12,7 @@
 Here we wish to get a general assessment of language loyalty in the Focus Group. Language loyalty can be characterised by a variety of parameters, so here we ask you to make that assessment along parameters you believe are important and relevant for the community in question.
 
 **Definitions**
-*Language loyalty:*A tendency to be loyal to one’s language, typically by expressing a desire to retain an identity that is expressed through the use of that language. High levels of language loyalty lead people to using and maintaining a language actively, “even in adverse conditions” (González 2008: 445).
+*Language loyalty:* A tendency to be loyal to one’s language, typically by expressing a desire to retain an identity that is expressed through the use of that language. High levels of language loyalty lead people to using and maintaining a language actively, “even in adverse conditions” (González 2008: 445).
 
 - *Very low*, e.g. people do not consider it very important to speak “their language” and will speak other languages in many contexts. May express linguistic shame, denigrate their language.
 - *Low*, e.g. people do not consider it particularly important to speak their language. May be self-deprecating about their language.
