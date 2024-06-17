@@ -88,4 +88,4 @@ We are interested in standard varieties, as defined above, for a number of reaso
 
 
 
-*OR, EK*
+*KS*
