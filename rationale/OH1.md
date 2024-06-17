@@ -87,4 +87,13 @@ While societal upheaval or natural disaster may sometimes be the only contributi
   address = {Heidelberg}
 }
 
+@book{Trudgill2011,
+  title = {Sociolinguistic {{Typology}}: {{Social Determinants}} of {{Linguistic Complexity}}},
+  author = {Trudgill, Peter},
+  year = {2011},
+  publisher = {Oxford University Press},
+  address = {Oxford}
+}
+
+
 *KS*
