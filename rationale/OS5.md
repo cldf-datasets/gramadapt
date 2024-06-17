@@ -185,4 +185,4 @@ Theoretically, nomadism may have consequences on linguistic structures due to it
 }
 
 
-*EK, OR*
+*EK*
