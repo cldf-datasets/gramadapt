@@ -5,15 +5,15 @@ When marrying each other, should Focus Group people and Neighbour Group people m
 
 
 
-outside their village or other kind of local community?
+- outside their village or other kind of local community?
 
-outside their descent group or clan?
+- outside their descent group or clan?
 
-outside their designated marriage group, such as a moiety?
+- outside their designated marriage group, such as a moiety?
 
-outside their hierarchical social group such as class or caste?
+- outside their hierarchical social group such as class or caste?
 
-outside their linguistic group?
+- outside their linguistic group?
 
 
 
