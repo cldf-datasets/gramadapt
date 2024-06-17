@@ -1,19 +1,19 @@
 
 ## D1: Endogamic Rules - Exchange & Marriage (DEM27)
 
-When marrying each other, should Focus Group people and Neighbour Group people marry somebody from:When marrying each other, should Focus Group people and Neighbour Group people marry somebody from:
+When marrying each other, should Focus Group people and Neighbour Group people marry somebody from:
 
 
 
-the same village or other kind of local community?
+- the same village or other kind of local community?
 
-the same descent group or clan?
+- the same descent group or clan?
 
-the same designated marriage group, such as a moiety?
+- the same designated marriage group, such as a moiety?
 
-the same hierarchical social group such as class or caste?
+- the same hierarchical social group such as class or caste?
 
-the same linguistic group?
+- the same linguistic group?
 
 
 
