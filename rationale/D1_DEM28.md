@@ -1,9 +1,9 @@
 
 ## D1: Polygyny - Exchange & Marriage (DEM28)
 
-Is polygyny possible for Focus Group men? Is polygyny possible for Focus Group men?
-Is polygyny possible for Neighbour Group men?
-Is polygyny possible for men from all societal strata?
+- Is polygyny possible for Focus Group men? 
+- Is polygyny possible for Neighbour Group men?
+- Is polygyny possible for men from all societal strata?
 
 
 
