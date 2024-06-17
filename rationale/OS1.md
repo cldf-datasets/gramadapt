@@ -92,6 +92,15 @@ Scales of political complexity may in fact be proxies for social network cohesio
   langid = {english},
 }
 
+@incollection{KirbyEtAl2018,
+  title = {Ethnographic {{Atlas}}},
+  booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
+  editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
+  year = {2018},
+  publisher = {Max Planck Institute for the Science of Human History},
+  address = {Jena}
+}
+
 @misc{MurdockEtAl2023,
   title = {D-{{PLACE}} Dataset Derived from {{Murdock}} et al. 1999 '{{Ethnographic Atlas}}'},
   author = {Murdock, G. P. and R. Textor and H. Barry, {\relax III} and D. R. White and J. P. Gray and W. T. Divale},
