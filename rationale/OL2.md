@@ -41,3 +41,5 @@ The scale of answers is the following:
 **Theoretical & Empirical Support**
 
 For theoretical & empirical support related to social groups, see D3. For theoretical & empirical support related to literacy, see OL1.
+
+*KS*
