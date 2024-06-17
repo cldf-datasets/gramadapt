@@ -226,4 +226,4 @@ In this questionnaire we collect data on the number of native speakers so that w
 
 
 
-*KS, EK*
+*KS*
