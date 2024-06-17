@@ -39,16 +39,36 @@ Makihara's research on Rapa Nui speech found that some Rapa Nui parents speak to
 
 In this type of situation, where children’s language choices with their Focus Group parents tend to include more than one code resembling syncretic speech, the most appropriate answer to this question would be “This is highly contextual” despite Spanish language dominance.
 
+**References**
 
+@article{Makihara2005,
+  title = {Being {{Rapa Nui}}, Speaking {{Spanish}}: {{Children}}'s Voices on {{Easter Island}}},
+  shorttitle = {Being {{Rapa Nui}}, Speaking {{Spanish}}},
+  author = {Makihara, Miki},
+  year = {2005},
+  month = jun,
+  journal = {Anthropological Theory},
+  volume = {5},
+  number = {2},
+  pages = {117--134},
+  issn = {1463-4996, 1741-2641},
+  doi = {10.1177/1463499605053995},
+  urldate = {2022-11-27},
+  langid = {english}
+}
 
-**Bibliography**
+@article{Makihara2005a,
+  title = {Rapa {{Nui}} Ways of Speaking {{Spanish}}: {{Language}} Shift and Socialization on {{Easter Island}}},
+  shorttitle = {Rapa {{Nui}} Ways of Speaking {{Spanish}}},
+  author = {Makihara, Miki},
+  year = {2005},
+  month = nov,
+  journal = {Language in Society},
+  volume = {34},
+  number = {05},
+  issn = {0047-4045, 1469-8013},
+  doi = {10.1017/S004740450505027X},
+  urldate = {2022-11-27},
+  langid = {english}
+}
 
-Berger, D. N. (2019, August 20). Mundo Indígena 2019: Rapa Nui (Isla de Pascua). IWGIA - International Work Group for Indigenous Affairs.
-
-On Easter Island, dedicated few trying to preserve native Rapa Nui. (2013, September 4). The World from PRX.https://www.pri.org/stories/2013-09-04/easter-island-dedicated-few-trying-preserve-native-rapa-nui-language
-
-Makihara, Miki. 2005a. Being Rapa Nui, speaking Spanish. *Anthropological Theory*5(2). 117–134. https://doi.org/10.1177/1463499605053995
-
-Makihara, Miki. 2005b. Rapa Nui ways of speaking Spanish: Language shift and socialization on Easter Island. *Language in Society*34(5). [https://doi.org/10.1017/s004740450505027x](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1017%2Fs004740450505027x&sa=D&sntz=1&usg=AOvVaw0M1yF5nJ34K57j8PKo6XFa)
-
-*Kayleigh Karinen, 2021*
