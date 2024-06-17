@@ -132,4 +132,4 @@ Proportion of native-like vs. non-native-like speakers has been used in the typo
 
 
 
-*KS, EK*
+*KS*
