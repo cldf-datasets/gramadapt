@@ -204,6 +204,65 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
   number = {3}
 }
 
+@book{Jorgensen1980,
+  title = {Western {{Indians}}: {{Comparative Environments}}, {{Languages}}, and {{Cultures}} of 172 {{Western American Indian Tribes}}},
+  author = {Jorgensen, Joseph G.},
+  year = {1980},
+  publisher = {{W. H. Freeman and Company}},
+  address = {San Francisco}
+}
+
+@article{KirbyEtAl2016,
+  title = {D-{{PLACE}}: {{A Global Database}} of {{Cultural}}, {{Linguistic}} and {{Environmental Diversity}}},
+  shorttitle = {D-{{PLACE}}},
+  author = {Kirby, Kathryn R. and Gray, Russell D. and Greenhill, Simon J. and Jordan, Fiona M. and {Gomes-Ng}, Stephanie and Bibiko, Hans-J{\"o}rg and Blasi, Dami{\'a}n E. and Botero, Carlos A. and Bowern, Claire and Ember, Carol R. and Leehr, Dan and Low, Bobbi S. and McCarter, Joe and Divale, William and Gavin, Michael C.},
+  year = {2016},
+  month = jul,
+  journal = {PLOS ONE},
+  volume = {11},
+  number = {7},
+  pages = {e0158391},
+  issn = {1932-6203},
+  doi = {10.1371/journal.pone.0158391},
+  urldate = {2022-11-27},
+  langid = {english},
+  file = {C:\Users\anuhyvon\Zotero\storage\J7H8VWCN\Kirby ym. - 2016 - D-PLACE A Global Database of Cultural, Linguistic.pdf}
+}
+
+@article{MurdockWhite1969,
+  title = {Standard {{Cross-Cultural Sample}}},
+  author = {Murdock, George P. and White, Douglas R.},
+  year = {1969},
+  month = oct,
+  journal = {Ethnology},
+  volume = {8},
+  number = {4},
+  eprint = {3772907},
+  eprinttype = {jstor},
+  pages = {329},
+  issn = {00141828},
+  doi = {10.2307/3772907},
+  urldate = {2022-11-28}
+}
+
+@article{MurdockWilson1972,
+  title = {Settlement {{Patterns}} and {{Community Organization}}: {{Cross-Cultural Codes}} 3},
+  shorttitle = {Settlement {{Patterns}} and {{Community Organization}}},
+  author = {Murdock, George P. and Wilson, Suzanne F.},
+  year = {1972},
+  month = jul,
+  journal = {Ethnology},
+  volume = {11},
+  number = {3},
+  eprint = {3773219},
+  eprinttype = {jstor},
+  pages = {254},
+  issn = {00141828},
+  doi = {10.2307/3773219},
+  urldate = {2022-10-26}
+}
+
+
 *KS*
 
 
