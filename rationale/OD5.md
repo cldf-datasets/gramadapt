@@ -75,6 +75,15 @@ Proportion of native-like vs. non-native-like speakers has been used in the typo
   file = {C:\Users\anuhyvon\Zotero\storage\BTFXQ8GP\Kirby ym. - 2016 - D-PLACE A Global Database of Cultural, Linguistic.pdf}
 }
 
+@incollection{KirbyEtAl2018,
+  title = {Standard Cross-Cultural Sample},
+  booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
+  editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
+  year = {2018},
+  publisher = {Max Planck Institute for the Science of Human History},
+  address = {Jena}
+}
+
 @article{MurdockWhite1969,
   title = {Standard {{Cross-Cultural Sample}}},
   author = {Murdock, George P. and White, Douglas R.},
