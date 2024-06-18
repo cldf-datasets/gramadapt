@@ -229,6 +229,25 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
   file = {C:\Users\anuhyvon\Zotero\storage\J7H8VWCN\Kirby ym. - 2016 - D-PLACE A Global Database of Cultural, Linguistic.pdf}
 }
 
+@incollection{KirbyEtAl2018,
+  title = {Standard Cross-Cultural Sample},
+  booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
+  editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
+  year = {2018},
+  publisher = {Max Planck Institute for the Science of Human History},
+  address = {Jena}
+}
+
+@incollection{KirbyEtAl2018a,
+  title = {Western {{North American Indian}} Database},
+  booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
+  author = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
+  year = {2018},
+  publisher = {Max Planck Institute for the Science of Human History},
+  address = {Jena}
+}
+
+
 @article{MurdockWhite1969,
   title = {Standard {{Cross-Cultural Sample}}},
   author = {Murdock, George P. and White, Douglas R.},
