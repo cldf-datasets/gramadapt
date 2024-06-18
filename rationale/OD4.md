@@ -28,7 +28,7 @@ The scale is as follows:
 
 
 
-This question is adapted from question SCCS1122 in the Standard Cross-Cultural Sample (Murdock & White 1969; White 2009) that is available in D-PLACE (Kirby et al. 2016; 2018; see[ ](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FSCCS1122%232%2F14.3%2F151.3&sa=D&sntz=1&usg=AOvVaw1NJpvOgywMgSIE-c9pxyKK)[https://d-place.org/parameters/SCCS1122#2/14.3/151.3](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FSCCS1122%232%2F14.3%2F151.3&sa=D&sntz=1&usg=AOvVaw1NJpvOgywMgSIE-c9pxyKK))
+This question is adapted from question SCCS1122 in the Standard Cross-Cultural Sample (Murdock & White 1969; White 2009) that is available in D-PLACE (Kirby et al. 2016; 2018c; see[ ](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FSCCS1122%232%2F14.3%2F151.3&sa=D&sntz=1&usg=AOvVaw1NJpvOgywMgSIE-c9pxyKK)[https://d-place.org/parameters/SCCS1122#2/14.3/151.3](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FSCCS1122%232%2F14.3%2F151.3&sa=D&sntz=1&usg=AOvVaw1NJpvOgywMgSIE-c9pxyKK))
 
 
 
@@ -74,6 +74,15 @@ Proportion of native-like vs. non-native-like speakers has been used in the typo
   urldate = {2022-11-27},
   langid = {english},
   file = {C:\Users\anuhyvon\Zotero\storage\BTFXQ8GP\Kirby ym. - 2016 - D-PLACE A Global Database of Cultural, Linguistic.pdf}
+}
+
+@incollection{KirbyEtAl2018,
+  title = {Standard Cross-Cultural Sample},
+  booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
+  editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
+  year = {2018},
+  publisher = {Max Planck Institute for the Science of Human History},
+  address = {Jena}
 }
 
 @article{MurdockWhite1969,
