@@ -25,7 +25,7 @@ This question gives us a sense of whether affinal registers are practiced in the
 
 - Proper name avoidance. The avoidance can extend to homophones of near-homophones (e.g. avoiding words that sound like an in-law’s name (e.g. Datooga (Nilotic, Tanzania), see Mitchell 2015). These can be segmentally based, syllable based (e.g. Kataamba, Ethiopia, see Fleming 2014)). We have not found examples yet, but we would include any semantically based reasons for avoiding lexical items in this group.
 - Avoidance of certain lexical items in the presence of in-laws (e.g. described as “mother-in-law languages” in Australia, see Dixon 1971; McGregor 1989). The avoidance can extend to homophones and semantic associations.
-- Avoidance of certain pronominal forms (e.g. Aslian languages, see Kruspe & Burenhult 2019)
+- Avoidance of certain pronominal forms (e.g. Aslian languages, see Kruspe & Burenhult 2018)
 
 
 
