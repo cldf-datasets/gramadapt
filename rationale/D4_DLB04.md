@@ -18,7 +18,7 @@ By _formally recognised_, we mean hierarchical positions within work which are n
 **Examples**
 
 - _Yes_: Managers & subordinates
-- Yes: Land owning Janins (Kannada-speakers) and Muslims and Hindus (Urdu-speakers) working the lands. (Gumperz & Wilson 1967)
+- Yes: Land owning Janins (Kannada-speakers) and Muslims and Hindus (Urdu-speakers) working the lands. (Gumperz & Wilson 1971)
 
 **Theoretical and Empirical Support**
 
