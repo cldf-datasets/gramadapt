@@ -131,6 +131,12 @@ Recent research shows that kinship structures may strongly influence the mapping
   keywords = {Age,Authority,Diaspora,Gender,Immigration,Indigenous language,Sociophonetics,Southeast Asia}
 }
 
+@article{TheEditorsofEncyclopaediaBritannica2016,
+  title = {Moiety System},
+  editor = {{The Editors of Encyclopaedia Britannica}},
+  year = {2016},
+  journal = {Encyclopaedia Britannica}
+}
 
 
 
