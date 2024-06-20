@@ -27,11 +27,6 @@ With this question we also aim at capturing the intensity of contact between Foc
 
 
 
-
-**Theoretical & Empirical Support**
-
-
-
 **References**
 
 
