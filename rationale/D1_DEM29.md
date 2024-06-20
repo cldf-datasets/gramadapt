@@ -37,12 +37,6 @@ The answers to this question may help us further understand the nature of popula
 
 
 
-**Theoretical & Empirical Support**
-
-tba
-
-
-
 **References**
 
 @article{Berreman1962,
