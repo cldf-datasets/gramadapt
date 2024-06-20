@@ -26,7 +26,7 @@ The term *codified* refers to rules and standards enshrined in orthography and i
 
 **Theoretical & Empirical Support**
 
-We are interested in standard varieties, as defined above, for a number of reasons. 1) Standard varieties seem to appear in societies with more than one level of jurisdictional authority, 2) standard varieties seem to have an effect of flattening community internal linguistic variation, and 3) the use of orthographies appear to have some cognitive consequences for learning of languages.
+We are interested in standard varieties as they seem to have an effect of flattening community internal linguistic variation. As Lüpke notes, written uses of language "presupposes its standardization" which may accelerate cultural change and loss of "the phatic values of the vernacular" (p.313) resulting in a gradual decline of local languages in what was once a multilingual language ecology. Broucier (2014) demonstrates Standardisation via orthography can lead to speakers adopting utilitarian approaches to language acquisition and use, thereby harming language revitalisation efforts in some communities. Standardisation by definition means making things similar across parameters, and there is ample evidence from across the world where standardisation via orthography results in the loss of linguistic diversity.
 
 
 **References**
@@ -42,6 +42,19 @@ We are interested in standard varieties, as defined above, for a number of reaso
   annotation = {OCLC: 252527692},
  }
 
+@incollection{Broucier2014,
+  title = {Standardization in {{Language Revitalization}}},
+  booktitle = {Dialogue on Dialect Standardization},
+  author = {Broucier, Andr{\'e}},
+  editor = {Dyck, Carrie Joan},
+  year = {2014},
+  pages = {127--143},
+  publisher = {Cambridge Scholars Publ},
+  address = {Newcastle upon Tyne},
+  isbn = {978-1-4438-6661-3},
+  langid = {english}
+}
+
 @book{Lodge1993,
   title = {French: {{From Dialect}} to {{Standard}}},
   shorttitle = {French},
@@ -52,6 +65,19 @@ We are interested in standard varieties, as defined above, for a number of reaso
   doi = {10.4324/9780203158142},
   urldate = {2022-10-26},
   isbn = {978-0-203-15814-2},
+  langid = {english}
+}
+
+@incollection{Lupke2011,
+  title = {Orthography Development},
+  booktitle = {The {{Cambridge}} Handbook of Endangered Languages},
+  author = {L{\"u}pke, Friederike},
+  editor = {Austin, Peter K. and Sallabank, Julia},
+  year = {2011},
+  series = {Cambridge Handbooks in Language and Linguistics},
+  publisher = {Cambridge University Press},
+  address = {Cambridge},
+  isbn = {978-0-511-97598-1 978-0-521-88215-6},
   langid = {english}
 }
 
