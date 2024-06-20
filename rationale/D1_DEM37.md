@@ -34,16 +34,6 @@ In most societies, marriage has a big impact on the economy of intermarrying gro
 
 
 
-
-SOURCE: *Kin and Social Organisation Tutorial,*copyright 1995-2003 Brian Schwimmer, University of Manitoba.
-
-
-
-**Theoretical & Empirical Support**
-
-tba
-
-
 **References**
 
 @misc{Schwimmer1995,
