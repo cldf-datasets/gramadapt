@@ -21,7 +21,7 @@ This question tries to capture the nature of the trade relationship between Focu
 
 **Definitions**
 
-- *Raw materials and primary produce:*wood, minerals, rice, wheat
+- *Raw materials and primary produce*: wood, minerals, rice, wheat
 - *Luxuries*: objects primarily of status and/or enjoyment (items of beautification, books, prestige food stuffs)
 - *Manufactured goods*: paper, machines, craft goods, tools. Excludes luxuries.
 
