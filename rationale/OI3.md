@@ -114,4 +114,4 @@ We are interested in standard varieties as they seem to have an effect of flatte
 
 
 
-*KS*
+*KS*, *EK*, *OR*, *AH*
