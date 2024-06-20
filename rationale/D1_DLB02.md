@@ -44,9 +44,9 @@ The scale used is as follows:
 
 **Theoretical&Empirical Support**
 
-Workplaces of the public mode of labour are often stratified, which tends to result in differential linguistic behaviour and variation in linguistic forms among workers (e.g. Leach 2018 on industrial vs managerial workers in the pottery industry in the UK). Collective work in factories that pull people from other parts of the world report cases where workers are not necessarily able to communicate with the employer or with their colleagues (e.g. Premji et al. 2008 on a factory in Montreal, Canada). In such multilingual settings, it tends to be that many workers have more frequent contact with those who shared a first language other than that of the majority or with speakers with very different styles and varieties of this majority language (e.g. Goldstein 1997; Clyne 1994 on Melbourne, Australia; and Duff et al. 2000 on Canada).
+Workplaces of the public mode of labour are often stratified, which tends to result in differential linguistic behaviour and variation in linguistic forms among workers (e.g. Leach 2018 on industrial vs managerial workers in the pottery industry in the UK). Collective work in factories that pull people from other parts of the world report cases where workers are not necessarily able to communicate with the employer or with their colleagues (e.g. Premji et al. 2008 on a factory in Montreal, Canada). In such multilingual settings, it tends to be that many workers have more frequent contact with those who shared a first language other than that of the majority or with speakers with very different styles and varieties of this majority language (e.g. Goldstein 1997; Clyne 1994 on Melbourne, Australia; and Duff et al. 2000 on Canada). While we have not investigated it specifically, research into ways of speaking and interaction in private modes of labour likely exist but in small quantities. 
 
-Research into ways of speaking and interaction in private modes of labour are harder to find. Macro studies which investigate language change and diversity sometimes include subsistence patterns and economies of production (e.g.), and this is done for seemingly two related reasons. One reason is that there is a tacit understanding by linguists that groups will organise themselves differently according to the needs of differing modes of production, which then have consequences for social structure, behaviour, and linguistic interaction (e.g. Epps 2017). The idea that, for example, peoples of rice-growing societies, wheat-growing societies, and hunter-gatherer societies have behaviour patterns that differ from one another is a relatively old observation (Berry 1967). Another reason why subsistence is thought to have consequences is that different patterns of subsistence might overlap with environmental productivity and other geographical and climatic factors that affect peoples' behaviours and social structures (the relationship between geographical-climatic factors and languages is, however, not straight forward, see Collard & Foley 2002; Gavin & Sibanda 2012; Coelho et al. 2019).
+Macro studies which investigate language change and diversity sometimes include subsistence patterns and economies of production (e.g. Derungs et al. 2018), and this is done for seemingly two related reasons. One reason is that there is a tacit understanding by linguists that groups will organise themselves differently according to the needs of differing modes of production, which then have consequences for social structure, behaviour, and linguistic interaction (e.g. Epps 2017). The idea that, for example, peoples of rice-growing societies, wheat-growing societies, and hunter-gatherer societies have behaviour patterns that differ from one another is a relatively old observation (Berry 1967). Another reason why subsistence is thought to have consequences is that different patterns of subsistence might overlap with environmental productivity and other geographical and climatic factors that affect peoples' behaviours and social structures (the relationship between geographical-climatic factors and languages is, however, not straight forward, see Collard & Foley 2002; Gavin & Sibanda 2012; Coelho et al. 2019).This falls under the Ecological Risk Hypothesis (Nettle 1999).
 
 
 **References**
@@ -96,6 +96,22 @@ Research into ways of speaking and interaction in private modes of labour are ha
   pages = {371--383},
   keywords = {Biogeography,Cultural density,Cultural diversity,Human evolutionary ecology,Latitudinal gradient}
 }
+
+@article{DerungsEtAl2018,
+  title = {Environmental Factors Drive Language Density More in Food-Producing than in Hunter--Gatherer Populations},
+  author = {Derungs, Curdin and K{\"o}hl, Martina and Weibel, Robert and Bickel, Balthasar},
+  year = {2018},
+  month = aug,
+  journal = {Proceedings of the Royal Society B: Biological Sciences},
+  volume = {285},
+  number = {1885},
+  pages = {20172851},
+  issn = {0962-8452, 1471-2954},
+  doi = {10.1098/rspb.2017.2851},
+  urldate = {2024-06-20},
+  langid = {english}
+}
+
 
 @article{DuffEtAl2000,
   title = {Learning {{Language}} for {{Work}} and {{Life}}: {{The Linguistic Socialization}} of {{Immigrant Canadians Seeking Careers}} in {{Healthcare}}},
@@ -156,6 +172,15 @@ Research into ways of speaking and interaction in private modes of labour are ha
   year = {2018},
   school = {University of Sheffield}
 }
+
+@book{Nettle1999,
+  title = {Linguistic {{Diversity}}},
+  author = {Nettle, Daniel},
+  year = {1999},
+  publisher = {Oxford University Press},
+  address = {New York, USA}
+}
+
 
 @article{PremjiEtAl2008,
   title = {Broken {{English}}, {{Broken Bones}}? {{Mechanisms Linking Language Proficiency}} and {{Occupational Health}} in a {{Montreal Garment Factory}}},
