@@ -29,13 +29,10 @@ In this question we wish to identify whether Focus Group people tend to occupy a
 
 **Examples**
 
-- Sanskrit diffusion (Pollock 2006)
-- A colonial example
 - *None of the above*: For example, situations where Focus Group and Neighbour Group are equally likely to be in master or novice positions
 - None of the above: For example, situations where both Focus Group and Neighbour Group tend to be novices, and masters are from another group.
 
-
-
+  
 
 **Theoretical & Empirical Support**
 
