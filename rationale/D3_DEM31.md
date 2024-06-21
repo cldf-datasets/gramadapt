@@ -49,6 +49,17 @@ Linguistic transmission in multilingual settings can be affected by the directio
   journal = {Encyclopaedia Britannica}
 }
 
+@article{LansingEtAl2017,
+  title = {Kinship Structures Create Persistent Channels for Language Transmission},
+  author = {Lansing, J. Stephen and Abundo, Cheryl and Jacobs, Guy S. and Guillot, Elsa G. and Thurner, Stefan and Downey, Sean S. and Chew, Lock Yue and Bhattacharya, Tanmoy and Chung, Ning Ning and Sudoyo, Herawati and Cox, Murray P.},
+  year = {2017},
+  journal = {Proceedings of the National Academy of Sciences of the United States of America},
+  volume = {114},
+  number = {49},
+  pages = {12910--12915},
+  doi = {10.1073/pnas.1706416114},
+  keywords = {Coevolution,Cultural evolution,Kinship,Language,Population genetics}
+}
 
 
 FDG
