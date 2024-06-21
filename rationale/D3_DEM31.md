@@ -25,6 +25,8 @@ Here we ask whether intermarriage between Focus Group and Neighbour Group involv
 
 **Theoretical & Empirical Support**
 
+Linguistic transmission in multilingual settings can be affected by the direction of marriage exchange. This is because marriage exchanges play a fundamental role in establishing systems of descent and shaping the kin systems of the intermarrying groups. Marriage exchange create the very context for population movements across groups and they also contribute to shape the population structures of the respective groups. The direction of marriage exchange is also connected with post-marital residence rules, which regulate where the married couple establishes its place of residence after marriage. For a recent study on the relationship between intermarriage practices in multilingual settings (viewed from the perspective of postmarital residence rules) and its consequences for language transmission, see Lansing et al. (2017).  
+
 
 **References**
 
