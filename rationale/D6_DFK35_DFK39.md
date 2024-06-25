@@ -32,7 +32,7 @@ This question is related to post-marital residential practices. While there are 
 **Examples**
 
 - *Focus/Neighbour Group women practically always relocate at Neighbour/Focus Group location*: Tariano (Arawak; Brazil/Colombia) speaking women who marrying Wanano (Tucanoan; Brazil/Colombia) speaking men will live in their husband’s village (Chernela 2013). Idi (Pahoturi River; Papua New Guinea) speaking women who marry Nen (Yam; Papua New Guinea) speaking men will live in their husband’s village (Evans 2012).
-- *Focus Group women sometimes relocate to Neighbour Group locations:*These answer options may include cases of matrilocality where the husband relocates (e.g. Hopi (USA), Eggan 1950), or ambilocality where the husband pays conjugal visits to his wife in her household/village (e.g. Na (Sino-Tibetan; China) speakers used to practice *tisese* “walking back and forth” visiting system where husbands would pay conjugal visits to their wives households and villages (Shih 2010; c.f. Stanford & Yang 2018))
+- *Focus Group women sometimes relocate to Neighbour Group locations:* These answer options may include cases of matrilocality where the husband relocates (e.g. Hopi (USA), Eggan 1950), or ambilocality where the husband pays conjugal visits to his wife in her household/village (e.g. Na (Sino-Tibetan; China) speakers used to practice *tisese* “walking back and forth” visiting system where husbands would pay conjugal visits to their wives households and villages (Shih 2010; c.f. Stanford & Yang 2018))
 
 
 
