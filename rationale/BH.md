@@ -102,6 +102,18 @@ In this questionnaire we treat overt prestige as one of the many factors that af
   address = {Philadelphia}
 }
 
+@incollection{LefkowitzHedgcock2016,
+  title = {Anti-Language: {{Linguistic}} Innovation, Identity Construction, and Group Affiliation among Emerging Speech Communities},
+  author = {Lefkowitz, Natalie and Hedgcock, John S.},
+  editor = {Bell, Nancy},
+  year = {2016},
+  pages = {347--376},
+  publisher = {De Gruyter},
+  address = {Berlin, Germany ; Boston, USA},
+  doi = {10.1515/9781501503993-014},
+  isbn = {978-1-5015-0399-3}
+}
+
 @book{Meyerhoff2011,
   title = {Introducing {{Sociolinguistics}}},
   author = {Meyerhoff, Miriam},
