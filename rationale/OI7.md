@@ -20,7 +20,7 @@ With this question we ask Focus Group speakers' attitudes towards linguistic tra
 
 **Theoretical & Empirical Support**
 
-Language attitudes play an important role in people's linguistic behaviour in language contact situations. If a group's attitude is indifferent or even favors linguistic transfer, this can lead to extensive lexical and even grammatical borrowing. For instance, Law's (2014; see also the discussion in Rodríguez-Ordóñez 2019) studies of the related Mayan languages in Guatemala, Mexico, and Belize suggested that the contact situations had resulted in significant convergence, restructuring, and even borrowing of whole morphological paradigms under language contact. The attitude of Maya Lowlanders was perhaps not outright positive towards transfer but there was sufficient indifference for extensive linguistic transfer to take place. On the other hand, the vibrant social contact between Uruguyan Spanish and Brazilian Portuguese in the border communities of Brazil and Uruguay has not led to extensive linguistic transfer because of the prevailing linguistic ideology of standard national languages (e.g. Carvalho 2014; see also the related discussion in Rodríguez-Ordóñez 2019). The result is rather a stable multilingual community where the linguistic codes are kept quite strictly separate. The attitude towards linguistic transfer is thus viewed negatively.
+Language attitudes play an important role in people's linguistic behaviour in language contact situations. If a group's attitude is indifferent or even favors linguistic transfer, this can lead to extensive lexical and even grammatical borrowing. For instance, Law's (2014; see also the discussion in Rodríguez-Ordóñez 2019) studies of the related Mayan languages in Guatemala, Mexico, and Belize suggested that the contact situations had resulted in significant convergence, restructuring, and even borrowing of whole morphological paradigms under language contact. The attitude of Maya Lowlanders was perhaps not outright positive towards transfer but there was sufficient indifference for extensive linguistic transfer to take place. On the other hand, the vibrant social contact between Uruguyan Spanish and Brazilian Portuguese in the border communities of Brazil and Uruguay has not led to extensive linguistic transfer because of the prevailing linguistic ideology of standard national languages (e.g. Carvalho 2014; see also the related discussion in Rodríguez-Ordóñez 2019). The result is rather a stable multilingual community where the linguistic codes are kept strictly separate. The attitude towards linguistic transfer is thus viewed negatively.
 
 
 
@@ -71,3 +71,5 @@ If the attitudes are strong, it appears that bilingual speakers are capable of k
   pages = {1--26},
   doi = {10.1111/lnc3.12351}
 }
+
+_OR_
