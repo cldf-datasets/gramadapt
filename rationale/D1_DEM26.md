@@ -90,6 +90,22 @@ Recent research shows that kinship structures may strongly influence the mapping
   keywords = {Coevolution,Cultural evolution,Kinship,Language,Population genetics}
 }
 
+@article{Stanford2009,
+  title = {``{{Eating}} the Food of Our Place'': {{Sociolinguistic}} Loyalties in Multidialectal {{Sui}} Villages},
+  shorttitle = {``{{Eating}} the Food of Our Place''},
+  author = {Stanford, James N.},
+  year = {2009},
+  month = jun,
+  journal = {Language in Society},
+  volume = {38},
+  number = {3},
+  pages = {287--309},
+  issn = {0047-4045, 1469-8013},
+  doi = {10.1017/S0047404509090502},
+  urldate = {2022-11-28},
+  langid = {english}
+}
+
 @misc{Schwimmer1995,
   title = {Kinship and Social Organization},
   author = {Schwimmer, Brian},
