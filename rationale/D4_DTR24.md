@@ -34,7 +34,7 @@ The wide-spread use of currency suggests that a group participates in a system o
 
 The use of currencies vs barter as a primary means may suggest certain kinds of interactions and linguistic exchanges. Experimental evidence suggests that the use of cash results in more solitary and individualistic behaviours (Vohs et al. 2006), which may in turn have consequences for interactions and linguistic norms. Unlike the use of cash which raises the possibility of interaction between strangers, barter tends to take place between people who know one another (Humphrey 1985). Although barter almost always co-exists alongside the use of money (Humphrey & Hugh-Jones 1992, Davies 2002: 11–13), if a group mostly barters, this type of exchange probably involves intimates, and a higher degree of linguistic interaction associated with the notion of a society of intimates (Givón & Young 2002, Trudgill 2011).
 
-*EK*
+
 
 **References**
 
@@ -116,3 +116,4 @@ The use of currencies vs barter as a primary means may suggest certain kinds of 
  
 }
 
+*EK*
