@@ -150,5 +150,4 @@ In this questionnaire we treat overt prestige as one of the many factors that af
 
 
 
-
-[^1] *EK*
+*EK*
