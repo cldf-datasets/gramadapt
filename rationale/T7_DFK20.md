@@ -2,13 +2,9 @@
 ## T7: What language do Focus Group parents typically speak with their children? (DFK20)
 
 - The Focus Group language
-
 - The Neighbour Group language
-
 - Some other language
-
 - This is highly contextual
-
 
 
 **Goal**
@@ -97,6 +93,4 @@ Heinrich, Patrick & Bairon, Fija & Brenziger, Matthias. 2009. The Ryukyus and th
 
 Maretzki, Thomas W. & Maretzki, Hatsumi. 1966. Taira: An Okinawan village. In Whiting, Beatrice B. (ed.), *Six cultures: Studies of child rearing*, 363–539. New York: Wiley.
 
-
-
-*Kayleigh Karinen, 2021*
+_KK_
