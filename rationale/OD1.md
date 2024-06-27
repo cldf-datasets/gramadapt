@@ -66,7 +66,6 @@ In this questionnaire we collect data on the number of native speakers so that w
   doi = {10.1098/rspb.2020.3107},
   urldate = {2022-12-08},
   langid = {english},
-  file = {C:\Users\anuhyvon\Zotero\storage\A3M5JMIY\Cantor ym. - 2021 - Social network architecture and the tempo of cumul.pdf}
 }
 
 @article{GreenhillEtAl2018,
@@ -81,7 +80,6 @@ In this questionnaire we collect data on the number of native speakers so that w
   issn = {1664-1078},
   doi = {10.3389/fpsyg.2018.00576},
   urldate = {2022-12-07},
-  file = {C:\Users\anuhyvon\Zotero\storage\XMZPBWWI\Greenhill ym. - 2018 - Population Size and the Rate of Language Evolution.pdf}
 }
 
 @article{KirbyEtAl2016,
@@ -98,7 +96,6 @@ In this questionnaire we collect data on the number of native speakers so that w
   doi = {10.1371/journal.pone.0158391},
   urldate = {2022-11-27},
   langid = {english},
-  file = {C:\Users\anuhyvon\Zotero\storage\F52LDTWT\Kirby ym. - 2016 - D-PLACE A Global Database of Cultural, Linguistic.pdf}
 }
 
 @incollection{KirbyEtAl2018,
@@ -161,7 +158,6 @@ In this questionnaire we collect data on the number of native speakers so that w
   doi = {10.1016/j.cognition.2021.104620},
   urldate = {2022-12-02},
   langid = {english},
-  file = {C:\Users\anuhyvon\Zotero\storage\G9W5JWBH\Raviv ym. - 2021 - What makes a language easy to learn A preregister.pdf}
 }
 
 @article{RealiEtAl2018,
@@ -177,7 +173,6 @@ In this questionnaire we collect data on the number of native speakers so that w
   doi = {10.1098/rspb.2017.2586},
   urldate = {2022-12-02},
   langid = {english},
-  file = {C:\Users\anuhyvon\Zotero\storage\3WU2JR9E\Reali ym. - 2018 - Simpler grammar, larger vocabulary How population.pdf}
 }
 
 @article{SinnemakiDiGarbo2018,
