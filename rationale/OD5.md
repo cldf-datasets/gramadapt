@@ -72,7 +72,6 @@ Proportion of native-like vs. non-native-like speakers has been used in the typo
   doi = {10.1371/journal.pone.0158391},
   urldate = {2022-11-27},
   langid = {english},
-  file = {C:\Users\anuhyvon\Zotero\storage\BTFXQ8GP\Kirby ym. - 2016 - D-PLACE A Global Database of Cultural, Linguistic.pdf}
 }
 
 @incollection{KirbyEtAl2018,
@@ -114,7 +113,6 @@ Proportion of native-like vs. non-native-like speakers has been used in the typo
   doi = {10.1515/jhsl-2019-1010},
   urldate = {2022-11-30},
   langid = {english},
-  file = {C:\Users\anuhyvon\Zotero\storage\MUTIJ734\Sinnemäki - 2020 - Linguistic system and sociolinguistic environment .pdf}
 }
 
 @article{SinnemakiDiGarbo2018,
