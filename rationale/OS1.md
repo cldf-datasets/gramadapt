@@ -146,7 +146,6 @@ Scales of political complexity may in fact be proxies for social network cohesio
   doi = {10.1073/pnas.0804698106},
   urldate = {2022-11-30},
   langid = {english},
-  
 }
 
 
