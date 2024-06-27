@@ -66,7 +66,6 @@ Consider the following scenario, a home environment consisting of a Spanish-spea
   doi = {10.3390/languages6030135},
   urldate = {2022-11-27},
   langid = {english},
-  file = {C:\Users\anuhyvon\Zotero\storage\TJBBH7H5\Gomashie - 2021 - Nahuatl and Spanish in Contact Language Practices.pdf}
 }
 
 @book{HillHill1986,
