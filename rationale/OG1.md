@@ -226,8 +226,7 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
   doi = {10.1371/journal.pone.0158391},
   urldate = {2022-11-27},
   langid = {english},
-  file = {C:\Users\anuhyvon\Zotero\storage\J7H8VWCN\Kirby ym. - 2016 - D-PLACE A Global Database of Cultural, Linguistic.pdf}
-}
+ }
 
 @incollection{KirbyEtAl2018,
   title = {Standard Cross-Cultural Sample},
