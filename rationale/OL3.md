@@ -2,6 +2,9 @@
 ## OL3: Do Focus Group people use some orthography in writing their language?
 
 
+- *Yes, in a non-standardised way*  
+- *Yes, in a standardised way* 
+- *No, the Focus Group language is not written* 
 
 **Goal**
 
