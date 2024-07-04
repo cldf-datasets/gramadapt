@@ -1,7 +1,11 @@
 
 ## OD4: What is the approximate proportion of native-like speakers in the total population of all speakers of the Focus Group language?
 
-
+- *Low proportion* 
+- *Fairly low proportion* 
+- *Intermediate proportion* 
+- *Fairly high proportion* 
+- *High proportion*
 
 **Goal**
 
