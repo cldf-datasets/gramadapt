@@ -1,8 +1,7 @@
 
-## OT1 (P2): How long have Focus Group and Neighbour Group people traded for?
+## OT1 (P2): How long have Focus Group and Neighbour Group people interacted in domain X?
 
 Give an approximate year range.
-
 
 **Goal**
 
@@ -21,15 +20,6 @@ The assessment of the duration and density of contact may include the contempora
 
 (a) if it is the only time setting the respondent can answer for,
 (b) if the contemporary situation represents a continuation of contact in the past.
-
-
-**Example**
-
-
-**Theoretical Support**
-
-
-**References**
 
 
 *EK*
