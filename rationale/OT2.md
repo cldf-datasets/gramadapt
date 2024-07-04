@@ -1,14 +1,13 @@
 
-## OT2 (P3): What is the time frame when the largest number of people had the most opportunities for interaction in domain X?
+## OT2: What is the overall time frame when the largest number of people had the most opportunities for interaction?
 
 Give an approximate year range.
 
-
 **Goal**
 
-This question and question OT1 (P2) guide the respondent into thinking about the time frame of contact between the Focus Group and Neighbour Group. Ideally, in order to test for linguistic adaptation, one would want to know about the contact situation before present; it is the past that is likely to have provided the right sociohistorical context for changes in language structures to occur.
+This question and question OT1 guide the respondent into thinking about the time frame of contact between the Focus Group and Neighbour Group. Ideally, in order to test for linguistic adaptation, one would want to know about the contact situation before present; it is the past that is likely to have provided the right sociohistorical context for changes in language structures to occur.
 
-Since it is difficult to generalise across the time-depth of contact scenarios worldwide, in this questionnaire we refrain from establishing any a priori chronological cut-off points for the contact situations we study. Instead, we aim to study the relevance of time bottom-up, that is, by asking respondents to (a) make an assessment of the duration of contact between Focus Group and Neighbour Group in a given social domain (P2), and (b) identify the time frame of densest contact between Focus Group and Neighbour Group in said social domain (this question). We then request the respondent to answer the rest of the questionnaire from the perspective of this time frame. In doing so, we hope to gain an understanding of the contact situations at stake that is maximally entrenched in the specifics of their linguistic and social ecologies.
+Since it is difficult to generalise across the time-depth of contact scenarios worldwide, in this questionnaire we refrain from establishing any a priori chronological cut-off points for the contact situations we study. Instead, we aim to study the relevance of time bottom-up, that is, by asking respondents to (a) make an assessment of the duration of contact between Focus Group and Neighbour Group (OT1), and (b) identify the time frame of densest contact between Focus Group and Neighbour Group (this question). We then request the respondent to answer the rest of the questionnaire from the perspective of this time frame. In doing so, we hope to gain an understanding of the contact situations at stake that is maximally entrenched in the specifics of their linguistic and social ecologies.
 
 **Definitions**
 
