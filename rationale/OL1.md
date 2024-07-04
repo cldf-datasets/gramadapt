@@ -3,6 +3,15 @@
 
 (in the questionnaire this question is formulated as: "What is the approximate rate of formal literacy in the Focus language speaking community?")
 
+- *Low* 
+
+- *Fairly low*
+
+- *Intermediate* 
+
+- *Fairly high* 
+
+- *High*
 
 **Goal**
 
@@ -22,15 +31,15 @@ Please answer from the perspective of *formal literacy.*
 
 The scale is as follows:
 
-*Low:* a small minority of members of the language community (roughly 20% or less) are literate.
+- *Low:* a small minority of members of the language community (roughly 20% or less) are literate.
 
-*Fairly low:* a minority of members in the language community (roughly 20–40%) are literate.
+- *Fairly low:* a minority of members in the language community (roughly 20–40%) are literate.
 
-*Intermediate:* roughly half of all members in the language community (roughly 40–60%) are literate.
+- *Intermediate:* roughly half of all members in the language community (roughly 40–60%) are literate.
 
-*Fairly high:* the majority of members in the language community (roughly 60–80%) are literate.
+- *Fairly high:* the majority of members in the language community (roughly 60–80%) are literate.
 
-*High:* an overwhelming majority of members in the language community (roughly 80% or more) are literate.
+- *High:* an overwhelming majority of members in the language community (roughly 80% or more) are literate.
 
 
 
