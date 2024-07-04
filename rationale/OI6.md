@@ -2,6 +2,10 @@
 ## OI6: What are the Focus Group speakers' attitudes towards linguistic transfers from the Neighbour Group, such as lexical or grammatical borrowing?
 
 
+- *Very negative* 
+- *Neither positive nor negative* 
+- *Very positive*
+  
 
 **Goal**
 
