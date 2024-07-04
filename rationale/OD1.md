@@ -1,6 +1,14 @@
 
 ## OD1: What is the number of native-like users of Focus Group language?
 
+- *10-99 speakers*
+- *100-999 speakers*
+- *1,000-9,999 speakers*
+- *10,000-99,999 speakers*
+- *100,000-999,999 speakers*
+- *1,000,000-9,999,999 speakers*
+- *10,000,000-99,999,999 speakers*
+- *100,000,000-999,999,999 speakers*
 
 
 **Goal**
