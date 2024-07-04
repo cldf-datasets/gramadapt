@@ -2,6 +2,8 @@
 ## OI3: Is there a codified standard variety for the Focus Group language?
 
 
+- *yes*
+- *no*
 
 **Goal**
 
