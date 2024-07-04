@@ -44,7 +44,7 @@ Of course levels of input are one of many factors that affect language contact o
 }
 
 @article{KavehLenz2022,
-  title = {``{{I}}'m Embarrassed and Scared to Speak a Different Language'': {{The}} Complex Language Beliefs and Emotions of Bi/Multilingual Children of Immigrants in Monolingual {{U}}.{{S}}. Schools},
+  title = {''{{I}}'m Embarrassed and Scared to Speak a Different Language'': {{The}} Complex Language Beliefs and Emotions of Bi/Multilingual Children of Immigrants in Monolingual {{U}}.{{S}}. Schools},
   shorttitle = {``{{I}}'m Embarrassed and Scared to Speak a Different Language''},
   author = {Kaveh, Yalda M. and Lenz, Ashley},
   year = {2022},
