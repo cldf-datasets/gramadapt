@@ -3,37 +3,25 @@
 
 (NOTE: In the questionnaire this question is stated as "OG1: What is the population density within the area where the Focus Language is spoken?")
 
+The scale of answers is the following:
+
+- *Less than 2 persons per 10 sq. km*
+- *2-4 persons per 10 sq. km*
+- *5-19 persons per 10 sq. km*
+- *20-99 persons per 10 sq. km*
+- *100-399 persons per 10 sq. km*
+
+Note that here the unit for geographical area is *10 square kilometres* (km^2) instead of *1 km^2*. For some minority language groups population density is smaller than one person per km^2, which is why we opted expressing population density in larger units. In the D-Place the unit is square mile (one square mile equals roughly 2.6 square kilometres).
 
 **Goal**
 
 This question seeks information about population density.
-
-
 
 **Definitions**
 
 Underlyingly this question requires data about the number of speakers/users of the Focus Language and the approximate size of the area where the Focus Language is used. Population density is then estimated by dividing population size by the geographical area: $d_{density} = {N_{population}}/{A_{area}}$. See feature OD1 for the Total number of native speakers; the geographical area was estimated by the respondents, but sometimes the density was accrued from available documents (see the Comments to the responses).
 
 This question and possible answers are adapted from the question [SCCS64](https://d-place.org/parameters/SCCS64#2/14.3/151.2) in the Standard Cross-Cultural Sample (Murdock & White 1969; Murdock & Wilson 1972) and the question [WNAI288](https://d-place.org/parameters/WNAI288#4/46.38/240.03) in the Western North American Indian database (Jorgensen 1980). Both features are available in D-Place (Kirby et al. 2016; 2018c; 2018d); they can be accessed by clicking the links above.
-
-
-**Scale**
-
-The scale of answers is the following:
-
-*Less than 2 persons per 10 sq. km*
-
-*2-4 persons per 10 sq. km*
-
-*5-19 persons per 10 sq. km*
-
-*20-99 persons per 10 sq. km*
-
-*100-399 persons per 10 sq. km*
-
-
-Note that here the unit for geographical area is *10 square kilometres* (km^2) instead of *1 km^2*. For some minority language groups population density is smaller than one person per km^2, which is why we opted expressing population density in larger units. In the D-Place the unit is square mile (one square mile equals roughly 2.6 square kilometres).
-
 
 
 **Examples**
