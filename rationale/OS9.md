@@ -1,6 +1,15 @@
 
 ## OS9: How frequently do Focus Group people generally interact with out-group people?
 
+
+The scale of answers is the following:
+
+- *very frequently*
+- *frequently*
+- *neither frequently nor infrequently*
+- *infrequently*
+- *very infrequently*
+
 **Goal**
 This question aims to get a sense of how dense social networks for interaction are. This question is similar to the S1 question in the domains questionnaire, but asks for an overall characterisation of Focus Group social networks, rather than in specific domains.
 
@@ -12,7 +21,7 @@ This question aims to get a sense of how dense social networks for interaction a
 
 The scale is as follows:
 
-- *Very frequently:*Characterisable as “a relatively significant amount of the year”, or an aggregate of 50 days or more of interaction in a year. Other possibilities: frequently recurring but short interactions (e.g. every week), or prolonged interaction for limited periods of time (e.g. 2 months a year or more).
+- *Very frequently:* Characterisable as “a relatively significant amount of the year”, or an aggregate of 50 days or more of interaction in a year. Other possibilities: frequently recurring but short interactions (e.g. every week), or prolonged interaction for limited periods of time (e.g. 2 months a year or more).
 - *Frequently*: Characterisable as “some parts of the year”, or an aggregate of approximately 4-5 weeks/28-35 days of interaction in a year. Frequent enough, but not enough to characterise as “very frequently”.
 - *Neither frequently nor infrequently:* Characterisable as "some part of the year". Neither frequently, nor infrequently.
 - *Infrequently*: Characterisable as “rarely in a year”, or an aggregate of 2-3 weeks/14-21 days of interaction in a year. Infrequent enough that it is difficult to characterise as “very infrequently”
