@@ -3,6 +3,15 @@
 
 
 
+
+- *Fewer than 50 persons*
+- *From 50 to 99 persons*
+- *From 100 to 199 persons*
+- *From 200 to 399 persons*
+- *From 400 to 1,000 persons*
+- *More than 1,000 persons in the absence of indigenous urban aggregations*
+- *One or more indigenous towns of more than 5,000 inhabitants but none of more than 50,000*
+
 **Goal**
 
 Answers to this question will help to better characterise the large-scale demographic data collected at the beginning of the questionnaire.
