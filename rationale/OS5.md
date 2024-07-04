@@ -1,7 +1,9 @@
 
 ## OS5: Which of the following best characterises the dominant form of Neighbour Group mobility & sedentism, in regards to subsistence: sedentary, mobile, or mixed?
 
-
+- *Sedentary* 
+- *Mobile* 
+- *Mixed* 
 
 **Goal**
 
