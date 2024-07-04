@@ -1,7 +1,15 @@
 
 ## OS1: How many levels of jurisdictional hierarchy are there in the Focus Group, beyond the local community?
 
+- *No levels*
 
+- *One level*
+
+- *Two levels* 
+
+- *Three levels*
+
+- *Four levels*
 
 **Goal**
 
@@ -21,15 +29,15 @@ This question and possible answers are adapted from question EA003 in the Ethnog
 
 
 
-*No levels:* no political authority beyond community
+- *No levels:* no political authority beyond community
 
-*One level:* for example, described as petty chiefdoms.
+- *One level:* for example, described as petty chiefdoms.
 
-*Two levels:* for example, described as large chiefdoms. Often has some centralised structures.
+- *Two levels:* for example, described as large chiefdoms. Often has some centralised structures.
 
-*Three levels:* for example, described as states. Often has some centralised structures.
+- *Three levels:* for example, described as states. Often has some centralised structures.
 
-*Four levels:* for example, described as large states. Often has some centralised structures.
+- *Four levels:* for example, described as large states. Often has some centralised structures.
 
 
 This variable attempts to characterise the vertical political structure within a society at a level larger than the local community. We take the same definition of local community we use in the domains questionnaire: closest to the household environment, but outside the realm of family and kin, and who typically reside together in face-to-face association.” (borrowed partially from Murdock et al. 1945) Note that this variable is unconcerned with the relationships between distinct societies, nor does it track the details of political structure within the local community.
