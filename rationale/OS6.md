@@ -2,6 +2,13 @@
 ## OS6: The Focus Group society subsistence pattern can be broadly characterised as hunter-gatherer, fishing, animal husbandry, agricultural (casual, shifting, or permanent), or highly mixed
 
 
+- *Hunter-gatherer* 
+- *Fishing* 
+- *Animal husbandry* 
+- *Agricultural, casual* 
+- *Agricultural, shifting* 
+- *Agricultural, permanent* 
+- *Highly Mixed* 
 
 **Goal**
 
