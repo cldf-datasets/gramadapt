@@ -2,7 +2,7 @@
 ## OS9: How frequently do Focus Group people generally interact with out-group people?
 
 
-The scale of answers is the following:
+
 
 - *very frequently*
 - *frequently*
