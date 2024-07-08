@@ -1,14 +1,6 @@
 
 ## BA: What is the overall attitude that Focus Group people have towards Neighbour Group people in domain X?
 
-- Very positive
-- Positive
-- Neutral
-- Negative
-- Very negative
-
-
-
 **Goal**
 
 In this question we aim to capture a general attitude that the Focus Group have towards the Neighbour Group within the domain. People's attitudes towards others have consequences for various aspects of interaction, and the rationale of attitudes generally are covered in the B-Set of questions.
