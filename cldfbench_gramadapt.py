@@ -1,3 +1,4 @@
+import re
 import pathlib
 import itertools
 import collections
@@ -6,10 +7,10 @@ from clldutils.misc import slug
 from clldutils.markup import add_markdown_text
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 from cldfbench.metadata import get_creators_and_contributors
+from nameparser import HumanName
 
-#
-# FIXME: integrate bib!
-#
+from lib.rationale import Rationale
+
 NOTES = """
 ## Contact pairs
 
@@ -19,7 +20,63 @@ NOTES = """
 ## Data model
 
 ![](erd.svg)
+
+For detailed descriptions of the tables and columns refer to [cldf/README.md](cldf/README.md).
 """
+
+
+#
+# Datatype: Types should be qualified with "sequential" for cases like OD3!
+#
+"""
+DEM13|Very well
+DEM13|Well
+DEM13|Somewhat
+DEM13|Poorly
+DEM13|Very poorly
+-> should be Likert scale?
+
+OD1|10-99 speakers
+OD1|100-999 speakers
+OD1|1,000-9,999 speakers
+OD1|10,000-99,999 speakers
+OD1|100,000-999,999 speakers
+OD1|1,000,000-9,999,999 speakers
+OD1|10,000,000-99,999,999 speakers
+OD1|100,000,000-999,999,999 speakers
+OD1|B
+OD3|10-99 speakers
+OD3|100-999 speakers
+OD3|1,000-9,999 speakers
+OD3|10,000-99,999 speakers
+OD3|100,000-999,999 speakers
+OD3|1,000,000-9,999,999 speakers
+OD3|10,000,000-99,999,999 speakers
+OD3|100,000,000-999,999,999 speakers
+OD3|B
+OG1|Less than 2 persons per 10 sq. km
+OG1|2–4 persons per 10 sq. km
+OG1|5–19 persons per 10 sq. km
+OG1|20–99 persons per 10 sq. km
+OG1|100–399 persons per 10 sq. km
+OG1|B
+
+OS7|Fewer than 50 persons
+OS7|From 50 to 99 persons
+OS7|From 100 to 199 persons
+OS7|From 200 to 399 persons
+OS7|From 400 to 1,000 persons
+OS7|More than 1,000 persons in the absence of indigenous urban aggregations
+OS7|One or more indigenous towns of more than 5,000 inhabitants but none of more than 50,000
+OS7|B
+"""
+
+def norm_datatype(pid, datatype):
+    if pid == 'DEM13':
+        return 'Scalar'
+    if pid in {'OD1', 'OD3', 'OG1', 'OS7'}:
+        return 'TypesSequential'
+    return datatype
 
 
 def norm_answer(s, opts=None, dt=''):
@@ -41,11 +98,47 @@ def norm_answer(s, opts=None, dt=''):
                 return opt
             if slug(s) == slug(opt):  # Match fuzzily.
                 return opt
-        return s
     return s
 
 
+def parse_time_range(s):
+    if s in {'NA', 'XXXX-XXXX', '0000-0000'}:
+        return
+    if s == '-1050-450':
+        return (-1050, -450)
+    p = re.compile(r'(?P<start>-?[0-9]+)[-–](?P<end>[0-9]+)')
+    m = p.fullmatch(s)
+    assert m
+    assert len(m.group('end')) >= len(m.group('start').replace('-', ''))
+    start, end = int(m.group('start')), int(m.group('end'))
+    assert end > start, s
+    return (start, end)
+
+
+def repl_placeholder(s):
+    return s.replace("[q2o1answer]", "Focus Group").replace("[q2o2answer]", "Neighbour Group")
+
+
+def norm_question(d):
+    qs = [
+	    "List any comments or notes that you feel are relevant to this section of the questionnaire.",
+	    "Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults?",
+	    "Typically, how well does a Focus Group person understand the Neighbour Group in-law’s language?",
+    ]
+    # Chop off legacy numbering, replace markers.
+    res = repl_placeholder(
+        re.sub(r'^[0-9]+([ab])?\.\s*', '', d['Wording'] if isinstance(d, dict) else d))
+    if res in qs:
+        # We need to disambiguate.
+        # FIXME: It should not be necessary to add QID, relevant questions are under investigation.
+        res = '{} [{}]'.format(res, d['Dom'] if 'how well' not in res else d['QID'])
+    return res
+
+
 def norm(rows, col):
+    """
+    Normalize content in the dicts in rows by setting the value for col to the most frequent value in rows.
+    """
     counts = collections.Counter([row[col] for row in rows])
     selected = counts.most_common(1)[0][0]
     for row in rows:
@@ -53,9 +146,15 @@ def norm(rows, col):
             row[col] = selected
 
 
-mr = collections.defaultdict(set)
+def norm_comment(c):
+    return None if c == 'NA' else (c or None)
 
-def get_rationale(rationales, cid, qid, subid):
+
+def contributor_id(n):
+    return slug(HumanName(n).last)
+
+
+def get_rationale(rationales, cid, qid):
     """
     No rationales:
     - E6 is a comment box question so no need for a rationale
@@ -67,6 +166,8 @@ def get_rationale(rationales, cid, qid, subid):
     """
     if cid in {'OE1', 'OE2', 'OE3', 'E6', 'OC1', 'OC2', 'OC3', 'OC4', 'OC5', 'OC6'}:
         return None
+    if cid == 'O10':  # Fix typo.
+        cid = 'OI0'
     # We must lookup more specific rationale first!
     for key, p in rationales.items():
         ccid, _, spec = key.partition('_')
@@ -79,9 +180,19 @@ def get_rationale(rationales, cid, qid, subid):
     res = rationales.get('{}_{}'.format(cid, qid))
     if res:
         return res
-    # 'missing rationale: {}'.format(d['CID'])
-    mr[cid].add((qid, subid))
-    return None
+    raise ValueError('missing rationale: {} {}'.format(cid, qid))
+
+
+def value(pid, d, **kw):
+    res = dict(
+        ID='{}-{}'.format(d['Set'], pid),
+        Contactset_ID=d['Set'],
+        Parameter_ID=pid,
+        Language_ID='{}-F'.format(d['Set']),
+        Comment=norm_comment(d['Comment']),
+    )
+    res.update(kw)
+    return res
 
 
 class Dataset(BaseDataset):
@@ -92,10 +203,20 @@ class Dataset(BaseDataset):
         return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
 
     def cmd_download(self, args):  # called from "cldfbench download"
-        self.raw_dir.xlsx2csv('QN_V1.0.0_Template.xlsx')
-        self.raw_dir.xlsx2csv('set28_45a_V1.0.0.xlsx')
+        return
 
     def cmd_readme(self, args):
+        from cldfviz.text import render
+        sections = collections.Counter()
+        cldf = self.cldf_reader()
+        for contrib in cldf.objects('ContributionTable'):
+            if contrib.cldf.description:
+                res = render(contrib.cldf.description, cldf)
+                self.cldf_dir.joinpath(
+                    'rationale', '{}.md'.format(contrib.id)).write_text(res, encoding='utf8')
+                #print(res)
+        for k, v in sections.most_common():
+            print(k, v)
         return add_markdown_text(BaseDataset.cmd_readme(self, args), NOTES, section='Description')
 
     def cmd_makecldf(self, args):  # called from "cldfbench makecldf"
@@ -119,9 +240,37 @@ class Dataset(BaseDataset):
             Name='Contact pair',
         ))
 
-        editors = {
-            c['id']: c['name'] for c in get_creators_and_contributors(
-                self.dir.joinpath('CONTRIBUTORS.md').read_text(encoding='utf8'))[0] if c['id']}
+        authors, contributors = get_creators_and_contributors(
+            self.dir.joinpath('CONTRIBUTORS.md').read_text(encoding='utf8'))
+        editors = {c['id']: c['name'] for c in authors if c['id']}
+        respondents = {c['name']: False for c in authors + contributors}
+        assert len(respondents) == len({slug(HumanName(n).last) for n in respondents})
+
+        for p in sorted(self.dir.joinpath('rationale').glob('*.md'), key=lambda pp: pp.stem):
+            r = Rationale.from_path(p)
+            args.writer.cldf.add_sources(*r.references)
+            args.writer.objects['ContributionTable'].append(dict(
+                ID=r.id,
+                Name=r.name,
+                Description=r.cldf_markdown,
+                Contributor=' and '.join(editors[cid] for cid in r.contributors),
+                Author_IDs=[contributor_id(editors[cid]) for cid in r.contributors],
+                Source=[s.id for s in r.references],
+                Type='rationale',
+                Document=r.id,
+                # FIXME: Citation:
+                # Kashima, Eri & Schokkin, Dineke. Set28: Nen and Idi.
+                # In Eri Kashima, Francesca Di Garbo, Oona Raatikainen, Rosnátaly Avelino, Sacha Beck, Anna Berge, Ana Blanco, Ross Bowden, Nicolás Brid, Joseph M Brincat, María Belén Carpio, Alexander Cobbinah, Paola Cúneo, Anne-Maria Fehn, Saloumeh Gholami, Arun Ghosh, Hannah Gibson, Elizabeth Hall, Katja Hannß, Hannah Haynie, Jerry Jacka, Matias Jenny, Richard Kowalik, Sonal Kulkarni-Joshi, Maarten Mous, Marcela Mendoza, Cristina Messineo, Francesca Moro, Hank Nater, Michelle A Ocasio, Bruno Olsson, Ana María Ospina Bozzi, Agustina Paredes, Admire Phiri, Nicolas Quint, Erika Sandman, Dineke Schokkin, Ruth Singer, Ellen Smith-Dennis, Lameen Souag, Yunus Sulistyono, Yvonne Treis, Matthias Urban, Jill Vaughan, Deginet Wotango Doyiso, Georg Ziegelmeyer, Veronika Zikmundová. (2023).
+                # GramAdapt Crosslinguistic Social Contact Dataset. (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7508054
+            ))
+            p = self.cldf_dir / 'rationale' / '{}.md'.format(r.id)
+            p.write_text(r.cldf_markdown, encoding='utf8')
+            args.writer.objects['MediaTable'].append(dict(
+                ID=p.stem,
+                Name=p.name,
+                Download_URL=str(p.relative_to(self.cldf_dir)),
+                Media_Type='text/markdown',
+            ))
 
         # Add language metadata: GA_V1.0.0_Metadata.csv
         # SetID, Old_SetID, [q2o1answer], F_Lang, F_Glottocode, F_Iso, [q2o2answer], N_Lang, N_Glottocode, N_Iso, ContactPair, ContactPair_Iso, ConcactPair_glottocode, AArea, Surname, Respondents, Reviewer(s)
@@ -133,18 +282,36 @@ class Dataset(BaseDataset):
             ))
             for ltype in ['F', 'N']:  # We add both, focus and neighbouring languages to the table.
                 glang = glangs.get(d['{}_Glottocode'.format(ltype)])
+                latlon = {
+                    'nort2964': (52.63985, -127.93325),
+                    'wich1261': (-23.123400000000004, -62.5615),
+                    'yuul1239': (-12.584506111111109, 135.12851972222222),
+                }.get(d['{}_Glottocode'.format(ltype)])
+                if not latlon:
+                    geolang = glang
+                    if geolang and not geolang.latitude:
+                        for _, gc, _ in reversed(glang.lineage):
+                            if glangs[gc].latitude:
+                                geolang = glangs[gc]
+                                break
+                    if geolang:
+                        latlon = (geolang.latitude, geolang.longitude)
+
+                assert (not d['{}_Glottocode'.format(ltype)]) or latlon
+
                 args.writer.objects['LanguageTable'].append(dict(
                     ID='{}-{}'.format(d['SetID'], ltype),
                     Name=d[ltype + '_Lang'],
                     Glottocode=glang.id if glang else None,
-                    Latitude=glang.latitude if glang else None,
-                    Longitude=glang.longitude if glang else None,
+                    Latitude=latlon[0] if glang else None,
+                    Longitude=latlon[1] if glang else None,
                     Macroarea=glang.macroareas[0].name if glang and glang.macroareas else None,
                 ))
                 args.writer.objects['ValueTable'].append(dict(
                     ID='F-{}-{}'.format(d['SetID'], ltype),
                     Language_ID='{}-{}'.format(d['SetID'], ltype),
                     Parameter_ID='F',
+                    Contactset_ID=d['SetID'],
                     Code_ID='F-yes' if ltype == 'F' else 'F-no',
                     Value='Yes' if ltype == 'F' else 'No',
                 ))
@@ -152,25 +319,31 @@ class Dataset(BaseDataset):
                     ID='S-{}-{}'.format(d['SetID'], ltype),
                     Language_ID='{}-{}'.format(d['SetID'], ltype),
                     Parameter_ID='S',
+                    Contactset_ID=d['SetID'],
                     Code_ID='S-{}'.format(d['SetID']),
                     Value=d['SetID'],
                 ))
+            contribs = []
+            for n in d['Respondents'].split(' & '):
+                if n not in {'Anonymous'}:
+                    assert n in respondents, n
+                    contribs.append(contributor_id(n))
+                    respondents[n] = True
             args.writer.objects['ContributionTable'].append(dict(
                 ID=d['SetID'],
                 Name=d['ContactPair'],
+                Type='contactset',
                 Contributor=d['Respondents'],
                 Focus_Language_ID='{}-F'.format(d['SetID']),
                 Neighbour_Language_ID='{}-N'.format(d['SetID']),
-                Reviewers=[editors[eid.strip()] for eid in d['Reviewer(s)'].split(',')],
+                Author_IDs=contribs,
+                Reviewer_IDs=[
+                    contributor_id(editors[eid.strip()]) for eid in d['Reviewer(s)'].split(',')],
                 Area=d['AArea'],
                 # FIXME: Citation:
                 # Kashima, Eri & Schokkin, Dineke. Set28: Nen and Idi.
                 # In Eri Kashima, Francesca Di Garbo, Oona Raatikainen, Rosnátaly Avelino, Sacha Beck, Anna Berge, Ana Blanco, Ross Bowden, Nicolás Brid, Joseph M Brincat, María Belén Carpio, Alexander Cobbinah, Paola Cúneo, Anne-Maria Fehn, Saloumeh Gholami, Arun Ghosh, Hannah Gibson, Elizabeth Hall, Katja Hannß, Hannah Haynie, Jerry Jacka, Matias Jenny, Richard Kowalik, Sonal Kulkarni-Joshi, Maarten Mous, Marcela Mendoza, Cristina Messineo, Francesca Moro, Hank Nater, Michelle A Ocasio, Bruno Olsson, Ana María Ospina Bozzi, Agustina Paredes, Admire Phiri, Nicolas Quint, Erika Sandman, Dineke Schokkin, Ruth Singer, Ellen Smith-Dennis, Lameen Souag, Yunus Sulistyono, Yvonne Treis, Matthias Urban, Jill Vaughan, Deginet Wotango Doyiso, Georg Ziegelmeyer, Veronika Zikmundová. (2023).
                 # GramAdapt Crosslinguistic Social Contact Dataset. (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7508054
-
-                #
-                # Add respondent, reviewers? FIXME: add q202answer, etc.
-                #
             ))
 
         rationales = {p.stem: p for p in self.dir.joinpath('rationale').glob('*.md')}
@@ -187,7 +360,35 @@ class Dataset(BaseDataset):
             ),
             lambda r: (r['QID'], r['Sub.ID']),
         ):
+            # Add Name for questions.csv:
             pid = '{}_{}'.format(qid, subid) if subid else qid
+            qnames = {
+                "DEM30": "Child rearing obligations",
+                "DEM37": "What type of marriage payments and transfers are expected when [q2o1answer] and [q2o2answer] marry?",
+                "DFK02": "Co-residential units",
+                "DFK38": "Are any of the following features characteristic when speaking to one’s [q2o2answer] in-laws?",
+                "OI1": "Is [q2o1answer] stated as an expression of identity?",
+                "OT1": "How long have [q2o1answer] and [q2o2answer] people been in contact overall?",
+                "OT2": "What is the overall time frame when the largest number of people had the most opportunities for interaction?",
+                "DEM0a": "How long have [q2o1answer] and [q2o2answer] people practised exchange for?",
+                "DEM0b": "What is the time frame when the largest number of people had the most opportunities for interaction in exchange?",
+                "DFK0a": "How long have [q2o1answer] and [q2o2answer] peoples been forming families with each other for?",
+                "DFK0b": "What’s the time frame of densest contact between [q2o1answer] and [q2o2answer] as far as family formation is concerned?",
+                "DKN0a": "How long have [q2o1answer] and [q2o2answer] people been involved in the knowledge domain together for?",
+                "DKN0b": "What is the time frame when the largest number of people had the most opportunities for interaction in the knowledge domain?",
+                "DLB0a": "How long have [q2o1answer] people and [q2o2answer] people worked together for?",
+                "DLB0b": "What is the time frame when the largest number of people had the most opportunities for interaction in the labour domain?",
+                "DLC0a": "How long have [q2o1answer] and [q2o2answer] people been in contact in the local community?",
+                "DLC0b": "What is the time frame when the largest number of people had the most opportunities for interaction in the local community?",
+                "DTR0a": "How long have [q2o1answer] and [q2o2answer] people traded for?",
+                "DTR0b": "What is the time frame when the largest number of people had the most opportunities for interaction in trade?",
+            }
+            qnames = {k: norm_question(v) for k, v in qnames.items()}
+            time_range = False
+            if qid.endswith('N'):
+                time_range = True
+                qid = qid[:-1]  # Group the sub-question for a time range with the actual question.
+                assert qid in qnames and pid.endswith('N')
             rows = list(rows)
             assert len({r['Dom'] for r in rows}) == 1
             for col in ['Wording'] + ['Answer{}'.format(i + 1) for i in range(8)]:
@@ -195,32 +396,73 @@ class Dataset(BaseDataset):
 
             vals[pid].update([r['Response'] for r in rows])
             d = rows[0]
-            cid = get_rationale(rationales, d['CID'], qid, subid)
 
             if qid not in qids:
-                args.writer.objects['questions.csv'].append(dict(ID=qid))
+                cid = get_rationale(rationales, d['CID'], qid)
+                args.writer.objects['questions.csv'].append(dict(
+                    ID=qid, Rationale=cid.stem if cid else None))
                 qids.add(qid)
-            args.writer.objects['ParameterTable'].append(dict(
-                ID=pid,
-                Name=d['Wording'],
-                Question_ID=qid,
-                Description=cid.read_text(encoding='utf8') if cid else None,
-                datatype=d['DataType'],
-                Domain=d['Dom'],
-            ))
-            #
-            # Add response "B" as code for all questions with domains!
-            #
-            if d['DataType'] in ['Scalar', 'Types', 'TypesMultiple']:
-                for i in range(1, 9):
-                    res = norm_answer(d['Answer{}'.format(i)])
-                    if res is not None:
-                        args.writer.objects['CodeTable'].append(dict(
-                            ID='{}-{}'.format(pid, i),
-                            Parameter_ID=pid,
-                            Name=res,
-                        ))
-                        domains[pid][res] = '{}-{}'.format(pid, i)
+            if time_range:
+                assert d['DataType'] == 'Value'
+                assert d['Wording'] == 'Coarse time range, numerical'
+                args.writer.objects['ParameterTable'].append(dict(
+                    ID=pid + '0',
+                    Name='Coarse time range, start [{}]'.format(pid),
+                    Question_ID=qid,
+                    datatype=d['DataType'],
+                    Domain=d['Dom'],
+                    ColumnSpec=dict(datatype=dict(base='integer', maximum=2020, minimum=-2000)),
+                ))
+                args.writer.objects['ParameterTable'].append(dict(
+                    ID=pid + '1',
+                    Name='Coarse time range, end [{}]'.format(pid),
+                    Question_ID=qid,
+                    datatype=d['DataType'],
+                    Domain=d['Dom'],
+                    ColumnSpec=dict(datatype=dict(base='integer', maximum=2020, minimum=-2000)),
+                ))
+            else:
+                args.writer.objects['ParameterTable'].append(dict(
+                    ID=pid,
+                    Name=norm_question(d),
+                    Question_ID=qid,
+                    datatype=norm_datatype(pid, d['DataType']),
+                    Domain=d['Dom'],
+                ))
+            for qid, qs in itertools.groupby(
+                sorted(args.writer.objects['ParameterTable'], key=lambda r: r.get('Question_ID') or 'x'),
+                lambda r: r.get('Question_ID'),
+            ):
+                if qid and qid not in qnames:
+                    qs = list(qs)
+                    if len(qs) == 1:
+                        qnames[qid] = qs[0]['Name']
+                    else:
+                        assert all('.' in q['Name'] or ':' in q['Name'] for q in qs), qid
+                        if '.' in qs[0]['Name']:
+                            qname = {q['Name'].partition('.')[0].strip() for q in qs}
+                            assert len(qname) == 1, str(qname)
+                        else:
+                            qname = {q['Name'].partition(':')[0].strip() for q in qs}
+                            assert len(qname) == 1, str(qname)
+                        qnames[qid] = qname.pop()
+
+            for q in args.writer.objects['questions.csv']:
+                q['Name'] = qnames[q['ID']]
+
+            if d['DataType'] in ['Scalar', 'Types', 'TypesMultiple', 'TypesSequential']:
+                codes = [norm_answer(d['Answer{}'.format(i)]) for i in range(1, 9)]
+                codes = [c for c in codes if c is not None]
+                if d['DataType'] == 'Scalar':
+                    assert len(codes) == 5, pid
+                for i, res in enumerate(codes, start=1):
+                    args.writer.objects['CodeTable'].append(dict(
+                        ID='{}-{}'.format(pid, i),
+                        Parameter_ID=pid,
+                        Name=repl_placeholder(res),
+                        Ordinal=i if d['DataType'] in {'Scalar', 'TypesSequential'} else None,
+                    ))
+                    domains[pid][res] = '{}-{}'.format(pid, i)
 
             if d['DataType'] == 'Binary-YesNo':
                 for code in ['Yes', 'No']:
@@ -231,119 +473,216 @@ class Dataset(BaseDataset):
                     ))
                     domains[pid][code] = '{}-{}'.format(pid, code.lower())
 
+            # Add response "B" as code for all questions with domains!
             if pid in domains:
                 args.writer.objects['CodeTable'].append(dict(
                     ID='{}-B'.format(pid),
                     Parameter_ID=pid,
                     Name='B',
-                    Description='“blank”. The question is relevant to the domain in question, but the respondent chose not to answer the question.',
+                    Description='“blank”. The question is relevant to the domain in question, but '
+                                'the respondent chose not to answer the question.',
                 ))
                 domains[pid]['B'] = '{}-{}'.format(pid, 'B')
 
             for d in rows:
+                if time_range:
+                    v = parse_time_range(d['Response'])
+                    if v:
+                        for vv, typ in [(v[0], '0'), (v[1], '1')]:
+                            args.writer.objects['ValueTable'].append(value(
+                                pid + typ, d, Value=str(vv)))
+                    continue
                 res = norm_answer(d['Response'], domains.get(pid), d['DataType'])
                 if res is None:
-                    # FIXME: sometimes NA responses have useful comments. Keep!
-                    args.writer.objects['ValueTable'].append(dict(
-                        ID='{}-{}'.format(d['Set'], pid),
-                        Code_ID=None,
-                        Parameter_ID=pid,
-                        Language_ID='{}-F'.format(d['Set']),
-                        Value=None,
-                        Comment=d['Comment'],
-                    ))
+                    # Sometimes NA responses have useful comments. Keep!
+                    args.writer.objects['ValueTable'].append(value(pid, d, Value=None))
                     continue
                 if pid in domains:
                     for i, rr in enumerate(res if isinstance(res, list) else [res], start=1):
-                        args.writer.objects['ValueTable'].append(dict(
-                            ID='{}-{}-{}'.format(d['Set'], pid, i) if d['DataType'].endswith('Multiple') else '{}-{}'.format(d['Set'], pid),
+                        args.writer.objects['ValueTable'].append(value(
+                            pid, d,
+                            ID='{}-{}-{}'.format(d['Set'], pid, i) if
+                            d['DataType'].endswith('Multiple') else '{}-{}'.format(d['Set'], pid),
                             Code_ID=domains[pid][rr],
-                            Parameter_ID=pid,
-                            Language_ID='{}-F'.format(d['Set']),
                             Value=rr,
-                            Comment=d['Comment'],
                         ))
                 else:
-                    args.writer.objects['ValueTable'].append(dict(
-                        ID='{}-{}'.format(d['Set'], pid),
-                        Code_ID=None,
-                        Parameter_ID=pid,
-                        Language_ID='{}-F'.format(d['Set']),
-                        Value=res,
-                        Comment=d['Comment'],
-                    ))
-
-        return
-        for k, v in sorted(mr.items()):
-            print(k)
-            for vv in v:
-                print(vv)
-            print('---')
-        return
-
+                    args.writer.objects['ValueTable'].append(value(pid, d, Value=res))
+        for name, mentioned in respondents.items():
+            if mentioned or (name in editors.values()):
+                args.writer.objects['contributors.csv'].append(dict(
+                    ID=contributor_id(name),
+                    Name=name,
+                    Editor=name in editors.values(),
+                ))
 
     def schema(self, cldf):
         # Extend the data schema:
         # -----------------------
 
+        cldf.add_table(
+            'contributors.csv',
+            {
+                "name": "ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            },
+            {
+                "name": "Name",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+            },
+            {
+                "name": "Editor",
+                "datatype": {"base": "boolean", "format": "Yes|No"}
+            }
+        )
+
+        cldf.add_component('MediaTable')
         cldf.add_columns(
             'ValueTable',
-            'Respondent')
+            {
+                "name": "Contactset_ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                "dc:description": "Link to the corresponding contact set."
+            },
+            'Respondent')  # The expert who filled out the questionnaire. There may be more than one person per set.
+        cldf['ValueTable'].common_props['dc:description'] = \
+            ("The *ValueTable* lists answers to the questions in the GramAdapt questionnaire coded "
+             "as values for the Focus group language (except for values for the two 'synthetic' "
+             "parameters 'Focus language' and 'Contact pair', which may also be coded for the "
+             "language of the Neighbour group).")
 
-        cldf.add_component(
+        t = cldf.add_component(
             'LanguageTable',
         )
+        t.common_props['dc:description'] = \
+            ("The GramAdapt dataset is constructed around *contact sets*, pairs of *Focus* and"
+             "*Neighbour* language communities. This table lists the languages spoken by either "
+             "of these communities.")
         t = cldf.add_component(
             'ContributionTable',
             {
+                "name": "Type",
+                "datatype": {"base": "string", "format": "contactset|rationale"},
+            },
+            {
                 "name": "Focus_Language_ID",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                "dc:description": "Link to the language spoken by the focus group in a contact set."
             },
-            'Neighbour_Language_ID',
             {
-                'name': 'Reviewers',
-                'separator': ' & ',
+                'name': 'Neighbour_Language_ID',
+                "dc:description":
+                    "Link to the language spoken by the neighbour group in a contact set."
+            },
+            {
+                'name': 'Author_IDs',
+                'separator': ' ',
+            },
+            {
+                'name': 'Reviewer_IDs',
+                'separator': ' ',
                 'dc:description': 'The GramAdapt team members responsible for checking the responses.'
             },
             {
                 'name': 'Area',
-                'dc:description': 'Information about the geographical location of each contact set based on Autotyp areal classification',
+                'dc:description':
+                    'Information about the geographical location of each contact set based on'
+                    ' Autotyp areal classification',
+            },
+            {
+                "name": "Document",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                "dc:description": "Link to rendered Markdown document.",
+            },
+            {
+                "name": "Source",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                "separator": ";",
             }
         )
         t.common_props['dc:description'] = \
-            ("Contributions in GramAdapt are 'contact sets', i.e. descriptions of a contact "
-             "situation between two neighbouring languages. Each contact set is unique in terms of "
-             "the timeframe they respond for. We urge researchers who use this dataset to read the "
-             "Comments column for questions CID P1, P2, and P3 carefully for each set, to get a "
-             "sense of the heterogeneity of timeframes represented in each set, as well as the "
-             "whole dataset.")
+            ("The GramAdapt dataset provides two types of contributions: "
+             "(1) 'contact sets', i.e. descriptions of a contact situation between two "
+             "neighbouring communities speaking different languages. Each contact set is unique in "
+             "terms of the timeframe they respond for. We urge researchers who use this dataset to "
+             "read the Comments column for questions CID P1, P2, and P3 carefully for each set, to "
+             "get a sense of the heterogeneity of timeframes represented in each set, as well as "
+             "the whole dataset. "
+             "(2) 'rationales' explaning the goals, definitions and theoretical support for (sets "
+             "of) questions in the GramAdapt questionnaire.")
         cldf['ContributionTable', 'ID'].common_props['dc:description'] = \
-            ("The unique identifier of a contact pair. The two digit IDs were assigned based on "
-             "order of completion. Sets that are linked by language communities, but represent "
-             "different time slices, contain a Roman alphabet symbol, i.e. Set06a and Set06b are "
-             "for the contact scenario between Maltese and Sicilian, but for different time "
-             "periods of contact.")
+            ("(1) For contact sets: The unique identifier of a contact pair. The two digit IDs "
+             "were assigned based on order of completion. Sets that are linked by language "
+             "communities, but represent different time slices, contain a Roman alphabet symbol, "
+             "i.e. Set06a and Set06b are for the contact scenario between Maltese and Sicilian, "
+             "but for different time periods of contact. "
+             "(2) For rationales the identifier are based on domain and question number.")
+        cldf['ContributionTable', 'Description'].common_props.update({
+            "dc:format": "text/markdown",
+            "dc:conformsTo": "CLDF Markdown",
+            "dc:description": "The rationale document formatted as CLDF Markdown.",
+        })
         cldf.add_foreign_key('ContributionTable', 'Neighbour_Language_ID', 'LanguageTable', 'ID')
-        cldf.add_table(
+        cldf.add_foreign_key('ContributionTable', 'Reviewer_IDs', 'contributors.csv', 'ID')
+        cldf.add_foreign_key('ContributionTable', 'Author_IDs', 'contributors.csv', 'ID')
+        t = cldf.add_table(
             'questions.csv',
             {
                 "name": "ID",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            },
+            {
+                "name": "Name",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+            },
+            {
+                "name": "Rationale",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                "dc:description": "Link to the rationale for this question."
             }
         )
-        cldf.add_component(
+        t.common_props['dc:description'] = \
+            ("This table lists the questions of the GramAdapt questionnaire with links to the "
+             "respective rationale.")
+        t = cldf.add_component(
             'ParameterTable',
-            'datatype',
-            'Question_ID',
+            {
+                'name': 'datatype',
+                'datatype': {'base': 'string', 'format': 'Binary-YesNo|Comment|Scalar|Types|TypesSequential|TypesMultiple|Value'},
+                'dc:description':
+                    "**Binary-YesNo**: A binary answer of either ‘Yes’ or ‘No;\n"
+                    "**Comment**: Not preset, just a comment field, i.e. free response.\n"
+                    "**Scalar**: A Likert 5 point scale. The response is in textual form, but represents ordinals on a "
+                    "scale of 1-5 (e.g. “Neither positive nor negative” -> 3).\n"
+                    "**Types**: A list of preset answers where only one can be chosen (e.g. “FL, NL, Some other "
+                    "language, This is highly contextual”)\n"
+                    "**TypesSequential**: A list of ordered, categorical answers where only one can be chosen\n"
+                    "**Types-Multiple**: A list of preset answers, where multiple can be chosen\n"
+                    "**Value**: A numerical value"
+            },
+            {
+                'name': 'Question_ID',
+                'dc:description': 'Links to the corresponding GramAdapt question.',
+            },
             {
                 'name': 'Domain',
                 'dc:description':
                     'Indicating the domain to which the responses apply. Possible options are the '
-                    'overview questionnaire (OV) and social domains (DEM = Exchange and Marriage; '
-                    'DFK = Family and Kin; DKN = Knowledge; DLB = Labour; DLC = Local Community; '
-                    'DTR = Trade).',
+                    'overview questionnaire (**OV**) and social domains (**DEM** = Exchange and Marriage; '
+                    '**DFK** = Family and Kin; **DKN** = Knowledge; **DLB** = Labour; **DLC** = Local Community; '
+                    '**DTR** = Trade).',
                 'datatype': {'base': 'string', 'format': 'OV|DEM|DFK|DKN|DLB|DLC|DTR'}
+            },
+        )
+        t.common_props['dc:description'] = \
+            ("Questions in GramAdapt may be broken up into several sub-questions. This table lists "
+             "the atomic sub-questions.")
+        cldf.add_foreign_key('ParameterTable', 'Question_ID', 'questions.csv', 'ID')
+        cldf.add_component(
+            'CodeTable',
+            {
+                'name': 'Ordinal',
+                'datatype': {'base': 'integer', 'minimum': 1, 'maximum': 5},
+                'dc:description': 'Ordinal, representing the value for a Scalar parameter on a 5 point Likert scale.'
             }
         )
-        cldf.add_foreign_key('ParameterTable', 'Question_ID', 'questions.csv', 'ID')
-        cldf.add_component('CodeTable')
