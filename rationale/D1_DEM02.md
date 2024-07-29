@@ -2,11 +2,16 @@
 ## D1: Domain Detail - Exchange & Marriage (DEM02)
 
 Is Exchange between Focus and Neighbour Group the individual’s initiative? Is Exchange between Focus and Neighbour Group the individual’s initiative?
+- Yes
+- No
 
 Is Exchange between Focus and Neighbour Group an institutionalised procedure? Is Exchange between Focus and Neighbour Group an institutionalised procedure?
+- Yes
+- No
 
 Is Exchange between Focus and Neighbour Group part of a ceremonial event to which both communities participate? Is Exchange between Focus and Neighbour Group part of a ceremonial event to which both communities participate?
-
+- Yes
+- No
 
 
 **Goal**
@@ -61,4 +66,4 @@ With this question we also aim at capturing the intensity of contact between Foc
 
 
 
-FDG
+_FDG_
