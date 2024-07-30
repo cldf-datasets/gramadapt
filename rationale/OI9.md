@@ -2,10 +2,13 @@
 ## OI9: What are the Focus Group speakers' attitudes towards lectal differences within the Focus Group language?
 
 
-- *Very negative* 
-- *Neither positive nor negative*
-- *Very positive*
-  
+
+- Very negative
+- Negative
+- Neither positive nor negative
+- Positive
+- Very positive
+
 
 **Goal**
 
