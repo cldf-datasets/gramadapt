@@ -6,13 +6,9 @@ e.g. What is the typical pattern of relocation for Focus Group women when starti
 
 
 - Focus Group women practically always relocate to Neighbour Group locations 
-
 - Focus Group women often relocate to Neighbour Group locations 
-
 - Focus Group women sometimes relocate to Neighbour Group locations 
-
 - Focus Group women rarely relocate to Neighbour Group locations 
-
 - Focus Group women practically never relocate to Neighbour Group locations 
 
 
@@ -124,8 +120,7 @@ Secondly, sociolinguistic descriptions from parts of the world with high levels 
 }
 
 @article{Stanford2009a,
-  title = {``{{Eating}} the Food of Our Place'': {{Sociolinguistic}} Loyalties in Multidialectal {{Sui}} Villages},
-  shorttitle = {``{{Eating}} the Food of Our Place''},
+  title = {``Eating the Food of Our Place'': {{Sociolinguistic}} Loyalties in Multidialectal {{Sui}} Villages},
   author = {Stanford, James N.},
   year = {2009},
   month = jun,
