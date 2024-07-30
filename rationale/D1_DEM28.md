@@ -5,7 +5,9 @@
 - Is polygyny possible for Neighbour Group men?
 - Is polygyny possible for men from all societal strata?
 
-
+Possible response:
+- Yes
+- No
 
 **Goal**
 
@@ -90,4 +92,4 @@ Several explanations have been proposed to account for polygyny as a feature of 
 
 
 
-FDG, EK
+_FDG, EK_
