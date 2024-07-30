@@ -1,15 +1,11 @@
 
 ## OS1: How many levels of jurisdictional hierarchy are there in the Focus Group, beyond the local community?
 
-- *No levels*
-
-- *One level*
-
-- *Two levels* 
-
-- *Three levels*
-
-- *Four levels*
+- No levels
+- One level
+- Two levels
+- Three levels
+- Four levels
 
 **Goal**
 
