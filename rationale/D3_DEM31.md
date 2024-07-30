@@ -2,8 +2,13 @@
 ## D3: Social Categories - Exchange & Marriage (DEM31)
 
 Is it typical for Focus Group men to marry Neighbour Group women?
+- Yes
+- No
+
 
 Is it typical for Focus Group women to marry Neighbour Group men?
+- Yes
+- No
 
 
 
@@ -61,5 +66,5 @@ Linguistic transmission in multilingual settings can be affected by the directio
   keywords = {Coevolution,Cultural evolution,Kinship,Language,Population genetics}
 }
 
-
-FDG
+_
+FDG_
