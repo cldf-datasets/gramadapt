@@ -2,11 +2,8 @@
 ## T9: What language do children typically speak with their Focus Group parent? (DFK22)
 
 - The Focus Group language
-
 - The Neighbour Group language
-
 - Some other language
-
 - This is highly contextual
 
 
