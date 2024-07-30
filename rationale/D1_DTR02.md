@@ -6,9 +6,7 @@ Traded good types. Which of the following do Focus Group and Neighbour Group tra
 
 
 - Raw materials and primary produce
-
 - Luxury items
-
 - Manufactured goods
 
 
