@@ -3,15 +3,11 @@
 
 (in the questionnaire this question is formulated as: "What is the approximate rate of formal literacy in the Focus language speaking community?")
 
-- *Low* 
-
-- *Fairly low*
-
-- *Intermediate* 
-
-- *Fairly high* 
-
-- *High*
+- Low
+- Fairly low
+- Intermediate
+- Fairly high
+- High
 
 **Goal**
 
