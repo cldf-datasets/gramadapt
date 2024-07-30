@@ -6,13 +6,9 @@ Focus Group people are the most likely to speak in an unmonitored way in:
 
 
 - Nuclear family
-
 - Band
-
 - Neighbourhood or village
-
 - Town or city
-
 - Other
 
 
