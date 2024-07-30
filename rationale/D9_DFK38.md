@@ -6,9 +6,7 @@ Are any of the following features characteristic when speaking to one’s Neighb
 
 
 - Lexical avoidance
-
 - The use of certain morphosyntactic forms
-
 - The use of certain pronominal forms 
 
 
