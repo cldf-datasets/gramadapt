@@ -8,13 +8,10 @@
 This question seeks information about the occurrence of any societal upheaval or natural disaster that has impacted people's mobility. In other words, we are interested whether such abrupt causes may have influenced the Focus group's contact with the Neighbour group in any way.
 
 
-**Scale**
+**Possible Response**
 
-The scale of answers is the following:
-
-*Yes*
-
-*No*
+- Yes
+- No
 
 
 **Theoretical & Empirical Support**
