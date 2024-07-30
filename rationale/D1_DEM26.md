@@ -6,16 +6,14 @@ When marrying each other, should Focus Group people and Neighbour Group people m
 
 
 - outside their village or other kind of local community?
-
 - outside their descent group or clan?
-
 - outside their designated marriage group, such as a moiety?
-
 - outside their hierarchical social group such as class or caste?
-
 - outside their linguistic group?
 
-
+Possible response:
+- Yes
+- No
 
 **Goal**
 
@@ -90,21 +88,6 @@ Recent research shows that kinship structures may strongly influence the mapping
   keywords = {Coevolution,Cultural evolution,Kinship,Language,Population genetics}
 }
 
-@article{Stanford2009,
-  title = {``{{Eating}} the Food of Our Place'': {{Sociolinguistic}} Loyalties in Multidialectal {{Sui}} Villages},
-  shorttitle = {``{{Eating}} the Food of Our Place''},
-  author = {Stanford, James N.},
-  year = {2009},
-  month = jun,
-  journal = {Language in Society},
-  volume = {38},
-  number = {3},
-  pages = {287--309},
-  issn = {0047-4045, 1469-8013},
-  doi = {10.1017/S0047404509090502},
-  urldate = {2022-11-28},
-  langid = {english}
-}
 
 @misc{Schwimmer1995,
   title = {Kinship and Social Organization},
@@ -126,16 +109,9 @@ Recent research shows that kinship structures may strongly influence the mapping
   langid = {english}
 }
 
-@phdthesis{Stanford2007,
-  title = {Dialect Contact and Identity: A Case Study of Exogamous {{Sui}} Clans},
-  author = {Stanford, James N.},
-  year = {2007},
-  school = {Michigan State University},
-  annotation = {10.25335/M52B8VQ8S}
-}
 
 @article{Stanford2010,
-  title = {Gender, Generations, and Nations: {{An}} Experiment in {{Hmong American}} Discourse and Sociophonetics},
+  title = {Gender, Generations, and Nations: An Experiment in {{Hmong American}} Discourse and Sociophonetics},
   author = {Stanford, James N.},
   year = {2010},
   journal = {Language and Communication},
@@ -147,6 +123,29 @@ Recent research shows that kinship structures may strongly influence the mapping
   keywords = {Age,Authority,Diaspora,Gender,Immigration,Indigenous language,Sociophonetics,Southeast Asia}
 }
 
+@article{Stanford2009,
+  title = {``Eating the Food of Our Place'': {{Sociolinguistic}} Loyalties in Multidialectal {{Sui}} Villages},
+  author = {Stanford, James N.},
+  year = {2009},
+  month = jun,
+  journal = {Language in Society},
+  volume = {38},
+  number = {3},
+  pages = {287--309},
+  issn = {0047-4045, 1469-8013},
+  doi = {10.1017/S0047404509090502},
+  urldate = {2022-11-28},
+  langid = {english}
+}
+
+@phdthesis{Stanford2007,
+  title = {Dialect Contact and Identity: A Case Study of Exogamous {{Sui}} Clans},
+  author = {Stanford, James N.},
+  year = {2007},
+  school = {Michigan State University},
+  annotation = {10.25335/M52B8VQ8S}
+}
+
 @article{TheEditorsofEncyclopaediaBritannica2016,
   title = {Moiety System},
   editor = {{The Editors of Encyclopaedia Britannica}},
@@ -154,6 +153,4 @@ Recent research shows that kinship structures may strongly influence the mapping
   journal = {Encyclopaedia Britannica}
 }
 
-
-
-FDG, EK
+_FDG, EK_
