@@ -6,15 +6,14 @@ When marrying each other, should Focus Group people and Neighbour Group people m
 
 
 - the same village or other kind of local community?
-
 - the same descent group or clan?
-
 - the same designated marriage group, such as a moiety?
-
 - the same hierarchical social group such as class or caste?
-
 - the same linguistic group?
 
+Possible response:
+- Yes
+- No
 
 
 **Goal**
@@ -53,7 +52,7 @@ The options listed in the question correspond to the following types of endogami
 
 **Theoretical & Empirical Support**
 
-Rules of endogamy contribute to define group identity, status, and power dynamics between neighbouring groups. They thus reinforce and define group boundaries through marriage exchange. Characterising the rules of endogamy that regulate intermarriage between Focus Group and Neighbour Group helps us the relationship between the two groups in terms of community identity. If marriage between individuals from the two groups is encouraged or prescribed as a means of reinforcing and perpetrating group identity, this likely means that, independently of the languages they speak, the two groups conceive of themselves as one (e.g. one descent group, one social group, one ethnicity, one area etc). In other words,
+Rules of endogamy contribute to define group identity, status, and power dynamics between neighbouring groups. They thus reinforce and define group boundaries through marriage exchange. Characterising the rules of endogamy that regulate intermarriage between Focus Group and Neighbour Group helps us the relationship between the two groups in terms of community identity. If marriage between individuals from the two groups is encouraged or prescribed as a means of reinforcing and perpetrating group identity, this likely means that, independently of the languages they speak, the two groups conceive of themselves as one (e.g. one descent group, one social group, one ethnicity, one area etc). 
 
 
 **References**
