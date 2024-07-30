@@ -52,17 +52,6 @@ All in all, population density has been suggested as an important factor that ma
 
 **References**
 
-@article{coelho2019a,
-  author = {Pacheco Coelho, Marco Túlio and Pereira, Elisa Barreto and Haynie, Hannah J. and Rangel, Thiago F. and Kavanagh, Patrick and Kirby, Kathryn R. and Greenhill, Simon J.},
-  date = {2019},
-  title = {Drivers of geographical patterns of North American language diversity},
-  volume = {286},
-  pages = {20190242},
-  url = {https://doi.org/10.1098/rspb.2019.0242},
-  doi = {10.1098/rspb.2019.0242},
-  journal = {Proceedings of the Royal Society B: Biological Sciences},
-  number = {1899}
-}
 
 @article{bromham2021a,
   author = {Bromham, Lindell and Dinnage, Russell and Skirgård, Hedvig and Ritchie, Andrew and Cardillo, Marcel and Meakins, Felicity and Greenhill, Simon and Hua, Xia},
@@ -76,28 +65,27 @@ All in all, population density has been suggested as an important factor that ma
   number = {2}
 }
 
-@article{hua2019a,
-  author = {Hua, Xia and Greenhill, Simon J. and Cardillo, Marcel and Schneemann, Hilde and Bromham, Lindell},
-  date = {2019},
-  title = {The ecological drivers of variation in global language diversity},
-  volume = {10},
-  url = {https://doi.org/10.1038/s41467-019-09842-2},
-  doi = {10.1038/s41467-019-09842-2},
-  journal = {Nature Communications},
-  number = {1}
+
+
+@inproceedings{baxter2006a,
+  author = {Baxter, G.J.},
+  date = {2006},
+  title = {The effect of population density on the propagation of language changes},
+  pages = {99–105},
+  booktitle = {Eighteenth Annual Colloquium of the Spatial Information Research Centre},
+  address = {Dunedin, New Zealand}
 }
 
-@article{fagyal2010a,
-  author = {Fagyal, Zsuzsanna and Swarup, Samarth and Escobar, Anna María and Gasser and Lakkaraju, Kiran},
-  date = {2010},
-  title = {Centers and peripheries: Network roles in language change},
-  volume = {120},
-  pages = {2061–2079},
-  url = {https://doi.org/10.1016/j.lingua.2010.02.001},
-  doi = {10.1016/j.lingua.2010.02.001},
-  journal = {Lingua},
-  number = {8, Special issue: Asymmetries in Language Acquisition}
+
+
+@book{bloomfield1933a,
+  author = {Bloomfield, Leonard},
+  date = {1933},
+  title = {Language},
+  publisher = {The University of Chicago Press},
+  address = {Chicago}
 }
+
 
 @article{bowern2010a,
   author = {Bowern, Claire},
@@ -109,39 +97,6 @@ All in all, population density has been suggested as an important factor that ma
   doi = {10.1111/j.1749-818X.2010.00220.x},
   journal = {Language and Linguistics Compass},
   number = {8}
-}
-
-@incollection{wolfram2003a,
-  author = {Wolfram, Walt and Schilling-Estes, Natalie},
-  date = {2003},
-  title = {Dialectology and linguistic diffusion},
-  editor = {Joseph, Brian D. and Janda, Richard D.},
-  pages = {713–735},
-  publisher = {John Wiley & Sons, Ltd},
-  address = {Malden, MA},
-  url = {https://doi.org/10.1002/9781405166201.ch24},
-  doi = {10.1002/9781405166201.ch24},
-  booktitle = {The Handbook of Historical Linguistics}
-}
-
-
-@article{trudgill1974a,
-  author = {Trudgill, Peter},
-  date = {1974},
-  title = {Linguistic change and diffusion: Description and explanation in sociolinguistic dialect geography},
-  volume = {3},
-  number = {2},
-  pages = {215–246},
-  journal = {Language in Society},
-  url = {https://www.jstor.org/stable/4166764}
-}
-
-@book{bloomfield1933a,
-  author = {Bloomfield, Leonard},
-  date = {1933},
-  title = {Language},
-  publisher = {The University of Chicago Press},
-  address = {Chicago}
 }
 
 
@@ -157,6 +112,7 @@ doi = {10.1073/pnas.1419704112},
 URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
 }
 
+
 @article{burridge2021a,
   author = {Burridge, James and Blaxter, Tamsin},
   date = {2021},
@@ -170,16 +126,6 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
 }
 
 
-@inproceedings{baxter2006a,
-  author = {Baxter, G.J.},
-  date = {2006},
-  title = {The effect of population density on the propagation of language changes},
-  pages = {99–105},
-  booktitle = {Eighteenth Annual Colloquium of the Spatial Information Research Centre},
-  address = {Dunedin, New Zealand}
-}
-
-
 @article{burridge2017a,
   author = {Burridge, James},
   date = {2017},
@@ -190,6 +136,43 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
   doi = {10.1103/PhysRevX.7.031008},
   journal = {Physical Review X},
   number = {3}
+}
+
+@article{coelho2019a,
+  author = {Pacheco Coelho, Marco Túlio and Pereira, Elisa Barreto and Haynie, Hannah J. and Rangel, Thiago F. and Kavanagh, Patrick and Kirby, Kathryn R. and Greenhill, Simon J.},
+  date = {2019},
+  title = {Drivers of geographical patterns of North American language diversity},
+  volume = {286},
+  pages = {20190242},
+  url = {https://doi.org/10.1098/rspb.2019.0242},
+  doi = {10.1098/rspb.2019.0242},
+  journal = {Proceedings of the Royal Society B: Biological Sciences},
+  number = {1899}
+}
+
+
+@article{fagyal2010a,
+  author = {Fagyal, Zsuzsanna and Swarup, Samarth and Escobar, Anna María and Gasser and Lakkaraju, Kiran},
+  date = {2010},
+  title = {Centers and peripheries: Network roles in language change},
+  volume = {120},
+  pages = {2061–2079},
+  url = {https://doi.org/10.1016/j.lingua.2010.02.001},
+  doi = {10.1016/j.lingua.2010.02.001},
+  journal = {Lingua},
+  number = {8, Special issue: Asymmetries in Language Acquisition}
+}
+
+
+@article{hua2019a,
+  author = {Hua, Xia and Greenhill, Simon J. and Cardillo, Marcel and Schneemann, Hilde and Bromham, Lindell},
+  date = {2019},
+  title = {The ecological drivers of variation in global language diversity},
+  volume = {10},
+  url = {https://doi.org/10.1038/s41467-019-09842-2},
+  doi = {10.1038/s41467-019-09842-2},
+  journal = {Nature Communications},
+  number = {1}
 }
 
 @book{Jorgensen1980,
@@ -267,6 +250,33 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
   doi = {10.2307/3773219},
   urldate = {2022-10-26}
 }
+
+@article{trudgill1974a,
+  author = {Trudgill, Peter},
+  date = {1974},
+  title = {Linguistic change and diffusion: Description and explanation in sociolinguistic dialect geography},
+  volume = {3},
+  number = {2},
+  pages = {215–246},
+  journal = {Language in Society},
+  url = {https://www.jstor.org/stable/4166764}
+}
+
+
+@incollection{wolfram2003a,
+  author = {Wolfram, Walt and Schilling-Estes, Natalie},
+  date = {2003},
+  title = {Dialectology and linguistic diffusion},
+  editor = {Joseph, Brian D. and Janda, Richard D.},
+  pages = {713–735},
+  publisher = {John Wiley & Sons, Ltd},
+  address = {Malden, MA},
+  url = {https://doi.org/10.1002/9781405166201.ch24},
+  doi = {10.1002/9781405166201.ch24},
+  booktitle = {The Handbook of Historical Linguistics}
+}
+
+
 
 
 *KS*
