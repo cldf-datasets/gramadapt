@@ -4,9 +4,11 @@
 Is polyandry possible for Focus Group women? Is polyandry possible for Neighbour Group women?
 
 - If possible, is polyandry of fraternal type? 
-
 - If possible, is polyandry of non-fraternal type? 
 
+Possible response:
+- Yes
+- No
 
 
 **Goal**
