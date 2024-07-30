@@ -2,16 +2,11 @@
 ## OS2: How many levels of jurisdictional hierarchy are there in the Neighbour Group, beyond the local community?
 
 
-- *No levels* 
-
-- *One level* 
-
-- *Two levels* 
-
-- *Three levels* 
-
-- *Four levels* 
-
+- No levels
+- One level 
+- Two levels 
+- Three levels 
+- Four levels
 
 **Goal**
 
