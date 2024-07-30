@@ -7,12 +7,9 @@
 - Macro-level (politico-)territorial group, such as nation, tribe, state.Macro-level (politico-)territorial group, such as nation, tribe, state.
 - Formal or informal relationships between non-kin, such as alliances, solidarity membership, ad-hoc relationships between families or individuals.Formal or informal relationships between non-kin, such as alliances, solidarity membership, ad-hoc relationships between families or individuals.
 
-
-
-**Answer options**
-
-Yes or No for each point above.
-
+Possible response:
+- Yes
+- No
 
 
 **Goal**
