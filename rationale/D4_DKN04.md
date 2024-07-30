@@ -6,9 +6,7 @@ The relationship between Focus Group and Neighbour Group in the domain of knowle
 
 
 - Focus Group people are masters,  Neighbour Group are novices
-
 - Neighbour Group people are masters, Focus Group are novices 
-
 - None of the above 
 
 
@@ -113,5 +111,6 @@ Related to this notion of power and influence, it appears that standardised lang
 }
 
 
-
+_
 EK, RNDS
+_
