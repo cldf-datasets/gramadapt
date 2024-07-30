@@ -2,8 +2,11 @@
 ## OI8: How significant is language as part of group identity for the speakers of Focus Group language?
 
 
-- *Very insignificant* 
-- *Very significant*
+- Very insignificant
+- Insignificant
+- Neither insignificant nor significant
+- Significant 
+- Very significant
   
 
 **Goal**
