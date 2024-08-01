@@ -3,14 +3,11 @@
 
 How commonly are Focus Group and Neighbour Group people involved in public modes of production? How commonly are Focus Group and Neighbour Group people involved in public modes of production?
 
-
-
 - Very commonly
 - Commonly
 - Somewhat commonly
 - Uncommonly
 - Very uncommonly
-
 
 
 **Goal**

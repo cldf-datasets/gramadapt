@@ -18,12 +18,12 @@ In this questionnaire we collect data on the number of native speakers so that w
 
 **Definition**
 
-- The term *native-like speakers* encompasses two types of people. First, it refers to those members of the language group who have learned the Focus Group language as the first language. Second, it refers to those members of the Focus Group who have learned the language since childhood and their competence in the language is comparable to first language learners.
+The term *native-like speakers* encompasses two types of people. First, it refers to those members of the language group who have learned the Focus Group language as the first language. Second, it refers to those members of the Focus Group who have learned the language since childhood and their competence in the language is comparable to first language learners.
 
 
 
 
-This question and possible answers are adapted from question SCCS1122 in the Standard Cross-Cultural Sample (Murdock & White 1969; White 2009) that is available in D-PLACE (Kirby et al. 2016; 2018c; see[ ](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FSCCS1122%232%2F14.3%2F151.3&sa=D&sntz=1&usg=AOvVaw1NJpvOgywMgSIE-c9pxyKK)[https://d-place.org/parameters/SCCS1122#2/14.3/151.3](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FSCCS1122%232%2F14.3%2F151.3&sa=D&sntz=1&usg=AOvVaw1NJpvOgywMgSIE-c9pxyKK))
+This question and possible answers are adapted from question SCCS1122 in the Standard Cross-Cultural Sample (Murdock & White 1969; White 2009) that is available in D-PLACE (Kirby et al. 2016; Kirby et al. 2018c; see[ ](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FSCCS1122%232%2F14.3%2F151.3&sa=D&sntz=1&usg=AOvVaw1NJpvOgywMgSIE-c9pxyKK)[https://d-place.org/parameters/SCCS1122#2/14.3/151.3](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FSCCS1122%232%2F14.3%2F151.3&sa=D&sntz=1&usg=AOvVaw1NJpvOgywMgSIE-c9pxyKK))
 
 
 
@@ -98,7 +98,7 @@ In this questionnaire we collect data on the number of native speakers so that w
   langid = {english},
 }
 
-@incollection{KirbyEtAl2018,
+@incollection{KirbyEtAl2018c,
   title = {Standard Cross-Cultural Sample},
   booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
   editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},

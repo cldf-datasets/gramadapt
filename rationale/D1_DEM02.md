@@ -1,18 +1,6 @@
 
 ## D1: Domain Detail - Exchange & Marriage (DEM02)
 
-Is Exchange between Focus and Neighbour Group the individual’s initiative? Is Exchange between Focus and Neighbour Group the individual’s initiative?
-- Yes
-- No
-
-Is Exchange between Focus and Neighbour Group an institutionalised procedure? Is Exchange between Focus and Neighbour Group an institutionalised procedure?
-- Yes
-- No
-
-Is Exchange between Focus and Neighbour Group part of a ceremonial event to which both communities participate? Is Exchange between Focus and Neighbour Group part of a ceremonial event to which both communities participate?
-- Yes
-- No
-
 
 **Goal**
 
@@ -22,6 +10,13 @@ This question tries to capture the degree of formalization of exchange practices
 
 With this question we also aim at capturing the intensity of contact between Focus Group and Neighbour Group through practices of exchange. The higher the number of exchange practices between the groups, the greater the possibilities of interaction, hence the degree of contact. We may also assume that in communities where exchange across groups is only ceremonial, contact in this domain is less pervasive than in communities where, say, individual gift exchange also occurs across groups.
 
+**Definitions**
+
+The scale is as follows:
+
+- Is Exchange between Focus and Neighbour Group the individual’s initiative?
+- Is Exchange between Focus and Neighbour Group an institutionalised procedure?
+- Is Exchange between Focus and Neighbour Group part of a ceremonial event to which both communities participate?
 
 
 **Examples**

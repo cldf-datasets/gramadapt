@@ -2,14 +2,6 @@
 ## BI: What language do Focus Group people expect to be used when interacting with Neighbour Group people in domain X?
 
 
-
-- The Focus Group language 
-- The Neighbour Group language 
-- Some other language 
-- This is highly contextual
-
-
-
 **Goal**
 
 This question tells us about stated norms around language use in specific social domains. The stated norm around language use may be reflections of various linguistic ideologies.
@@ -24,7 +16,6 @@ The answer to this question is treated as one of a number of factors that play a
 
 - *The Focus Group language/The Neighbour Group language/Some other language*: So-called monolingual modes of interaction. These options are mutually exclusive, that is, if more than one language is used in interaction, please select the fourth option, "This is highly contextual”.
 - *This is highly contextual*: encompasses interaction in which more than one language is used, including but not limited to phenomena that come under the umbrella terms "code-switching" and/or "code-mixing".
-
 
 
 

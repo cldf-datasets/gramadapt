@@ -24,7 +24,7 @@ Here we wish to get a general assessment of language loyalty in the Focus Group.
 
 **Theoretical & Empirical Support**
 
-As per the definition, language loyalty is an aspect of language attitude that contributes to languages’ continued use social life. The term is typically used in context of minority languages within nation-state contexts (beginning with Fishman’s seminal 1966 publication). As such, high levels of language loyalty are associated with the vitality of minority languages (indigenous languages, migrant heritage languages).
+As per the definition, language loyalty is an aspect of language attitude that contributes to languages’ continued use social life. The term is typically used in context of minority languages within nation-state contexts (beginning with the seminal publication Fishman 1966). As such, high levels of language loyalty are associated with the vitality of minority languages (indigenous languages, migrant heritage languages).
 
 Language loyalty is partially related to concepts of language and identity, in that language loyalty and “linguistic acts of loyalty” (Stanford 2009a) are kinds of “acts of identity” (Le Page & Tabouret-Keller 1985). For example, Stanford (2009a) analyses the continued use of clan-indexing tonal patterns by Sui women as linguistic acts of loyalty to their patrilineal clan, despite these women marrying and residing with their husband’s on his patrilineal clan lands.
 

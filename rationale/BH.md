@@ -1,18 +1,21 @@
 
 ## BH: How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of domain X?
 
-- Very superior
-- Superior
-- Neither superior nor inferior
-- Inferior
-- Very inferior
-
-
 
 **Goal**
 
 This question aims to investigate whether there are any attitudes or beliefs present in this domain that may reflect inequalities in power. We frame the question around senses of superiority and inferiority to get to notions of “prestige” that are often invoked in discussions of language convergence and shift in particular.
 
+
+**Definitions**
+
+The scale is as follows:
+
+- Very superior
+- Superior
+- Neither superior nor inferior
+- Inferior
+- Very inferior
 
 
 **Examples**

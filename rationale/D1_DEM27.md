@@ -3,8 +3,6 @@
 
 When marrying each other, should Focus Group people and Neighbour Group people marry somebody from:
 
-
-
 - the same village or other kind of local community?
 - the same descent group or clan?
 - the same designated marriage group, such as a moiety?
@@ -14,7 +12,6 @@ When marrying each other, should Focus Group people and Neighbour Group people m
 Possible response:
 - Yes
 - No
-
 
 **Goal**
 

@@ -37,7 +37,7 @@ The scale is as follows:
 
 
 
-This question and possible answers are the same as in the question EA031 in The Ethnographic Atlas (Gray 1999; Murdock et al. 1999). Variable EA031 can be found in D-PLACE (Kirby et al. 2016; 2018b; see [https://d-place.org/parameters/EA031](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FEA031&sa=D&sntz=1&usg=AOvVaw0_Ma1E__Q74oDp1jMjUwtV)).
+This question and possible answers are the same as in the question EA031 in The Ethnographic Atlas (Gray 1999; Murdock et al. 1999). Variable EA031 can be found in D-PLACE (Kirby et al. 2016; Kirby et al. 2018; see [https://d-place.org/parameters/EA031](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FEA031&sa=D&sntz=1&usg=AOvVaw0_Ma1E__Q74oDp1jMjUwtV)).
 
 
 
@@ -99,7 +99,7 @@ Humans arrange themselves socially in fairly small populations. Dunbar (1993) sh
   langid = {english},
 }
 
-@incollection{KirbyEtAl2018,
+@incollection{KirbyEtAl2018a,
   title = {Ethnographic {{Atlas}}},
   booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
   editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},

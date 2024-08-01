@@ -20,7 +20,7 @@ Here we are asking specifically about mobility and sedentism as it pertains to s
 
 
 
-The question and possible answers are adapted from question B009 of the Binford Hunter-Gatherer Database (Binford 2001), and the Hunter-Gatherer and Their Neighbours Database (Bowern et al. 2013+; 2021). Variable B009 can be found in D-Place (Kirby et al. 2016; 2018a; see [https://d-place.org/parameters/B009#1/29/169](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FB009%231%2F29%2F169&sa=D&sntz=1&usg=AOvVaw1EAEgU3zT2lpmzI73NlP0Q)).
+The question and possible answers are adapted from question B009 of the Binford Hunter-Gatherer Database (Binford 2001), and the Hunter-Gatherer and Their Neighbours Database (Bowern et al. 2013+; 2021). Variable B009 can be found in D-Place (Kirby et al. 2016; Kirby et al. 2018a; see [https://d-place.org/parameters/B009#1/29/169](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FB009%231%2F29%2F169&sa=D&sntz=1&usg=AOvVaw1EAEgU3zT2lpmzI73NlP0Q)).
 
 
 
@@ -137,7 +137,7 @@ Theoretically, nomadism may have consequences on linguistic structures due to it
   langid = {english},
 }
 
-@incollection{KirbyEtAl2018,
+@incollection{KirbyEtAl2018b,
   title = {Binford {{Hunter-Gatherer}}},
   booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
   editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},

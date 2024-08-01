@@ -26,7 +26,7 @@ The scale is as follows:
 
 **Examples**
 
-The following examples are from *The Ethnologue* (Eberhard, Simons & Fennig 2023) unless otherwise specified.
+The following examples are from *The Ethnologue* (Eberhard et al. 2023) unless otherwise specified.
 - Rotokas speakers (North Bougainville, Papua New Guinea) use Latin script; it seems to have a standard ortography. The literacy rate of both L1 and L2 Rotokas speakers is 50–75%.
 - North Saami speakers (Uralic; Norway, Sweden, Finland) use Latin script. A spelling reform in 1979 resulted in a "pan-Scandinavian" standard orthography, meaning that the language is to be spelled the same way irrespective of the state where it is written (Östman 2011: 367). The Ethnologue lists the literacy rate of L1 North Saami speakers as 30–60% and L2 speakers as 75–100%.
 - Huichol speakers (Uto-Aztecan; Mexico) use Latin script; it appears to have a standard ortography.The literacy rate of L1 Huichol speakers is 5–10% and that of L2 speakers 5–15%.

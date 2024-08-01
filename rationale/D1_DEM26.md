@@ -1,19 +1,6 @@
 
 ## D1: Exogamic Rules - Exchange & Marriage (DEM26)
 
-When marrying each other, should Focus Group people and Neighbour Group people marry somebody:
-
-
-
-- outside their village or other kind of local community?
-- outside their descent group or clan?
-- outside their designated marriage group, such as a moiety?
-- outside their hierarchical social group such as class or caste?
-- outside their linguistic group?
-
-Possible response:
-- Yes
-- No
 
 **Goal**
 
@@ -28,8 +15,6 @@ Marriage systems around the world have rules and tendencies of exogamy, which sp
 
 
 The options listed in the question correspond to the following types of exogamic rules:
-
-
 
 - *Village or other kind of local community*: A level of organisation that is closest to the household environment, but outside the realm of family and kin, e.g. village, neighbourhood, band. Marriage partners must come from different local communities/residential areas. Corresponds to phenomena such as "village exogamy"
 - *Descent group or clan*: Any emically defined ways of grouping people by shared ancestry and kin. Ideally a group larger than that of immediate family. The descent may be traced in anyway, e.g. patrilineally, matrilineally. Publications may refer to these groups variously as clans, kinship groups, descent groups, house systems, moiety. Corresponds to phenomena known as *descent group exogamy,clan exogamy*.

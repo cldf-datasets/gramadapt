@@ -1,7 +1,8 @@
 
 ## OL1: What is the approximate rate of formal literacy in the Focus Group community?
 
-(in the questionnaire this question is formulated as: "What is the approximate rate of formal literacy in the Focus language speaking community?")
+> [!NOTE]  
+> In the questionnaire this question is formulated as: "What is the approximate rate of formal literacy in the Focus language speaking community?"
 
 - Low
 - Fairly low

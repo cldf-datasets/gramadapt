@@ -1,20 +1,6 @@
 
 ## D1: Domain Detail - Family & Kin (DFK02)
 
-Do mothers (and their children) live with their husbands as part of a co-residential unit? Do mothers (and their children) live with their husbands as part of a co-residential unit?
-- Yes
-- No
-
-
-Do mothers (and their children) live with their mothers? Do mothers (and their children) live with their mothers?
-- Yes
-- No
-
-
-Do mothers (and their children) live with their mother-in-laws? Do mothers (and their children) live with their mother-in-laws?
-- Yes
-- No
-  
 
 **Goal**
 

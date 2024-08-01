@@ -19,7 +19,7 @@ By this question we collect data on the number of native speakers so that we can
 
 **Definition**
 
-- The term *native-like speakers* encompasses two types of people. First, it refers to those members of the language group who have learned the Focus Group language as the first language. Second, it refers to those members of the Focus Group who have learned the language since childhood and their competence in the language is comparable to first language learners.
+The term *native-like speakers* encompasses two types of people. First, it refers to those members of the language group who have learned the Focus Group language as the first language. Second, it refers to those members of the Focus Group who have learned the language since childhood and their competence in the language is comparable to first language learners.
 
 
 

@@ -1,7 +1,8 @@
 
 ## OH1: Have there been any natural disasters or major societal upheaval during the densest period of contact between Focus Group and Neighbour Group that the Focus Group people talk about in so far as it impacted people's mobility?
 
-(Note that the formulation of this question is slightly different in the questionnaire is: "Have there been any natural disasters or major societal upheaval during the densest period of contact between the Focus language speaking and Neighbour language speaking people, such it impacted people's mobility, and Focus language speaking people talk about it?")
+> [!NOTE]  
+> The formulation of this question is slightly different in the questionnaire: "Have there been any natural disasters or major societal upheaval during the densest period of contact between the Focus language speaking and Neighbour language speaking people, such it impacted people's mobility, and Focus language speaking people talk about it?"
 
 **Goal**
 

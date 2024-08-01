@@ -3,12 +3,9 @@
 
 Traded good types. Which of the following do Focus Group and Neighbour Group trade with each other?
 
-
-
 - Raw materials and primary produce
 - Luxury items
 - Manufactured goods
-
 
 
 **Goal**
@@ -29,7 +26,7 @@ This question tries to capture the nature of the trade relationship between Focu
 
 This question tries to capture whether there are any asymmetries in trade relations between the Focus and Neighbours groups. This question is thus more broadly related to the issue of power relations between the two groups and languages.
 
-The rationale for studying asymmetries in power between Focus and Neighbour groups is based on the analysis that language shift (wholesale or piecemeal) occurs because speakers are either forced to shift or perceive a benefit in shifting towards the language of the more powerful group. Power in this instance is linked to the areas of trade and labour, i.e. socio-economic opportunity. Benrabah (2014) summarises various measures of a language's power used by a range of researchers, and notable is the recurrent identification of some parameter of economic power (e.g. Ammon 2003; Mackay 1973, 1976; Fishman 1977; Laponce 1987; Weber 1999).
+The rationale for studying asymmetries in power between Focus and Neighbour groups is based on the analysis that language shift (wholesale or piecemeal) occurs because speakers are either forced to shift or perceive a benefit in shifting towards the language of the more powerful group. Power in this instance is linked to the areas of trade and labour, i.e. socio-economic opportunity. Benrabah (2014) summarises various measures of a language's power used by a range of researchers, and notable is the recurrent identification of some parameter of economic power (e.g. Ammon 2003; Mackey 1973, 1976; Fishman 1977; Laponce 1987; Weber 1999).
 
 **References**
 

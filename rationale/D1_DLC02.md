@@ -3,14 +3,11 @@
 
 Focus Group people are the most likely to speak in an unmonitored way in:
 
-
-
 - Nuclear family
 - Band
 - Neighbourhood or village
 - Town or city
 - Other
-
 
 
 **Goal**
@@ -23,9 +20,6 @@ Members of a local community may come to interact in several different spaces an
 
 - *Local Community*: Domain concerning the surroundings closes to the household environment, but outside the realm of family and kin. A space of interaction that may extend beyond a bounded geographical place (this is done in order to capture mobile groups (e.g. nomads) and other communities of practice).
 - *Unmonitored speech:* Ways of speaking where speakers are paying less attention to the forms they produce, compared to situations where they do (such as formal situations). Overlaps somewhat with notions of "vernacular speech".
-
-
-
 
 The possible answer options are as follows:
 

@@ -21,7 +21,7 @@ The purpose of this question is to get a loose characterisation of the political
 
 
 
-This question and possible answers are adapted from question EA003 in the Ethnographic Atlas (Murdock et al. 2023) that is available in D-Place (Kirby et al. 2016; 2018b; see [https://d-place.org/parameters/EA033#1/30/153](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FEA033%231%2F30%2F153&sa=D&sntz=1&usg=AOvVaw0ACmFJj4UELCwTIyzkS-lV))
+This question and possible answers are adapted from question EA003 in the Ethnographic Atlas (Murdock et al. 2023) that is available in D-Place (Kirby et al. 2016; Kirby et al. 2018; see [https://d-place.org/parameters/EA033#1/30/153](https://www.google.com/url?q=https%3A%2F%2Fd-place.org%2Fparameters%2FEA033%231%2F30%2F153&sa=D&sntz=1&usg=AOvVaw0ACmFJj4UELCwTIyzkS-lV))
 
 
 
@@ -96,7 +96,7 @@ Scales of political complexity may in fact be proxies for social network cohesio
   langid = {english},
 }
 
-@incollection{KirbyEtAl2018,
+@incollection{KirbyEtAl2018a,
   title = {Ethnographic {{Atlas}}},
   booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
   editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},

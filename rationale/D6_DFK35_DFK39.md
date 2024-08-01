@@ -3,14 +3,11 @@
 
 e.g. What is the typical pattern of relocation for Focus Group women when starting a new family? 
 
-
-
 - Focus Group women practically always relocate to Neighbour Group locations 
 - Focus Group women often relocate to Neighbour Group locations 
 - Focus Group women sometimes relocate to Neighbour Group locations 
 - Focus Group women rarely relocate to Neighbour Group locations 
 - Focus Group women practically never relocate to Neighbour Group locations 
-
 
 
 **Goal**
@@ -39,7 +36,7 @@ The reason for looking at patrilocal practices vs. other forms is twofold. First
 
 
 
-Secondly, sociolinguistic descriptions from parts of the world with high levels of linguistic diversity and multilingualism note how women marrying into a community that “does not speak her language” will have children who have some kind of multilingual capacity. There are reports of children with passive multilingualism (Sui, China as described by Stanford 2009ab), receptive multilingualism (Mawng speakers in Yolngu-matha Australia, Singer 2018), active multilingualism in Nen and Idi (Papua New Guinea, Evans 2012). Researchers analyse the language ideologies of the community as largely affecting the multilingualism of children. These ideologies appear to be associated with the geographical location of residence (e.g. a child should speak the language of their patriline and patrilineal place as in the Sui case; a woman should speak the language of her husband’s place as in the Papua case). The suggestion from such research is that the wife-to-husband relocation plays a role in creating/maintaining a linguistic environment that fosters multilingual speech on a daily basis.
+Secondly, sociolinguistic descriptions from parts of the world with high levels of linguistic diversity and multilingualism note how women marrying into a community that “does not speak her language” will have children who have some kind of multilingual capacity. There are reports of children with passive multilingualism (Sui, China as described by Stanford 2009a; 2009b), receptive multilingualism (Mawng speakers in Yolngu-matha Australia, Singer 2018), active multilingualism in Nen and Idi (Papua New Guinea, Evans 2012). Researchers analyse the language ideologies of the community as largely affecting the multilingualism of children. These ideologies appear to be associated with the geographical location of residence (e.g. a child should speak the language of their patriline and patrilineal place as in the Sui case; a woman should speak the language of her husband’s place as in the Papua case). The suggestion from such research is that the wife-to-husband relocation plays a role in creating/maintaining a linguistic environment that fosters multilingual speech on a daily basis.
 
 
 **References**
@@ -106,7 +103,7 @@ Secondly, sociolinguistic descriptions from parts of the world with high levels 
   keywords = {Identity,Indigenous Australia,Language ideologies,Language maintenance,Receptive multilingualism,Speech communities}
 }
 
-@incollection{Stanford2009,
+@incollection{Stanford2009b,
   title = {Clan as a Sociolinguistic Variable: {{Three}} Approaches to {{Sui}} Clans},
   booktitle = {Variation in {{Indigenous Minority Languages}}},
   author = {Stanford, James N.},

@@ -1,7 +1,8 @@
 
 ## OG1: What is the population density within the territory controlled by the Focus Group community?
 
-(NOTE: In the questionnaire this question is stated as "OG1: What is the population density within the area where the Focus Language is spoken?")
+> [!NOTE]  
+> In the questionnaire this question is stated as "OG1: What is the population density within the area where the Focus Language is spoken?"
 
 The scale of answers is the following:
 
@@ -21,7 +22,7 @@ This question seeks information about population density.
 
 Underlyingly this question requires data about the number of speakers/users of the Focus Language and the approximate size of the area where the Focus Language is used. Population density is then estimated by dividing population size by the geographical area: $d_{density} = {N_{population}}/{A_{area}}$. See feature OD1 for the Total number of native speakers; the geographical area was estimated by the respondents, but sometimes the density was accrued from available documents (see the Comments to the responses).
 
-This question and possible answers are adapted from the question [SCCS64](https://d-place.org/parameters/SCCS64#2/14.3/151.2) in the Standard Cross-Cultural Sample (Murdock & White 1969; Murdock & Wilson 1972) and the question [WNAI288](https://d-place.org/parameters/WNAI288#4/46.38/240.03) in the Western North American Indian database (Jorgensen 1980). Both features are available in D-Place (Kirby et al. 2016; 2018c; 2018d); they can be accessed by clicking the links above.
+This question and possible answers are adapted from the question [SCCS64](https://d-place.org/parameters/SCCS64#2/14.3/151.2) in the Standard Cross-Cultural Sample (Murdock & White 1969; Murdock & Wilson 1972) and the question [WNAI288](https://d-place.org/parameters/WNAI288#4/46.38/240.03) in the Western North American Indian database (Jorgensen 1980). Both features are available in D-Place (Kirby et al. 2016; Kirby et al. 2018c; Kirby et al. 2018d); they can be accessed by clicking the links above.
 
 
 **Examples**
@@ -199,7 +200,7 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
   langid = {english},
  }
 
-@incollection{KirbyEtAl2018,
+@incollection{KirbyEtAl2018c,
   title = {Standard Cross-Cultural Sample},
   booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
   editor = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
@@ -208,7 +209,7 @@ URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1419704112}
   address = {Jena}
 }
 
-@incollection{KirbyEtAl2018a,
+@incollection{KirbyEtAl2018d,
   title = {Western {{North American Indian}} Database},
   booktitle = {D-{{PLACE}}: {{Database}} of {{Places}}, {{Language}}, {{Culture}} and {{Environment}}},
   author = {Kirby, Kate and Greenhill, Simon and Forkel, Robert},
