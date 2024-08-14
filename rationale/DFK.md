@@ -2,6 +2,7 @@
 
 
 **Goal**
+
 This section asks about the relationships between family members. Unlike the questions about marriage in the domain of exchange and marriage, this section will ask about interactions between individuals within a family. The domain of exchange and marriage is concerned with macro characterisations of the social institution of marriage, such as patterns of exogamy. Here we are looking at micro elements.
 
 
