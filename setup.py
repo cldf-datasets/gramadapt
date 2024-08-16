@@ -1,10 +1,11 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 
 setup(
     name='cldfbench_gramadapt',
     py_modules=['cldfbench_gramadapt'],
     include_package_data=True,
+    packages=find_packages(where='.'),
     zip_safe=False,
     entry_points={
         'cldfbench.dataset': [

@@ -108,6 +108,4 @@ Related to this notion of power and influence, it appears that standardised lang
 }
 
 
-_
 EK, RNDS
-_

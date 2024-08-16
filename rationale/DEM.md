@@ -1,7 +1,7 @@
 # Exchange & Marriage: Exchange
 	
 
-**Goal** 
+**Goal**
 
 
 We wish to understand the repercussions of exchange on linguistic behaviour in contact situations. For exchange, we are interested in things such as norms and ideologies surrounding language and ways of speaking around gift exchange, and spaces with ceremonial speech styles.

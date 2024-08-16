@@ -11,11 +11,7 @@ This question aims to investigate whether there are any attitudes or beliefs pre
 
 The scale is as follows:
 
-- Very superior
-- Superior
-- Neither superior nor inferior
-- Inferior
-- Very inferior
+[](ParameterTable?__template__=question_template.md&codes_only#cldf:DEM18)
 
 
 **Examples**

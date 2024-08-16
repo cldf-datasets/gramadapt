@@ -1,281 +1,266 @@
-ID
-DEM00
-DEM01
-DEM02
-DEM03
-DEM04
-DEM05
-DEM06
-DEM08
-DEM0a
-DEM0aN
-DEM0b
-DEM0bN
-DEM10
-DEM11
-DEM12
-DEM13
-DEM14
-DEM15
-DEM16
-DEM17
-DEM18
-DEM19
-DEM20
-DEM21
-DEM22
-DEM25
-DEM26
-DEM27
-DEM28
-DEM29
-DEM30
-DEM31
-DEM32
-DEM33
-DEM34
-DEM35
-DEM36
-DEM37
-DEM38
-DEM39
-DEM40
-DEM41
-DEM42
-DEM43
-DEM44
-DEM45
-DEM96
-DEM97
-DEM98
-DEM99
-DFK00
-DFK01
-DFK02
-DFK03
-DFK04
-DFK05
-DFK06
-DFK07
-DFK08
-DFK09
-DFK0a
-DFK0aN
-DFK0b
-DFK0bN
-DFK10
-DFK11
-DFK12
-DFK14
-DFK15
-DFK16
-DFK20
-DFK21
-DFK22
-DFK23
-DFK24
-DFK25
-DFK26
-DFK28
-DFK29
-DFK30
-DFK31
-DFK32
-DFK33
-DFK34
-DFK35
-DFK37
-DFK38
-DFK39
-DFK40
-DFK96
-DFK97
-DFK98
-DFK99
-DFKXX
-DKN00
-DKN01
-DKN02
-DKN03
-DKN04
-DKN05
-DKN06
-DKN07
-DKN08
-DKN0a
-DKN0aN
-DKN0b
-DKN0bN
-DKN10
-DKN11
-DKN12
-DKN13
-DKN14
-DKN16
-DKN17
-DKN18
-DKN19
-DKN20
-DKN21
-DKN22
-DKN23
-DKN24
-DKN25
-DKN26
-DKN27
-DKN28
-DKN29
-DKN30
-DKN31
-DKN96
-DKN97
-DKN98
-DKN99
-DLB00
-DLB01
-DLB02
-DLB03
-DLB04
-DLB05
-DLB06
-DLB07
-DLB09
-DLB0a
-DLB0aN
-DLB0b
-DLB0bN
-DLB10
-DLB11
-DLB13
-DLB14
-DLB15
-DLB16
-DLB17
-DLB18
-DLB19
-DLB20
-DLB21
-DLB22
-DLB23
-DLB25
-DLB26
-DLB27
-DLB28
-DLB29
-DLB30
-DLB31
-DLB32
-DLB96
-DLB97
-DLB98
-DLB99
-DLC00
-DLC01
-DLC02
-DLC03
-DLC04
-DLC05
-DLC09
-DLC0a
-DLC0aN
-DLC0b
-DLC0bN
-DLC10
-DLC11
-DLC12
-DLC13
-DLC14
-DLC15
-DLC16
-DLC18
-DLC19
-DLC20
-DLC21
-DLC22
-DLC23
-DLC25
-DLC27
-DLC28
-DLC29
-DLC31
-DLC32
-DLC33
-DLC96
-DLC97
-DLC98
-DLC99
-DTR00
-DTR01
-DTR02
-DTR03
-DTR06
-DTR08
-DTR09
-DTR0a
-DTR0aN
-DTR0b
-DTR0bN
-DTR10
-DTR11
-DTR12
-DTR13
-DTR14
-DTR16
-DTR17
-DTR18
-DTR19
-DTR20
-DTR22
-DTR23
-DTR24
-DTR27
-DTR28
-DTR29
-DTR31
-DTR32
-DTR33
-DTR34
-DTR35
-DTR36
-DTR37
-DTR96
-DTR97
-DTR98
-DTR99
-O10
-OB1
-OC1
-OC2
-OC3
-OC4
-OC5
-OC6
-OD1
-OD3
-OD4
-OD5
-OE1
-OE2
-OE3
-OG1
-OH1
-OI1
-OI3
-OI6
-OI7
-OI8
-OI9
-OL1
-OL2
-OL3
-OS1
-OS2
-OS4
-OS5
-OS6
-OS7
-OS9
-OT1
-OT1N
-OT2
-OT2N
+ID,Name,Rationale
+DEM00,Has exchange ever been a relevant domain of contact between Focus Group and Neighbour Group?,DEM P1
+DEM01,"What other languages, if any, are spoken in this domain?",DEM P4
+DEM02,Characteristic of the domain of Exchange,DEM D1_DEM02
+DEM03,Social categories,DEM D3
+DEM04,Where does exchange between Focus Group and Neighbour Group people typically take place?,DEM D6
+DEM05,What language do Focus Group people expect to be used when interacting with Neighbour Group people through practices of exchange?,DEM BI
+DEM06,How much do Focus Group children participate in practices of exchange?,DEM T1
+DEM08,How often do Focus Group people exchange with Neighbour Group people?,DEM S1
+DEM0a,How long have Focus Group and Neighbour Group people practised exchange for?,DEM P2
+DEM0b,What is the time frame when the largest number of people had the most opportunities for interaction in exchange?,DEM P3
+DEM10,How would you rate the overall relationship between Focus Group and Neighbour Group people in the domain of exchange?,DEM S5
+DEM11,How many people are typically involved in interactions between Focus Group and Neighbour Group in the context of exchange?,DEM S3
+DEM12,What language do Neighbour Group people typically speak to Focus Group people during practices of exchange?,DEM I1
+DEM13,"Typically in contexts of exchange practices, how well do Focus Group people understand the Neighbour Group language?",DEM I2
+DEM14,What language do Focus Group people typically speak during practices of exchange with Neighbour Group people?,DEM O1
+DEM15,Do Focus Group people typically simplify their Focus Group language when speaking with Neighbour Group people during practices of Exchange?,DEM O2
+DEM16,"Typically in the context of exchange practices, how fluently to Focus Group people speak the Neighbour Group language?",DEM O3
+DEM17,What is the overall attitude that Focus Group people have towards Neighbour Group people in the context of exchange?,DEM BA
+DEM18,How do Focus Group people view themselves overall in relation to Neighbour Group people in the context of exchange?,DEM BH
+DEM19,How much influence can the Focus Group exert over exchange?,DEM D11
+DEM20,"Typically, how much supervision do adults provide to children during practices of exchange?",DEM T11
+DEM21,What language do Neighbour Group adults typically speak to Focus Group children during practices of exchange?,DEM T2
+DEM22,"Typically, what language do Focus Group children prefer to speak with Neighbour Group adults in the context of exchange?",DEM T4
+DEM25,"Typically, what language do Focus Group children speak to Neighbour Group children during practices of exchange?",DEM T5
+DEM26,Marrying out,DEM D1_DEM26
+DEM27,Marrying within,DEM D1_DEM27
+DEM28,Polygyny,DEM D1_DEM28
+DEM29,Polyandry,DEM D1_DEM29
+DEM30,Child rearing obligations,DEM T6
+DEM31,Intermarriage,DEM D3_DEM31
+DEM32,Where do marriage ceremonies between Focus Group and Neighbour Group take place?,DEM D6
+DEM33,What language do Focus Group people expect to be used in marriage ceremonies with Neighbour Group people?,DEM BI
+DEM34,How would you rate the overall relationship between Focus Group and Neighbour Group people in practices of marriage exchanges?,DEM S5
+DEM35,What is the overall attitude that Focus Group people have towards Neighbour Group people in practices of marriage exchanges?,DEM BA
+DEM36,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of marriage?",DEM BH
+DEM37,What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry?,DEM D1_DEM37
+DEM38,Are there any speech styles used during practices of exchange?,DEM D9
+DEM39,Child socialisation,DEM T6
+DEM40,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of exchange?,DEM S6
+DEM41,Do Focus Group people experience exchange differently depending on social group?,DEM D10
+DEM42,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of marriage exchanges?,DEM S6
+DEM43,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of marriage exchanges? ,DEM S7
+DEM44,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of exchange?,DEM S7
+DEM45,"How often are these speech styles typically used during practices of exchange, in comparison with unmonitored speech?",DEM D12
+DEM96,"List any other groups that the Focus Group practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this contact through Social Exchange practices happened. ",DEM E1
+DEM97,What type of data informed your answers to the questions in the domain of social exchange overall? ,DEM E4
+DEM98,How certain are you in your responses for the domain of social exchange?,DEM E5
+DEM99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DEM],DEM
+DFK00,"Do Focus Group people and Neighbour Group people marry each other, or have they done so in the past?",DFK P1
+DFK01,"What other languages, if any, are spoken between family members?",DFK P4
+DFK02,Co-residential units,DFK D1_DFK02
+DFK03,"Typically, how much of their lives do spouses spend with each other during the course of their lifetime?",DFK S1
+DFK04,Looking after children,DFK T6
+DFK05,What language are children expected to speak to their Neighbour Group parent?,DFK BI
+DFK06,What language do Focus Group people typically speak with their Neighbour Group spouse?,DFK O1
+DFK07,Do Focus Group people typically simplify their Focus Group language when speaking with their Neighbour Group spouse?,DFK O2
+DFK08,"Typically in the domain of family, how fluently to Focus Group people speak the Neighbour Group language?",DFK O3
+DFK09,What language do Neighbour Group people typically speak with their Focus Group spouse?,DFK DFK09
+DFK0a,How long have Focus Group and Neighbour Group peoples been forming families with each other for?,DFK P2
+DFK0b,What’s the time frame of densest contact between Focus Group and Neighbour Group as far as family formation is concerned?,DFK P3
+DFK10,"Typically in the domain of family, how well do Focus Group people understand the Neighbour Group language?",DFK I2
+DFK11,How physically proximate to each other are a Focus Group person and their Neighbour Group in-laws?,DFK S4
+DFK12,"Thinking about the Focus Group person and their Neighbour Group in-laws, how often would they typically meet?",DFK S1
+DFK14,How would you rate the overall relationship between a Focus Group person and their Neighbour Group in-laws?,DFK S5
+DFK15,How many people are typically involved in interactions between a Focus Group person and their Neighbour Group in-laws?,DFK S3
+DFK16,What is the overall level of affection that the Focus Group person has towards their Neighbour Group spouse?,DFK BA
+DFK20,What language do Focus Group parents typically speak with their children?,DFK T7_DFK20
+DFK21,What language do Neighbour Group parents typically speak with their children?,DFK T8_DFK21
+DFK22,What language do children typically speak with their Focus Group parent?,DFK T9_DFK22
+DFK23,What language do children typically speak with their Neighbour Group parent?,DFK T10_DFK23
+DFK24,"Typically, how much supervision do grandparents provide to children?",DFK T11
+DFK25,What language do Neighbour Group grandparent/aunts/uncles typically speak to the children?,DFK T2
+DFK26,"Typically, what language do Focus Group children speak with their Neighbour Group grandparents/aunts/uncles?",DFK T4
+DFK28,"Your child has married a Neighbour Group person. What language does your child’s spouse typically speak to you, a Focus Group person?",DFK I1
+DFK30,Your child has married a Neighbour Group person. What language do you typically speak when speaking with your Neighbour Group son/daughter-in-law?,DFK O1
+DFK31,"Typically, does a Focus Group person simplify their Focus Group language when speaking to their Neighbour Group in-laws?",DFK O2
+DFK32,"Typically, how fluently does a Focus Group person speak the Neighbour Group language when speaking to their Neighbour Group in-laws?",DFK O3
+DFK33,What is the overall attitude that a Focus Group person has towards their Neighbour Group in-laws?,DFK BA
+DFK34,You have married a Neighbour Group person. What language do you typically speak to your Neighbour Group in-laws (your spouse’s parents and siblings)?,DFK I1
+DFK35,What is the typical pattern of relocation for Focus Group women when starting a new family?,DFK D6_DFK35_DFK39
+DFK37,How physically proximate to each other are the households of the husband and wife?,DFK S4
+DFK38,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws?,DFK D9_DFK38
+DFK39,What is the typical pattern of relocation for Neighbour Group women when starting a new family? ,DFK D6_DFK35_DFK39
+DFK40,Do Focus Group people experience family life differently depending on social group?,DFK D10
+DFK96,Who do Focus Group people typically form families with besides Neighbour Group people?,DFK E1
+DFK97,"What type of data informed your answers to the questions in the domain of family and kin, overall?",DFK E4
+DFK98,How certain are you in your responses for the domain of family and kin?,DFK E5
+DFK99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DFK],DFK
+DFKXX,"Typically, how well does a Focus Group person understand the Neighbour Group in-law’s language? [DFK]",DFK DFK29
+DKN00,Have Focus Group and Neighbour Group people occupied the same spaces of knowledge transfer together?,DKN P1
+DKN01,"What other languages, if any, are spoken in the knowledge domain?",DKN P4
+DKN02,The most influential form of knowledge in this contact scenario is:,DKN D1_DKN02
+DKN03,Involvement in the knowledge domain,DKN D3
+DKN04,The relationship between Focus Group people and Neighbour Group people in the knowledge domain can typically be characterised as:,DKN D4_DKN04
+DKN05,Where does knowledge transmission between Focus Group people and Neighbour Group people typically take place?,DKN D6
+DKN06,Are there any speech styles used in the knowledge domain?,DKN D9
+DKN07,Do Focus Group people experience the knowledge domain differently depending on social group?,DKN D10
+DKN08,How often do Focus Group people interact with Neighbour Group people in the knowledge domain?,DKN S1
+DKN0a,How long have Focus Group and Neighbour Group people been involved in the knowledge domain together for?,DKN P2
+DKN0b,What is the time frame when the largest number of people had the most opportunities for interaction in the knowledge domain?,DKN P3
+DKN10,How many people are typically involved in interactions between Focus Group people and Neighbour Group people in the knowledge domain?,DKN S3
+DKN11,How physically proximate to each other are people in the knowledge domain?,DKN S4
+DKN12,How would you rate the overall relationship between Focus Group and Neighbour Group people in the knowledge domain?,DKN S5
+DKN13,What is the overall attitude that Focus Group people have towards Neighbour Group people in the knowledge domain?,DKN BA
+DKN14,"How do Focus Group people view themselves overall in relation to Neighbour Group people, in the context of the knowledge domain?",DKN BH
+DKN16,What language do Focus Group people expect to be used with Neighbour Group people in the knowledge domain?,DKN BI
+DKN17,What language do Focus Group people typically speak with Neighbour Group people when in the knowledge domain?,DKN O1
+DKN18,Do Focus Group people typically simplify their language when speaking with Neighbour Group people in the knowledge domain?,DKN O2
+DKN19,"Typically in the knowledge domain, how fluently do Focus Group people speak the Neighbour Group language?",DKN O3
+DKN20,What language do Neighbour Group people typically speak with Focus Group people in the knowledge domain?,DKN I1
+DKN21,"Typically in the knowledge domain, how well do Focus Group people understand the Neighbour Group language?",DKN I2
+DKN22,How much do Focus Group children participate in the activities of the knowledge domain?,DKN T1
+DKN23,Looking after children in the knowledge domain,DKN T6
+DKN24,What language do Neighbour Group adults typically speak to a Focus Group children in the knowledge domain?,DKN T2
+DKN25,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DKN]",DKN T4
+DKN26,"Typically, what language would a Focus Group child speak to Neighbour Group children in the knowledge domain?",DKN T5
+DKN27,"Typically, how much structured instruction do adults provide to children in the knowledge domain?",DKN T11_DKN27
+DKN28,How much influence can the Focus Group people exert over the decision of what constitutes legitimate knowledge in this domain?,DKN D11
+DKN29,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in the knowledge domain?",DKN S6
+DKN30,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in the knowledge domain?",DKN S7
+DKN31,"How often are these speech styles typically used in knowledge transmission, in comparison with unmonitored speech?",DKN D12
+DKN96,"List any other groups that the Focus Group people intereacted with in the past, in the knowledge domain. List any other group in so far as you believe they had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this interaction happened.",DKN E1
+DKN97,"What type of data informed your answers to the questions in the domain of knowledge, overall?",DKN E4
+DKN98,How certain are you in your responses for the domain of knowledge?,DKN E5
+DKN99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DKN],DKN
+DLB00,Has work ever been a relevant domain of contact between Focus Group and Neighbour Group?,DLB P1
+DLB01,"What other languages, if any, are spoken in the labour domain?",DLB P4
+DLB02,How commonly are Focus Group people and Neighbour Group people involved in public modes of production?,DLB D1_DLB02
+DLB03,Involvement in work,DLB D3
+DLB04,Is there hierarchy involved in work?,DLB D4_DLB04
+DLB05,Where do Focus Group people and Neighbour Group people typically work together?,DLB D6
+DLB06,Are there any speech styles used during work?,DLB D9
+DLB07,How often do Focus Group people work with Neighbour Group people?,DLB S1
+DLB09,How many people are typically involved in interactions between Focus Group people and Neighbour Group people when working?,DLB S3
+DLB0a,How long have Focus Group people and Neighbour Group people worked together for?,DLB P2
+DLB0b,What is the time frame when the largest number of people had the most opportunities for interaction in the labour domain?,DLB P3
+DLB10,How physically proximate to each other are people when working?,DLB S4
+DLB11,How would you rate the overall relationship between Focus Group and Neighbour Group people involved in work?,DLB S5
+DLB13,Do Focus Group people typically simplify their language when working with Neighbour Group people?,DLB O2
+DLB14,"Typically in work, how fluently do Focus Group people speak the Neighbour Group language?",DLB O3
+DLB15,What language do Neighbour Group people typically speak when working with Focus Group people?,DLB I1
+DLB16,"Typically in work, how well do Focus Group people understand the Neighbour Group language?",DLB I2
+DLB17,How much do Focus Group children participate in work?,DLB T1
+DLB18,What language do Neighbour Group adults typically speak to a Focus Group children in work?,DLB T2
+DLB19,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults in work?",DLB T4
+DLB20,"Typically, what language would a Focus Group child speak to Neighbour Group children in work?",DLB T5
+DLB21,Looking after children during work,DLB T6
+DLB22,What is the overall attitude that Focus Group people have towards Neighbour Group people in work?,DLB BA
+DLB23,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of work?",DLB BH
+DLB25,What language do Focus Group people expect to be used when working with Neighbour Group people?,DLB BI
+DLB26,"Typically, how much supervision do adults provide to children in work?",DLB T11
+DLB27,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in work?",DLB S6
+DLB28,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in work?",DLB S7
+DLB29,How much influence can the Focus Group exert over the terms of work?,DLB D11
+DLB30,Do Focus Group people experience work differently depending on social group?,DLB D10
+DLB31,"How often are these speech styles typically used during work, in comparison with unmonitored speech?",DLB D12
+DLB32,What language do Focus Group people typically speak when working with Neighbour Group people?,DLB O1
+DLB96,"List any other groups that the Focus Group people worked with in the past. List any other group in so far as you believe they had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this interaction happened.",DLB E1
+DLB97,"What type of data informed your answers to the questions in the domain of labour, overall?",DLB E4
+DLB98,How certain are you in your responses for the domain of labour?,DLB E5
+DLB99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DLB],DLB
+DLC00,Has the local community ever been a relevant domain of contact between Focus Group and Neighbour Group?,DLC P1
+DLC01,"What other languages, if any, are spoken in the local community?",DLC P4
+DLC02,Choose one of the following where Focus Group people are most likely to speak in an unmonitored way.,DLC D1_DLC02
+DLC03,Looking after children in the local community,DLC T6
+DLC04,What language do Focus Group people expect to be used with Neighbour Group people in the local community?,DLC BI
+DLC05,How physically proximate to each other are people in the local community?,DLC S4
+DLC09,What language do Neighbour Group people typically speak with Focus Group people in the local community?,DLC I1
+DLC0a,How long have Focus Group and Neighbour Group people been in contact in the local community?,DLC P2
+DLC0b,What is the time frame when the largest number of people had the most opportunities for interaction in the local community?,DLC P3
+DLC10,"Typically in the local community, how well do Focus Group people understand the Neighbour Group language?",DLC I2
+DLC11,What language do Focus Group people typically speak with Neighbour Group people in the local community?,DLC O1
+DLC12,Do Focus Group people typically simplify their language when speaking with Neighbour Group people in the local community?,DLC O2
+DLC13,"Typically in the local community, how fluently do Focus Group people speak the Neighbour Group language?",DLC O3
+DLC14,How would you rate the overall relationship between Focus Group and Neighbour Group people in the local community?,DLC S5
+DLC15,How many people are typically involved in interactions between Focus Group people and Neighbour Group people in the local community?,DLC S3
+DLC16,How often do Focus Group people interact with Neighbour Group people in the local community?,DLC S1
+DLC18,What is the overall attitude that Focus Group people have towards Neighbour Group people in the local community?,DLC BA
+DLC19,"How do Focus Group people view themselves overall in relation to Neighbour Group people, in the context of the local community?",DLC BH
+DLC20,"Typically in the local community, how much supervision do adults provide to children’s own activities, such as playing?",DLC T11
+DLC21,What language do Neighbour Group adults typically speak to a Focus Group children?,DLC T2
+DLC22,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DLC]",DLC T4
+DLC23,"Typically, what language would a Focus Group child speak to Neighbour Group children in the local community?",DLC T5
+DLC25,Involvement in the Local Community,DLC D3
+DLC27,How much influence can the Focus Group exert over Neighbour Group in the activities of the local community?,DLC D11
+DLC28,Where do Focus Group and Neighbour Group people typically meet up in the local community?,DLC D6
+DLC29,Do Focus Group people experience the local community differently depending on social group?,DLC D10
+DLC31,How much do Focus Group children participate in the activities of the local community?,DLC T1
+DLC32,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in the form of local communities?",DLC S6
+DLC33,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in the form of local communities?",DLC S7
+DLC96,"List any other groups that the Focus Group formed local communities with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this happened.",DLC E1
+DLC97,"What type of data informed your answers to the questions in the domain of local community, overall?",DLC E4
+DLC98,How certain are you in your responses for the domain of local community?,DLC E5
+DLC99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DLC],DLC
+DTR00,Has trade ever been a relevant domain of contact between Focus Group and Neighbour Group?,DTR P1
+DTR01,"What other languages, if any, are spoken in trade?",DTR P4
+DTR02,Traded good types,DTR D1_DTR02
+DTR03,Involvement in trade,DTR D3
+DTR06,Where does trade between Focus Group and Neighbour Group people typically take place?,DTR D6
+DTR08,What language do Focus Group people expect to be used when trading with Neighbour Group people?,DTR BI
+DTR09,What language do Neighbour Group people typically speak when trading with the Focus Group?,DTR I1
+DTR0a,How long have Focus Group and Neighbour Group people traded for?,DTR P2
+DTR0b,What is the time frame when the largest number of people had the most opportunities for interaction in trade?,DTR P3
+DTR10,"Typically in trade, how well do Focus Group people understand the Neighbour Group language?",DTR I2
+DTR11,What language do Focus Group people typically speak when trading with Neighbour Group people?,DTR O1
+DTR12,Do Focus Group people typically simplify their language when speaking with Neighbour Group people during trade?,DTR O2
+DTR13,"Typically in trade, how fluently do Focus Group people speak the Neighbour Group language?",DTR O3
+DTR14,How often do Focus Group people trade with Neighbour Group people?,DTR S1
+DTR16,What is the overall attitude that Focus Group people have towards Neighbour Group people in trade?,DTR BA
+DTR17,How much influence can the Focus Group exert over the Neighbour Group in terms of trade?,DTR D11
+DTR18,How much do Focus Group children participate in trade?,DTR T1
+DTR19,What language do Neighbour Group adults typically speak to a Focus Group children in trade?,DTR T2
+DTR20,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DTR]",DTR T4
+DTR22,How many people are typically involved in interactions between Focus Group people and Neighbour Group people when trading?,DTR S3
+DTR23,How would you rate the overall relationship between Focus Group and Neighbour Group people in trade?,DTR S5
+DTR24,"Typically when trading with Neighbour Group people, the Focus Group people will",DTR D4_DTR24
+DTR27,Looking after children during trade,DTR T6
+DTR28,Are there any speech styles used in trade?,DTR D9
+DTR29,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of trade?",DTR BH
+DTR31,"Typically, how much supervision do adults provide to children in trade?",DTR T11
+DTR32,Do Focus Group people experience trade differently depending on social group?,DTR D10
+DTR33,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in trade?,DTR S6
+DTR34,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in trade?,DTR S7
+DTR35,"How often are these speech styles typically used in trade, in comparison with unmonitored speech?",DTR D12
+DTR36,How physically proximate to each other are people involved in trade?,DTR S4
+DTR37,"Typically, what language would a Focus Group child speak to Neighbour Group children in trade?",DTR T5
+DTR96,"List any other groups that the Focus Group traded with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this happened.",DTR E1
+DTR97,"What type of data informed your answers to the questions in the domain of trade, overall?",DTR E4
+DTR98,How certain are you in your responses for the domain of trade?,DTR E5
+DTR99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DTR],DTR
+O10,Focus Group peoples’ language loyalty towards Focus Group can be characterised as:,OV OI0
+OB1,There is an emic conception of Focus Group as “a language” or some other categorical or objective thing?,OV OB1
+OC1,How certain are you in your responses to the set of questions about each domain?,OV
+OC2,How certain are you in your responses to the set of questions about social networks (The S-Set of questions)?,OV
+OC3,How certain are you in your responses to the set of questions about attitudes and ideologies (The B-Set of questions)?,OV
+OC4,How certain are you in your responses to the set of questions about language production (The O-Set of questions)?,OV
+OC5,How certain are you in your responses to the set of questions about the languages spoken to the Focus Group people (The I-Set of questions)?,OV
+OC6,How certain are you in your responses to the set of questions about children (The T-Set of questions)?,OV
+OD1,What is the total number of native-like speakers of Focus Group?,OV OD1
+OD3,What is the total number of native-like speakers of Neighbour Group?,OV OD3
+OD4,What is the approximate proportion of native-like speakers in the total population of all speakers of Focus Group?,OV OD4
+OD5,What is the approximate proportion of native-like speakers in the total population of all speakers of Neighbour Group?,OV OD5
+OE1,How long time have you spent working with this community?,OV
+OE2,Whom did you mostly interact with during your stay and through community-based research?,OV
+OE3,Was your interaction with members of the community typically mediated by one/a few person(s)? Who were they?,OV
+OG1,What is the population density within the area where Focus Group is spoken?,OV OG1
+OH1,"Have there been any natural disasters or major societal upheaval during the densest period of contact between the Focus Group speaking and Neighbour Group speaking people, such it impacted people's mobility, and Focus Group speaking people talk about it?",OV OH1
+OI1,Is Focus Group stated as an expression of identity?,OV OI1
+OI3,Is there a codified standard variety for Focus Group?,OV OI3
+OI6,"What are the Focus Group speakers' attitudes towards linguistic transfers from Neighbour Group, such as lexical or grammatical borrowing?",OV OI6
+OI7,"What are the Focus Group speakers' general attitudes towards linguistic transfer, such as lexical or grammatical borrowing, from any other language than Neighbour Group?",OV OI7
+OI8,How significant is language as part of group identity for the speakers of Focus Group?,OV OI8
+OI9,What are the Focus Group speakers' attitudes towards lectal differences within Focus Group?,OV OI9
+OL1,What is the approximate rate of formal literacy in the Focus Group speaking community?,OV OL1
+OL2,Restrictions in access to literacy in terms of social categories,OV OL2
+OL3,Do the Focus Group speaking people use some orthography in writing their language?,OV OL3
+OS1,"Typically, how many levels of jurisdictional hierarchy are there in the Focus Group speaking society, beyond the local community?",OV OS1
+OS2,"Typically, how many levels of jurisdictional hierarchy are there in Neighbour Group society, beyond the local community?",OV OS2
+OS4,"Which of the following best characterises the dominant form of the Focus Group speaking group's mobility and sedentism, in regards to subsistence?",OV OS4
+OS5,"Which of the following best characterises the dominant form of the Neighbour Group speaking group's mobility and sedentism, in regards to subsistence?",OV OS5
+OS6,The Focus Group speaking society's subsistence pattern can be broadly characterised as... ,OV OS6
+OS7,What is the mean size of the Focus Group speaking communities at the local level?,OV OS7
+OS9,How frequently do Focus Group people generally interact with out-group people? ,OV OS9
+OT1,How long have Focus Group and Neighbour Group people been in contact overall?,OV OT1
+OT2,What is the overall time frame when the largest number of people had the most opportunities for interaction?,OV OT2

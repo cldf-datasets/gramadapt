@@ -1,6 +1,7 @@
 """
 143 binary questions
 """
+import itertools
 import collections
 
 from cldfbench_gramadapt import Dataset
@@ -14,6 +15,7 @@ from clldutils.color import qualitative_colors
 def run(args):
     with (Dataset().plot_data(__file__) as cldf):
         data = collections.defaultdict(dict)
+        ndata = collections.defaultdict(set)
 
         pids = set()
         for v in cldf.objects('ValueTable'):
@@ -22,6 +24,17 @@ def run(args):
                 data[v.cldf.contributionReference][v.cldf.parameterReference] = \
                     -1 if v.code and v.code.cldf.name == 'No' \
                         else (1 if v.code and v.code.cldf.name == 'Yes' else 0)
+                ndata[v.cldf.parameterReference].add((
+                    v.cldf.contributionReference,
+                    v.code.cldf.name if v.code else None))
+        for pid1, pid2 in itertools.combinations(ndata.keys(), 2):
+            if ndata[pid1] == ndata[pid2]:
+                pass
+                #print(pid1, pid2)
+                #print(ndata[pid1])
+                #print(ndata[pid2])
+        #return
+
         pids = sorted(pids)
         sets = sorted(data.keys())
         domains = {pid: pid[:3] for pid in pids}
@@ -39,10 +52,10 @@ def run(args):
             row_colors=[cl[domains[pid]] for pid in pids],
             )
 
-        #reordered_labels = [pids[ni] for ni in g.dendrogram_row.reordered_ind]
-        #g.ax_heatmap.set(
-        #    yticks=[i + 0.5 for i, _ in enumerate(reordered_labels)],
-        #    yticklabels=reordered_labels)
+        reordered_labels = [pids[ni] for ni in g.dendrogram_row.reordered_ind]
+        g.ax_heatmap.set(
+            yticks=[i + 0.5 for i, _ in enumerate(reordered_labels)],
+            yticklabels=reordered_labels)
 
         handles = [Patch(facecolor=cl[d]) for d in cl]
         plt.legend(

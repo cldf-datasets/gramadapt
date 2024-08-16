@@ -1,0 +1,51 @@
+# [](ContributionTable?__template__=property.md&property=name#cldf:OG1)
+
+Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OG1)
+> [!NOTE]
+> In the questionnaire this question is stated as "OG1: What is the population density within the area where the Focus Language is spoken?"
+
+The scale of answers is the following:
+
+- *Less than 2 persons per 10 sq. km*
+- *2-4 persons per 10 sq. km*
+- *5-19 persons per 10 sq. km*
+- *20-99 persons per 10 sq. km*
+- *100-399 persons per 10 sq. km*
+
+Note that here the unit for geographical area is *10 square kilometres* (km^2) instead of *1 km^2*. For some minority language groups population density is smaller than one person per km^2, which is why we opted expressing population density in larger units. In the D-Place the unit is square mile (one square mile equals roughly 2.6 square kilometres).
+## Goal
+
+This question seeks information about population density.
+## Definitions
+
+Underlyingly this question requires data about the number of speakers/users of the Focus Language and the approximate size of the area where the Focus Language is used. Population density is then estimated by dividing population size by the geographical area: $d_{density} = {N_{population}}/{A_{area}}$. See feature OD1 for the Total number of native speakers; the geographical area was estimated by the respondents, but sometimes the density was accrued from available documents (see the Comments to the responses).
+
+This question and possible answers are adapted from the question [SCCS64](https://d-place.org/parameters/SCCS64#2/14.3/151.2) in the Standard Cross-Cultural Sample ([Murdock & White](sources.bib?ref&with_internal_ref_link&keep_label#cldf:MurdockWhite1969) [1969](sources.bib?ref&with_internal_ref_link&keep_label#cldf:MurdockWhite1969); [Murdock & Wilson](sources.bib?ref&with_internal_ref_link&keep_label#cldf:MurdockWilson1972) [1972](sources.bib?ref&with_internal_ref_link&keep_label#cldf:MurdockWilson1972)) and the question [WNAI288](https://d-place.org/parameters/WNAI288#4/46.38/240.03) in the Western North American Indian database ([Jorgensen](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Jorgensen1980) [1980](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Jorgensen1980)). Both features are available in D-Place ([Kirby et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2016) [2016](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2016); [Kirby et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2018d) [2018c](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2018d); [Kirby et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2018d) [2018d](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2018d)); they can be accessed by clicking the links above.
+
+## Examples
+
+The following examples from D-Place illustrate different population densities and how we translated them into our five-point scale.
+- The entry for [Mescalero society](https://d-place.org/society/WNAI154) (Mescalero-Chiricahua Apache, Athabaskan-Eyak-Tlingit; United States of America) lists the population density as less than 1 person per 5 square miles. This population density translates to roughly less than 1 person per 13 square kilometres, which falls into our Category 1: less than 2 persons per 10 square kilometres.
+- The entry for [Shuar society](https://d-place.org/society/SCCS169) (Shuar, Chicham; Ecuador) lists the population density as 1 person per 1–5 square miles. This population density translates to roughly 1 person per 1-13 square kilometres, which falls into our Category 2: 2–4 persons per 10 square kilometres.
+- The entry for [Blin society](https://d-place.org/society/SCCS38) (Bilin, Afro-Asiatic; Eritrea) lists the population density as 1–5 persons per square mile. This population density translates to roughly 1-5 persons per 2.6 square kilometres, which falls into our Category 3: 5–19 persons per 10 square kilometres.
+- The entry for [Gitxan society](https://d-place.org/society/WNAI6) (Gitxan, Tsimshian; United States of America) lists the population density as 5–25 persons per square mile. This population density translates to roughly 5-25 persons per 2.6 square kilometres, which falls into our Category 4: 20–99 persons per 10 square kilometres.
+- The entry for [Palauans](https://d-place.org/society/SCCS111) (Palauan, Austronesian; Palau) lists the population density as 26–100 persons per square mile. This population density translates to roughly 26-100 persons per 2.6 square kilometres, which falls into Category 5: 100–399 persons per 10 square kilometres.
+
+
+## Theoretical & Empirical Support
+
+Language change is sometimes described as a process that involves two stages: the initial stage of innovation and the subsequent spread of the innovation within the language group. Research in sociolinguistics, historical linguistics, and language typology has suggested that social factors, population density among them, may affect both the degree of innovations as well as the spread of linguistic features.
+
+Some evidence seems to suggest that population density may encourage innovations of different kinds so that the rate of language change may increase as population size, and thus also its density increase ([Bromham et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:bromham2015a) [2015](sources.bib?ref&with_internal_ref_link&keep_label#cldf:bromham2015a)). For instance, population density has been suggested as an important predictor of how many languages may be spoken in a region ([Pacheco Coelho et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:coelho2019a) [2019](sources.bib?ref&with_internal_ref_link&keep_label#cldf:coelho2019a)) and inversely, it may thus be a potential predictor of language endangerment as well ([Bromham et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:bromham2021a) [2021](sources.bib?ref&with_internal_ref_link&keep_label#cldf:bromham2021a)).
+
+Population density may affect linguistic diversity either directly or indirectly. [Pacheco Coelho et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:coelho2019a) ([2019](sources.bib?ref&with_internal_ref_link&keep_label#cldf:coelho2019a)) tested the influence of several competing ecological factors on linguistic diversity and population density emerged as the strongest factor. Furthermore, most of the other ecological factors seemed to have a greater effect on population density than on linguistic diversity. What this means is that population density may have a direct effect on linguistic diversity, but it may also mediate the effect of other factors, such as ecological risk. For instance, if food production becomes more reliable in a region, it reduces ecological risk and may allow smaller cultural groups to be self-sufficient. These factors may allow greater population density but also greater cultural and linguistic diversity within the region (e.g., [Hua et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:hua2019a) [2019](sources.bib?ref&with_internal_ref_link&keep_label#cldf:hua2019a)).
+
+On the other hand, population density is one of the factors that may have rather immediate consequences to social networks and thus to the way linguistic innovations spread in the language community (e.g., [Bowern](sources.bib?ref&with_internal_ref_link&keep_label#cldf:bowern2010a) [2010](sources.bib?ref&with_internal_ref_link&keep_label#cldf:bowern2010a): 667; see also [Fagyal et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:fagyal2010a) [2010](sources.bib?ref&with_internal_ref_link&keep_label#cldf:fagyal2010a)). Where populations are dense, social networks also tend to be dense and complex, being favorable to the local clustering of linguistic innovations. High population density may also favor stronger interpersonal contacts and such intense contacts tend to lead to faster spread of innovations ([Wolfram & Schilling-Estes](sources.bib?ref&with_internal_ref_link&keep_label#cldf:wolfram2003a) [2003](sources.bib?ref&with_internal_ref_link&keep_label#cldf:wolfram2003a)). This line of thinking goes back to [Bloomfield](sources.bib?ref&with_internal_ref_link&keep_label#cldf:bloomfield1933a) ([1933](sources.bib?ref&with_internal_ref_link&keep_label#cldf:bloomfield1933a)) and his "principle of local density". At best, population density could function as a measure for the degree of contact between two language populations.
+
+However, population density alone may be an insufficient predictor of the intensity of contact. In his "gravity model", [Trudgill](sources.bib?ref&with_internal_ref_link&keep_label#cldf:trudgill1974a) ([1974](sources.bib?ref&with_internal_ref_link&keep_label#cldf:trudgill1974a)) proposed that population density should be treated together with the geographic distance between populations to explain dialect diffusion. Later work suggested even more factors were needed to better understand which factors may inhibit and speed up the spread of innovations (see e.g. the discussion in [Wolfram & Schilling-Estes](sources.bib?ref&with_internal_ref_link&keep_label#cldf:wolfram2003a) [2003](sources.bib?ref&with_internal_ref_link&keep_label#cldf:wolfram2003a)).
+
+All in all, population density has been suggested as an important factor that may be related to both the rate of innovations and the speed of their diffusion across the language group. For further work (also by non-linguists) see for instance [Baxter](sources.bib?ref&with_internal_ref_link&keep_label#cldf:baxter2006a) ([2006](sources.bib?ref&with_internal_ref_link&keep_label#cldf:baxter2006a)), [Burridge](sources.bib?ref&with_internal_ref_link&keep_label#cldf:burridge2017a) ([2017](sources.bib?ref&with_internal_ref_link&keep_label#cldf:burridge2017a)), and [Burridge & Blaxter](sources.bib?ref&with_internal_ref_link&keep_label#cldf:burridge2021a) ([2021](sources.bib?ref&with_internal_ref_link&keep_label#cldf:burridge2021a)).
+
+## References
+
+[References](Source?cited_only&with_link#cldf:__all__)

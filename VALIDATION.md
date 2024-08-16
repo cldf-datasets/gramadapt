@@ -128,3 +128,13 @@ Ideally, questions would be assigned such that answers differ between contact se
 of answers to the Likert-scale questions is shown below:
 
 ![](etc/likertvalidity.png)
+
+
+#### Questions of type *Comment*
+
+FIXME: see clld app
+
+
+#### Time-range questions
+
+FIXME:

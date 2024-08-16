@@ -1,0 +1,58 @@
+# [](ContributionTable?__template__=property.md&property=name#cldf:DKN)
+
+Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DKN)
+
+## Goals
+
+The aim is to gain some insight into social contact in a domain that focuses on formalised learning. We are interested in teasing apart the relationships between Focus Group and Neighbour Group along the lines of masters and novices, peers of novices, and peers of masters.
+
+We are also interested in getting some sense of the mechanisms that support the instruction that takes place. The prototypical forms of the knowledge domain, such as formal education and/or magico-religious learning, often seem to have specialised oral and graphic-symbolic techniques used to aid and transmit the knowledge. This domain also appear to have cultural authority.
+
+While we have some interest in the nature of the knowledge that is being transmitted (see below under definitions), the precise details are of secondary interest. The main concerns about knowledge in the domains questionnaire are 1) the relationship between the Focus Group and Neighbour Group peoples, and 2) that the domain is recognised by people within the community as having some authority and/or legitimacy.
+
+## Definitions
+
+We use the general terms master to mean the knowledge bearer, and novice to mean the one that is receiving the knowledge.
+By formalised we mean loosely two things:
+the situation is recognised by people within it as a circumscribed one where knowledge holders are transmitting that knowledge;
+there is some kind of understood protocol of instruction and learning;
+knowledge transmission occurs in cohorts or groups, rather than between individual master & novice pairs.
+The protocol of may be rigidly defined in the form of a curriculum, or it may be loosely understood as, for example, age-sensitive and learnt at various points throughout one's life.
+The knowledge learnt should emphasise recognition of things rather than physical skill; that is, the learner is required to memorise and recognise names of things, stretches of text, and abstract knowledge pertaining to the world (natural, supernatural or otherwise). Thus we include knowledge pertaining to the environment (e.g. botanical knowledge, navigational knowledge). In addition, the knowledge learnt should have a linguistic component, such as the knowledge of narratives, specialised lexicon, oral/orthographic texts, and learning of orthographies.
+
+## Examples of knowledge domains
+
+Note that these are specific examples of knowledge domains, and not examples of social contact in knowledge domains.
+- Spaces dedicated to study of theological texts such as Sanskrit Dharmaśāstra (Indosphere).
+- Temple administered secular education of literacy and arithmetic for children (Terakoya) in Edo period Japan.
+- For the Hopi "the mechanism of knowledge transmission is social rather than individualistic" according to one description Glowacka 1998:389), where children receive ritual knowledge over the course of their lives from extended family, and adult men are initiated into ceremonial sodalities (ibid.). Sodalities are age and cohort-based groupings of non-kin, so fulfil our definition 3 and qualify for the knowledge domain.
+
+## Theoretical & Empirical Support
+
+_Education_
+The literature on language contact/bilingual/multilingual education is often framed in terms of ideologies of homogenisation. Lambert & Spolsky (2006) describe schools as  modifying the language of pupils to avoid “bad” language as defined by an ideology. Schools are often found to be replicating national cultures ([Johnson](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Johnson1980) [1980](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Johnson1980)), and the nationalist ideologies of a monolingual state (e.g. [Szabó](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Szabo2015) [2015](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Szabo2015) on Hungarian state schools). Because schools are instrumental in shaping students’ language attitudes, education systems have been criticised for perpetuating a self-hatred and shame around languages and varieties that fall foul of the ideology (e.g. [Givón](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Givon1971) [1971](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Givon1971) for colonial context, [Kroskrity](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Kroskrity2004) [2004](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Kroskrity2004) for immigrant context).
+
+Recent discussions of bi/multilingual education are framed in terms of language rights, though the current towards homogenisation still remains strong. Bilingual language education has been suggested as crucial in aiding language revitalisation, though as [Baker](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Baker2003) ([2003](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Baker2003)) suggests education alone is insufficient, given the linguistic pressures of the greater language ecology. In the past few decades the expressed ideology of the classroom has shifted somewhat towards that of an “inclusive education”, but as Miller (2012) points out this is merely homogenisation in another form and renders multilingualism invisible (see also Janík and Goldberger 2023 on multilingual schools in the Czech Republic).
+
+Literacy and education one and the same in many contexts, both in the present and past (see OL1 and OL3). Literacy is one of the factors that leads towards homogenisation, although historical evidence suggests that the tendency is for orthographies to also display a lot of variation without a concerted effort to enforce standardisation (see Suleiman 2011 for Arabic).
+
+We have not explored the effects of education on language in the periods preceding European colonial expansion. We hazard that overall historical access to education was more limited than the present day, resulting in the formation of a privileged group of people who had some form of social and/or political power in society.
+
+_Religion_
+The relationship between religion and language, and language contact, is complex. On the one hand there are trends towards standardisation and the reduction of linguistic diversity, and on the other there are tendencies for linguistic-cultural innovations and social indexation.
+
+Religion and standardisation often appear together where the creation and/or translations of religious texts seem to encourage a process of language standardisation (see [Mühleisen](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Muhleisen2007) [2007](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Muhleisen2007)). This may be because, as [Fudge](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Fudge2006) ([2006](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Fudge2006)) notes, written texts are produced to create authority when a religious/spiritual group is literate (p.526). The writing process of a religious text often involves the establishment of a definitive canon, leading towards the establishment of consistent expressions associated with the religion. Arabic, for example, is noted as becoming a literary language through the need to standardise the Qur’an  ([Baker](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Baker2009) [2009](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Baker2009): 329).
+
+In the case of European colonialism there were also strong ideological currents pushing towards language standardsation. For example [Errington](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Errington2001) ([2001](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Errington2001)) notes that dialects of Shona were standardized into territorially distinct languages in Zimbabwe (p.24). Given that European colonialism and Christianity went hand-in-hand as a form of cultural importation/imposition, the ideology of standardisation associated with nationalism was part of the mix.
+
+While translation leads to codification on the one hand, in the case of Bible translation it has been noted that vernacular varieties also get translated thereby, arguably, increasing linguistic diversity in literary spaces. For example Scots English and Bärndütsch (a Swiss German variety) have Bible translations within the context of larger standard/national languages ([Mühleisen](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Muhleisen2007) [2007](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Muhleisen2007): 481). [Sanneh](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Sanneh1993) ([1993](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Sanneh1993)) argues that vernacularisation and translation is in the very nature of Christianity as a creed, and points out how the process of Bible translation has in some respects promoted and strengthened local languages in Africa (see also [Sanneh](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Sanneh1989) [1989](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Sanneh1989)). The effect of introducing literacy into historically non-literate groups has many consequences, with the social elevation of some languages/dialects which gain literary status through religious texts (see [Goody](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Goody1968) [1968](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Goody1968) and chapters within).
+
+The adoption of a religion may also lead groups to forge new social categories as the religion acts as a social index and marker of identification (e.g. as argued by [Schieffelin](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Schieffelin2007) [2007](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Schieffelin2007) for Bosavi, Papua New Guinea). Oral religions and spiritualities may also carve out social niches, resulting in the emergence of a socially recognised language. [Blake](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Blake2006) ([2006](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Blake2006)) notes that special vocabularies from secret languages are reported as taught as part of male initiation in various Australian languages (p. 592)
+
+Language contact through religion noticeably results in new lexical items, but as [Khachaturyan](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Khachaturyan2017) ([2017](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Khachaturyan2017)) notes, morphosyntactic innovations can also be introduced via ecclesiastical language contact. She presents the example of the Mano language where there is variability in possessive constructions in religious formulas. One variant follows the pattern of possession in the carrier language of Kpelle where possesum are unmodified by a possessor.
+
+Semantic-pragmatic innovations can also be induced through religion and language contact. Since ecclesiastical language is used in highly circumscribed social context, these may produce new contexts or expand pre-existing ones that beget new speech activities. Schieffelin (2017) for example documents the introduction publicly stated inferences of others' thoughts in Bosavi, Papua New Guinea ([Schieffelin](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Schieffelin2007) [2007](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Schieffelin2007))
+
+## References
+
+[References](Source?cited_only&with_link#cldf:__all__)

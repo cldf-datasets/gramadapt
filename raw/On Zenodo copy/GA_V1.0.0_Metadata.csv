@@ -1,0 +1,35 @@
+SetID,Old_SetID,[q2o1answer],F_Lang,F_Glottocode,F_Iso,[q2o2answer],N_Lang,N_Glottocode,N_Iso,ContactPair,ContactPair_Iso,ConcactPair_glottocode,AArea,Surname,Respondents,Reviewer(s)
+set01,set36,Nuxalk,Nuxalk,nuxa1234,blc,North Wakashan,North Wakashan,nort2964,kwk,Nuxalk - North Wakashan,blc-kwk,nuxa1234-nort2964,Alaska-Oregon,Nater,Hank Nater,EK
+set02,set34,Burmese,Burmese,nucl1310,mya,Mon,Mon,monn1252,mnw,Burmese - Mon,mya-mwn,nucl1310-monn1252,Southeast Asia,Jenny,Matias Jenny,OR
+set03,set04,Kambaata,Kambaata,kamb1316,ktb,Wolaytta,Wolaytta,wola1242,wal,Kambaata - Wolaytta,ktb-wal,kamb1316–wola1242,Greater Abyssinia,Treis1Doyiso2,Yvonne Treis & Deginet Wotango Doyiso,"FDG, OR"
+set04,set08,Rangi,Langi,lang1320,lag,Alagwa,Alagwa,alag1248,wbj,Langi - Alagwa,lag-wbj,lang1320-alag1248,Southern Africa,Gibson1Mous2,Hannah Gibson & Maarten Mous,"FDG, OR"
+set05,set21,Papapana,Papapana,papa1265,ppn,Rotokas,Rotokas,roto1249,roo,Papapana - Rotokas,ppn-roo,papa1265-roto1249,Oceania,Smith-Dennis,Ellen Smith-Dennis,EK
+set06a,set14,Maltese,Maltese,malt1254,mlt,Sicilian,Sicilian,sici1248,scn,Maltese - Sicilian,mlt-scn,malt1254-sici1248,Europe,Brincat,Joseph Brincat,"OR, EK"
+set07,set07,Ndebele,Ndebele,nort2795,nde,Tjwao,Tjwao,tjwa1234,hio,Ndebele - Tjwao,nde-hio,nort2795-tjwa1234,Southern Africa,Phiri,Admire Phiri,"FDG, EK"
+set08,set41c,Kwoma,Kwoma,kwom1262,kmo,Manambu,Manambu,mana1298,mle,Kwoma - Manambu,kmo-mle,kwom1262-mana1298,North Coast New Guinea,Bowden,Ross Bowden,"EK, OR"
+set09,set05,Korande,Korandje,kora1291,daq,North African Arabic,North African Arabic,alge1240,aao,Korandje - North African Arabic,daq-aao,kora1291-alge1240,North Africa,Souag,Lameen Souag,"FDG, OR"
+set10,set06a,FLNA,FLNA,,,NLNA,NLNA,,,FLNA-NLNA,,,North Africa,Anonymous,Anonymous,"FDG, EK"
+set11,set01,Baïnounk Gubëeher,Bainounk Gubeeher,gube1234,bab,Mandinka,Mandinka,mand1436,mnk,Bainounk Gubeeher - Mandinka,bab-mnk,gube1234-mand1436,African Savannah,Cobbinah,Alexander Cobbinah,EK
+set12,set26a,Zaza,Zaza,diml1238,zza,Turkish,Turkish,nucl1301,tur,Zaza - Turkish,zza-tur,diml1238-nucl1301,Greater Mesopotamia,Gholami,Saloumeh Gholami,OR
+set13,set40a,Ipili,Ipili,ipil1240,ipi,Hewa,Hewa,hewa1241,ham,Ipili - Hewa,ipi-ham,ipil1240-hewa1241,Interior New Guinea ,Jacka,Jerry Jacka,EK
+set14,set48,Yuhup,Yuhup,yuhu1238,yba,Macuna,Macuna,macu1260,myy,Yuhup - Macuna,yba-myy,yuhu1238-macu1260,Northeast South America,OspinaBozzi,Ana María Ospina Bozzi,"EK, OR"
+set15,set43,Marind,Marind,nucl1622,mrz,Marori,Marori,moro1289,mok,Marind - Marori,mrz-mok,nucl1622-moro1289,Southern New Guinea,Olsson,Bruno Olsson,"EK, OR"
+set16,set23,Chipaya,Chipaya,chip1262,cap,Central (aka Bolivian) Aymara,Central Aymara,cent2142,ayr,Chipaya - Central Aymara,cap-ayr,chip1262-cent2142,Andean,Hannss1Urban2,Katja Hannß & Matthias Urban,"FDG, OR"
+set17,set20a,Toluca (Temoaya) Otomi,Temoaya Otomi,temo1245,ott,Mexican Spanish,Mexican Spanish,mexi1248,spa,Temoaya Otomi - Mexican Spanish,ott-spa,temo1245-mexi1248,Mesoamerica,Avelino,Rosnátaly Avelino,"FDG, OR"
+set18,set09,Mawng,Mawng,maun1240,mph,Kunbarlang,Kunbarlang,kunb1251,wlg,Mawng - Kunbarlang,mph-wlg,maun1240-kunb1251,North Australia,Singer,Ruth Singer,"EK, OR"
+set19,set22,Alorese,Alorese,alor1247,aol,Adang,Adang,adan1251,adn,Alorese - Adang,aol-adn,alor1247-adan1251,Oceania,Moro1Sulistyono2,Francesca Moro & Yunus Sulistyono,"EK, OR"
+set20,set27,Santali,Santali,sant1410,sat,Bengali,Bengali,beng1280,ben,Santali - Bengali,sat-ben,sant14140-beng1280,Indic,Ghosh,Arun Ghosh,OR
+set21,set02,Bade,Bade,bade1248,bde,Manga Kanuri,Manga Kanuri,mang1399,kby,Bade - Manga Kanuri,bde-kby,bade1248-mang1399,African Savannah,Ziegelmeyer,Georg Ziegelmeyer,"FDG, EK"
+set22,set33,Muak Sa-aak,Muak Sa-aak,tail1246,tlq,Tai Lue,Tai Lü,luuu1242,khb,Muak Sa-aak - Tau Lü,tlq-khb,tail1246-luuu1242,Southeast Asia,Hall,Elizabeth Hall,"OR, EK"
+set23,set30d,Sibe,Sibe,sibe1252,sjo,Uighur,Uighur,uigh1240,uig,Sibe - Uighur,sjo-uig,sibe1252-uigh1240,Inner Asia,Zikmundova,Veronika Zikmundová,"FDG, OR"
+set24,set51,Toba,Toba,toba1269,tob,Spanish,Spanish,riop1234,spa,Toba - Spanish,tob-spa,toba1269-riop1234,Southeast South America,Messineo1Cuneo2Paredes3Brid4Blanco5,Cristina Messineo & Paola Cúneo & Agustina Paredes & Nicolás Brid & Ana Blanco,OR
+set25,set49a,Western Toba,Western Toba,toba1270,tob,Wichí,Wichí,wich1261,mtp,Western Toba - Wichí,tob-mtp,toba1270-wich1261,Southeast South America,Carpio1Mendoza2,María Belén Carpio & Marcela Mendoza,OR
+set26,set19a,Garifuna,Garifuna,gari1256,cab,Galibi,Galibi Carib,gali1262,car,Garifuna - Galibi,cab-car,gari1256-gali1262,Mesoamerica,Ocasio,Michelle Ocasio,EK
+set27,set42a,Paluai,Paluai,balu1257,blw,Tok Pisin,Tok Pisin,tokp1240,tpi,Paluai - Tok Pisin,blw-tpi,balu1257-tokp1240,North Coast New Guinea,Schokkin,Dineke Schokkin,"FDG, EK"
+set28,set45a,Nen,Nen,nenn1238,nqn,Idi,Idi,nucl1597,idi,Nen - Idi,nqn-idi,nenn1238-nucl1597,Southern New Guinea,Kashima1Schokkin2,Eri Kashima & Dineke Schokkin,"FDG, OR"
+set29,set10,Burarra,Burarra,bura1267,bvr,Yolngu Matha,Yolngu Matha,yuul1239,dji,Burarra - Yolngu Matha,bvr-dji,bura1267-yuul1239,North Australia,Vaughan,Jill Vaughan,EK
+set30,set13b,South Saami,South Saami,sout2674,sma,Norwegian/Swedish,NorwegianSwedish,norw1258,nor,South Saami - NorwegianSwedish,sma-nor,sout2674-norw1258,Europe,Kowalik,Richard Kowalik,"OR, EK"
+set31,set28,Kupwar Marathi,Kupwar Marathi,mara1378,mar,Kupwar Kannada,Kupwar Kannada,nucl1305,kan,Kupwar Marathi - Kupwar Kannada,mar-kan,mara1378-nucl1305,Indic,Kulkarni-Joshi,Sonal Kulkarni-Joshi,EK
+set32,set15a,Yurok,Yurok,yuro1248,yur,Karuk,Karok,karo1304,kyh,Yurok - Karuk,yur-kyh,yuro1248-karo1304,California,Haynie,Hannah Haynie,OR
+set33,set35c,Aleut,Aleut,aleu1260,ale,Eyak,Eyak,eyak1241,eya,Aleut - Eyak,ale-eya,aleu1260-eyak1241,Alaska-Oregon,Berge,Anna Berge,OR
+set34,set29,Wutun,Wutun,wutu1241,wuh,Bonan,Bonan,bona1250,peh,Wutun - Bonan,wuh-peh,wutu1241-bona1250,Inner Asia,Sandman,Erika Sandman,EK

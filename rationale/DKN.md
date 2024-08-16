@@ -54,7 +54,8 @@ Language contact through religion noticeably results in new lexical items, but a
 
 Semantic-pragmatic innovations can also be induced through religion and language contact. Since ecclesiastical language is used in highly circumscribed social context, these may produce new contexts or expand pre-existing ones that beget new speech activities. Schieffelin (2017) for example documents the introduction publicly stated inferences of others' thoughts in Bosavi, Papua New Guinea (Schieffelin 2007)
 
-### References
+
+**References**
 
 @article{Baker2003,
   title = {Education as a Site of Language Contact},

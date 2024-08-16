@@ -1,16 +1,18 @@
 appdirs==1.4.4
 arrow==1.3.0
+attrs==22.2.0
 Babel==2.12.1
 bibtexparser==2.0.0b7
 bs4==0.0.1
 Cartopy==0.23.0
 certifi==2022.12.7
 chardet==5.2.0
-cldfbench==1.13.0
--e git+https://github.com/cldf-datasets/gramadapt@25c205918fede635ce0770e0d941f559b7d10336#egg=cldfbench_gramadapt
+cldfbench==1.14.0
+-e git+https://github.com/cldf-datasets/gramadapt@56e73bcdb76d1531a6d9cf819ddaf17a71c42f69#egg=cldfbench_gramadapt
 cldfcatalog==1.5.1
-cldfviz==1.1.0
+cldfviz==1.2.0
 cldfzenodo==1.1.0
+clld==10.0.0
 clldutils==3.22.2
 colorama==0.4.6
 colorlog==6.7.0
@@ -38,10 +40,12 @@ newick==1.9.0
 numpy==1.26.4
 openpyxl==3.1.2
 packaging==23.0
+pandas==2.2.2
 pluggy==1.0.0
+psycopg2==2.9.5
 purl==1.6
 pybtex==0.24.0
-pycldf==1.34.1
+pycldf==1.38.1
 pycountry==22.3.5
 pyglottolog==3.11.0
 pylatexenc==2.10
@@ -56,6 +60,8 @@ rdflib==6.2.0
 reportlab==4.2.0
 requests==2.28.2
 rfc3986==1.5.0
+scipy==1.13.1
+seaborn==0.13.2
 shapely==2.0.4
 six==1.16.0
 smmap==5.0.0
@@ -66,6 +72,7 @@ termcolor==2.2.0
 toyplot==1.0.3
 toytree==2.0.5
 tqdm==4.65.0
+transaction==3.0.1
 uritemplate==4.1.1
 urllib3==1.26.15
 webencodings==0.5.1

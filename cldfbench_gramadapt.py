@@ -1,6 +1,7 @@
 import re
 import pathlib
 import itertools
+import contextlib
 import collections
 
 from clldutils.misc import slug
@@ -8,6 +9,7 @@ from clldutils.markup import add_markdown_text
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 from cldfbench.metadata import get_creators_and_contributors
 from nameparser import HumanName
+from matplotlib import pyplot as plt
 
 from lib.rationale import Rationale
 
@@ -22,54 +24,42 @@ NOTES = """
 ![](erd.svg)
 
 For detailed descriptions of the tables and columns refer to [cldf/README.md](cldf/README.md).
+
+
+## Notes
+
+### Respondent comments vs Reviewer comments
+
+Comments are directly written by the authors of the respective set. For multiauthor sets, the specific respondent can be identified by the name associated with the particular answer by looking at the `Respondent` column in the `ValueTable`.
+
+Any comments in [square brackets] are those included by the editorial team for clarification.
+
+
+### About the timeframe
+
+Each contact set is unique in terms of the timeframe they respond for. We urge researchers who use this dataset to read the `Value` and `Comment` columns in `ValueTable` for answers to questions marked as timeframe comments (via the `Is_Timeframe_Comment` in `ParameterTable`) carefully for each set, to get a sense of the heterogeneity of timeframes represented in each set, as well as the whole dataset.
+
+The timeframes given are broad and coarse approximations, often negotiated between the respondent and reviewer. These timeframes are to be used with caution. Always read the associated comments.
+
+An end date of 2020 (or later) indicates that social contact is ongoing at the time of data collection in 2021. 
+
+
+### Idiosyncratic contact sets
+
+Set26 "Garifuna - Galibi" only contains responses for the Overview.
+Set10 "FLNA - NLNA" and set22 "Muak Sa-aak - Tai Lue" have restricted public access to the data; see "Data Sensitivity" section below.
+
+
+### Data Sensitivity
+
+The respondents of sets 10 and 22 have requested access restrictions to their respective datasets. 
+
+The respondent of set10 has requested to have community identifying names anonymised. The respondent name for set 10 has also been anonymised. If you wish to access the community identifying names for set10, please contact Kaius Sinnemäki at the University of Helsinki, and he will get in contact with the author of set10. 
+
+The respondent for set22 has requested to make certain comments publicly invisible, due to their potentially sensitive nature. If you wish to access the invisible comments of set 22, please contact the author directly.
+
 """
 
-
-#
-# Datatype: Types should be qualified with "sequential" for cases like OD3!
-#
-"""
-DEM13|Very well
-DEM13|Well
-DEM13|Somewhat
-DEM13|Poorly
-DEM13|Very poorly
--> should be Likert scale?
-
-OD1|10-99 speakers
-OD1|100-999 speakers
-OD1|1,000-9,999 speakers
-OD1|10,000-99,999 speakers
-OD1|100,000-999,999 speakers
-OD1|1,000,000-9,999,999 speakers
-OD1|10,000,000-99,999,999 speakers
-OD1|100,000,000-999,999,999 speakers
-OD1|B
-OD3|10-99 speakers
-OD3|100-999 speakers
-OD3|1,000-9,999 speakers
-OD3|10,000-99,999 speakers
-OD3|100,000-999,999 speakers
-OD3|1,000,000-9,999,999 speakers
-OD3|10,000,000-99,999,999 speakers
-OD3|100,000,000-999,999,999 speakers
-OD3|B
-OG1|Less than 2 persons per 10 sq. km
-OG1|2–4 persons per 10 sq. km
-OG1|5–19 persons per 10 sq. km
-OG1|20–99 persons per 10 sq. km
-OG1|100–399 persons per 10 sq. km
-OG1|B
-
-OS7|Fewer than 50 persons
-OS7|From 50 to 99 persons
-OS7|From 100 to 199 persons
-OS7|From 200 to 399 persons
-OS7|From 400 to 1,000 persons
-OS7|More than 1,000 persons in the absence of indigenous urban aggregations
-OS7|One or more indigenous towns of more than 5,000 inhabitants but none of more than 50,000
-OS7|B
-"""
 
 def norm_datatype(pid, datatype):
     if pid == 'DEM13':
@@ -130,8 +120,7 @@ def norm_question(d):
         re.sub(r'^[0-9]+([ab])?\.\s*', '', d['Wording'] if isinstance(d, dict) else d))
     if res in qs:
         # We need to disambiguate.
-        # FIXME: It should not be necessary to add QID, relevant questions are under investigation.
-        res = '{} [{}]'.format(res, d['Dom'] if 'how well' not in res else d['QID'])
+        res = '{} [{}]'.format(res, d['Dom'])
     return res
 
 
@@ -165,21 +154,25 @@ def get_rationale(rationales, cid, qid):
     These questions should be linked to a P2 rationale.
     """
     if cid in {'OE1', 'OE2', 'OE3', 'E6', 'OC1', 'OC2', 'OC3', 'OC4', 'OC5', 'OC6'}:
-        return None
+        return None, None
     if cid == 'O10':  # Fix typo.
         cid = 'OI0'
+    if qid == 'DFKXX':
+        qid = 'DFK29'
     # We must lookup more specific rationale first!
     for key, p in rationales.items():
         ccid, _, spec = key.partition('_')
         if ccid == cid and qid in spec:
-            return p
+            return key, p
+    if qid in rationales:
+        return qid, rationales[qid]
     if cid in rationales:
-        return rationales[cid]
+        return cid, rationales[cid]
     if cid.endswith('N') and cid[:-1] in rationales:
-        return rationales[cid[:-1]]
+        return cid[:-1], rationales[cid[:-1]]
     res = rationales.get('{}_{}'.format(cid, qid))
     if res:
-        return res
+        return '{}_{}'.format(cid, qid), res
     raise ValueError('missing rationale: {} {}'.format(cid, qid))
 
 
@@ -190,6 +183,7 @@ def value(pid, d, **kw):
         Parameter_ID=pid,
         Language_ID='{}-F'.format(d['Set']),
         Comment=norm_comment(d['Comment']),
+        Respondent=d['Respondent'],
     )
     res.update(kw)
     return res
@@ -211,7 +205,7 @@ class Dataset(BaseDataset):
         cldf = self.cldf_reader()
         for contrib in cldf.objects('ContributionTable'):
             if contrib.cldf.description:
-                res = render(contrib.cldf.description, cldf)
+                res = render(contrib.cldf.description, cldf, template_dir=self.etc_dir)
                 self.cldf_dir.joinpath(
                     'rationale', '{}.md'.format(contrib.id)).write_text(res, encoding='utf8')
                 #print(res)
@@ -273,7 +267,6 @@ class Dataset(BaseDataset):
             ))
 
         # Add language metadata: GA_V1.0.0_Metadata.csv
-        # SetID, Old_SetID, [q2o1answer], F_Lang, F_Glottocode, F_Iso, [q2o2answer], N_Lang, N_Glottocode, N_Iso, ContactPair, ContactPair_Iso, ConcactPair_glottocode, AArea, Surname, Respondents, Reviewer(s)
         for d in self.raw_dir.joinpath('On Zenodo copy').read_csv('GA_V1.0.0_Metadata.csv', dicts=True):
             args.writer.objects['CodeTable'].append(dict(
                 ID='S-{}'.format(d['SetID']),
@@ -347,11 +340,10 @@ class Dataset(BaseDataset):
             ))
 
         rationales = {p.stem: p for p in self.dir.joinpath('rationale').glob('*.md')}
+        rationales_linked = {k: False for k in rationales}
 
         domains = collections.defaultdict(dict)
         qids = set()
-        #"Version","Set","Old_Set_ID","CID","QID","Sub.ID","Wording","Response","Comment","Respondent","Dom","DomOrder","DataType","Answer1","Answer2","Answer3","Answer4","Answer5","Answer6","Answer7","Answer8","Surname","X.q2o1answer.","FLang","F_ISO","F_Glottocode","X.q2o2answer.","NLang","N_ISO","N_Glottocode","ContactPair","ContactPair_ISO","ContactPair_Glottocode","AArea","Reviewer"
-        # [q2o1answer], FLang, F_ISO, [q2o2answer], NLang, N_ISO, ContactPair, ContactPair_ISO, AArea, Reviewer
         vals = collections.defaultdict(lambda: collections.Counter())
         for (qid, subid), rows in itertools.groupby(
             sorted(
@@ -360,6 +352,9 @@ class Dataset(BaseDataset):
             ),
             lambda r: (r['QID'], r['Sub.ID']),
         ):
+            if qid == 'DFK29':  #  The responses to DFKXX are the “correct” one.
+                args.log.info('Skipping DFK29')
+                continue
             # Add Name for questions.csv:
             pid = '{}_{}'.format(qid, subid) if subid else qid
             qnames = {
@@ -398,9 +393,12 @@ class Dataset(BaseDataset):
             d = rows[0]
 
             if qid not in qids:
-                cid = get_rationale(rationales, d['CID'], qid)
+                rkey, cid = get_rationale(rationales, d['CID'], qid)
+                if cid:
+                    rationales_linked[rkey] = True
+                rationales_linked[d['Dom']] = True
                 args.writer.objects['questions.csv'].append(dict(
-                    ID=qid, Rationale=cid.stem if cid else None))
+                    ID=qid, Rationale=[d['Dom']] + ([cid.stem] if cid else [])))
                 qids.add(qid)
             if time_range:
                 assert d['DataType'] == 'Value'
@@ -508,6 +506,9 @@ class Dataset(BaseDataset):
                         ))
                 else:
                     args.writer.objects['ValueTable'].append(value(pid, d, Value=res))
+        tfids = [q['ID'][:-2] for q in args.writer.objects['ParameterTable'] if q['ID'].endswith('N0')]
+        for q in args.writer.objects['ParameterTable']:
+            q['Is_Timeframe_Comment'] = q['ID'] in tfids
         for name, mentioned in respondents.items():
             if mentioned or (name in editors.values()):
                 args.writer.objects['contributors.csv'].append(dict(
@@ -515,11 +516,11 @@ class Dataset(BaseDataset):
                     Name=name,
                     Editor=name in editors.values(),
                 ))
+        for k in sorted(rationales):
+            if not rationales_linked[k]:
+                args.log.warning('Rationale {} not linked'.format(k))
 
     def schema(self, cldf):
-        # Extend the data schema:
-        # -----------------------
-
         cldf.add_table(
             'contributors.csv',
             {
@@ -638,7 +639,8 @@ class Dataset(BaseDataset):
             {
                 "name": "Rationale",
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
-                "dc:description": "Link to the rationale for this question."
+                "dc:description": "Link to the rationale for this question.",
+                "separator": " ",
             }
         )
         t.common_props['dc:description'] = \
@@ -673,6 +675,11 @@ class Dataset(BaseDataset):
                     '**DTR** = Trade).',
                 'datatype': {'base': 'string', 'format': 'OV|DEM|DFK|DKN|DLB|DLC|DTR'}
             },
+            {
+                'name': 'Is_Timeframe_Comment',
+                'dc:description': 'Flag signaling whether answers to this question describe a timeframe.',
+                'datatype': {'base': 'boolean', 'format': 'yes|no'},
+            }
         )
         t.common_props['dc:description'] = \
             ("Questions in GramAdapt may be broken up into several sub-questions. This table lists "
@@ -686,3 +693,12 @@ class Dataset(BaseDataset):
                 'dc:description': 'Ordinal, representing the value for a Scalar parameter on a 5 point Likert scale.'
             }
         )
+
+    @contextlib.contextmanager
+    def plot_data(self, name, fmt='png'):
+        name = pathlib.Path(name).stem
+        try:
+            yield self.cldf_reader()
+        finally:
+            plt.savefig(str(self.etc_dir / '{}.{}'.format(name, fmt)))
+            plt.show()

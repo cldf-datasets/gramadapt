@@ -10,6 +10,18 @@
             "name": "Oona Raatikainen"
         },
         {
+            "name": "Kaius Sinnem\u00e4ki"
+        },
+        {
+            "name": "Ricardo Napole\u00e3o de Souza"
+        },
+        {
+            "name": "Anu Hyv\u00f6nen"
+        },
+        {
+            "name": "Kayleigh Karinen"
+        },
+        {
             "name": "Rosn\u00e1taly Avelino"
         },
         {
@@ -28,7 +40,7 @@
             "name": "Nicol\u00e1s Brid"
         },
         {
-            "name": "Joseph M Brincat"
+            "name": "Joseph Brincat"
         },
         {
             "name": "Mar\u00eda Bel\u00e9n Carpio"
@@ -88,7 +100,7 @@
             "name": "Hank Nater"
         },
         {
-            "name": "Michelle A. Ocasio"
+            "name": "Michelle Ocasio"
         },
         {
             "name": "Bruno Olsson"
@@ -140,6 +152,9 @@
         },
         {
             "name": "Veronika Zikmundov\u00e1"
+        },
+        {
+            "name": "Robert Forkel"
         }
     ],
     "contributors": [
@@ -156,8 +171,12 @@
             "type": "Editor"
         },
         {
+            "name": "Kaius Sinnem\u00e4ki",
+            "type": "Editor"
+        },
+        {
             "name": "Robert Forkel",
-            "type": "DataCurator"
+            "type": "Editor"
         }
     ],
     "title": "GramAdapt Crosslinguistic Social Contact Dataset",

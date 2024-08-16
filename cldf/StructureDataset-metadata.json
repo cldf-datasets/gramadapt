@@ -9,13 +9,14 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:description": "This dataset is a first attempt at collecting socio-cultural-demographic data about contact scenarios, including attempts at quantification as well as qualitative elaborations by respondents.\n\nRespondents were approached as academic collaborators, not as volunteers in an experiment. Respondents were not chosen at random. Respondents were chosen based on their published research and fieldwork experience with either or both Focus and Neighbour language communities.",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "GramAdapt Crosslinguistic Social Contact Dataset",
     "dcat:accessURL": "https://github.com/cldf-datasets/gramadapt",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "25c2059",
+            "dc:created": "56e73bc",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +41,8 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 12924,
+            "dc:description": "The *ValueTable* lists answers to the questions in the GramAdapt questionnaire coded as values for the Focus group language (except for values for the two 'synthetic' parameters 'Focus language' and 'Contact pair', which may also be coded for the language of the Neighbour group).",
+            "dc:extent": 13163,
             "tableSchema": {
                 "columns": [
                     {
@@ -98,6 +100,11 @@
                         "name": "Source"
                     },
                     {
+                        "dc:description": "Link to the corresponding contact set.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contactset_ID"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Respondent"
                     }
@@ -109,6 +116,17 @@
                         ],
                         "reference": {
                             "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Contactset_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -144,7 +162,88 @@
             "url": "values.csv"
         },
         {
+            "dc:extent": 49,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "Yes|No"
+                        },
+                        "name": "Editor"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributors.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:extent": 90,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "media.csv"
+        },
+        {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "The GramAdapt dataset is constructed around *contact sets*, pairs of *Focus* and*Neighbour* language communities. This table lists the languages spoken by either of these communities.",
             "dc:extent": 68,
             "tableSchema": {
                 "columns": [
@@ -217,12 +316,12 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
-            "dc:description": "Contributions in GramAdapt are 'contact sets', i.e. descriptions of a contact situation between two neighbouring languages. Each contact set is unique in terms of the timeframe they respond for. We urge researchers who use this dataset to read the Comments column for questions CID P1, P2, and P3 carefully for each set, to get a sense of the heterogeneity of timeframes represented in each set, as well as the whole dataset.",
-            "dc:extent": 34,
+            "dc:description": "The GramAdapt dataset provides two types of contributions: (1) 'contact sets', i.e. descriptions of a contact situation between two neighbouring communities speaking different languages. Each contact set is unique in terms of the timeframe they respond for. We urge researchers who use this dataset to read the Comments column for questions CID P1, P2, and P3 carefully for each set, to get a sense of the heterogeneity of timeframes represented in each set, as well as the whole dataset. (2) 'rationales' explaning the goals, definitions and theoretical support for (sets of) questions in the GramAdapt questionnaire.",
+            "dc:extent": 124,
             "tableSchema": {
                 "columns": [
                     {
-                        "dc:description": "The unique identifier of a contact pair. The two digit IDs were assigned based on order of completion. Sets that are linked by language communities, but represent different time slices, contain a Roman alphabet symbol, i.e. Set06a and Set06b are for the contact scenario between Maltese and Sicilian, but for different time periods of contact.",
+                        "dc:description": "(1) For contact sets: The unique identifier of a contact pair. The two digit IDs were assigned based on order of completion. Sets that are linked by language communities, but represent different time slices, contain a Roman alphabet symbol, i.e. Set06a and Set06b are for the contact scenario between Maltese and Sicilian, but for different time periods of contact. (2) For rationales the identifier are based on domain and question number.",
                         "datatype": {
                             "base": "string",
                             "format": "[a-zA-Z0-9_\\-]+"
@@ -238,6 +337,9 @@
                         "name": "Name"
                     },
                     {
+                        "dc:conformsTo": "CLDF Markdown",
+                        "dc:description": "The rationale document formatted as CLDF Markdown.",
+                        "dc:format": "text/markdown",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
@@ -256,24 +358,57 @@
                         "name": "Citation"
                     },
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "contactset|rationale"
+                        },
+                        "name": "Type"
+                    },
+                    {
+                        "dc:description": "Link to the language spoken by the focus group in a contact set.",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "name": "Focus_Language_ID"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "Link to the language spoken by the neighbour group in a contact set.",
                         "name": "Neighbour_Language_ID"
                     },
                     {
+                        "separator": " ",
+                        "name": "Author_IDs"
+                    },
+                    {
                         "dc:description": "The GramAdapt team members responsible for checking the responses.",
-                        "separator": " & ",
-                        "name": "Reviewers"
+                        "separator": " ",
+                        "name": "Reviewer_IDs"
                     },
                     {
                         "dc:description": "Information about the geographical location of each contact set based on Autotyp areal classification",
                         "name": "Area"
+                    },
+                    {
+                        "dc:description": "Link to rendered Markdown document.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                        "name": "Document"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
                     }
                 ],
                 "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Document"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
                     {
                         "columnReference": [
                             "Focus_Language_ID"
@@ -295,6 +430,28 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Reviewer_IDs"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Author_IDs"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -304,12 +461,36 @@
             "url": "contributions.csv"
         },
         {
-            "dc:extent": 280,
+            "dc:description": "This table lists the questions of the GramAdapt questionnaire with links to the respective rationale.",
+            "dc:extent": 265,
             "tableSchema": {
                 "columns": [
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "dc:description": "Link to the rationale for this question.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "separator": " ",
+                        "name": "Rationale"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Rationale"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -320,7 +501,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 381,
+            "dc:description": "Questions in GramAdapt may be broken up into several sub-questions. This table lists the atomic sub-questions.",
+            "dc:extent": 394,
             "tableSchema": {
                 "columns": [
                     {
@@ -351,20 +533,32 @@
                         "name": "ColumnSpec"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "**Binary-YesNo**: A binary answer of either \u2018Yes\u2019 or \u2018No;\n**Comment**: Not preset, just a comment field, i.e. free response.\n**Scalar**: A Likert 5 point scale. The response is in textual form, but represents ordinals on a scale of 1-5 (e.g. \u201cNeither positive nor negative\u201d -> 3).\n**Types**: A list of preset answers where only one can be chosen (e.g. \u201cFL, NL, Some other language, This is highly contextual\u201d)\n**TypesSequential**: A list of ordered, categorical answers where only one can be chosen\n**Types-Multiple**: A list of preset answers, where multiple can be chosen\n**Value**: A numerical value",
+                        "datatype": {
+                            "base": "string",
+                            "format": "Binary-YesNo|Comment|Scalar|Types|TypesSequential|TypesMultiple|Value"
+                        },
                         "name": "datatype"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "Links to the corresponding GramAdapt question.",
                         "name": "Question_ID"
                     },
                     {
-                        "dc:description": "Indicating the domain to which the responses apply. Possible options are the overview questionnaire (OV) and social domains (DEM = Exchange and Marriage; DFK = Family and Kin; DKN = Knowledge; DLB = Labour; DLC = Local Community; DTR = Trade).",
+                        "dc:description": "Indicating the domain to which the responses apply. Possible options are the overview questionnaire (**OV**) and social domains (**DEM** = Exchange and Marriage; **DFK** = Family and Kin; **DKN** = Knowledge; **DLB** = Labour; **DLC** = Local Community; **DTR** = Trade).",
                         "datatype": {
                             "base": "string",
                             "format": "OV|DEM|DFK|DKN|DLB|DLC|DTR"
                         },
                         "name": "Domain"
+                    },
+                    {
+                        "dc:description": "Flag signaling whether answers to this question describe a timeframe.",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Is_Timeframe_Comment"
                     }
                 ],
                 "foreignKeys": [
@@ -388,7 +582,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 1535,
+            "dc:extent": 1529,
             "tableSchema": {
                 "columns": [
                     {
@@ -419,6 +613,15 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "dc:description": "Ordinal, representing the value for a Scalar parameter on a 5 point Likert scale.",
+                        "datatype": {
+                            "base": "integer",
+                            "minimum": "1",
+                            "maximum": "5"
+                        },
+                        "name": "Ordinal"
                     }
                 ],
                 "foreignKeys": [
