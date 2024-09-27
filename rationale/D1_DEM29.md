@@ -29,6 +29,9 @@ The answers to this question may help us further understand the nature of popula
 - *Non-fraternal polyandry*: The Nayar are an upper caste group of Eastern India organised in small kingdoms with matrilineal descent and non-fraternal polyandry. Traditionally, no institutionalised type of marriage exchange existed in the community. When reaching puberty age, women could start entertaining sexual partnership with several men (usually up to eight), and would later be responsible for raising their children within the matrilineal household, where the only cohabiting adult males would be other members of the matrilineage (e.g. their brothers). Two ritual acts defined women’s polyandry as legitimate: the *tali*tying, through which a woman in puberty age would become connected to a young man from an allied lineage with the sole obligation of later mourning for his death together with her own children, and the midwife payment through which one of the lovers was expected to acknowledge the paternity of any of the children the woman would bear. (Gough 1952; 1959; 1965)
 
 
+**Note**
+
+Since polyandry is not possible in any of the investigated groups, the questions on what types of polyandry are possible have been removed.
 
 
 **References**

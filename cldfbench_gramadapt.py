@@ -13,6 +13,9 @@ from matplotlib import pyplot as plt
 
 from lib.rationale import Rationale
 
+#  removal of DEM29-3
+#> and DEM29-4 from the set.
+
 NOTES = """
 ## Contact pairs
 
@@ -355,6 +358,10 @@ class Dataset(BaseDataset):
             if qid == 'DFK29':  #  The responses to DFKXX are the “correct” one.
                 args.log.info('Skipping DFK29')
                 continue
+            if subid in {'DEME29-3', 'DEME29-4'}:
+                args.log.info('Skipping {}'.format(subid))
+                continue
+
             # Add Name for questions.csv:
             pid = '{}_{}'.format(qid, subid) if subid else qid
             qnames = {

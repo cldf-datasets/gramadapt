@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "56e73bc",
+            "dc:created": "b0cc7bd",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
             "dc:description": "The *ValueTable* lists answers to the questions in the GramAdapt questionnaire coded as values for the Focus group language (except for values for the two 'synthetic' parameters 'Focus language' and 'Contact pair', which may also be coded for the language of the Neighbour group).",
-            "dc:extent": 13163,
+            "dc:extent": 13097,
             "tableSchema": {
                 "columns": [
                     {
@@ -502,7 +502,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
             "dc:description": "Questions in GramAdapt may be broken up into several sub-questions. This table lists the atomic sub-questions.",
-            "dc:extent": 394,
+            "dc:extent": 392,
             "tableSchema": {
                 "columns": [
                     {
@@ -582,7 +582,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 1529,
+            "dc:extent": 1523,
             "tableSchema": {
                 "columns": [
                     {

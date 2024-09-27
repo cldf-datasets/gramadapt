@@ -54,8 +54,6 @@ DEM28_DEME28-2,Polygyny. Is polygyny possible for Neighbour Group men?,,,Binary-
 DEM28_DEME28-3,Polygyny. Is polygyny possible for men from all societal strata?,,,Binary-YesNo,DEM28,DEM,no
 DEM29_DEME29-1,Polyandry. Is polyandry possible for Focus Group women?,,,Binary-YesNo,DEM29,DEM,no
 DEM29_DEME29-2,Polyandry. Is polyandry possible for Neighbour Group women?,,,Binary-YesNo,DEM29,DEM,no
-DEM29_DEME29-3,"Polyandry. If possible, is polyandry of fraternal type?",,,Binary-YesNo,DEM29,DEM,no
-DEM29_DEME29-4,"Polyandry. If possible, is polyandry of non-fraternal type?",,,Binary-YesNo,DEM29,DEM,no
 DEM30_DEME30-1,Does marriage impose any child rearing obligations for both parents and grandparents on both sides?,,,Binary-YesNo,DEM30,DEM,no
 DEM30_DEME30-2,"Does marriage impose any child rearing obligations for one parent, and grandparents on both sides?",,,Binary-YesNo,DEM30,DEM,no
 DEM30_DEME30-3,"Does marriage impose any child rearing obligations for one parent, and grandparents on that side?",,,Binary-YesNo,DEM30,DEM,no
