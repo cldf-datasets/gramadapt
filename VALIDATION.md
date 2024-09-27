@@ -7,8 +7,8 @@ cldf validate cldf
 
 Make sure the dataset can be loaded into SQLite:
 ```shell
-rm -f laotpa.sqlite
-cldf createdb cldf laotpa.sqlite 
+rm gramadapt.sqlite
+cldf createdb cldf gramadapt.sqlite
 ```
 
 ## Technical validation described in the paper
@@ -33,12 +33,14 @@ SELECT
     cast(sum(CASE c.cldf_name WHEN 'Yes' THEN 1 ELSE 0 END) AS float) / count(v.cldf_id) AS yes_ratio
 FROM valuetable AS v 
 JOIN codetable AS c
-     ON v.cldf_codereference = c.cldf_id
+    ON v.cldf_codereference = c.cldf_id
 JOIN parametertable AS p 
-     ON v.cldf_parameterreference = p.cldf_id
+    ON v.cldf_parameterreference = p.cldf_id
 JOIN "questions.csv" AS q 
-     ON q.cldf_id = p.question_id 
-WHERE q.cldf_contributionReference = 'P1'
+    ON q.cldf_id = p.question_id
+JOIN "questions.csv_ContributionTable" AS qc
+    ON q.cldf_id = qc."questions.csv_cldf_id"
+WHERE qc.contributiontable_cldf_id = 'P1'
 GROUP BY p.cldf_id 
 ORDER BY yes_ratio DESC;
 ```
@@ -56,24 +58,26 @@ DEM|0.575757575757576
 
 Contact sets partitioned into groups with equal number of relevant social domains can be computed as
 ```sql
-select
+SELECT 
     ndom, 
-    group_concat(substr(set_id, 4), ', ') as sets, 
-    count(set_id) as total 
-from (
-    select 
-        count(distinct p.cldf_id) as ndom, 
-        v.cldf_contributionReference as set_id 
-    from valuetable as v 
-    join codetable as c 
-         on v.cldf_codereference = c.cldf_id 
-    join parametertable as p 
-         on v.cldf_parameterreference = p.cldf_id 
-    join "questions.csv" as q 
-         on q.cldf_id = p.question_id 
-    where q.cldf_contributionReference = 'P1' and c.cldf_name = 'Yes' 
-    group by v.cldf_contributionReference
-) 
+    group_concat(substr(set_id, 4), ', ') AS sets, 
+    count(set_id) AS total 
+FROM (
+    SELECT 
+        count(DISTINCT p.cldf_id) AS ndom, 
+        v.cldf_contributionReference AS set_id 
+    FROM valuetable AS v 
+    JOIN codetable AS c 
+         ON v.cldf_codereference = c.cldf_id 
+    JOIN parametertable AS p 
+         ON v.cldf_parameterreference = p.cldf_id 
+    JOIN "questions.csv" AS q 
+         ON q.cldf_id = p.question_id
+    JOIN "questions.csv_ContributionTable" AS qc
+         ON q.cldf_id = qc."questions.csv_cldf_id"
+    WHERE qc.contributiontable_cldf_id = 'P1' AND c.cldf_name = 'Yes' 
+    GROUP BY v.cldf_contributionReference
+)
 group by ndom 
 order by ndom desc;
 ```
@@ -116,7 +120,8 @@ Of the 65 questions with answers from a fixed set of categories, 38 dealt with l
 - This is highly contextual
 - B
 
-and the answers were distributed as shown below:
+and the answers were distributed as shown below, indicating that the questions capture diversity
+among the contact sets.
 
 ![](etc/categoricalvalidity.png)
 
@@ -125,16 +130,23 @@ and the answers were distributed as shown below:
 
 112 questions had answers mapped to a five-point [Likert scale](https://en.wikipedia.org/wiki/Likert_scale).
 Ideally, questions would be assigned such that answers differ between contact sets. The distribution
-of answers to the Likert-scale questions is shown below:
+of answers to the Likert-scale questions is shown below, again indicating that questions as well as 
+response options are suitable to capture diversity between the sets.
 
 ![](etc/likertvalidity.png)
 
 
 #### Questions of type *Comment*
 
-FIXME: see clld app
+The questions with responses of datatype `Comment` are clearly not meant for quantitative analysis - and
+qualitative analysis is somewhat hampered by the tabular format of the data. But since CLDF data can
+easily be loaded into a clld web application for visualization, inspecting the `Comment` data can be
+done through-the-web (see for example https://gramadapt.clld.org/parameters/DEM01).
 
 
 #### Time-range questions
 
-FIXME:
+While the numeric data associated to time-range questions (see [USAGE.md](USAGE.md)) can be used
+quantitatively, qualitative analysis via visualization helps with exploration. The visualization we
+implemented for these questions in the web application is meant to highlight both, the diversity in
+length of time ranges as well as (non-)contemporaneousness (see for example https://gramadapt.clld.org/parameters/DEM0bN).
