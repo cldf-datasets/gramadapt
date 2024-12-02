@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:DFK29)
+# DFK29: Typically, how well does a Focus Group person understand the Neighbour Group in-law’s language?
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DFK29)
+Authors: Eri Kashima
 - Very well
 - Well
 - Somewhat
@@ -22,4 +22,3 @@ We may surmise that if a Focus Group are exposed to the Neighbour Group language
 For theoretical and empirical support regarding in-put comprehension and language learning, see I2.
 
 We identify in-law relations specifically as this is a relationship that can be linguistically marked as socially significant.  Descriptive works note the importance of these relationships on linguistic behaviour. There are often strong social obligations between in-laws, which seems to result in strong imperatives for audience design and stance taking. (See DFK38)
-

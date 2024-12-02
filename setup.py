@@ -17,6 +17,9 @@ setup(
     },
     install_requires=[
         'cldfbench',
+        'matplotlib',
+        'seaborn',
+        'plot_likert',
     ],
     extras_require={
         'test': [

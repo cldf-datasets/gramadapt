@@ -7,7 +7,7 @@
     ],
     "dc:bibliographicCitation": "Eri Kashima, Francesca Di Garbo, Oona Raatikainen, Rosn\u00e1taly Avelino, Sacha Beck, Anna Berge, Ana Blanco, Ross Bowden, Nicol\u00e1s Brid, Joseph M Brincat, Mar\u00eda Bel\u00e9n Carpio, Alexander Cobbinah, Paola C\u00faneo, Anne-Maria Fehn, Saloumeh Gholami, Arun Ghosh, Hannah Gibson, Elizabeth Hall, Katja Hann\u00df, Hannah Haynie, Jerry Jacka, Matias Jenny, Richard Kowalik, Sonal Kulkarni-Joshi, Maarten Mous, Marcela Mendoza, Cristina Messineo, Francesca Moro, Hank Nater, Michelle A Ocasio, Bruno Olsson, Ana Mar\u00eda Ospina Bozzi, Agustina Paredes, Admire Phiri, Nicolas Quint, Erika Sandman, Dineke Schokkin, Ruth Singer, Ellen Smith-Dennis, Lameen Souag, Yunus Sulistyono, Yvonne Treis, Matthias Urban, Jill Vaughan, Deginet Wotango Doyiso, Georg Ziegelmeyer, Veronika Zikmundov\u00e1. (2023). GramAdapt Crosslinguistic Social Contact Dataset. (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7508054",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:description": "This dataset is a first attempt at collecting socio-cultural-demographic data about contact scenarios, including attempts at quantification as well as qualitative elaborations by respondents.\n\nRespondents were approached as academic collaborators, not as volunteers in an experiment. Respondents were not chosen at random. Respondents were chosen based on their published research and fieldwork experience with either or both Focus and Neighbour language communities.",
+    "dc:description": "The GramAdapt Crosslinguistic Social Contact Dataset is a pioneering dataset with social, cultural, and demographic data about contact scenarios from across the globe. The data mostly concern interactions between a Focus language community and it's Neighbour language community, with 34 contact pairs represented. The data are qualitative with quantitative potential, where language community experts have provided best-assessment answers to questions about social contact in their communities of expertise.",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "GramAdapt Crosslinguistic Social Contact Dataset",
@@ -16,20 +16,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "b0cc7bd",
+            "dc:created": "b818aeb",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.12"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",

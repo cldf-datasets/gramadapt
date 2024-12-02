@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:DEM)
+# Exchange & Marriage: Exchange
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DEM)
+Authors: Francesca Di Garbo and Eri Kashima and Kaius Sinnemäki and Oona Raatikainen
 
 
 ## Goal
@@ -18,7 +18,7 @@ _Gift exchange_: The exchanging of gifts. Gift exchange can occur at the individ
 
 Ceremonial Exchange
 
-The po’o a is a ceremonial exchange ritual practiced in the Vaupés (Northwestern Amazonia) to celebrate “life-cycle passages, such as naming, female puberty, male initiation and marriage” ([Chernela](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Chernela2003a) [2003](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Chernela2003a): 797). The po’oa brings together people from different sib settlements, all of which traditionally practice linguistic exogamy with patrilineal descent and patrilocal postmarital residence rules. The po’oa is thus an opportunity for married women to meet with their own descent group and close kinsmen. The high symbolic relevance of this event is linguistically marked by the kana basa, the weeping salutations, a type of sung speech performed by women in their own patrilect. The language exchange proceeds in turns and is accompanied by ritual beer offering. The structure and motives of the kana basa revolve around women’s outsider condition, with respect to their own kin and the kin of the respective husbands and children. The kana basa is thus an example of how ceremonial exchanges can be associated with highly codified speech styles, which are in turn grounded in the specifics of the contact situation where the exchange occurs (for details about the structure and motives of the kana basa, see [Chernela](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Chernela2003a) [2003](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Chernela2003a)).
+The po’o a is a ceremonial exchange ritual practiced in the Vaupés (Northwestern Amazonia) to celebrate “life-cycle passages, such as naming, female puberty, male initiation and marriage” ([Chernela](#source-Chernela2003a) [2003](#source-Chernela2003a): 797). The po’oa brings together people from different sib settlements, all of which traditionally practice linguistic exogamy with patrilineal descent and patrilocal postmarital residence rules. The po’oa is thus an opportunity for married women to meet with their own descent group and close kinsmen. The high symbolic relevance of this event is linguistically marked by the kana basa, the weeping salutations, a type of sung speech performed by women in their own patrilect. The language exchange proceeds in turns and is accompanied by ritual beer offering. The structure and motives of the kana basa revolve around women’s outsider condition, with respect to their own kin and the kin of the respective husbands and children. The kana basa is thus an example of how ceremonial exchanges can be associated with highly codified speech styles, which are in turn grounded in the specifics of the contact situation where the exchange occurs (for details about the structure and motives of the kana basa, see [Chernela](#source-Chernela2003a) [2003](#source-Chernela2003a)).
 
 A world-famous example of ceremonial exchange is the kula, a complex system of exchange centred around the circulation of armshells for necklaces, and regulating inter-island networks and political alliances among the inhabitants of the Trobriand Islands of Papua New Guinea (Malinowski 1984[1922]).
 
@@ -26,10 +26,11 @@ A world-famous example of ceremonial exchange is the kula, a complex system of e
 
 Ceremonial exchanges are highly ritualised forms of good exchange, which entail public display of the goods to be exchanged, and the involvement of the whole community in the act of exchange.
 
-Ceremonial exchanges often revolve around interaction between kin groups as defined through intermarriage patterns, and ultimately regulate political alliances between the parties involved ([Strathern & Stewart](sources.bib?ref&with_internal_ref_link&keep_label#cldf:StrathernStewart2012) [2012](sources.bib?ref&with_internal_ref_link&keep_label#cldf:StrathernStewart2012): 239). One defining characteristics of ceremonial exchange is delayed reciprocity, which means that the exchange and return of gifts are made on different ceremonial occasions and thus spread over time.
+Ceremonial exchanges often revolve around interaction between kin groups as defined through intermarriage patterns, and ultimately regulate political alliances between the parties involved ([Strathern & Stewart](#source-StrathernStewart2012) [2012](#source-StrathernStewart2012): 239). One defining characteristics of ceremonial exchange is delayed reciprocity, which means that the exchange and return of gifts are made on different ceremonial occasions and thus spread over time.
 
-Gift and ceremonial exchanges can also occur between rival groups, as a form of negotiation and a sign of mutual recognition ([Strathern & Stewart](sources.bib?ref&with_internal_ref_link&keep_label#cldf:StrathernStewart2012) [2012](sources.bib?ref&with_internal_ref_link&keep_label#cldf:StrathernStewart2012): 242, 253).
+Gift and ceremonial exchanges can also occur between rival groups, as a form of negotiation and a sign of mutual recognition ([Strathern & Stewart](#source-StrathernStewart2012) [2012](#source-StrathernStewart2012): 242, 253).
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)
+- <a id="source-Chernela2003a"> </a>Chernela, Janet M. 2003. Language Ideology and Women's Speech: Talking Community in the Northwest Amazon. _American Anthropologist_ 105(4). 794–806. doi: [10.1525/aa.2003.105.4.794](https://doi.org/10.1525/aa.2003.105.4.794).
+- <a id="source-StrathernStewart2012"> </a>Strathern, Andrew & Pamela J. Stewart. 2012. Ceremonial Exchange: Debates and Comparisons. In Carrier, James G. (ed.), _A Handbook of Economic Anthropology, Second Edition_, 239–256. Edward Elgar Publishing. doi: [10.4337/9781849809290.00023](https://doi.org/10.4337/9781849809290.00023).

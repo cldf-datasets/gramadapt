@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:OB1)
+# OB1: Is there an emic conception of Focus Group as “a language” or some other categorical or objective thing? 
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OB1)
+Authors: Eri Kashima
 - *Yes*
 - *No*
 
@@ -23,11 +23,11 @@ Reification of languages are also attested non-nationalist frames of meaning. Pa
 
 ## Theoretical Support
 
-Particular uses of the notion translanguaging take the theoretical stance that bilinguals who speak/sign multiple languages have an internally undifferentiated and unitary linguistic system, therefore that  ‘languages’	have no linguistic or cognitive reality (as pointed out by [Cummins](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Cummins2021) [2021](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Cummins2021) and others). Many argue that this is empirically untrue. For example an fMRI study by Abutelebi et al. (2008) demonstrate that German-French bilingual speakers mobilise different areas of the brain in order to inhibit the effects of the other language when speaking one. As [Cummins](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Cummins2021) ([2021](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Cummins2021)) points out, there appears to be a conflation of fluidity in utilising multilingual repertoires in practice, with the idea that this reflects a cognitive reality: "The hybridity	of linguistic practices	and the	complexity	of linguistic repertoires	‘do	not	carry	the	consequence that languages	do	not	exist	or that	named	languages	are	irrelevant’ (Grin,	2018:	257)."
+Particular uses of the notion translanguaging take the theoretical stance that bilinguals who speak/sign multiple languages have an internally undifferentiated and unitary linguistic system, therefore that  ‘languages’	have no linguistic or cognitive reality (as pointed out by [Cummins](#source-Cummins2021) [2021](#source-Cummins2021) and others). Many argue that this is empirically untrue. For example an fMRI study by Abutelebi et al. (2008) demonstrate that German-French bilingual speakers mobilise different areas of the brain in order to inhibit the effects of the other language when speaking one. As [Cummins](#source-Cummins2021) ([2021](#source-Cummins2021)) points out, there appears to be a conflation of fluidity in utilising multilingual repertoires in practice, with the idea that this reflects a cognitive reality: "The hybridity	of linguistic practices	and the	complexity	of linguistic repertoires	‘do	not	carry	the	consequence that languages	do	not	exist	or that	named	languages	are	irrelevant’ (Grin,	2018:	257)."
 
 The lack of cross-linguistic investigation into the question of whether communities objectify ways of speaking (as "languages" or something similar) prompted us to include this question in the questionnaire.
 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)
+- <a id="source-Cummins2021"> </a>Cummins, Jim. 2021. Translanguaging: A Critical Analysis of Theoretical Claims. In Juvonen, Päivi and Källkvist, Marie (eds.) Bristol, UK ; Blue Ridge Summit, PA: Multilingual Matters.

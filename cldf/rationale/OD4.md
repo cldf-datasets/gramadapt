@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:OD4)
+# OD4: What is the approximate proportion of native-like speakers in the total population of all speakers of the Focus Group language?
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OD4)
+Authors: Kaius Sinnemäki
 - *Low proportion*
 - *Fairly low proportion*
 - *Intermediate proportion*
@@ -26,7 +26,7 @@ The scale is as follows:
 - *High proportion:* an overwhelming majority (roughly 80% or higher) of speakers are native-like speakers
 
 
-This question is adapted from question SCCS1122 in the Standard Cross-Cultural Sample ([Murdock & White](sources.bib?ref&with_internal_ref_link&keep_label#cldf:MurdockWhite1969) [1969](sources.bib?ref&with_internal_ref_link&keep_label#cldf:MurdockWhite1969); [White](sources.bib?ref&with_internal_ref_link&keep_label#cldf:White2009) [2009](sources.bib?ref&with_internal_ref_link&keep_label#cldf:White2009)) that is available in D-PLACE ([Kirby et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2016) [2016](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2016); [Kirby et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2018c) [2018c](sources.bib?ref&with_internal_ref_link&keep_label#cldf:KirbyEtAl2018c); see https://d-place.org/parameters/SCCS1122#2/14.3/151.3)
+This question is adapted from question SCCS1122 in the Standard Cross-Cultural Sample ([Murdock & White](#source-MurdockWhite1969) [1969](#source-MurdockWhite1969); [White](#source-White2009) [2009](#source-White2009)) that is available in D-PLACE ([Kirby et al.](#source-KirbyEtAl2016) [2016](#source-KirbyEtAl2016); [Kirby et al.](#source-KirbyEtAl2018c) [2018c](#source-KirbyEtAl2018c); see https://d-place.org/parameters/SCCS1122#2/14.3/151.3)
 
 
 ## Examples
@@ -35,9 +35,15 @@ This question is adapted from question SCCS1122 in the Standard Cross-Cultural S
 
 ## Theoretical & Empirical Support
 
-Proportion of native-like vs. non-native-like speakers has been used in the typological literature as a proxy for contact effects on language structures, especially on morphological complexity (e.g. [Bentz & Winter](sources.bib?ref&with_internal_ref_link&keep_label#cldf:BentzWinter2013) [2013](sources.bib?ref&with_internal_ref_link&keep_label#cldf:BentzWinter2013); [Sinnemäki & Di Garbo](sources.bib?ref&with_internal_ref_link&keep_label#cldf:SinnemakiDiGarbo2018) [2018](sources.bib?ref&with_internal_ref_link&keep_label#cldf:SinnemakiDiGarbo2018); [Sinnemäki](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Sinnemaki2020) [2020](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Sinnemaki2020)). We are not so keen on using this proportion as a measure on its own, because it may be linked to various different explanatory factors (see [Bentz & Winter](sources.bib?ref&with_internal_ref_link&keep_label#cldf:BentzWinter2013) [2013](sources.bib?ref&with_internal_ref_link&keep_label#cldf:BentzWinter2013): 3–5; and references there). Instead we intend to assess whether this proportion correlates with any other sociolinguistic features in our questionnaire. This will help us assessing whether this proportion can really serve as a proxy for the degree of language contact and its effects on language structures, whether it serves as a proxy for something else or whether it serves as a proxy for nothing theoretically interesting.
+Proportion of native-like vs. non-native-like speakers has been used in the typological literature as a proxy for contact effects on language structures, especially on morphological complexity (e.g. [Bentz & Winter](#source-BentzWinter2013) [2013](#source-BentzWinter2013); [Sinnemäki & Di Garbo](#source-SinnemakiDiGarbo2018) [2018](#source-SinnemakiDiGarbo2018); [Sinnemäki](#source-Sinnemaki2020) [2020](#source-Sinnemaki2020)). We are not so keen on using this proportion as a measure on its own, because it may be linked to various different explanatory factors (see [Bentz & Winter](#source-BentzWinter2013) [2013](#source-BentzWinter2013): 3–5; and references there). Instead we intend to assess whether this proportion correlates with any other sociolinguistic features in our questionnaire. This will help us assessing whether this proportion can really serve as a proxy for the degree of language contact and its effects on language structures, whether it serves as a proxy for something else or whether it serves as a proxy for nothing theoretically interesting.
 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)
+- <a id="source-BentzWinter2013"> </a>Bentz, Christian & Bodo Winter. 2013. Languages with More Second Language Learners Tend to Lose Nominal Case. _Language Dynamics and Change_ 3(1). 1–27. doi: [10.1163/22105832-13030105](https://doi.org/10.1163/22105832-13030105).
+- <a id="source-KirbyEtAl2016"> </a>Kirby, Kathryn R., Russell D. Gray, Simon J. Greenhill, Fiona M. Jordan, Stephanie Gomes-Ng, Hans-Jörg Bibiko, Damián E. Blasi, Carlos A. Botero, Claire Bowern, Carol R. Ember, Dan Leehr, Bobbi S. Low, Joe McCarter, William Divale & Michael C. Gavin. 2016. D-PLACE: A Global Database of Cultural, Linguistic and Environmental Diversity. _PLOS ONE_ 11(7). e0158391. doi: [10.1371/journal.pone.0158391](https://doi.org/10.1371/journal.pone.0158391).
+- <a id="source-MurdockWhite1969"> </a>Murdock, George P. & Douglas R. White. 1969. Standard Cross-Cultural Sample. _Ethnology_ 8(4). 329. doi: [10.2307/3772907](https://doi.org/10.2307/3772907).
+- <a id="source-SinnemakiDiGarbo2018"> </a>Sinnemäki, Kaius & Francesca Di Garbo. 2018. Language Structures May Adapt to the Sociolinguistic Environment, but It Matters What and How You Count: A Typological Study of Verbal and Nominal Complexity. _Frontiers in Psychology_ 9(AUG). 1–22. doi: [10.3389/fpsyg.2018.01141](https://doi.org/10.3389/fpsyg.2018.01141).
+- <a id="source-White2009"> </a>White, Douglas R. 2009. Pinpointing Sheets for the Standard Cross-Cultural Sample: Complete Edition. _World Cultures eJournal_ 17(1).
+- <a id="source-KirbyEtAl2018c"> </a>Kirby, Kate, Simon Greenhill & Robert Forkel (eds.) 2018. Standard Cross-Cultural Sample. In Kirby, Kate, Simon Greenhill & Robert Forkel (eds.), _D-PLACE: Database of Places, Language, Culture and Environment_. Jena: Max Planck Institute for the Science of Human History.
+- <a id="source-Sinnemaki2020"> </a>Sinnemäki, Kaius. 2020. Linguistic System and Sociolinguistic Environment as Competing Factors in Linguistic Variation: A Typological Approach. _Journal of Historical Sociolinguistics_ 6(2). 20191010. doi: [10.1515/jhsl-2019-1010](https://doi.org/10.1515/jhsl-2019-1010).

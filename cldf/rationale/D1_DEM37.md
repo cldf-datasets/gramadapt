@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DEM37)
+# D1: Terms of Marriage Exchange - Exchange & Marriage (DEM37)
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DEM37)
+Authors: Francesca Di Garbo and Eri Kashima
 What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry?
 
 - Bridewealth

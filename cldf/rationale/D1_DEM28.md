@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DEM28)
+# D1: Polygyny - Exchange & Marriage (DEM28)
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DEM28)
+Authors: Francesca Di Garbo and Eri Kashima
 - Is polygyny possible for Focus Group men?
 - Is polygyny possible for Neighbour Group men?
 - Is polygyny possible for men from all societal strata?
@@ -20,8 +20,8 @@ This question identifies whether polygyny occurs in Focus Group society, or Neig
 
 ## Examples
 
-- All male members of the Dani community (Papua New Guinea) are allowed to have more than one wife from the moiety opposite to theirs, but access to marriage is age-graded in the sense that most men enter marriage after maturity, while women enter marriage in young age. Securing access to marriage through the life span guarantees high rates of multiple marriages among men. ([Schwimmer](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Schwimmer1995) [1995–2003](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Schwimmer1995); [Butt](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Butt2001) [2001](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Butt2001).) This would trigger the answer "yes” to all three questions.
-- In many traditional societies in southern Africa, access to multiple marriage reflected social stratification in the sense that commoners usually had only one wife, while chiefs, nobles, or other elite members of the society had several wives (Schwimmer 1993–2005; [Musisi](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Musisi1991) [1991](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Musisi1991); [Delius & Glaser](sources.bib?ref&with_internal_ref_link&keep_label#cldf:DeliusGlaser2004) [2004](sources.bib?ref&with_internal_ref_link&keep_label#cldf:DeliusGlaser2004)). In this context, appropriate answers to "Is polygyny permissible for Focus Group men?" and "Is polygyny permissible for Neighbour Group men?" would be "yes" if access to multiple marriage is shared by Focus and Neighbour Group, but the answer to "Is polygyny permissible for men from all societal strata?" would be "no".
+- All male members of the Dani community (Papua New Guinea) are allowed to have more than one wife from the moiety opposite to theirs, but access to marriage is age-graded in the sense that most men enter marriage after maturity, while women enter marriage in young age. Securing access to marriage through the life span guarantees high rates of multiple marriages among men. ([Schwimmer](#source-Schwimmer1995) [1995–2003](#source-Schwimmer1995); [Butt](#source-Butt2001) [2001](#source-Butt2001).) This would trigger the answer "yes” to all three questions.
+- In many traditional societies in southern Africa, access to multiple marriage reflected social stratification in the sense that commoners usually had only one wife, while chiefs, nobles, or other elite members of the society had several wives (Schwimmer 1993–2005; [Musisi](#source-Musisi1991) [1991](#source-Musisi1991); [Delius & Glaser](#source-DeliusGlaser2004) [2004](#source-DeliusGlaser2004)). In this context, appropriate answers to "Is polygyny permissible for Focus Group men?" and "Is polygyny permissible for Neighbour Group men?" would be "yes" if access to multiple marriage is shared by Focus and Neighbour Group, but the answer to "Is polygyny permissible for men from all societal strata?" would be "no".
 
 ## Theoretical & Empirical Support
 
@@ -31,4 +31,7 @@ Several explanations have been proposed to account for polygyny as a feature of 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)
+- <a id="source-Schwimmer1995"> </a>Schwimmer, Brian. 1995/2003. Kinship and Social Organization. https://www.umanitoba.ca/faculties/arts/anthropology/tutor/kinmenu.html.
+- <a id="source-Butt2001"> </a>Butt, Leslie. 2001. An Epidemic of Runaway Wives: Discourses by Dani Men on Sex and Marriage in Highlands Irian Jaya, Indonesia. _Crossroads: An Interdisciplinary Journal of Southeast Asian Studies_ 15(1). 55–87.
+- <a id="source-DeliusGlaser2004"> </a>Delius, Peter & Clive Glaser. 2004. The Myths of Polygamy: A History of Extra-Marital and Multi-Partnership Sex in South Africa. _South African Historical Journal_ 50(1). 84–114. doi: [10.1080/02582470409464797](https://doi.org/10.1080/02582470409464797).
+- <a id="source-Musisi1991"> </a>Musisi, Nakanyike B. 1991. Women, "Elite Polygyny," and Buganda State Formation. _Signs_ 16(4). 757–786. University of Chicago Press.

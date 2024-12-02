@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:OT1)
+# OT1: How long have Focus Group and Neighbour Group people been in contact overall?
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OT1)
+Authors: Eri Kashima
 Give an approximate year range.
 ## Goal
 
@@ -24,4 +24,3 @@ The assessment of the duration and density of contact may include the contempora
 
 (a) if it is the only time setting the respondent can answer for,
 (b) if the contemporary situation represents a continuation of contact in the past.
-

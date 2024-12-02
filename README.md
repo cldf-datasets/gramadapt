@@ -10,9 +10,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is a first attempt at collecting socio-cultural-demographic data about contact scenarios, including attempts at quantification as well as qualitative elaborations by respondents.
-
-Respondents were approached as academic collaborators, not as volunteers in an experiment. Respondents were not chosen at random. Respondents were chosen based on their published research and fieldwork experience with either or both Focus and Neighbour language communities.
+The GramAdapt Crosslinguistic Social Contact Dataset is a pioneering dataset with social, cultural, and demographic data about contact scenarios from across the globe. The data mostly concern interactions between a Focus language community and it's Neighbour language community, with 34 contact pairs represented. The data are qualitative with quantitative potential, where language community experts have provided best-assessment answers to questions about social contact in their communities of expertise.
 
 This dataset is licensed under a CC-BY-4.0 license
 

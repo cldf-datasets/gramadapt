@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:OL2)
+# OL2: Ability to read and write in terms of social categories
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OL2)
+Authors: Kaius Sinnemäki
 Is the ability to read and write restricted, in practice to people of:
 
 (Answer Yes/No to the following)

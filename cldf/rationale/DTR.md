@@ -1,6 +1,6 @@
-# [](ContributionTable?__template__=property.md&property=name#cldf:DTR)
+# Trade
 
-Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DTR)
+Authors: Eri Kashima
 
 ## Goal
 
@@ -16,15 +16,17 @@ We define trade narrowly in an attempt to distinguish it from social exchange, e
 
 ## Examples
 
-- Market places in Cameroon ([Connell](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Connell2009) [2009](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Connell2009))
+- Market places in Cameroon ([Connell](#source-Connell2009) [2009](#source-Connell2009))
 - Trade along the Hanseatic networks of northern Europe
 
 ## Theoretical & Empirical Support
 
-Linguistically, trade contexts have been hypothesised as or resulting in a range of linguistic consequences. These include trade jargons (Rickford and McWhorter 1997:240), conventionalised trade registers (e.g. Chinook Jargon, Thomas 1953), and these varieties may even come to be spoken outside the domains of trade (e.g. Pidgin Fijian, [Siegel](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Siegel1987) [1987](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Siegel1987)). These linguistic consequences can arise from different power dynamics in trade, such as between two groups of relatively equal power (e.g. Russenorsk, Pidgin Yimas) or asymmetries in power (e.g. Swahili).
+Linguistically, trade contexts have been hypothesised as or resulting in a range of linguistic consequences. These include trade jargons (Rickford and McWhorter 1997:240), conventionalised trade registers (e.g. Chinook Jargon, Thomas 1953), and these varieties may even come to be spoken outside the domains of trade (e.g. Pidgin Fijian, [Siegel](#source-Siegel1987) [1987](#source-Siegel1987)). These linguistic consequences can arise from different power dynamics in trade, such as between two groups of relatively equal power (e.g. Russenorsk, Pidgin Yimas) or asymmetries in power (e.g. Swahili).
 
-Case studies of language use in trade have also revealed various dynamics at play between individuals, groups, and group conceptualisation. For example [Connell](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Connell2009) ([2009](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Connell2009)) found that language use in a multi-ethnic and multilingual market place of Cameroon shows “language choice appeared most strongly correlated with interactants’ “ethnicity” (p.138). In this case study, Mambila varieties were used among individuals primarily identifying as Mambila, while Grassfields Bantu language Bamoun [bax] was used with visiting Bamoun traders. [Verschik](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Verschik2011) ([2011](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Verschik2011)) found that Finnish tourists and Estonian service providers both may accommodate to each other, although with slightly different strategies due to the amounts of prior exposure of the other language. Both these case studies suggest that the larger language ecology and milieu are indeed reflected linguistically in this inherently relational domain.
+Case studies of language use in trade have also revealed various dynamics at play between individuals, groups, and group conceptualisation. For example [Connell](#source-Connell2009) ([2009](#source-Connell2009)) found that language use in a multi-ethnic and multilingual market place of Cameroon shows “language choice appeared most strongly correlated with interactants’ “ethnicity” (p.138). In this case study, Mambila varieties were used among individuals primarily identifying as Mambila, while Grassfields Bantu language Bamoun [bax] was used with visiting Bamoun traders. [Verschik](#source-Verschik2011) ([2011](#source-Verschik2011)) found that Finnish tourists and Estonian service providers both may accommodate to each other, although with slightly different strategies due to the amounts of prior exposure of the other language. Both these case studies suggest that the larger language ecology and milieu are indeed reflected linguistically in this inherently relational domain.
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)
+- <a id="source-Connell2009"> </a>Connell, Bruce. 2009. Language Diversity and Language Choice: A View from a Cameroon Market. _Anthropological Linguistics_ 51(2). 130–150.
+- <a id="source-Verschik2011"> </a>Verschik, Anna. 2011. Practising Receptive Multilingualism: Estonian-Finnish Communication in Tallinn. _International Journal of Bilingualism_ 16(3). 265–286. doi: [10.1177/1367006911426465](https://doi.org/10.1177/1367006911426465).
+- <a id="source-Siegel1987"> </a>Siegel, Jeff. 1987. _Language Contact in a Plantation Environment: A Sociolinguistic History of Fiji_. (Studies in the Social and Cultural Foundations of Language, 5.) Cambridge: Cambridge University Press.

@@ -702,7 +702,7 @@ class Dataset(BaseDataset):
         )
 
     @contextlib.contextmanager
-    def plot_data(self, name, fmt='png'):
+    def plot_data(self, name, fmt='svg'):
         name = pathlib.Path(name).stem
         try:
             yield self.cldf_reader()
