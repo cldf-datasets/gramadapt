@@ -35,7 +35,7 @@ For contact situations, then, a person who is positively oriented towards a pers
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,BA,Collar2007a;Giles1978a;GilesByrne1982a;GilesJohnson1981;Moore2008a;PalomaresEtAl2016a
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale BA: What is the overall attitude that Focus Group people have towards Neighbour Group people in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,BA,Collar2007a;Giles1978a;GilesByrne1982a;GilesJohnson1981;Moore2008a;PalomaresEtAl2016a
 BH,"BH: How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of domain X?","# [](ContributionTable?__template__=property.md&property=name#cldf:BH)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:BH)
@@ -76,7 +76,7 @@ In this questionnaire we treat overt prestige as one of the many factors that af
 [^1] As [Meyerhoff](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Meyerhoff2011) ([2011](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Meyerhoff2011): 41–42) points out, the traditional notion of *covert prestige* as put forward by [Trudgill](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Trudgill1972) ([1972](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Trudgill1972)) is different to that of local prestige. Trudgill’s use of covert prestige refers to the mismatch between the stated ideals around language varieties versus what speakers were actually producing in speech. For example, a English speaker from Norwich states that local pronunciations of certain words are “better” than the Standard Southern British realisations, but in unmonitored speech would produce the Standard realisation. This, Trudgill argues, is evidence of covert prestige. In this questionnaire we have chosen not to consider this form of covert prestige, since we predict there are few studies that will have such evidence for the speech communities in our sample.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,BH,AkynovaEtAl2014;CouplandBishop2007;Grusky2015;Labov1972;LefkowitzHedgcock2016;Meyerhoff2011;Trudgill1972;VentselStruchkova2015
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,"Eri Kashima. Rationale BH: How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,BH,AkynovaEtAl2014;CouplandBishop2007;Grusky2015;Labov1972;LefkowitzHedgcock2016;Meyerhoff2011;Trudgill1972;VentselStruchkova2015
 BI,BI: What language do Focus Group people expect to be used when interacting with Neighbour Group people in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:BI)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:BI)
@@ -107,7 +107,7 @@ This question about stated language norms is an attempt to capture a small dimen
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,BI,Chernela2013;DiCarloEtAl2019;GalIrvine1995;Pollock2006;Woolard2020
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale BI: What language do Focus Group people expect to be used when interacting with Neighbour Group people in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,BI,Chernela2013;DiCarloEtAl2019;GalIrvine1995;Pollock2006;Woolard2020
 D10,D10: Do Focus Group people experience domain X differently depending on social group?,"# [](ContributionTable?__template__=property.md&property=name#cldf:D10)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D10)
@@ -119,7 +119,7 @@ This question aims to elicit an assessment of the social categories and/or commu
 This question is here in recognition of the fact that not all members of a speech community engage in contact, and that contact experiences differ, in part, based on one’s social background. The answers to this question will help us interpret the answers to the rest of the questionnaire, and which group of people the answers apply to. The answers to this question will also help provide a more nuanced picture of the socio-cultral particularities of a given contact scenario. The answers to this question may also potentially be relevant to understand whether contact-induced linguistic variation and change are likely to rise and spread in this domain.
 
 See D3 for details on social categories.
-",Eri Kashima,,rationale,,,kashima,,,D10,
+",Eri Kashima,Eri Kashima. Rationale D10: Do Focus Group people experience domain X differently depending on social group? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,D10,
 D11,D11: How much influence can the Focus Group exert in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:D11)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D11)
@@ -146,7 +146,7 @@ The power associated with the variety may be related to so-called *overt prestig
 Linguistic behaviours appear to be strongly affected when localised power differences exist between speakers of certain linguistic groups. For example, language stigmatisation is a characteristic of places where there is some kind of superior/inferior relationship stemming from economic, political, and other kinds of social power. Language shift often occurs when minority languages are viewed as being of lower prestige (cf. [Loureiro-Rodriguez et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Loureiro-RodriguezEtAl2013) [2013](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Loureiro-RodriguezEtAl2013); [Potowski](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Potowski2013) [2013](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Potowski2013)). On the other hand, places that have relatively similar kinds of powers in various domains have been observed as having egalitarian attitudes towards other languages, which in turn sustain environments conducive to multilingualism (e.g. [Singer & Harris](sources.bib?ref&with_internal_ref_link&keep_label#cldf:SingerHarris2016) [2016](sources.bib?ref&with_internal_ref_link&keep_label#cldf:SingerHarris2016) for Aboriginal northern Australia; [François](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Francois2012) [2012](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Francois2012) for Vanuatu). In this sense, this question is closely tied to the B-set of questions in this questionnaire (BA, BH, BI), which asks about speakers' beliefs and attitudes towards languages.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,D11,Dodsworth2011;Francois2012;Potowski2013;Loureiro-RodriguezEtAl2013;RauEtAl2009;Romaine2008;SalmonGomezMenjivar2016;SingerHarris2016;Toribio2000;Trudgill1972a
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,Eri Kashima and Francesca Di Garbo. Rationale D11: How much influence can the Focus Group exert in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo,,,D11,Dodsworth2011;Francois2012;Potowski2013;Loureiro-RodriguezEtAl2013;RauEtAl2009;Romaine2008;SalmonGomezMenjivar2016;SingerHarris2016;Toribio2000;Trudgill1972a
 D12,"D12: How often are these speech styles typically used during practices of domain X, in comparison with unmonitored speech? ","# [](ContributionTable?__template__=property.md&property=name#cldf:D12)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D12)
@@ -187,7 +187,7 @@ Irvine and Gal's analysis presents the avoidance register as merely the entry po
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,D12,Bell1984;Coupland2007;Coupland2016;Errington1988;Herbert1990;IrvineGal2000
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,"Eri Kashima. Rationale D12: How often are these speech styles typically used during practices of domain X, in comparison with unmonitored speech? . In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,D12,Bell1984;Coupland2007;Coupland2016;Errington1988;Herbert1990;IrvineGal2000
 D1_DEM02,D1: Domain Detail - Exchange & Marriage (DEM02),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DEM02)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DEM02)
@@ -215,7 +215,7 @@ The scale is as follows:
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,,rationale,,,digarbo,,,D1_DEM02,Chernela2003;Yan2012
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,Francesca Di Garbo. Rationale D1: Domain Detail - Exchange & Marriage (DEM02). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo,,,D1_DEM02,Chernela2003;Yan2012
 D1_DEM26,D1: Exogamic Rules - Exchange & Marriage (DEM26),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DEM26)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DEM26)
@@ -256,7 +256,7 @@ Recent research shows that kinship structures may strongly influence the mapping
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,D1_DEM26,Fleming2016;LansingEtAl2017;Schwimmer1995;Sharma2004;Stanford2010;Stanford2009;Stanford2007;TheEditorsofEncyclopaediaBritannica2016
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale D1: Exogamic Rules - Exchange & Marriage (DEM26). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,D1_DEM26,Fleming2016;LansingEtAl2017;Schwimmer1995;Sharma2004;Stanford2010;Stanford2009;Stanford2007;TheEditorsofEncyclopaediaBritannica2016
 D1_DEM27,D1: Endogamic Rules - Exchange & Marriage (DEM27),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DEM27)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DEM27)
@@ -302,7 +302,7 @@ Rules of endogamy contribute to define group identity, status, and power dynamic
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima and Oona Raatikainen,,rationale,,,digarbo kashima raatikainen,,,D1_DEM27,Blackwell1998;Epps2018;Schwimmer1995;Stirling1965
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima and Oona Raatikainen,Francesca Di Garbo and Eri Kashima and Oona Raatikainen. Rationale D1: Endogamic Rules - Exchange & Marriage (DEM27). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima raatikainen,,,D1_DEM27,Blackwell1998;Epps2018;Schwimmer1995;Stirling1965
 D1_DEM28,D1: Polygyny - Exchange & Marriage (DEM28),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DEM28)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DEM28)
@@ -336,7 +336,7 @@ Several explanations have been proposed to account for polygyny as a feature of 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,D1_DEM28,Butt2001;DeliusGlaser2004;Musisi1991;Schwimmer1995
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale D1: Polygyny - Exchange & Marriage (DEM28). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,D1_DEM28,Butt2001;DeliusGlaser2004;Musisi1991;Schwimmer1995
 D1_DEM29,D1: Polyandry - Exchange & Marriage (DEM29),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DEM29)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DEM29)
@@ -366,7 +366,7 @@ Since polyandry is not possible in any of the investigated groups, the questions
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,D1_DEM29,Berreman1962;Berreman1978;Berreman1980;Goldstein1971;Goldstein1976;Gough1952;Gough1959;Gough1965;Levine1988;Willett1997
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale D1: Polyandry - Exchange & Marriage (DEM29). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,D1_DEM29,Berreman1962;Berreman1978;Berreman1980;Goldstein1971;Goldstein1976;Gough1952;Gough1959;Gough1965;Levine1988;Willett1997
 D1_DEM37,D1: Terms of Marriage Exchange - Exchange & Marriage (DEM37),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DEM37)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DEM37)
@@ -399,7 +399,7 @@ In most societies, marriage has a big impact on the economy of intermarrying gro
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,D1_DEM37,Schwimmer1995
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale D1: Terms of Marriage Exchange - Exchange & Marriage (DEM37). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,D1_DEM37,Schwimmer1995
 D1_DFK02,D1: Domain Detail - Family & Kin (DFK02),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DFK02)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DFK02)
@@ -426,7 +426,7 @@ The answer to this question is treated as one of a number of factors that play a
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,D1_DFK02,DeHouwer2007;Diebold1966;Gough1959a;Harrison1976;Helliwell1992;Thargyal2007;Yamamoto2001
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,Eri Kashima and Francesca Di Garbo. Rationale D1: Domain Detail - Family & Kin (DFK02). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo,,,D1_DFK02,DeHouwer2007;Diebold1966;Gough1959a;Harrison1976;Helliwell1992;Thargyal2007;Yamamoto2001
 D1_DKN02,D1: Domain Detail - Knowledge (DKN02),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DKN02)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DKN02)
@@ -459,7 +459,7 @@ At the stage of writing, we as a project are not familiar with what language cha
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,D1_DKN02,Carlson2001;HeaneyEtAl2020;OmoniyiEtAl2006;Pentikainen1996;SpolskyLambert2006
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale D1: Domain Detail - Knowledge (DKN02). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,D1_DKN02,Carlson2001;HeaneyEtAl2020;OmoniyiEtAl2006;Pentikainen1996;SpolskyLambert2006
 D1_DLB02,D1: Domain Detail - Labour (DLB02),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DLB02)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DLB02)
@@ -498,7 +498,7 @@ Macro studies which investigate language change and diversity sometimes include 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,D1_DLB02,Berry1967;Clyne1994;CoelhoEtAl2019;CollardFoley2002;DerungsEtAl2018;DuffEtAl2000;Epps2017;GavinSibanda2012;Goldstein1997;Leach2018;Nettle1999;PremjiEtAl2008
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale D1: Domain Detail - Labour (DLB02). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,D1_DLB02,Berry1967;Clyne1994;CoelhoEtAl2019;CollardFoley2002;DerungsEtAl2018;DuffEtAl2000;Epps2017;GavinSibanda2012;Goldstein1997;Leach2018;Nettle1999;PremjiEtAl2008
 D1_DLC02,D1: Domain Detail - Local Community (DLC02),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DLC02)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DLC02)
@@ -551,7 +551,7 @@ There are other terms used in linguistics that fall under this notion of monitor
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,D1_DLC02,Bowern2010;Dunbar1993;Eckert1989;GumperzWilson1971;Johnstone2010;Kulkarni-Joshi2016;Labov1972a;LabovEtAl2006;Munson2007;NaessEtAl2010;PoplackTagliamonte1999;Vorren1978
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,Eri Kashima and Francesca Di Garbo. Rationale D1: Domain Detail - Local Community (DLC02). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo,,,D1_DLC02,Bowern2010;Dunbar1993;Eckert1989;GumperzWilson1971;Johnstone2010;Kulkarni-Joshi2016;Labov1972a;LabovEtAl2006;Munson2007;NaessEtAl2010;PoplackTagliamonte1999;Vorren1978
 D1_DTR02,D1: Domain Detail - Trade (DTR02),"# [](ContributionTable?__template__=property.md&property=name#cldf:D1_DTR02)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D1_DTR02)
@@ -578,7 +578,7 @@ This question tries to capture whether there are any asymmetries in trade relati
 The rationale for studying asymmetries in power between Focus and Neighbour groups is based on the analysis that language shift (wholesale or piecemeal) occurs because speakers are either forced to shift or perceive a benefit in shifting towards the language of the more powerful group. Power in this instance is linked to the areas of trade and labour, i.e. socio-economic opportunity. [Benrabah](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Benrabah2014) ([2014](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Benrabah2014)) summarises various measures of a language's power used by a range of researchers, and notable is the recurrent identification of some parameter of economic power (e.g. [Ammon](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Ammon2003) [2003](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Ammon2003); [Mackey](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Mackey1973) [1973](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Mackey1973), 1976; Fishman 1977; [Laponce](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Laponce1987) [1987](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Laponce1987); [Weber](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Weber1999) [1999](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Weber1999)).
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,D1_DTR02,Ammon2003;Benrabah2014;Breton2003;Fishman1965a;Laponce1987;Mackey1973;Mackey1976;Weber1999
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale D1: Domain Detail - Trade (DTR02). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,D1_DTR02,Ammon2003;Benrabah2014;Breton2003;Fishman1965a;Laponce1987;Mackey1973;Mackey1976;Weber1999
 D3,D3: Does involvement in domain X differ based on social categories?,"# [](ContributionTable?__template__=property.md&property=name#cldf:D3)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D3)
@@ -645,7 +645,7 @@ We would say for contemporary urban examples such as London, the social categori
 *Other*: Youth cultures, subcultures, and other communities of practice more broadly ([Eckert](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Eckert2003) [2003](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Eckert2003)).
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,D3,Andersen2001;Bucholtz2010;Cheshire1982;Eckert2003;GermanosMiller2015;Holes1987;Holes1995;Holes2006;Jastrow1990;Johnstone2010;Labov1966;Labov1994;LowLawrence-Zuniga2003;Mansfield2015;MazumdarMazumdar2001;Romaine1984;Sankoff2004;Spolsky2003;Stanford2009;Takano2021;Wagner2012
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,Eri Kashima and Francesca Di Garbo. Rationale D3: Does involvement in domain X differ based on social categories? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo,,,D3,Andersen2001;Bucholtz2010;Cheshire1982;Eckert2003;GermanosMiller2015;Holes1987;Holes1995;Holes2006;Jastrow1990;Johnstone2010;Labov1966;Labov1994;LowLawrence-Zuniga2003;Mansfield2015;MazumdarMazumdar2001;Romaine1984;Sankoff2004;Spolsky2003;Stanford2009;Takano2021;Wagner2012
 D3_DEM31,D3: Social Categories - Exchange & Marriage (DEM31),"# [](ContributionTable?__template__=property.md&property=name#cldf:D3_DEM31)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D3_DEM31)
@@ -674,7 +674,7 @@ _
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,,rationale,,,digarbo,,,D3_DEM31,PakendorfEtAl2011;TheEditorsofEncyclopaediaBritannica2016;LansingEtAl2017
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,Francesca Di Garbo. Rationale D3: Social Categories - Exchange & Marriage (DEM31). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo,,,D3_DEM31,PakendorfEtAl2011;TheEditorsofEncyclopaediaBritannica2016;LansingEtAl2017
 D4_DKN04,D4: Additional Domain Information - Knowledge (DKN04),"# [](ContributionTable?__template__=property.md&property=name#cldf:D4_DKN04)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D4_DKN04)
@@ -710,7 +710,7 @@ Related to this notion of power and influence, it appears that standardised lang
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Ricardo Napoleão de Souza,,rationale,,,kashima desouza,,,D4_DKN04,Fudge2006;Givon1971;Kroskrity1998;Pollock2006;SpolskyLambert2006
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Ricardo Napoleão de Souza,Eri Kashima and Ricardo Napoleão de Souza. Rationale D4: Additional Domain Information - Knowledge (DKN04). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima desouza,,,D4_DKN04,Fudge2006;Givon1971;Kroskrity1998;Pollock2006;SpolskyLambert2006
 D4_DLB04,D4: Additional Domain Information - Labour (DLB04),"# [](ContributionTable?__template__=property.md&property=name#cldf:D4_DLB04)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D4_DLB04)
@@ -739,7 +739,7 @@ Being in positions of authority at work may lead to differential speech styles w
 Hierarchy in profession intersects with other societal variables, so we would not expect hierarchy in work alone to hold explanatory power over language variation. In Kupwar India profession, caste, and religion are highly correlated, so it is not hierarchy at work per se that is affecting language choice but the symbolic relationship between these combined factors. Urdu-speaking Muslims and Hindu “low” castes workers who worked in the farms owned by Kannada-speaking Jains are all said to have spoken Urdu, Kannada, and Marathi the neutral village language ([Gumperz & Wilson](sources.bib?ref&with_internal_ref_link&keep_label#cldf:GumperzWilson1971) [1971](sources.bib?ref&with_internal_ref_link&keep_label#cldf:GumperzWilson1971)), and [Kulkarni-Joshi](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Kulkarni-Joshi2015) ([2015](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Kulkarni-Joshi2015)) notes a local variety of Kannada was spoken by the Muslims and Hindus. The analyses by Guperz, Wilson, and Kulkarni-Joshi is that religious identity and the private sphere primarily informed language choice in Kupwar in he 1950s and 60s, with profession and work being highly correlated with religion and caste.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,D4_DLB04,GumperzWilson1971;Kulkarni-Joshi2015;Takano2000;Takano2001;ThomasonKaufman1988;Yakpo2020
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale D4: Additional Domain Information - Labour (DLB04). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,D4_DLB04,GumperzWilson1971;Kulkarni-Joshi2015;Takano2000;Takano2001;ThomasonKaufman1988;Yakpo2020
 D4_DTR24,D4: Additional Domain Information - Trade (DTR24),"# [](ContributionTable?__template__=property.md&property=name#cldf:D4_DTR24)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D4_DTR24)
@@ -774,7 +774,7 @@ The use of currencies vs barter as a primary means may suggest certain kinds of 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,D4_DTR24,Davies2002;GivonYoung2002;Humphrey_Hugh-Jones_1992;Humphrey1985;OrrellChlupaty2016;Trudgill2011;VohsEtAl2006
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale D4: Additional Domain Information - Trade (DTR24). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,D4_DTR24,Davies2002;GivonYoung2002;Humphrey_Hugh-Jones_1992;Humphrey1985;OrrellChlupaty2016;Trudgill2011;VohsEtAl2006
 D6,D6: Domain Locations,"# [](ContributionTable?__template__=property.md&property=name#cldf:D6)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D6)
@@ -810,7 +810,7 @@ For Australian Aboriginals, language and particular geographic regions are direc
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo and Oona Raatikainen,,rationale,,,kashima digarbo raatikainen,,,D6,AdeniyiBello2007;CooperCarpenter1976;Onyeche2002;Rumsey1993
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo and Oona Raatikainen,Eri Kashima and Francesca Di Garbo and Oona Raatikainen. Rationale D6: Domain Locations. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo raatikainen,,,D6,AdeniyiBello2007;CooperCarpenter1976;Onyeche2002;Rumsey1993
 D6_DFK35_DFK39,"D6: Post-Marriage Residency Practices (DFK35, DFK39)","# [](ContributionTable?__template__=property.md&property=name#cldf:D6_DFK35_DFK39)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D6_DFK35_DFK39)
@@ -845,7 +845,7 @@ Secondly, sociolinguistic descriptions from parts of the world with high levels 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,D6_DFK35_DFK39,Chernela2013;Eggan1950;Evans2012;MurdockEtAl2023;Shih2010;Singer2018;Stanford2009b;Stanford2009a;StanfordEtAl2018
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,"Eri Kashima. Rationale D6: Post-Marriage Residency Practices (DFK35, DFK39). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,D6_DFK35_DFK39,Chernela2013;Eggan1950;Evans2012;MurdockEtAl2023;Shih2010;Singer2018;Stanford2009b;Stanford2009a;StanfordEtAl2018
 D9,D9: Are there any speech styles used in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:D9)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D9)
@@ -890,7 +890,7 @@ If we identify a contact domain as that of highly monitored and/or codified spee
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,D9,Bell1984;Coupland2007;Coupland2009;Coupland2016;Ferguson1982;Haslam2016;Labov1972a;PoplackTagliamonte1999
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,Eri Kashima and Francesca Di Garbo. Rationale D9: Are there any speech styles used in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo,,,D9,Bell1984;Coupland2007;Coupland2009;Coupland2016;Ferguson1982;Haslam2016;Labov1972a;PoplackTagliamonte1999
 D9_DFK38,D9: Kin-Talk (DFK38),"# [](ContributionTable?__template__=property.md&property=name#cldf:D9_DFK38)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:D9_DFK38)
@@ -932,7 +932,7 @@ At the time of writing we are not aware of studies concerning affinal register a
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,D9_DFK38,Blythe2013;Dixon1971;Evans2000;Evans2012;Fleming2014;Garde2014;King2001;KruspeBurenhult2018;McGregor1989;Merlan1981;Mitchell2015;Mitchell2018;Rushforth1981;Stasch2009;Stasch2011
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale D9: Kin-Talk (DFK38). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,D9_DFK38,Blythe2013;Dixon1971;Evans2000;Evans2012;Fleming2014;Garde2014;King2001;KruspeBurenhult2018;McGregor1989;Merlan1981;Mitchell2015;Mitchell2018;Rushforth1981;Stasch2009;Stasch2011
 DEM,Exchange & Marriage: Exchange,"# [](ContributionTable?__template__=property.md&property=name#cldf:DEM)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DEM)
@@ -967,7 +967,7 @@ Gift and ceremonial exchanges can also occur between rival groups, as a form of 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima and Kaius Sinnemäki and Oona Raatikainen,,rationale,,,digarbo kashima sinnemaki raatikainen,,,DEM,Chernela2003a;Malinowski1984;StrathernStewart2012
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima and Kaius Sinnemäki and Oona Raatikainen,Francesca Di Garbo and Eri Kashima and Kaius Sinnemäki and Oona Raatikainen. Rationale Exchange & Marriage: Exchange. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima sinnemaki raatikainen,,,DEM,Chernela2003a;Malinowski1984;StrathernStewart2012
 DFK,Family & Kin,"# [](ContributionTable?__template__=property.md&property=name#cldf:DFK)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DFK)
@@ -1002,7 +1002,7 @@ Finally, affinal relationships are singled out due to the many descriptions that
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,DFK,Bender1967;CoronaEtAl2015a;Garde2014;Goodenough1980;Gough1959;King2001;LansingEtAl2017;Merlan1981;Mitchell2015;Mitchell2018;Rushforth1981;StanfordPan2013a;Stasch2011;Stenzel2005;Yanagisako1979
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale Family & Kin. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,DFK,Bender1967;CoronaEtAl2015a;Garde2014;Goodenough1980;Gough1959;King2001;LansingEtAl2017;Merlan1981;Mitchell2015;Mitchell2018;Rushforth1981;StanfordPan2013a;Stasch2011;Stenzel2005;Yanagisako1979
 DFK09,DFK09: What language do Neighbour Group people typically speak with their Focus Group spouse? ,"# [](ContributionTable?__template__=property.md&property=name#cldf:DFK09)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DFK09)
@@ -1027,7 +1027,7 @@ Cross-linguistic marriages have various consequences for language contact, espec
 Of course levels of input are one of many factors that affect language contact outcomes. Additional factors such as post-marital residence and language attitudes for example also shape language choice within marriages (e.g., [Epps](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Epps2018) [2018](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Epps2018); [Stanford and Pan](sources.bib?ref&with_internal_ref_link&keep_label#cldf:StanfordPan2013) [2013](sources.bib?ref&with_internal_ref_link&keep_label#cldf:StanfordPan2013); summary Pakendorf, Dobrushina, and Khanina 2021 for small-scale multilingual communities; [Potowski](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Potowski2013) [2013](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Potowski2013) for urban contexts). In communities where language shame is attached to languages identified as ""out-group"", children can abandon the active production of their maternal language (e.g. in Sui speaking southern China ala [Stanford](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Stanford2009a) [2009a](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Stanford2009a); Kaveh & Lenz 2021 for children of racially minoritized immigrants in the USA). The levels of input would be one factor that contributes to the configuration of bilingual practices of individuals and communities.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,DFK09,Epps2018;Kashima2020a;KavehLenz2022;PakendorfEtAl2021;Potowski2013;Stanford2009a;StanfordPan2013
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale DFK09: What language do Neighbour Group people typically speak with their Focus Group spouse? . In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,DFK09,Epps2018;Kashima2020a;KavehLenz2022;PakendorfEtAl2021;Potowski2013;Stanford2009a;StanfordPan2013
 DFK29,"DFK29: Typically, how well does a Focus Group person understand the Neighbour Group in-law’s language?","# [](ContributionTable?__template__=property.md&property=name#cldf:DFK29)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DFK29)
@@ -1053,7 +1053,7 @@ For theoretical and empirical support regarding in-put comprehension and languag
 
 We identify in-law relations specifically as this is a relationship that can be linguistically marked as socially significant.  Descriptive works note the importance of these relationships on linguistic behaviour. There are often strong social obligations between in-laws, which seems to result in strong imperatives for audience design and stance taking. (See DFK38)
 
-",Eri Kashima,,rationale,,,kashima,,,DFK29,
+",Eri Kashima,"Eri Kashima. Rationale DFK29: Typically, how well does a Focus Group person understand the Neighbour Group in-law’s language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,DFK29,
 DKN,Knowledge,"# [](ContributionTable?__template__=property.md&property=name#cldf:DKN)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DKN)
@@ -1111,7 +1111,7 @@ Semantic-pragmatic innovations can also be induced through religion and language
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,DKN,Baker2003;Baker2009;Blake2006;Errington2001;Fudge2006;Givon1971;Glowacka1998;Goody1968;Johnson1980;Khachaturyan2017;Kroskrity2004;Muhleisen2007;Piller2012;Sanneh1993;Sanneh1989;Sawyer2006;Schieffelin2007;SpolskyLambert2006;Szabo2015
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale Knowledge. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,DKN,Baker2003;Baker2009;Blake2006;Errington2001;Fudge2006;Givon1971;Glowacka1998;Goody1968;Johnson1980;Khachaturyan2017;Kroskrity2004;Muhleisen2007;Piller2012;Sanneh1993;Sanneh1989;Sawyer2006;Schieffelin2007;SpolskyLambert2006;Szabo2015
 DLB,Labour,"# [](ContributionTable?__template__=property.md&property=name#cldf:DLB)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DLB)
@@ -1144,7 +1144,7 @@ For the purposes of this domains questionnaire, the interactional patterns of th
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,DLB,Berdan1989;DayWagner2008;GumperzWilson1971;HolmesStubbe2015;Katz2000;Li2000;Roberts2010;RobertsSarangi1999;SchultzLavenda1990;Seremetakis2007;Wenke1980;Wolf1982
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale Labour. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,DLB,Berdan1989;DayWagner2008;GumperzWilson1971;HolmesStubbe2015;Katz2000;Li2000;Roberts2010;RobertsSarangi1999;SchultzLavenda1990;Seremetakis2007;Wenke1980;Wolf1982
 DLC,Local Community,"# [](ContributionTable?__template__=property.md&property=name#cldf:DLC)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DLC)
@@ -1179,7 +1179,7 @@ Given that unmonitored speech is identified as a likely locus of linguistic inno
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,DLC,Labov1966;Labov1972a;Sayahi2007
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale Local Community. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,DLC,Labov1966;Labov1972a;Sayahi2007
 DTR,Trade,"# [](ContributionTable?__template__=property.md&property=name#cldf:DTR)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:DTR)
@@ -1209,7 +1209,7 @@ Case studies of language use in trade have also revealed various dynamics at pla
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,DTR,Connell2009;RickfordMcWhorter1997;Thomas1935;Verschik2011;StrathernStewart2012;Siegel1987
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale Trade. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,DTR,Connell2009;RickfordMcWhorter1997;Thomas1935;Verschik2011;StrathernStewart2012;Siegel1987
 E1,"E1: List any other groups that the Focus Group interacted with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this happened.","# [](ContributionTable?__template__=property.md&property=name#cldf:E1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:E1)
@@ -1222,7 +1222,7 @@ We are interested to know about intuitions concerning other sources of language 
 ## Examples
 
 If Focus Group are Estonians of Tallin, and Neighbour Group is Russian: we know that German speaking Hansa traders interacted with Estonian speakers, and there are many German loan words that can be traced to this period of trade. In which case, we would list other group/language as “German Hansa traders” and the linguistic consequence as “loan words”.
-",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,E1,
+",Eri Kashima and Francesca Di Garbo,"Eri Kashima and Francesca Di Garbo. Rationale E1: List any other groups that the Focus Group interacted with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this happened.. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima digarbo,,,E1,
 E4,"E4: What type of data informed your answers to the questions in domain X, overall?","# [](ContributionTable?__template__=property.md&property=name#cldf:E4)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:E4)
@@ -1237,7 +1237,7 @@ Pick as many as relevant:
 ## Goal
 
 Through this question we seek information about what forms the basis of respondents’ answers. We recognise that many of the questions posed in this questionnaire are outside the considerations of most researchers, and that respondents may have consulted various sources in order to respond. This question is an opportunity for respondents to indicate the sources that were consulted.
-",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,E4,
+",Eri Kashima and Francesca Di Garbo,"Eri Kashima and Francesca Di Garbo. Rationale E4: What type of data informed your answers to the questions in domain X, overall? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima digarbo,,,E4,
 E5,E5: How certain are you in your responses for domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:E5)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:E5)
@@ -1252,7 +1252,7 @@ The purpose of this question is to help us qualitatively assess the degrees of c
 
 There will be a similar certainity assessment at the end of the whole questionnaire, where we ask respondents to assess the certainty of certain sets of questions (i.e. the questions about child socialisation, the questions about language attitudes).
 
-",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,E5,
+",Eri Kashima and Francesca Di Garbo,Eri Kashima and Francesca Di Garbo. Rationale E5: How certain are you in your responses for domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo,,,E5,
 I1,I1: What language do Neighbour Group people typically speak when interacting with Focus Group people in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:I1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:I1)
@@ -1283,7 +1283,7 @@ Evidence suggests that statistical learning models can account for language acqu
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo and Kaius Sinnemäki,,rationale,,,kashima digarbo sinnemaki,,,I1,AmbridgeEtAl2015;BarcroftWong2012;Bybee2003;BybeeHopper2001;Ellis2002;EricksonThiessen2015;Gass2018;Lieven2010
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo and Kaius Sinnemäki,Eri Kashima and Francesca Di Garbo and Kaius Sinnemäki. Rationale I1: What language do Neighbour Group people typically speak when interacting with Focus Group people in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo sinnemaki,,,I1,AmbridgeEtAl2015;BarcroftWong2012;Bybee2003;BybeeHopper2001;Ellis2002;EricksonThiessen2015;Gass2018;Lieven2010
 I2,"I2: Typically in domain X, how well do Focus Group people understand the Neighbour Group language?","# [](ContributionTable?__template__=property.md&property=name#cldf:I2)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:I2)
@@ -1316,7 +1316,7 @@ The detailed relationship between comprehension and acquisition appears to be un
 The models of language acquisition implicit in these studies is one of an active type where the learner's target is to produce the target language in a fashion that approximates an abstracted standard. Other types of multilingualisms, such as receptive multilingualism, emphasise communicative ability based on comprehension of the interlocutor's language. In such cases, the relationship between comprehension of input and production is moot. Some degree of comprehension is, however, clearly required to engage in receptive multilingual interaction. The kinds of multilingual interactions engaged in by receptive multilinguals is highly dependent on each other's comprehension of the other's language, and whether they share/have some comprehension of the other's discourse community (e.g. see [Zeevaert](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Zeevaert2007) [2007](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Zeevaert2007))
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,,rationale,,,kashima digarbo,,,I2,EllisEtAl1994;Gass2018;GassMackey2007;Loschky1994;MayoSoler2012;tenThijeZeevaert2007;Zeevaert2007
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo,"Eri Kashima and Francesca Di Garbo. Rationale I2: Typically in domain X, how well do Focus Group people understand the Neighbour Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima digarbo,,,I2,EllisEtAl1994;Gass2018;GassMackey2007;Loschky1994;MayoSoler2012;tenThijeZeevaert2007;Zeevaert2007
 O1,O1: What language do Focus Group people typically speak when interacting with Neighbour Group people?,"# [](ContributionTable?__template__=property.md&property=name#cldf:O1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:O1)
@@ -1349,7 +1349,7 @@ Another caveat is that many SLA studies are based around classroom learning, whe
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo and Kaius Sinnemäki,,rationale,,,kashima digarbo sinnemaki,,,O1,BentzWinter2013;Farley2004;LeeVanPatten2003;Lupke2016;LupyanDale2010;Morgan-ShortBowden2006;RehbeinEtAl2012;SingerHarris2016;Toth2006
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima and Francesca Di Garbo and Kaius Sinnemäki,Eri Kashima and Francesca Di Garbo and Kaius Sinnemäki. Rationale O1: What language do Focus Group people typically speak when interacting with Neighbour Group people? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima digarbo sinnemaki,,,O1,BentzWinter2013;Farley2004;LeeVanPatten2003;Lupke2016;LupyanDale2010;Morgan-ShortBowden2006;RehbeinEtAl2012;SingerHarris2016;Toth2006
 O2,O2: Do Focus Group people typically simplify their language when speaking with Neighbour Group people?,"# [](ContributionTable?__template__=property.md&property=name#cldf:O2)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:O2)
@@ -1393,7 +1393,7 @@ A classic study on similarities between foreigner- and child-directed speech bas
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,O2,Berdicevskis2020;Deen2005;Ferguson1975;ForshawEtAl2017;HatchEtAl1978;Hatch1978;Long1981;Schieffelin1990;UtherEtAl2007
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale O2: Do Focus Group people typically simplify their language when speaking with Neighbour Group people? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,O2,Berdicevskis2020;Deen2005;Ferguson1975;ForshawEtAl2017;HatchEtAl1978;Hatch1978;Long1981;Schieffelin1990;UtherEtAl2007
 O3,"O3: Typically in domain X, how fluently do Focus Group people speak the Neighbour Group language?","# [](ContributionTable?__template__=property.md&property=name#cldf:O3)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:O3)
@@ -1439,7 +1439,7 @@ The second language acquisition literature defines *proficiency in the L2* as a 
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Kaius Sinnemäki and Eri Kashima,,rationale,,,digarbo sinnemaki kashima,,,O3,HousenKuiken2009;Peltonen2023
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Kaius Sinnemäki and Eri Kashima,"Francesca Di Garbo and Kaius Sinnemäki and Eri Kashima. Rationale O3: Typically in domain X, how fluently do Focus Group people speak the Neighbour Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,digarbo sinnemaki kashima,,,O3,HousenKuiken2009;Peltonen2023
 OB1,OB1: Is there an emic conception of Focus Group as “a language” or some other categorical or objective thing? ,"# [](ContributionTable?__template__=property.md&property=name#cldf:OB1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OB1)
@@ -1472,7 +1472,7 @@ The lack of cross-linguistic investigation into the question of whether communit
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OB1,Cummins2021;Grin2018;PakendorfEtAl2021
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale OB1: Is there an emic conception of Focus Group as “a language” or some other categorical or objective thing? . In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,OB1,Cummins2021;Grin2018;PakendorfEtAl2021
 OD1,OD1: What is the number of native-like users of Focus Group language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OD1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OD1)
@@ -1512,7 +1512,7 @@ In this questionnaire we collect data on the number of native speakers so that w
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OD1,BromhamEtAl2015;CantorEtAl2021;GreenhillEtAl2018;KirbyEtAl2016;KirbyEtAl2018;LupyanDale2010;MurdockWhite1969;RavivEtAl2019;RavivEtAl2021;RealiEtAl2018;SinnemakiDiGarbo2018;Trudgill2004;Trudgill2010;Trudgill2011;White2009
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OD1: What is the number of native-like users of Focus Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OD1,BromhamEtAl2015;CantorEtAl2021;GreenhillEtAl2018;KirbyEtAl2016;KirbyEtAl2018;LupyanDale2010;MurdockWhite1969;RavivEtAl2019;RavivEtAl2021;RealiEtAl2018;SinnemakiDiGarbo2018;Trudgill2004;Trudgill2010;Trudgill2011;White2009
 OD3,OD3: What is the number of native-like users of Neighbour Group language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OD3)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OD3)
@@ -1547,7 +1547,7 @@ In this questionnaire we collect data on the number of native speakers so that w
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OD3,BromhamEtAl2015;CantorEtAl2021;GreenhillEtAl2018;KirbyEtAl2016;KirbyEtAl2018c;LupyanDale2010;MurdockWhite1969;RavivEtAl2019;RavivEtAl2021;RealiEtAl2018;SinnemakiDiGarbo2018;Trudgill2004;Trudgill2010;Trudgill2011;White2009
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OD3: What is the number of native-like users of Neighbour Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OD3,BromhamEtAl2015;CantorEtAl2021;GreenhillEtAl2018;KirbyEtAl2016;KirbyEtAl2018c;LupyanDale2010;MurdockWhite1969;RavivEtAl2019;RavivEtAl2021;RealiEtAl2018;SinnemakiDiGarbo2018;Trudgill2004;Trudgill2010;Trudgill2011;White2009
 OD4,OD4: What is the approximate proportion of native-like speakers in the total population of all speakers of the Focus Group language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OD4)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OD4)
@@ -1590,7 +1590,7 @@ Proportion of native-like vs. non-native-like speakers has been used in the typo
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OD4,BentzWinter2013;KirbyEtAl2016;KirbyEtAl2018c;MurdockWhite1969;Sinnemaki2020;SinnemakiDiGarbo2018;White2009
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OD4: What is the approximate proportion of native-like speakers in the total population of all speakers of the Focus Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OD4,BentzWinter2013;KirbyEtAl2016;KirbyEtAl2018c;MurdockWhite1969;Sinnemaki2020;SinnemakiDiGarbo2018;White2009
 OD5,OD5: What is the approximate proportion of native-like speakers in the total population of all speakers of the Neighbour Group language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OD5)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OD5)
@@ -1628,7 +1628,7 @@ Proportion of native-like vs. non-native-like speakers has been used in the typo
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OD5,BentzWinter2013;KirbyEtAl2016;KirbyEtAl2018c;MurdockWhite1969;Sinnemaki2020;SinnemakiDiGarbo2018;White2009
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OD5: What is the approximate proportion of native-like speakers in the total population of all speakers of the Neighbour Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OD5,BentzWinter2013;KirbyEtAl2016;KirbyEtAl2018c;MurdockWhite1969;Sinnemaki2020;SinnemakiDiGarbo2018;White2009
 OG1,OG1: What is the population density within the territory controlled by the Focus Group community?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OG1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OG1)
@@ -1679,7 +1679,7 @@ All in all, population density has been suggested as an important factor that ma
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OG1,bromham2021a;baxter2006a;bloomfield1933a;bowern2010a;bromham2015a;burridge2021a;burridge2017a;coelho2019a;fagyal2010a;hua2019a;Jorgensen1980;KirbyEtAl2016;KirbyEtAl2018c;KirbyEtAl2018d;MurdockWhite1969;MurdockWilson1972;trudgill1974a;wolfram2003a
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OG1: What is the population density within the territory controlled by the Focus Group community? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OG1,bromham2021a;baxter2006a;bloomfield1933a;bowern2010a;bromham2015a;burridge2021a;burridge2017a;coelho2019a;fagyal2010a;hua2019a;Jorgensen1980;KirbyEtAl2016;KirbyEtAl2018c;KirbyEtAl2018d;MurdockWhite1969;MurdockWilson1972;trudgill1974a;wolfram2003a
 OH1,OH1: Have there been any natural disasters or major societal upheaval during the densest period of contact between Focus Group and Neighbour Group that the Focus Group people talk about in so far as it impacted people's mobility?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OH1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OH1)
@@ -1707,7 +1707,7 @@ While societal upheaval or natural disaster may sometimes be the only contributi
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OH1,gruenthal2022a;jahr1999a;askedal2005a;m2000a;lindstedt2020a;Trudgill2011
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OH1: Have there been any natural disasters or major societal upheaval during the densest period of contact between Focus Group and Neighbour Group that the Focus Group people talk about in so far as it impacted people's mobility? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OH1,gruenthal2022a;jahr1999a;askedal2005a;m2000a;lindstedt2020a;Trudgill2011
 OI0,OI0: How would you characterise Focus Group People's language loyalty towards the Focus Language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OI0)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OI0)
@@ -1737,7 +1737,7 @@ Language loyalty is partially related to concepts of language and identity, in t
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OI0,Fishman1966;Gonzalez2008;LePageTabouret-Keller1985;Stanford2009
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale OI0: How would you characterise Focus Group People's language loyalty towards the Focus Language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,OI0,Fishman1966;Gonzalez2008;LePageTabouret-Keller1985;Stanford2009
 OI1,OI1: Is the Focus Group language stated as an expression of identity of any of the following?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OI1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OI1)
@@ -1787,7 +1787,7 @@ The causal role of identity in language variation and change is perhaps causal o
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OI1,BaumanBriggs2000;BucholtzHall2004;Francois2012;Garde2008;GilesJohnson1987;GooskensKurschner2009;Grace1975;Hewitt;IrvineGal2000;Johnstone2010;Khanina2021;King2019;Labov2001;Laycock1982;Lytra2020;Merlan1981;MilroyMargrain1980;Moya2013;MoyaHenrich2016;Mufwene2001;Omoniyi2020;Reed2020;Stanford2009a;Trudgill2008;Trudgill2011;Wolfram1969
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale OI1: Is the Focus Group language stated as an expression of identity of any of the following? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,OI1,BaumanBriggs2000;BucholtzHall2004;Francois2012;Garde2008;GilesJohnson1987;GooskensKurschner2009;Grace1975;Hewitt;IrvineGal2000;Johnstone2010;Khanina2021;King2019;Labov2001;Laycock1982;Lytra2020;Merlan1981;MilroyMargrain1980;Moya2013;MoyaHenrich2016;Mufwene2001;Omoniyi2020;Reed2020;Stanford2009a;Trudgill2008;Trudgill2011;Wolfram1969
 OI3,OI3: Is there a codified standard variety for the Focus Group language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OI3)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OI3)
@@ -1816,7 +1816,7 @@ We are interested in standard varieties as they seem to have an effect of flatte
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki and Eri Kashima and Oona Raatikainen and Anu Hyvönen,,rationale,,,sinnemaki kashima raatikainen hyvonen,,,OI3,Burke2004;Broucier2014;Lodge1993;Lupke2011;Nordlund2012;Penny2002
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki and Eri Kashima and Oona Raatikainen and Anu Hyvönen,Kaius Sinnemäki and Eri Kashima and Oona Raatikainen and Anu Hyvönen. Rationale OI3: Is there a codified standard variety for the Focus Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki kashima raatikainen hyvonen,,,OI3,Burke2004;Broucier2014;Lodge1993;Lupke2011;Nordlund2012;Penny2002
 OI6,"OI6: What are the Focus Group speakers' attitudes towards linguistic transfers from the Neighbour Group, such as lexical or grammatical borrowing?","# [](ContributionTable?__template__=property.md&property=name#cldf:OI6)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OI6)
@@ -1846,7 +1846,7 @@ If the attitudes are strong, it appears that bilingual speakers are capable of k
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OI6,Carvalho2014;Law2014;Rodriguez-Ordonez2019
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,"Kaius Sinnemäki. Rationale OI6: What are the Focus Group speakers' attitudes towards linguistic transfers from the Neighbour Group, such as lexical or grammatical borrowing? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,sinnemaki,,,OI6,Carvalho2014;Law2014;Rodriguez-Ordonez2019
 OI7,"OI7: What are the Focus Group speakers' general attitudes towards linguistic transfer, such as lexical or grammatical borrowing, from any other language other than the Neighbour Group language?","# [](ContributionTable?__template__=property.md&property=name#cldf:OI7)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OI7)
@@ -1876,7 +1876,7 @@ If the attitudes are strong, it appears that bilingual speakers are capable of k
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Oona Raatikainen,,rationale,,,raatikainen,,,OI7,Carvalho2014;Law2014;Rodriguez-Ordonez2019
+[References](Source?cited_only&with_link#cldf:__all__)",Oona Raatikainen,"Oona Raatikainen. Rationale OI7: What are the Focus Group speakers' general attitudes towards linguistic transfer, such as lexical or grammatical borrowing, from any other language other than the Neighbour Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,raatikainen,,,OI7,Carvalho2014;Law2014;Rodriguez-Ordonez2019
 OI8,OI8: How significant is language as part of group identity for the speakers of Focus Group language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OI8)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OI8)
@@ -1905,7 +1905,7 @@ Language is often an important part of group identity. Language identity plays a
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OI8,Carvalho2014;Joseph2004;Law2014;Rodriguez-Ordonez2019;Taylor-Leech2012
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OI8: How significant is language as part of group identity for the speakers of Focus Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OI8,Carvalho2014;Joseph2004;Law2014;Rodriguez-Ordonez2019;Taylor-Leech2012
 OI9,OI9: What are the Focus Group speakers' attitudes towards lectal differences within the Focus Group language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OI9)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OI9)
@@ -1945,7 +1945,7 @@ For more reading, see the many articles in [Geeraerts et al.](sources.bib?ref&wi
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OI9,kroskrity_2023;geeraerts_2010
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OI9: What are the Focus Group speakers' attitudes towards lectal differences within the Focus Group language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OI9,kroskrity_2023;geeraerts_2010
 OL1,OL1: What is the approximate rate of formal literacy in the Focus Group community?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OL1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OL1)
@@ -1991,7 +1991,7 @@ Literacy may also affect the units of language processing in both children and a
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OL1,tarone2010a;tarone2005a;havron2017a;tomlin2018a;speidel2018a;havron2021a;sinnemaeki2019a
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OL1: What is the approximate rate of formal literacy in the Focus Group community? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OL1,tarone2010a;tarone2005a;havron2017a;tomlin2018a;speidel2018a;havron2021a;sinnemaeki2019a
 OL2,OL2: Ability to read and write in terms of social categories,"# [](ContributionTable?__template__=property.md&property=name#cldf:OL2)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OL2)
@@ -2031,7 +2031,7 @@ The following groups are identified:
 ## Theoretical & Empirical Support
 
 For theoretical & empirical support related to social groups, see D3. For theoretical & empirical support related to literacy, see OL1.
-",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OL2,
+",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OL2: Ability to read and write in terms of social categories. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OL2,
 OL3,OL3: Do Focus Group people use some orthography in writing their language?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OL3)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OL3)
@@ -2075,7 +2075,7 @@ Third, the presence of standardized vs. non-standardized orthography may also be
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OL3,hamilton2013a;eberhard2023a;losey2002a;oestman2011a;haan2001a;kroskrity_2023;wright_2012
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OL3: Do Focus Group people use some orthography in writing their language? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OL3,hamilton2013a;eberhard2023a;losey2002a;oestman2011a;haan2001a;kroskrity_2023;wright_2012
 OS1,"OS1: How many levels of jurisdictional hierarchy are there in the Focus Group, beyond the local community?","# [](ContributionTable?__template__=property.md&property=name#cldf:OS1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OS1)
@@ -2116,7 +2116,7 @@ The motivation behind the interest in political complexity is based on observati
 Scales of political complexity may in fact be proxies for social network cohesion ([Skirgård](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Skirgard2021) [2021](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Skirgard2021): 53; c.f. [Grace](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Grace1992) [1992](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Grace1992)), which would link this variable to social network structures as a variable of interest.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OS1,GiulianoNunn2018a;Grace1992;KirbyEtAl2016;KirbyEtAl2018a;MurdockEtAl2023;MurdockEtAl1945;Skirgard2021;CurrieMace2009
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,"Eri Kashima. Rationale OS1: How many levels of jurisdictional hierarchy are there in the Focus Group, beyond the local community? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,OS1,GiulianoNunn2018a;Grace1992;KirbyEtAl2016;KirbyEtAl2018a;MurdockEtAl2023;MurdockEtAl1945;Skirgard2021;CurrieMace2009
 OS2,"OS2: How many levels of jurisdictional hierarchy are there in the Neighbour Group, beyond the local community?","# [](ContributionTable?__template__=property.md&property=name#cldf:OS2)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OS2)
@@ -2166,7 +2166,7 @@ Note it has also been noted that these scales of political complexity may also i
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OS2,CurrieMace2009;GiulianoNunn2018;Grace1992;KirbyEtAl2016;KirbyEtAl2018a;MurdockEtAl1945;MurdockEtAl1999;Skirgard2021
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,"Eri Kashima. Rationale OS2: How many levels of jurisdictional hierarchy are there in the Neighbour Group, beyond the local community? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,OS2,CurrieMace2009;GiulianoNunn2018;Grace1992;KirbyEtAl2016;KirbyEtAl2018a;MurdockEtAl1945;MurdockEtAl1999;Skirgard2021
 OS4,"OS4: Which of the following best characterises the dominant form of Focus Group mobility & sedentism, in regards to subsistence: sedentary, mobile, or mixed?","# [](ContributionTable?__template__=property.md&property=name#cldf:OS4)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OS4)
@@ -2202,7 +2202,7 @@ The consequences of nomadism on linguistic structure appear related to the sprea
 Theoretically, nomadism may have consequences on linguistic structures due to it's social organisation. As has been argued for hunter-gatherers and their linguistic structures, the gross social organisation and interactional patterns of non-agriculturalists may have consequences for linguistic behaviours and long-term linguistic change (though see [Bickel and Nichols](sources.bib?ref&with_internal_ref_link&keep_label#cldf:BickelNichols2020) [2020](sources.bib?ref&with_internal_ref_link&keep_label#cldf:BickelNichols2020) for suggestion that are no structural differences between hunter-gatherer languages and sedentary languages). To the best of our knowledge, there have been no specific studies investigating the relationship between nomadism and linguistic structure, or language contact outcomes.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OS4,BickelNichols2020;Binford2001;BowernEtAl2013;BowernEtAl2021;Eder1978;Elmendorf1960;Khazanov2001;KirbyEtAl2016;KirbyEtAl2018b;Murdock1980;Schalk1978;YunusbayevEtAl2015
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,"Eri Kashima. Rationale OS4: Which of the following best characterises the dominant form of Focus Group mobility & sedentism, in regards to subsistence: sedentary, mobile, or mixed? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,OS4,BickelNichols2020;Binford2001;BowernEtAl2013;BowernEtAl2021;Eder1978;Elmendorf1960;Khazanov2001;KirbyEtAl2016;KirbyEtAl2018b;Murdock1980;Schalk1978;YunusbayevEtAl2015
 OS5,"OS5: Which of the following best characterises the dominant form of Neighbour Group mobility & sedentism, in regards to subsistence: sedentary, mobile, or mixed?","# [](ContributionTable?__template__=property.md&property=name#cldf:OS5)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OS5)
@@ -2237,7 +2237,7 @@ The consequences of nomadism on linguistic structure appear related to the sprea
 Theoretically, nomadism may have consequences on linguistic structures due to it's social organisation. As has been argued for hunter-gatherers and their linguistic structures, the gross social organisation and interactional patterns of non-agriculturalists may have consequences for linguistic behaviours and long-term linguistic change (though see [Bickel and Nichols](sources.bib?ref&with_internal_ref_link&keep_label#cldf:BickelNichols2020) [2020](sources.bib?ref&with_internal_ref_link&keep_label#cldf:BickelNichols2020) for suggestion that are no structural differences between hunter-gatherer languages and sedentary languages). To the best of our knowledge, there have been no specific studies investigating the relationship between nomadism and linguistic structure, or language contact outcomes.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OS5,BickelNichols2020;Binford2001;BowernEtAl2013;BowernEtAl2021;Eder1978;Elmendorf1960;Khazanov2001;KirbyEtAl2016;KirbyEtAl2018b;Murdock1980;Schalk1978;YunusbayevEtAl2015
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,"Eri Kashima. Rationale OS5: Which of the following best characterises the dominant form of Neighbour Group mobility & sedentism, in regards to subsistence: sedentary, mobile, or mixed? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,OS5,BickelNichols2020;Binford2001;BowernEtAl2013;BowernEtAl2021;Eder1978;Elmendorf1960;Khazanov2001;KirbyEtAl2016;KirbyEtAl2018b;Murdock1980;Schalk1978;YunusbayevEtAl2015
 OS6,"OS6: The Focus Group society subsistence pattern can be broadly characterised as hunter-gatherer, fishing, animal husbandry, agricultural (casual, shifting, or permanent), or highly mixed","# [](ContributionTable?__template__=property.md&property=name#cldf:OS6)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OS6)
@@ -2286,7 +2286,7 @@ Other suggestions in the literature link subsistence patterns with behavioural c
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OS6,Bellwood2005;Berry1967;Diamond1997;Gray1999;Janowski2007;KirbyEtAl2016;KirbyEtAl2018;MurdockEtAl1999;Roberts2015;TalhelmEtAl2014
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,"Eri Kashima. Rationale OS6: The Focus Group society subsistence pattern can be broadly characterised as hunter-gatherer, fishing, animal husbandry, agricultural (casual, shifting, or permanent), or highly mixed. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,kashima,,,OS6,Bellwood2005;Berry1967;Diamond1997;Gray1999;Janowski2007;KirbyEtAl2016;KirbyEtAl2018;MurdockEtAl1999;Roberts2015;TalhelmEtAl2014
 OS7,OS7: What is the mean size of Focus Group communities at the local level?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OS7)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OS7)
@@ -2337,7 +2337,7 @@ Humans arrange themselves socially in fairly small populations. [Dunbar](sources
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OS7,Dunbar1993;Gray1999;KirbyEtAl2016;KirbyEtAl2018a;MurdockEtAl1999
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OS7: What is the mean size of Focus Group communities at the local level? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OS7,Dunbar1993;Gray1999;KirbyEtAl2016;KirbyEtAl2018a;MurdockEtAl1999
 OS9,OS9: How frequently do Focus Group people generally interact with out-group people?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OS9)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OS9)
@@ -2368,7 +2368,7 @@ With this question we aim to get a sense of how dense social networks for intera
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,,rationale,,,sinnemaki,,,OS9,FagyalEtAl2010;Lippi-Green1989;MilroyMilroy1985
+[References](Source?cited_only&with_link#cldf:__all__)",Kaius Sinnemäki,Kaius Sinnemäki. Rationale OS9: How frequently do Focus Group people generally interact with out-group people? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,sinnemaki,,,OS9,FagyalEtAl2010;Lippi-Green1989;MilroyMilroy1985
 OT1,OT1: How long have Focus Group and Neighbour Group people been in contact overall?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OT1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OT1)
@@ -2396,7 +2396,7 @@ The assessment of the duration and density of contact may include the contempora
 (a) if it is the only time setting the respondent can answer for,
 (b) if the contemporary situation represents a continuation of contact in the past.
 
-",Eri Kashima,,rationale,,,kashima,,,OT1,
+",Eri Kashima,Eri Kashima. Rationale OT1: How long have Focus Group and Neighbour Group people been in contact overall? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,OT1,
 OT2,OT2: What is the overall time frame when the largest number of people had the most opportunities for interaction?,"# [](ContributionTable?__template__=property.md&property=name#cldf:OT2)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OT2)
@@ -2424,7 +2424,7 @@ We use the label disruptive change to signify any major socio-political and/or n
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,OT2,Bergs2012;Chrisp2005;Dickson2015;Hodder1995;Lindstedt2016;SookiasEtAl2018;Trudgill2020;Wenke1980
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale OT2: What is the overall time frame when the largest number of people had the most opportunities for interaction? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,OT2,Bergs2012;Chrisp2005;Dickson2015;Hodder1995;Lindstedt2016;SookiasEtAl2018;Trudgill2020;Wenke1980
 OV,Overview Questionnaire,"# [](ContributionTable?__template__=property.md&property=name#cldf:OV)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:OV)
@@ -2436,7 +2436,7 @@ The Overview Questionnaire is designed to gain a macro-perspective of the Focus 
 
 Some of the questions, particularly those pertaining to demographics, may be difficult to answer without conducting specific research. If this is the case, please answer to the best of your knowledge, and provide details on sources which we can consult to gather more accurate data.
 
-",Eri Kashima and Kaius Sinnemäki,,rationale,,,kashima sinnemaki,,,OV,
+",Eri Kashima and Kaius Sinnemäki,Eri Kashima and Kaius Sinnemäki. Rationale Overview Questionnaire. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima sinnemaki,,,OV,
 P1,P1: Is domain X a relevant domain of contact between Focus Group and Neighbour Group?,"# [](ContributionTable?__template__=property.md&property=name#cldf:P1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:P1)
@@ -2452,7 +2452,7 @@ For the purposes of this project, language contact is defined as *social contact
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,P1,Aikhenvald2007;deBotBulow2020;LiZhu2013;Matras2009;Muysken2013;Myers-Scotton2005;PfanderSiegel2015;Weinreich1953;Winford2013;Yakpo2020
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale P1: Is domain X a relevant domain of contact between Focus Group and Neighbour Group? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,P1,Aikhenvald2007;deBotBulow2020;LiZhu2013;Matras2009;Muysken2013;Myers-Scotton2005;PfanderSiegel2015;Weinreich1953;Winford2013;Yakpo2020
 P2,P2: How long have Focus Group and Neighbour Group people been in contact in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:P2)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:P2)
@@ -2479,7 +2479,7 @@ The assessment of the duration and density of contact may include the contempora
 
 (a) if it is the only time setting the respondent can answer for,
 (b) if the contemporary situation represents a continuation of contact in the past.
-",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,P2,
+",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale P2: How long have Focus Group and Neighbour Group people been in contact in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,P2,
 P3,P3: What is the time frame when the largest number of people had the most opportunities for interaction in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:P3)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:P3)
@@ -2505,7 +2505,7 @@ Possible ways to delimit the time frame of densest contact:
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,P3,Bergs2012;Chrisp2005;Dickson2015;Hodder1995;Lindstedt2016;SookiasEtAl2018;Trudgill2020a
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale P3: What is the time frame when the largest number of people had the most opportunities for interaction in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,P3,Bergs2012;Chrisp2005;Dickson2015;Hodder1995;Lindstedt2016;SookiasEtAl2018;Trudgill2020a
 P4,"P4: What other languages, if any, are spoken in domain X?","# [](ContributionTable?__template__=property.md&property=name#cldf:P4)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:P4)
@@ -2527,7 +2527,7 @@ Even beyond small-scale multilingual settings, contact between pairs of unrelate
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,P4,DiCarloEtAl2019;DiCarloGood2014;Epps2018;Singer2018
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo and Eri Kashima,"Francesca Di Garbo and Eri Kashima. Rationale P4: What other languages, if any, are spoken in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,digarbo kashima,,,P4,DiCarloEtAl2019;DiCarloGood2014;Epps2018;Singer2018
 S1,S1: How often do Focus Group people interact with Neighbour Group?,"# [](ContributionTable?__template__=property.md&property=name#cldf:S1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:S1)
@@ -2567,7 +2567,7 @@ The untested assumption is that frequency of interactions can be aggregated and 
 While not the primary purpose, this question may also give an indication of shared norms of behaviour in the domain. We may surmise the more frequent the interaction between people, the more likely there are shared norms.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,S1,EasleyKleinberg2010;Lippi-Green1989;MilroyMilroy1985
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale S1: How often do Focus Group people interact with Neighbour Group? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,S1,EasleyKleinberg2010;Lippi-Green1989;MilroyMilroy1985
 S3,S3: How many people are typically involved in interactions between Focus Group and Neighbour Group when interacting in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:S3)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:S3)
@@ -2603,7 +2603,7 @@ What exactly constitutes a dyad-like vs group like configuration varies across s
 We have chosen to follow the [Fay et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:FayEtAl2000) ([2000](sources.bib?ref&with_internal_ref_link&keep_label#cldf:FayEtAl2000)) set up, defining dyad-like as a group of up to five people, while groups of over five are considered more “group like” (see [Fay et al.](sources.bib?ref&with_internal_ref_link&keep_label#cldf:FayEtAl2000) ([2000](sources.bib?ref&with_internal_ref_link&keep_label#cldf:FayEtAl2000)) for empirically grounded rationale). We have chosen this number since real-life interactions of people are rarely completely dyadic, so we surmised that a number of people which still produced a dyad-like effect is sufficient to capture the intended effect of the esoteric communicative condition.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,S3,AtkinsonEtAl2018;FayEllison2013;FayEtAl2000;SchoberClark1989;Simpson2007;Thurston1987;WrayGrace2007
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale S3: How many people are typically involved in interactions between Focus Group and Neighbour Group when interacting in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,S3,AtkinsonEtAl2018;FayEllison2013;FayEtAl2000;SchoberClark1989;Simpson2007;Thurston1987;WrayGrace2007
 S4,S4: How physically proximate to each other are people involved in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:S4)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:S4)
@@ -2638,7 +2638,7 @@ Frequency of interaction is assumed to play some role in contributing to the tot
 The interaction of face-to-face communication as a factor with geographic distance is also stated in Location Theory ([Hägerstrand](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Hagerstrand1967) [[1953] 1967](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Hagerstrand1967)), a theory central in sociolinguistics of variation and change (cf. [Chambers & Trudgill](sources.bib?ref&with_internal_ref_link&keep_label#cldf:ChambersTrudgill1998) [1998](sources.bib?ref&with_internal_ref_link&keep_label#cldf:ChambersTrudgill1998); [Johnstone](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Johnstone2010) [2010](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Johnstone2010): 209). Location Theory posits that “innovation spreads in a community through a network of face-to-face interpersonal communication such that the likelihood of adoption at a given site is higher when it is close to a site of previous adoption” ([Yapa](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Yapa1996) [1996](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Yapa1996): 238). The assumption is that “interaction becomes less frequent as a function of distance” ([Johnstone](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Johnstone2010) [2010](sources.bib?ref&with_internal_ref_link&keep_label#cldf:Johnstone2010): 208).
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,S4,ChambersTrudgill1998;EasleyKleinberg2010;Gooskens2005;Hagerstrand1967;Johnstone2010;NerbonneKleiweg2007;Stanford2012;Yapa1996
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale S4: How physically proximate to each other are people involved in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,S4,ChambersTrudgill1998;EasleyKleinberg2010;Gooskens2005;Hagerstrand1967;Johnstone2010;NerbonneKleiweg2007;Stanford2012;Yapa1996
 S5,S5: How would you rate the overall relationship between Focus Group and Neighbour Group people in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:S5)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:S5)
@@ -2674,7 +2674,7 @@ Hostile relationships in a social network are known to have effects on the balan
 If Focus and Neighbour Group peoples can be characterised as having friendly relationships in one domain, we can take this as as a sign that the social network structure of the contact community within that domain is somewhat dense. On the other hand if the relationships between the two groups are hostile in one domain, we can take this as a sign that the overall social network structure of the contact community in that domain is somewhat loose.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,S5,EasleyKleinberg2010;Friedkin1993;Friedkin1998;Harary1953;HararyKabell1980;Pogany2004;ShiEtAl2007
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale S5: How would you rate the overall relationship between Focus Group and Neighbour Group people in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,S5,EasleyKleinberg2010;Friedkin1993;Friedkin1998;Harary1953;HararyKabell1980;Pogany2004;ShiEtAl2007
 S6,S6: What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:S6)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:S6)
@@ -2705,7 +2705,7 @@ First, while proportion of second language speakers is perhaps a more direct way
 This question is thus related to the issue of population size as a factor that affects language change, and linguistic structure. But because of the difficulty of defining the effect of population size, this question taps into the issue of group size by narrowing “the population” down to the people who are the likely innovators and/or transmitters of linguistic innovation in social contact.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,S6,BentzWinter2013;Greenhill2014;LupyanDale2010;SinnemakiDiGarbo2018
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale S6: What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,S6,BentzWinter2013;Greenhill2014;LupyanDale2010;SinnemakiDiGarbo2018
 S7,S7: What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:S7)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:S7)
@@ -2743,7 +2743,7 @@ First, while proportion of second language speakers is perhaps a more direct way
 This question is thus related to the issue of population size as a factor that affects language change, and linguistic structure. But because of the difficulty of defining the effect of population size, this question taps into the issue of group size by narrowing “the population” down to the people who are the likely innovators and/or transmitters of linguistic innovation in social contact.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,,rationale,,,kashima,,,S7,BentzWinter2013;Greenhill2014;LupyanDale2010;SinnemakiDiGarbo2018
+[References](Source?cited_only&with_link#cldf:__all__)",Eri Kashima,Eri Kashima. Rationale S7: What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,kashima,,,S7,BentzWinter2013;Greenhill2014;LupyanDale2010;SinnemakiDiGarbo2018
 T1,T1: How much do Focus Group children participate in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:T1)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T1)
@@ -2767,7 +2767,7 @@ The criteria for answer selection are described below.
 - *A little*: i.e. just being present in the space of this social domain, but uninvolved in interactions
 - *They practically never participate:* children are not involved in this social domain.
 
-",Francesca Di Garbo and Eri Kashima,,rationale,,,digarbo kashima,,,T1,
+",Francesca Di Garbo and Eri Kashima,Francesca Di Garbo and Eri Kashima. Rationale T1: How much do Focus Group children participate in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo kashima,,,T1,
 T10_DFK23,T10: What language do children typically speak with their Neighbour Group parent? (DFK23),"# [](ContributionTable?__template__=property.md&property=name#cldf:T10_DFK23)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T10_DFK23)
@@ -2801,7 +2801,7 @@ In addition, code-mixing was regularly witnessed throughout the research. It was
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kayleigh Karinen,,rationale,,,karinen,,,T10_DFK23,YipMatthews2006;YipMatthews2007
+[References](Source?cited_only&with_link#cldf:__all__)",Kayleigh Karinen,Kayleigh Karinen. Rationale T10: What language do children typically speak with their Neighbour Group parent? (DFK23). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,karinen,,,T10_DFK23,YipMatthews2006;YipMatthews2007
 T11,"T11: Typically, how much supervision do adults provide to children in domain X?","# [](ContributionTable?__template__=property.md&property=name#cldf:T11)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T11)
@@ -2839,7 +2839,7 @@ Beyond play, adults’ participation in activities involving children may fulfil
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,,rationale,,,digarbo,,,T11,CoronaEtAl2015;Stoll2016;StollEtAl2012;WhitebreadBasilio2013
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,"Francesca Di Garbo. Rationale T11: Typically, how much supervision do adults provide to children in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,digarbo,,,T11,CoronaEtAl2015;Stoll2016;StollEtAl2012;WhitebreadBasilio2013
 T11_DKN27,"T11 (DKN27): Typically, how much structured instruction do adults provide to children in the knowledge domain?","# [](ContributionTable?__template__=property.md&property=name#cldf:T11_DKN27)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T11_DKN27)
@@ -2875,7 +2875,7 @@ Beyond play, adults’ participation in activities involving children may fulfil
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,,rationale,,,digarbo,,,T11_DKN27,CoronaEtAl2015;Stoll2016;StollEtAl2012;WhitebreadBasilio2013
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,"Francesca Di Garbo. Rationale T11 (DKN27): Typically, how much structured instruction do adults provide to children in the knowledge domain? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,digarbo,,,T11_DKN27,CoronaEtAl2015;Stoll2016;StollEtAl2012;WhitebreadBasilio2013
 T2,T2: What language do Neighbour Group adults typically speak to Focus Group children in domain X?,"# [](ContributionTable?__template__=property.md&property=name#cldf:T2)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T2)
@@ -2893,7 +2893,7 @@ This question aims to capture the extent to which interactional dynamics in this
 
 - *The Focus Group language/The Neighbour Group language/Some other language*: So-called monolingual modes of interaction. These options are mutually exclusive, that is, if more than one language is used in interaction, please select the fourth option, ""This is highly contextual”.
 - *This is highly contextual*: encompasses interaction in which more than one language is used, including but not limited to phenomena that come under the umbrella terms ""code-switching"" and/or ""code-mixing"".
-",Francesca Di Garbo,,rationale,,,digarbo,,,T2,
+",Francesca Di Garbo,Francesca Di Garbo. Rationale T2: What language do Neighbour Group adults typically speak to Focus Group children in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo,,,T2,
 T4,"T4: Typically, what language do Focus Group children prefer to speak with Neighbour Group adults in domain X?","# [](ContributionTable?__template__=property.md&property=name#cldf:T4)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T4)
@@ -2924,7 +2924,7 @@ In addition, research in language acquisition and socialization indicates that f
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,,rationale,,,digarbo,,,T4,Davidson2018;Heath1981;Johnson1991;Mishina-Mori2011;Stanford2008
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,"Francesca Di Garbo. Rationale T4: Typically, what language do Focus Group children prefer to speak with Neighbour Group adults in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,digarbo,,,T4,Davidson2018;Heath1981;Johnson1991;Mishina-Mori2011;Stanford2008
 T5,"T5: Typically, what language do Focus Group children speak to Neighbour Group children in domain X?","# [](ContributionTable?__template__=property.md&property=name#cldf:T5)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T5)
@@ -2957,7 +2957,7 @@ The answer to this question is treated as one of a number of factors that play a
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,,rationale,,,digarbo,,,T5,Davidson2018;Paugh2016
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,"Francesca Di Garbo. Rationale T5: Typically, what language do Focus Group children speak to Neighbour Group children in domain X? In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.",rationale,,,digarbo,,,T5,Davidson2018;Paugh2016
 T6,T6: Child socialisation and care in domain X,"# [](ContributionTable?__template__=property.md&property=name#cldf:T6)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T6)
@@ -2991,7 +2991,7 @@ Adding a buffer of one year (from 4 to 5) and asking about the child’s sources
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,,rationale,,,digarbo,,,T6,Davidson2018;Fischer1958;Flavell2004;FrickEtAl2014;GoodwinKyratzis2011;KurrienVo2004;Pauwels2005;RajRaval2013;Stanford2008;Stoll2016
+[References](Source?cited_only&with_link#cldf:__all__)",Francesca Di Garbo,Francesca Di Garbo. Rationale T6: Child socialisation and care in domain X. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,digarbo,,,T6,Davidson2018;Fischer1958;Flavell2004;FrickEtAl2014;GoodwinKyratzis2011;KurrienVo2004;Pauwels2005;RajRaval2013;Stanford2008;Stoll2016
 T7_DFK20,T7: What language do Focus Group parents typically speak with their children? (DFK20),"# [](ContributionTable?__template__=property.md&property=name#cldf:T7_DFK20)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T7_DFK20)
@@ -3023,7 +3023,7 @@ Nowadays, Ryukyuan residents are immersed in a language ecology including varian
 Furthermore, Heinrich’s research (2015) reveals that despite parents possessing a competency in Okinawan, it is reported that only 64% use it “rarely” or “not at all” with only 8% reporting using it “often” and 28% “sometimes”. The research clearly shows that Okinawan-speaking parents are increasingly choosing not to intergenerationally transmit Okinawan to their children. Those of child-bearing age will likely speak this mixed Okinawan-Japanese speech as opposed to speaking to their child in only Okinawan or only Japanese. When an Okinawan-speaking parent’s speech toward their child reflects that of “mixed speech”, the most appropriate answer to this question would be “This is highly contextual”.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kayleigh Karinen,,rationale,,,karinen,,,T7_DFK20,Heinrich2007;Heinrich2016;HeinrichEtAl2009;MaretzkiMaretzki1966
+[References](Source?cited_only&with_link#cldf:__all__)",Kayleigh Karinen,Kayleigh Karinen. Rationale T7: What language do Focus Group parents typically speak with their children? (DFK20). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,karinen,,,T7_DFK20,Heinrich2007;Heinrich2016;HeinrichEtAl2009;MaretzkiMaretzki1966
 T8_DFK21,T8: What language do Neighbour Group parents typically speak with their children? (DFK21),"# [](ContributionTable?__template__=property.md&property=name#cldf:T8_DFK21)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T8_DFK21)
@@ -3053,7 +3053,7 @@ Consider the following scenario, a home environment consisting of a Spanish-spea
 
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kayleigh Karinen,,rationale,,,karinen,,,T8_DFK21,Gomashie2020;Gomashie2021;HillHill1986
+[References](Source?cited_only&with_link#cldf:__all__)",Kayleigh Karinen,Kayleigh Karinen. Rationale T8: What language do Neighbour Group parents typically speak with their children? (DFK21). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,karinen,,,T8_DFK21,Gomashie2020;Gomashie2021;HillHill1986
 T9_DFK22,T9: What language do children typically speak with their Focus Group parent? (DFK22),"# [](ContributionTable?__template__=property.md&property=name#cldf:T9_DFK22)
 
 Authors: [](ContributionTable?__template__=property.md&property=contributor#cldf:T9_DFK22)
@@ -3086,38 +3086,38 @@ Makihara's research on Rapa Nui speech found that some Rapa Nui parents speak to
 In this type of situation, where children’s language choices with their Focus Group parents tend to include more than one code resembling syncretic speech, the most appropriate answer to this question would be “This is highly contextual” despite Spanish language dominance.
 ## References
 
-[References](Source?cited_only&with_link#cldf:__all__)",Kayleigh Karinen,,rationale,,,karinen,,,T9_DFK22,Makihara2005;Makihara2005a
-set01,Nuxalk - North Wakashan,,Hank Nater,,contactset,set01-F,set01-N,nater,kashima,Alaska-Oregon,,
-set02,Burmese - Mon,,Matias Jenny,,contactset,set02-F,set02-N,jenny,raatikainen,Southeast Asia,,
-set03,Kambaata - Wolaytta,,Yvonne Treis & Deginet Wotango Doyiso,,contactset,set03-F,set03-N,treis doyiso,digarbo raatikainen,Greater Abyssinia,,
-set04,Langi - Alagwa,,Hannah Gibson & Maarten Mous,,contactset,set04-F,set04-N,gibson mous,digarbo raatikainen,Southern Africa,,
-set05,Papapana - Rotokas,,Ellen Smith-Dennis,,contactset,set05-F,set05-N,smithdennis,kashima,Oceania,,
-set06a,Maltese - Sicilian,,Joseph Brincat,,contactset,set06a-F,set06a-N,brincat,raatikainen kashima,Europe,,
-set07,Ndebele - Tjwao,,Admire Phiri,,contactset,set07-F,set07-N,phiri,digarbo kashima,Southern Africa,,
-set08,Kwoma - Manambu,,Ross Bowden,,contactset,set08-F,set08-N,bowden,kashima raatikainen,North Coast New Guinea,,
-set09,Korandje - North African Arabic,,Lameen Souag,,contactset,set09-F,set09-N,souag,digarbo raatikainen,North Africa,,
-set10,FLNA-NLNA,,Anonymous,,contactset,set10-F,set10-N,,digarbo kashima,North Africa,,
-set11,Bainounk Gubeeher - Mandinka,,Alexander Cobbinah,,contactset,set11-F,set11-N,cobbinah,kashima,African Savannah,,
-set12,Zaza - Turkish,,Saloumeh Gholami,,contactset,set12-F,set12-N,gholami,raatikainen,Greater Mesopotamia,,
-set13,Ipili - Hewa,,Jerry Jacka,,contactset,set13-F,set13-N,jacka,kashima,Interior New Guinea ,,
-set14,Yuhup - Macuna,,Ana María Ospina Bozzi,,contactset,set14-F,set14-N,bozzi,kashima raatikainen,Northeast South America,,
-set15,Marind - Marori,,Bruno Olsson,,contactset,set15-F,set15-N,olsson,kashima raatikainen,Southern New Guinea,,
-set16,Chipaya - Central Aymara,,Katja Hannß & Matthias Urban,,contactset,set16-F,set16-N,hann urban,digarbo raatikainen,Andean,,
-set17,Temoaya Otomi - Mexican Spanish,,Rosnátaly Avelino,,contactset,set17-F,set17-N,avelino,digarbo raatikainen,Mesoamerica,,
-set18,Mawng - Kunbarlang,,Ruth Singer,,contactset,set18-F,set18-N,singer,kashima raatikainen,North Australia,,
-set19,Alorese - Adang,,Francesca Moro & Yunus Sulistyono,,contactset,set19-F,set19-N,moro sulistyono,kashima raatikainen,Oceania,,
-set20,Santali - Bengali,,Arun Ghosh,,contactset,set20-F,set20-N,ghosh,raatikainen,Indic,,
-set21,Bade - Manga Kanuri,,Georg Ziegelmeyer,,contactset,set21-F,set21-N,ziegelmeyer,digarbo kashima,African Savannah,,
-set22,Muak Sa-aak - Tau Lü,,Elizabeth Hall,,contactset,set22-F,set22-N,hall,raatikainen kashima,Southeast Asia,,
-set23,Sibe - Uighur,,Veronika Zikmundová,,contactset,set23-F,set23-N,zikmundova,digarbo raatikainen,Inner Asia,,
-set24,Toba - Spanish,,Cristina Messineo & Paola Cúneo & Agustina Paredes & Nicolás Brid & Ana Blanco,,contactset,set24-F,set24-N,messineo cuneo paredes brid blanco,raatikainen,Southeast South America,,
-set25,Western Toba - Wichí,,María Belén Carpio & Marcela Mendoza,,contactset,set25-F,set25-N,carpio mendoza,raatikainen,Southeast South America,,
-set26,Garifuna - Galibi,,Michelle Ocasio,,contactset,set26-F,set26-N,ocasio,kashima,Mesoamerica,,
-set27,Paluai - Tok Pisin,,Dineke Schokkin,,contactset,set27-F,set27-N,schokkin,digarbo kashima,North Coast New Guinea,,
-set28,Nen - Idi,,Eri Kashima & Dineke Schokkin,,contactset,set28-F,set28-N,kashima schokkin,digarbo raatikainen,Southern New Guinea,,
-set29,Burarra - Yolngu Matha,,Jill Vaughan,,contactset,set29-F,set29-N,vaughan,kashima,North Australia,,
-set30,South Saami - NorwegianSwedish,,Richard Kowalik,,contactset,set30-F,set30-N,kowalik,raatikainen kashima,Europe,,
-set31,Kupwar Marathi - Kupwar Kannada,,Sonal Kulkarni-Joshi,,contactset,set31-F,set31-N,kulkarnijoshi,kashima,Indic,,
-set32,Yurok - Karuk,,Hannah Haynie,,contactset,set32-F,set32-N,haynie,raatikainen,California,,
-set33,Aleut - Eyak,,Anna Berge,,contactset,set33-F,set33-N,berge,raatikainen,Alaska-Oregon,,
-set34,Wutun - Bonan,,Erika Sandman,,contactset,set34-F,set34-N,sandman,kashima,Inner Asia,,
+[References](Source?cited_only&with_link#cldf:__all__)",Kayleigh Karinen,Kayleigh Karinen. Rationale T9: What language do children typically speak with their Focus Group parent? (DFK22). In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,rationale,,,karinen,,,T9_DFK22,Makihara2005;Makihara2005a
+set01,Nuxalk - North Wakashan,,Hank Nater,Hank Nater. set01: Nuxalk and North Wakashan. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set01-F,set01-N,nater,kashima,Alaska-Oregon,,
+set02,Burmese - Mon,,Matias Jenny,Matias Jenny. set02: Burmese and Mon. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set02-F,set02-N,jenny,raatikainen,Southeast Asia,,
+set03,Kambaata - Wolaytta,,Yvonne Treis & Deginet Wotango Doyiso,Yvonne Treis & Deginet Wotango Doyiso. set03: Kambaata and Wolaytta. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set03-F,set03-N,treis doyiso,digarbo raatikainen,Greater Abyssinia,,
+set04,Langi - Alagwa,,Hannah Gibson & Maarten Mous,Hannah Gibson & Maarten Mous. set04: Langi and Alagwa. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set04-F,set04-N,gibson mous,digarbo raatikainen,Southern Africa,,
+set05,Papapana - Rotokas,,Ellen Smith-Dennis,Ellen Smith-Dennis. set05: Papapana and Rotokas. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set05-F,set05-N,smithdennis,kashima,Oceania,,
+set06a,Maltese - Sicilian,,Joseph Brincat,Joseph Brincat. set06a: Maltese and Sicilian. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set06a-F,set06a-N,brincat,raatikainen kashima,Europe,,
+set07,Ndebele - Tjwao,,Admire Phiri,Admire Phiri. set07: Ndebele and Tjwao. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set07-F,set07-N,phiri,digarbo kashima,Southern Africa,,
+set08,Kwoma - Manambu,,Ross Bowden,Ross Bowden. set08: Kwoma and Manambu. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set08-F,set08-N,bowden,kashima raatikainen,North Coast New Guinea,,
+set09,Korandje - North African Arabic,,Lameen Souag,Lameen Souag. set09: Korandje and North African Arabic. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set09-F,set09-N,souag,digarbo raatikainen,North Africa,,
+set10,FLNA-NLNA,,Anonymous,Anonymous. set10: FLNA and NLNA. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set10-F,set10-N,,digarbo kashima,North Africa,,
+set11,Bainounk Gubeeher - Mandinka,,Alexander Cobbinah,Alexander Cobbinah. set11: Bainounk Gubeeher and Mandinka. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set11-F,set11-N,cobbinah,kashima,African Savannah,,
+set12,Zaza - Turkish,,Saloumeh Gholami,Saloumeh Gholami. set12: Zaza and Turkish. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set12-F,set12-N,gholami,raatikainen,Greater Mesopotamia,,
+set13,Ipili - Hewa,,Jerry Jacka,Jerry Jacka. set13: Ipili and Hewa. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set13-F,set13-N,jacka,kashima,Interior New Guinea ,,
+set14,Yuhup - Macuna,,Ana María Ospina Bozzi,Ana María Ospina Bozzi. set14: Yuhup and Macuna. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set14-F,set14-N,bozzi,kashima raatikainen,Northeast South America,,
+set15,Marind - Marori,,Bruno Olsson,Bruno Olsson. set15: Marind and Marori. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set15-F,set15-N,olsson,kashima raatikainen,Southern New Guinea,,
+set16,Chipaya - Central Aymara,,Katja Hannß & Matthias Urban,Katja Hannß & Matthias Urban. set16: Chipaya and Central Aymara. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set16-F,set16-N,hann urban,digarbo raatikainen,Andean,,
+set17,Temoaya Otomi - Mexican Spanish,,Rosnátaly Avelino,Rosnátaly Avelino. set17: Temoaya Otomi and Mexican Spanish. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set17-F,set17-N,avelino,digarbo raatikainen,Mesoamerica,,
+set18,Mawng - Kunbarlang,,Ruth Singer,Ruth Singer. set18: Mawng and Kunbarlang. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set18-F,set18-N,singer,kashima raatikainen,North Australia,,
+set19,Alorese - Adang,,Francesca Moro & Yunus Sulistyono,Francesca Moro & Yunus Sulistyono. set19: Alorese and Adang. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set19-F,set19-N,moro sulistyono,kashima raatikainen,Oceania,,
+set20,Santali - Bengali,,Arun Ghosh,Arun Ghosh. set20: Santali and Bengali. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set20-F,set20-N,ghosh,raatikainen,Indic,,
+set21,Bade - Manga Kanuri,,Georg Ziegelmeyer,Georg Ziegelmeyer. set21: Bade and Manga Kanuri. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set21-F,set21-N,ziegelmeyer,digarbo kashima,African Savannah,,
+set22,Muak Sa-aak - Tau Lü,,Elizabeth Hall,Elizabeth Hall. set22: Muak Sa-aak and Tai Lü. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set22-F,set22-N,hall,raatikainen kashima,Southeast Asia,,
+set23,Sibe - Uighur,,Veronika Zikmundová,Veronika Zikmundová. set23: Sibe and Uighur. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set23-F,set23-N,zikmundova,digarbo raatikainen,Inner Asia,,
+set24,Toba - Spanish,,Cristina Messineo & Paola Cúneo & Agustina Paredes & Nicolás Brid & Ana Blanco,Cristina Messineo & Paola Cúneo & Agustina Paredes & Nicolás Brid & Ana Blanco. set24: Toba and Spanish. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set24-F,set24-N,messineo cuneo paredes brid blanco,raatikainen,Southeast South America,,
+set25,Western Toba - Wichí,,María Belén Carpio & Marcela Mendoza,María Belén Carpio & Marcela Mendoza. set25: Western Toba and Wichí. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set25-F,set25-N,carpio mendoza,raatikainen,Southeast South America,,
+set26,Garifuna - Galibi,,Michelle Ocasio,Michelle Ocasio. set26: Garifuna and Galibi Carib. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set26-F,set26-N,ocasio,kashima,Mesoamerica,,
+set27,Paluai - Tok Pisin,,Dineke Schokkin,Dineke Schokkin. set27: Paluai and Tok Pisin. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set27-F,set27-N,schokkin,digarbo kashima,North Coast New Guinea,,
+set28,Nen - Idi,,Eri Kashima & Dineke Schokkin,Eri Kashima & Dineke Schokkin. set28: Nen and Idi. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set28-F,set28-N,kashima schokkin,digarbo raatikainen,Southern New Guinea,,
+set29,Burarra - Yolngu Matha,,Jill Vaughan,Jill Vaughan. set29: Burarra and Yolngu Matha. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set29-F,set29-N,vaughan,kashima,North Australia,,
+set30,South Saami - NorwegianSwedish,,Richard Kowalik,Richard Kowalik. set30: South Saami and NorwegianSwedish. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set30-F,set30-N,kowalik,raatikainen kashima,Europe,,
+set31,Kupwar Marathi - Kupwar Kannada,,Sonal Kulkarni-Joshi,Sonal Kulkarni-Joshi. set31: Kupwar Marathi and Kupwar Kannada. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set31-F,set31-N,kulkarnijoshi,kashima,Indic,,
+set32,Yurok - Karuk,,Hannah Haynie,Hannah Haynie. set32: Yurok and Karok. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set32-F,set32-N,haynie,raatikainen,California,,
+set33,Aleut - Eyak,,Anna Berge,Anna Berge. set33: Aleut and Eyak. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set33-F,set33-N,berge,raatikainen,Alaska-Oregon,,
+set34,Wutun - Bonan,,Erika Sandman,Erika Sandman. set34: Wutun and Bonan. In Eri Kashima and Francesca Di Garbo and Oona Raatikainen and Kaius Sinnemäki and Ricardo Napoleão de Souza and Anu Hyvönen and Kayleigh Karinen (eds.). GramAdapt Crosslinguistic Social Contact Dataset.,contactset,set34-F,set34-N,sandman,kashima,Inner Asia,,

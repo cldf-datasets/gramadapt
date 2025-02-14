@@ -19,6 +19,30 @@ cldf createdb cldf/ gramadapt.sqlite
 The schema of the resulting database looks as follows
 ![](erd.svg)
 
+The database can now be queried, for example using [`sqlite3` - the command line shell for SQLite](https://www.sqlite.org/cli.html).
+In the following we will describe queries by giving the SQL code of the query, followed by a
+table listing the results. `sqlite3` can be used to run the query either by interactively providing the
+SQL
+```shell
+$ sqlite3 gramadapt.sqlite 
+SQLite version 3.45.1 2024-01-30 16:01:20
+Enter ".help" for usage hints.
+sqlite> select count(*) from valuetable;
+13097
+```
+or by providing the SQL as [input](https://swcarpentry.github.io/shell-novice/04-pipefilter.html) for
+`sqlite3`:
+```shell
+$ echo "select count(*) as nvalues from valuetable" | sqlite3 -header gramadapt.sqlite 
+nvalues
+13097
+```
+possibly from a file:
+```shell
+$ sqlite3 gramadapt.sqlite < query.sql 
+13097
+```
+
 
 ## Datatypes
 
@@ -33,7 +57,16 @@ GramAdapt contains questions with responses of the following datatypes:
 
 The distribution of datatypes is
 ```sql
-sqlite> select datatype, count(cldf_id) as c from parametertable group by datatype order by c desc;
+select 
+   coalesce(datatype, 'none') as datatype, 
+   count(cldf_id) as nquestions 
+from parametertable 
+group by datatype 
+order by nquestions desc;
+```
+
+datatype|nquestions
+--- | ---:
 Binary-YesNo|141
 Scalar|112
 Types|65
@@ -41,14 +74,18 @@ Comment|34
 Value|28
 TypesMultiple|6
 TypesSequential|4
-|2
-```
+none|2
+
 
 Except for datatypes `Value` and `Comment`, all valid responses are linked to a "code", i.e. a row in
 `CodeTable` (via `cldf_codeReference`). The list of valid responses for such questions can be computed
 as shown here for the question with ID `OS7``:
 ```sql
-sqlite> select cldf_id, cldf_name from codetable where cldf_parameterreference = 'OS7';
+select cldf_id, cldf_name from codetable where cldf_parameterreference = 'OS7';
+```
+
+cldf_id|cldf_name
+--- | ---
 OS7-1|Fewer than 50 persons
 OS7-2|From 50 to 99 persons
 OS7-3|From 100 to 199 persons
@@ -57,8 +94,6 @@ OS7-5|From 400 to 1,000 persons
 OS7-6|More than 1,000 persons in the absence of indigenous urban aggregations
 OS7-7|One or more indigenous towns of more than 5,000 inhabitants but none of more than 50,000
 OS7-B|B
-```
-
 
 
 ## Missing data
@@ -101,49 +136,57 @@ specific social domain.
 
 Questions that are grouped with others in this way can be explored using the following SQL:
 ```sql
-sqlite> select q.cldf_id, count(p.cldf_id) as c, q.cldf_name from parametertable as p, "questions.csv" as q where q.cldf_id = p.question_id group by p.question_id having c > 1 order by c desc;
+select 
+   q.cldf_id as QID, 
+   count(p.cldf_id) as nsubquestions, 
+   q.cldf_name as base_question 
+from parametertable as p
+join "questions.csv" as q 
+     on q.cldf_id = p.question_id 
+group by p.question_id having nsubquestions > 1 
+order by nsubquestions desc;
 ```
 
-QID | sub-question count | base question
---- | --- | ---
-DTR03|9|Involvement in trade
-DLC25|9|Involvement in the Local Community
-DLB03|9|Involvement in work
-DKN03|9|Involvement in the knowledge domain
-DEM03|9|Social categories
-OL2|7|Restrictions in access to literacy in terms of social categories
-DTR02|6|Traded good types
-OI1|5|Is Focus Group stated as an expression of identity?
-DFK04|5|Looking after children
-DEM27|5|Marrying within
-DEM26|5|Marrying out
-DTR27|4|Looking after children during trade
-DLC03|4|Looking after children in the local community
-DLB21|4|Looking after children during work
-DKN23|4|Looking after children in the knowledge domain
-DEM39|4|Child socialisation
-DEM30|4|Child rearing obligations
-OT2|3|What is the overall time frame when the largest number of people had the most opportunities for interaction?
-OT1|3|How long have Focus Group and Neighbour Group people been in contact overall?
-DTR0b|3|What is the time frame when the largest number of people had the most opportunities for interaction in trade?
-DTR0a|3|How long have Focus Group and Neighbour Group people traded for?
-DLC0b|3|What is the time frame when the largest number of people had the most opportunities for interaction in the local community?
-DLC0a|3|How long have Focus Group and Neighbour Group people been in contact in the local community?
-DLB0b|3|What is the time frame when the largest number of people had the most opportunities for interaction in the labour domain?
-DLB0a|3|How long have Focus Group people and Neighbour Group people worked together for?
-DKN0b|3|What is the time frame when the largest number of people had the most opportunities for interaction in the knowledge domain?
-DKN0a|3|How long have Focus Group and Neighbour Group people been involved in the knowledge domain together for?
-DFK38|3|Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws?
-DFK0b|3|What’s the time frame of densest contact between Focus Group and Neighbour Group as far as family formation is concerned?
-DFK0a|3|How long have Focus Group and Neighbour Group peoples been forming families with each other for?
-DFK02|3|Co-residential units
-DEM37|3|What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry?
-DEM28|3|Polygyny
-DEM0b|3|What is the time frame when the largest number of people had the most opportunities for interaction in exchange?
-DEM0a|3|How long have Focus Group and Neighbour Group people practised exchange for?
-DEM02|3|Characteristic of the domain of Exchange
-DEM31|2|Intermarriage
-DEM29|2|Polyandry
+QID | nsubquestions | base_question
+--- |---------------| ---
+DTR03| 9             |Involvement in trade
+DLC25| 9             |Involvement in the Local Community
+DLB03| 9             |Involvement in work
+DKN03| 9             |Involvement in the knowledge domain
+DEM03| 9             |Social categories
+OL2| 7             |Restrictions in access to literacy in terms of social categories
+DTR02| 6             |Traded good types
+OI1| 5             |Is Focus Group stated as an expression of identity?
+DFK04| 5             |Looking after children
+DEM27| 5             |Marrying within
+DEM26| 5             |Marrying out
+DTR27| 4             |Looking after children during trade
+DLC03| 4             |Looking after children in the local community
+DLB21| 4             |Looking after children during work
+DKN23| 4             |Looking after children in the knowledge domain
+DEM39| 4             |Child socialisation
+DEM30| 4             |Child rearing obligations
+OT2| 3             |What is the overall time frame when the largest number of people had the most opportunities for interaction?
+OT1| 3             |How long have Focus Group and Neighbour Group people been in contact overall?
+DTR0b| 3             |What is the time frame when the largest number of people had the most opportunities for interaction in trade?
+DTR0a| 3             |How long have Focus Group and Neighbour Group people traded for?
+DLC0b| 3             |What is the time frame when the largest number of people had the most opportunities for interaction in the local community?
+DLC0a| 3             |How long have Focus Group and Neighbour Group people been in contact in the local community?
+DLB0b| 3             |What is the time frame when the largest number of people had the most opportunities for interaction in the labour domain?
+DLB0a| 3             |How long have Focus Group people and Neighbour Group people worked together for?
+DKN0b| 3             |What is the time frame when the largest number of people had the most opportunities for interaction in the knowledge domain?
+DKN0a| 3             |How long have Focus Group and Neighbour Group people been involved in the knowledge domain together for?
+DFK38| 3             |Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws?
+DFK0b| 3             |What’s the time frame of densest contact between Focus Group and Neighbour Group as far as family formation is concerned?
+DFK0a| 3             |How long have Focus Group and Neighbour Group peoples been forming families with each other for?
+DFK02| 3             |Co-residential units
+DEM37| 3             |What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry?
+DEM28| 3             |Polygyny
+DEM0b| 3             |What is the time frame when the largest number of people had the most opportunities for interaction in exchange?
+DEM0a| 3             |How long have Focus Group and Neighbour Group people practised exchange for?
+DEM02| 3             |Characteristic of the domain of Exchange
+DEM31| 2             |Intermarriage
+DEM29| 2             |Polyandry
 
 
 ## Time-range questions

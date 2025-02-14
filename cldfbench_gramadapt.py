@@ -13,10 +13,14 @@ from matplotlib import pyplot as plt
 
 from lib.rationale import Rationale
 
-#  removal of DEM29-3
-#> and DEM29-4 from the set.
-
 NOTES = """
+This dataset provides the data of the earlier released "raw" data (see above) formatted as 
+[CLDF StructureDataset](https://cldf.clld.org). It also includes the
+[rationales for the questionnaire construction](cldf/rationale/), as a set of short documents
+formatted in Markdown. The relevant rationales for each group of questions are listed in the
+column *Rationale* in [cldf/questions.csv](cldf/questions.csv).
+
+
 ## Contact pairs
 
 ![](map.svg)
@@ -33,33 +37,47 @@ For detailed descriptions of the tables and columns refer to [cldf/README.md](cl
 
 ### Respondent comments vs Reviewer comments
 
-Comments are directly written by the authors of the respective set. For multiauthor sets, the specific respondent can be identified by the name associated with the particular answer by looking at the `Respondent` column in the `ValueTable`.
+Comments are directly written by the authors of the respective set. For multiauthor sets, the specific
+respondent can be identified by the name associated with the particular answer by looking at the
+`Respondent` column in the `ValueTable`.
 
 Any comments in [square brackets] are those included by the editorial team for clarification.
 
 
 ### About the timeframe
 
-Each contact set is unique in terms of the timeframe they respond for. We urge researchers who use this dataset to read the `Value` and `Comment` columns in `ValueTable` for answers to questions marked as timeframe comments (via the `Is_Timeframe_Comment` in `ParameterTable`) carefully for each set, to get a sense of the heterogeneity of timeframes represented in each set, as well as the whole dataset.
+Each contact set is unique in terms of the timeframe they respond for. We urge researchers who use
+this dataset to read the `Value` and `Comment` columns in `ValueTable` for answers to questions
+marked as timeframe comments (via the `Is_Timeframe_Comment` in `ParameterTable`) carefully for each
+set, to get a sense of the heterogeneity of timeframes represented in each set, as well as the whole
+dataset.
 
-The timeframes given are broad and coarse approximations, often negotiated between the respondent and reviewer. These timeframes are to be used with caution. Always read the associated comments.
+The timeframes given are broad and coarse approximations, often negotiated between the respondent
+and reviewer. These timeframes are to be used with caution. Always read the associated comments.
 
-An end date of 2020 (or later) indicates that social contact is ongoing at the time of data collection in 2021. 
+An end date of 2020 (or later) indicates that social contact is ongoing at the time of data
+collection in 2021. 
 
 
 ### Idiosyncratic contact sets
 
 Set26 "Garifuna - Galibi" only contains responses for the Overview.
-Set10 "FLNA - NLNA" and set22 "Muak Sa-aak - Tai Lue" have restricted public access to the data; see "Data Sensitivity" section below.
+Set10 "FLNA - NLNA" and set22 "Muak Sa-aak - Tai Lue" have restricted public access to the data;
+see "Data Sensitivity" section below.
 
 
 ### Data Sensitivity
 
 The respondents of sets 10 and 22 have requested access restrictions to their respective datasets. 
 
-The respondent of set10 has requested to have community identifying names anonymised. The respondent name for set 10 has also been anonymised. If you wish to access the community identifying names for set10, please contact Kaius Sinnemäki at the University of Helsinki, and he will get in contact with the author of set10. 
+The respondent of set10 has requested to have community identifying names anonymised. The
+respondent name for set 10 has also been anonymised. If you wish to access the community
+identifying names for set10, please contact Kaius Sinnemäki at the University of Helsinki, and he
+will get in contact with the author of set10. 
 
-The respondent for set22 has requested to make certain comments publicly invisible, due to their potentially sensitive nature. If you wish to access the invisible comments of set 22, please contact the author directly.
+The respondent for set22 has requested to make certain comments publicly invisible, due to their
+potentially sensitive nature. If you wish to access the invisible comments of set 22, please
+contact the author directly.
 
 """
 
@@ -129,7 +147,8 @@ def norm_question(d):
 
 def norm(rows, col):
     """
-    Normalize content in the dicts in rows by setting the value for col to the most frequent value in rows.
+    Normalize content in the dicts in rows by setting the value for col to the most frequent value
+    in rows.
     """
     counts = collections.Counter([row[col] for row in rows])
     selected = counts.most_common(1)[0][0]
@@ -203,17 +222,16 @@ class Dataset(BaseDataset):
         return
 
     def cmd_readme(self, args):
+        """
+        Create rendered rationales, i.e. expand dataset object references.
+        """
         from cldfviz.text import render
-        sections = collections.Counter()
         cldf = self.cldf_reader()
         for contrib in cldf.objects('ContributionTable'):
             if contrib.cldf.description:
                 res = render(contrib.cldf.description, cldf, template_dir=self.etc_dir)
                 self.cldf_dir.joinpath(
                     'rationale', '{}.md'.format(contrib.id)).write_text(res, encoding='utf8')
-                #print(res)
-        for k, v in sections.most_common():
-            print(k, v)
         return add_markdown_text(BaseDataset.cmd_readme(self, args), NOTES, section='Description')
 
     def cmd_makecldf(self, args):  # called from "cldfbench makecldf"
@@ -239,9 +257,16 @@ class Dataset(BaseDataset):
 
         authors, contributors = get_creators_and_contributors(
             self.dir.joinpath('CONTRIBUTORS.md').read_text(encoding='utf8'))
-        editors = {c['id']: c['name'] for c in authors if c['id']}
+        editors = collections.OrderedDict((c['id'], c['name']) for c in authors if c['id'])
         respondents = {c['name']: False for c in authors + contributors}
         assert len(respondents) == len({slug(HumanName(n).last) for n in respondents})
+
+        def citation(author, title):
+            return "{}. {}. In {} (eds.). GramAdapt Crosslinguistic Social Contact Dataset.".format(
+                author,
+                title,
+                ' and '.join(ed for ed in editors.values() if ed != 'Robert Forkel')).replace(
+                '?.', '?')
 
         for p in sorted(self.dir.joinpath('rationale').glob('*.md'), key=lambda pp: pp.stem):
             r = Rationale.from_path(p)
@@ -255,10 +280,9 @@ class Dataset(BaseDataset):
                 Source=[s.id for s in r.references],
                 Type='rationale',
                 Document=r.id,
-                # FIXME: Citation:
-                # Kashima, Eri & Schokkin, Dineke. Set28: Nen and Idi.
-                # In Eri Kashima, Francesca Di Garbo, Oona Raatikainen, Rosnátaly Avelino, Sacha Beck, Anna Berge, Ana Blanco, Ross Bowden, Nicolás Brid, Joseph M Brincat, María Belén Carpio, Alexander Cobbinah, Paola Cúneo, Anne-Maria Fehn, Saloumeh Gholami, Arun Ghosh, Hannah Gibson, Elizabeth Hall, Katja Hannß, Hannah Haynie, Jerry Jacka, Matias Jenny, Richard Kowalik, Sonal Kulkarni-Joshi, Maarten Mous, Marcela Mendoza, Cristina Messineo, Francesca Moro, Hank Nater, Michelle A Ocasio, Bruno Olsson, Ana María Ospina Bozzi, Agustina Paredes, Admire Phiri, Nicolas Quint, Erika Sandman, Dineke Schokkin, Ruth Singer, Ellen Smith-Dennis, Lameen Souag, Yunus Sulistyono, Yvonne Treis, Matthias Urban, Jill Vaughan, Deginet Wotango Doyiso, Georg Ziegelmeyer, Veronika Zikmundová. (2023).
-                # GramAdapt Crosslinguistic Social Contact Dataset. (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7508054
+                Citation=citation(
+                    ' and '.join(editors[cid] for cid in r.contributors),
+                    'Rationale {}'.format(r.name)),
             ))
             p = self.cldf_dir / 'rationale' / '{}.md'.format(r.id)
             p.write_text(r.cldf_markdown, encoding='utf8')
@@ -336,10 +360,8 @@ class Dataset(BaseDataset):
                 Reviewer_IDs=[
                     contributor_id(editors[eid.strip()]) for eid in d['Reviewer(s)'].split(',')],
                 Area=d['AArea'],
-                # FIXME: Citation:
-                # Kashima, Eri & Schokkin, Dineke. Set28: Nen and Idi.
-                # In Eri Kashima, Francesca Di Garbo, Oona Raatikainen, Rosnátaly Avelino, Sacha Beck, Anna Berge, Ana Blanco, Ross Bowden, Nicolás Brid, Joseph M Brincat, María Belén Carpio, Alexander Cobbinah, Paola Cúneo, Anne-Maria Fehn, Saloumeh Gholami, Arun Ghosh, Hannah Gibson, Elizabeth Hall, Katja Hannß, Hannah Haynie, Jerry Jacka, Matias Jenny, Richard Kowalik, Sonal Kulkarni-Joshi, Maarten Mous, Marcela Mendoza, Cristina Messineo, Francesca Moro, Hank Nater, Michelle A Ocasio, Bruno Olsson, Ana María Ospina Bozzi, Agustina Paredes, Admire Phiri, Nicolas Quint, Erika Sandman, Dineke Schokkin, Ruth Singer, Ellen Smith-Dennis, Lameen Souag, Yunus Sulistyono, Yvonne Treis, Matthias Urban, Jill Vaughan, Deginet Wotango Doyiso, Georg Ziegelmeyer, Veronika Zikmundová. (2023).
-                # GramAdapt Crosslinguistic Social Contact Dataset. (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7508054
+                Citation=citation(d['Respondents'], '{}: {} and {}'.format(
+                    d['SetID'], d['F_Lang'], d['N_Lang'])),
             ))
 
         rationales = {p.stem: p for p in self.dir.joinpath('rationale').glob('*.md')}
@@ -359,6 +381,8 @@ class Dataset(BaseDataset):
                 args.log.info('Skipping DFK29')
                 continue
             if subid in {'DEME29-3', 'DEME29-4'}:
+                # These two sub-questions are logically dependent on another sub-question which had
+                # only "No" responses for all sets.
                 args.log.info('Skipping {}'.format(subid))
                 continue
 

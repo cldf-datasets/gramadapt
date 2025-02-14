@@ -2,7 +2,7 @@
 
 Run CLDF validation:
 ```shell
-cldf validate cldf
+cldf validate cldf --with-cldf-markdown
 ```
 
 Make sure the dataset can be loaded into SQLite:
