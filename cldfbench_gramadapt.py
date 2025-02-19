@@ -80,6 +80,37 @@ potentially sensitive nature. If you wish to access the invisible comments of se
 contact the author directly.
 
 """
+TAGS = {
+    # Domains Questionnaire
+    "P": "Preamble",
+    "D": "Domain characterisation",
+    "S": "Social network",
+    "B": "Behaviour affecting biases",  # BA|BH|BI
+    "O": "Linguistic output of Focus group people",
+    "I": "Linguistic input of Focus group people, i.e. the output of Neighbour group people",
+    "T": "Language transmission to children",
+    "E": "Ending questions about data source and confidence",
+    # Overview Questionnaire
+    "OD": "Demographics",
+    "OG": "Language geography",
+    "OI": "Language and identity",
+    "OL": "Literacy",
+    "OS": "Social structure",
+    "OH": "History",
+    "OE": "Respondent fieldwork experience",
+    "OC": "Response confidence",
+    "OB": "",  # OB1
+    "OT": "Time frame",  # OT1, OT2
+}
+
+
+def get_tag(cid):
+    if cid == 'O10':  # Fix typo.
+        cid = 'OI0'
+    for k in sorted(TAGS, key=lambda x: (-len(x), x)):
+        if cid.startswith(k):
+            return k
+    raise ValueError(cid)
 
 
 def norm_datatype(pid, datatype):
@@ -417,6 +448,8 @@ class Dataset(BaseDataset):
                 assert qid in qnames and pid.endswith('N')
             rows = list(rows)
             assert len({r['Dom'] for r in rows}) == 1
+            assert len({r['CID'].replace('=', '') for r in rows}) == 1, {r['CID'] for r in rows}
+            tag = get_tag(rows[0]['CID'])
             for col in ['Wording'] + ['Answer{}'.format(i + 1) for i in range(8)]:
                 norm(rows, col)
 
@@ -440,6 +473,7 @@ class Dataset(BaseDataset):
                     Question_ID=qid,
                     datatype=d['DataType'],
                     Domain=d['Dom'],
+                    Tag=tag,
                     ColumnSpec=dict(datatype=dict(base='integer', maximum=2020, minimum=-2000)),
                 ))
                 args.writer.objects['ParameterTable'].append(dict(
@@ -448,6 +482,7 @@ class Dataset(BaseDataset):
                     Question_ID=qid,
                     datatype=d['DataType'],
                     Domain=d['Dom'],
+                    Tag=tag,
                     ColumnSpec=dict(datatype=dict(base='integer', maximum=2020, minimum=-2000)),
                 ))
             else:
@@ -457,6 +492,7 @@ class Dataset(BaseDataset):
                     Question_ID=qid,
                     datatype=norm_datatype(pid, d['DataType']),
                     Domain=d['Dom'],
+                    Tag=tag,
                 ))
             for qid, qs in itertools.groupby(
                 sorted(args.writer.objects['ParameterTable'], key=lambda r: r.get('Question_ID') or 'x'),
@@ -705,6 +741,16 @@ class Dataset(BaseDataset):
                     '**DFK** = Family and Kin; **DKN** = Knowledge; **DLB** = Labour; **DLC** = Local Community; '
                     '**DTR** = Trade).',
                 'datatype': {'base': 'string', 'format': 'OV|DEM|DFK|DKN|DLB|DLC|DTR'}
+            },
+            {
+                'name': 'Tag',
+                'dc:description':
+                    'Questions of the overview questionnaire may be tagged as {}. '
+                    'Questions of the domains questionnaire may be tagged as {}.'.format(
+                        '; '.join('**{}** = {}'.format(k, v) for k, v in TAGS.items() if len(k) == 2),
+                        '; '.join('**{}** = {}'.format(k, v) for k, v in TAGS.items() if len(k) != 2),
+                    ),
+                'datatype': {'base': 'string', 'format': '|'.join(TAGS)},
             },
             {
                 'name': 'Is_Timeframe_Comment',

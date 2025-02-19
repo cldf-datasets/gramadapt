@@ -26,6 +26,7 @@ def run(args):
         for v in cldf.objects('ValueTable'):
             if v.parameter.id in pids:
                 data[v.parameter.id].append(v.code.cldf.name if v.code else None)
+        assert all(v for k, v in data.items())
 
         ml = max(len(v) for v in data.values())
         for v in data.values():
@@ -52,7 +53,7 @@ def run(args):
                 height=0.7,
                 label=cat,
                 color=color)
-            ax.bar_label(rects, label_type='center', color='white')
+            #ax.bar_label(rects, label_type='center', color='white')
             for pid, values in data:
                 starts[pid] += values.count(cat)
         ax.legend(

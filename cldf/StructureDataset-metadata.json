@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "42e48b2",
+            "dc:created": "9dd7206",
             "dc:title": "Repository"
         },
         {
@@ -551,6 +551,14 @@
                             "format": "OV|DEM|DFK|DKN|DLB|DLC|DTR"
                         },
                         "name": "Domain"
+                    },
+                    {
+                        "dc:description": "Questions of the overview questionnaire may be tagged as **OD** = Demographics; **OG** = Language geography; **OI** = Language and identity; **OL** = Literacy; **OS** = Social structure; **OH** = History; **OE** = Respondent fieldwork experience; **OC** = Response confidence; **OB** = ; **OT** = Time frame. Questions of the domains questionnaire may be tagged as **P** = Preamble; **D** = Domain characterisation; **S** = Social network; **B** = Behaviour affecting biases; **O** = Linguistic output of Focus group people; **I** = Linguistic input of Focus group people, i.e. the output of Neighbour group people; **T** = Language transmission to children; **E** = Ending questions about data source and confidence.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "P|D|S|B|O|I|T|E|OD|OG|OI|OL|OS|OH|OE|OC|OB|OT"
+                        },
+                        "name": "Tag"
                     },
                     {
                         "dc:description": "Flag signaling whether answers to this question describe a timeframe.",

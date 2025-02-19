@@ -10,7 +10,7 @@ pytest
 cldf validate --with-cldf-markdown cldf
 ```
 
-Recreate the README:
+Recreate the README and the rendered rationales:
 ```shell
 cldfbench readme cldfbench_gramadapt.py
 ```

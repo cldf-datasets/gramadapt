@@ -15,6 +15,7 @@ def run(args):
         for v in cldf.objects('ValueTable'):
             if v.parameter.data['datatype'] == 'Scalar' and v.cldf.codeReference:
                 data[(v.parameter.data['Domain'], v.parameter.id)].append(v.code.data['Ordinal'])
+        assert all(v for k, v in data.items())
 
         ml = max(len(v) for v in data.values())
         for v in data.values():
