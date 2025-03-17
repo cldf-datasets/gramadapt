@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "9dd7206",
+            "dc:created": "3127fc7",
             "dc:title": "Repository"
         },
         {
@@ -553,7 +553,7 @@
                         "name": "Domain"
                     },
                     {
-                        "dc:description": "Questions of the overview questionnaire may be tagged as **OD** = Demographics; **OG** = Language geography; **OI** = Language and identity; **OL** = Literacy; **OS** = Social structure; **OH** = History; **OE** = Respondent fieldwork experience; **OC** = Response confidence; **OB** = ; **OT** = Time frame. Questions of the domains questionnaire may be tagged as **P** = Preamble; **D** = Domain characterisation; **S** = Social network; **B** = Behaviour affecting biases; **O** = Linguistic output of Focus group people; **I** = Linguistic input of Focus group people, i.e. the output of Neighbour group people; **T** = Language transmission to children; **E** = Ending questions about data source and confidence.",
+                        "dc:description": "Questions of the overview questionnaire may be tagged as **OD** = Demographics; **OG** = Language geography; **OI** = Language and identity; **OL** = Literacy; **OS** = Social structure; **OH** = History; **OE** = Respondent fieldwork experience; **OC** = Response confidence; **OB** = Behaviour affecting biases; **OT** = Time frame. Questions of the domains questionnaire may be tagged as **P** = Preamble; **D** = Domain characterisation; **S** = Social network; **B** = Behaviour affecting biases; **O** = Linguistic output of Focus group people; **I** = Linguistic input of Focus group people, i.e. the output of Neighbour group people; **T** = Language transmission to children; **E** = Ending questions about data source and confidence.",
                         "datatype": {
                             "base": "string",
                             "format": "P|D|S|B|O|I|T|E|OD|OG|OI|OL|OS|OH|OE|OC|OB|OT"
@@ -567,6 +567,38 @@
                             "format": "yes|no"
                         },
                         "name": "Is_Timeframe_Comment"
+                    },
+                    {
+                        "dc:description": "Questions pertaining to whether language use is equivalent or language contact dynamics between Focus and Neighbour Groups as used in equivalent ways or not. The tag relates to questions of language uses in social domains, and discrepancies in fluency between Focus and Neighbour group people when speaking.",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Use_Equivalence"
+                    },
+                    {
+                        "dc:description": "Questions on whether there are differences in socio-political power between the Focus and Neighbour groups.",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Socio-Political_Power"
+                    },
+                    {
+                        "dc:description": "For the purpose of this dataset language loyalty is defined as a tendency to be loyal to one\u2019s language, typically by expressing a desire to retain an identity that is expressed through the use of that language. This multicausal factor thus significantly overlaps with \"Use Equivalence\".",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Language_Loyalty"
+                    },
+                    {
+                        "dc:description": "Concernts the two groups\u2019 attitudes towards each other in general.",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Attitudes_and_Ideologies"
                     }
                 ],
                 "foreignKeys": [

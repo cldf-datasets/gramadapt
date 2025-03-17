@@ -1,393 +1,393 @@
-ID,Name,Description,ColumnSpec,datatype,Question_ID,Domain,Tag,Is_Timeframe_Comment
-F,Focus language,,,,,,,no
-S,Contact pair,,,,,,,no
-DEM00,Has exchange ever been a relevant domain of contact between Focus Group and Neighbour Group?,,,Binary-YesNo,DEM00,DEM,P,no
-DEM01,"What other languages, if any, are spoken in this domain?",,,Comment,DEM01,DEM,P,no
-DEM02_DEME02-1,Characteristic of the domain of Exchange. Is Exchange between Focus Group and Neighbour Group the individual’s initiative?,,,Binary-YesNo,DEM02,DEM,D,no
-DEM02_DEME02-2,Characteristic of the domain of Exchange. Is Exchange between Focus Group and Neighbour Group an institutionalised procedure?,,,Binary-YesNo,DEM02,DEM,D,no
-DEM02_DEME02-3,Characteristic of the domain of Exchange. Is Exchange between Focus Group and Neighbour Group part of a ceremonial event to which both communities participate?,,,Binary-YesNo,DEM02,DEM,D,no
-DEM03_DEME03-1,"Social categories. Does involvement in Exchange practices differ based on hierarchies associated to profession or wealth, such as a person's class or caste?",,,Binary-YesNo,DEM03,DEM,D,no
-DEM03_DEME03-2,"Social categories. Does involvement in Exchange practices differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DEM03,DEM,D,no
-DEM03_DEME03-3,"Social categories. Does involvement in Exchange practices differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DEM03,DEM,D,no
-DEM03_DEME03-4,"Social categories. Does involvement in Exchange practices differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DEM03,DEM,D,no
-DEM03_DEME03-5,"Social categories. Does involvement in Exchange practices differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DEM03,DEM,D,no
-DEM03_DEME03-6,Social categories. Does involvement in Exchange practices differ based on a person’s age or life stage?,,,Binary-YesNo,DEM03,DEM,D,no
-DEM03_DEME03-7,Social categories. Does involvement in Exchange practices differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DEM03,DEM,D,no
-DEM03_DEME03-8,Social categories. Does involvement in Exchange practices differ based on a person’s sex or gender?,,,Binary-YesNo,DEM03,DEM,D,no
-DEM03_DEME03-9,Social categories. Does involvement in Exchange practices differ based on any other communities of practice?,,,Binary-YesNo,DEM03,DEM,D,no
-DEM04,Where does exchange between Focus Group and Neighbour Group people typically take place?,,,Types,DEM04,DEM,D,no
-DEM05,What language do Focus Group people expect to be used when interacting with Neighbour Group people through practices of exchange?,,,Types,DEM05,DEM,B,no
-DEM06,How much do Focus Group children participate in practices of exchange?,,,Scalar,DEM06,DEM,T,no
-DEM08,How often do Focus Group people exchange with Neighbour Group people?,,,Scalar,DEM08,DEM,S,no
-DEM0a,How long have Focus Group and Neighbour Group people practised exchange for? ,,,Comment,DEM0a,DEM,P,yes
-DEM0aN0,"Coarse time range, start [DEM0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0a,DEM,P,no
-DEM0aN1,"Coarse time range, end [DEM0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0a,DEM,P,no
-DEM0b,What is the time frame when the largest number of people had the most opportunities for interaction in exchange?,,,Comment,DEM0b,DEM,P,yes
-DEM0bN0,"Coarse time range, start [DEM0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0b,DEM,P,no
-DEM0bN1,"Coarse time range, end [DEM0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0b,DEM,P,no
-DEM10,How would you rate the overall relationship between Focus Group and Neighbour Group people in the domain of exchange?,,,Scalar,DEM10,DEM,S,no
-DEM11,How many people are typically involved in interactions between Focus Group and Neighbour Group in the context of exchange?,,,Scalar,DEM11,DEM,S,no
-DEM12,What language do Neighbour Group people typically speak to Focus Group people during practices of exchange?,,,Types,DEM12,DEM,I,no
-DEM13,"Typically in contexts of exchange practices, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DEM13,DEM,I,no
-DEM14,What language do Focus Group people typically speak during practices of exchange with Neighbour Group people?,,,Types,DEM14,DEM,O,no
-DEM15,Do Focus Group people typically simplify their Focus Group language when speaking with Neighbour Group people during practices of Exchange?,,,Types,DEM15,DEM,O,no
-DEM16,"Typically in the context of exchange practices, how fluently to Focus Group people speak the Neighbour Group language?",,,Scalar,DEM16,DEM,O,no
-DEM17,What is the overall attitude that Focus Group people have towards Neighbour Group people in the context of exchange?,,,Scalar,DEM17,DEM,B,no
-DEM18,How do Focus Group people view themselves overall in relation to Neighbour Group people in the context of exchange?,,,Scalar,DEM18,DEM,B,no
-DEM19,How much influence can the Focus Group exert over exchange?,,,Scalar,DEM19,DEM,D,no
-DEM20,"Typically, how much supervision do adults provide to children during practices of exchange?",,,Scalar,DEM20,DEM,T,no
-DEM21,What language do Neighbour Group adults typically speak to Focus Group children during practices of exchange?,,,Types,DEM21,DEM,T,no
-DEM22,"Typically, what language do Focus Group children prefer to speak with Neighbour Group adults in the context of exchange?",,,Types,DEM22,DEM,T,no
-DEM25,"Typically, what language do Focus Group children speak to Neighbour Group children during practices of exchange?",,,Types,DEM25,DEM,T,no
-DEM26_DEME26-1,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their village or other kind of local community?",,,Binary-YesNo,DEM26,DEM,D,no
-DEM26_DEME26-2,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their descent group or clan?",,,Binary-YesNo,DEM26,DEM,D,no
-DEM26_DEME26-3,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their designated marriage group such as a moiety?",,,Binary-YesNo,DEM26,DEM,D,no
-DEM26_DEME26-4,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their hierarchical social group such as class or caste?",,,Binary-YesNo,DEM26,DEM,D,no
-DEM26_DEME26-5,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their linguistic group?",,,Binary-YesNo,DEM26,DEM,D,no
-DEM27_DEME27-1,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same village or other kind of local community?",,,Binary-YesNo,DEM27,DEM,D,no
-DEM27_DEME27-2,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same descent group or clan?",,,Binary-YesNo,DEM27,DEM,D,no
-DEM27_DEME27-3,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same designated marriage group such as a moiety?",,,Binary-YesNo,DEM27,DEM,D,no
-DEM27_DEME27-4,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same hierarchical social group such as class or caste?",,,Binary-YesNo,DEM27,DEM,D,no
-DEM27_DEME27-5,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same linguistic group?",,,Binary-YesNo,DEM27,DEM,D,no
-DEM28_DEME28-1,Polygyny. Is polygyny possible for Focus Group men?,,,Binary-YesNo,DEM28,DEM,D,no
-DEM28_DEME28-2,Polygyny. Is polygyny possible for Neighbour Group men?,,,Binary-YesNo,DEM28,DEM,D,no
-DEM28_DEME28-3,Polygyny. Is polygyny possible for men from all societal strata?,,,Binary-YesNo,DEM28,DEM,D,no
-DEM29_DEME29-1,Polyandry. Is polyandry possible for Focus Group women?,,,Binary-YesNo,DEM29,DEM,D,no
-DEM29_DEME29-2,Polyandry. Is polyandry possible for Neighbour Group women?,,,Binary-YesNo,DEM29,DEM,D,no
-DEM30_DEME30-1,Does marriage impose any child rearing obligations for both parents and grandparents on both sides?,,,Binary-YesNo,DEM30,DEM,T,no
-DEM30_DEME30-2,"Does marriage impose any child rearing obligations for one parent, and grandparents on both sides?",,,Binary-YesNo,DEM30,DEM,T,no
-DEM30_DEME30-3,"Does marriage impose any child rearing obligations for one parent, and grandparents on that side?",,,Binary-YesNo,DEM30,DEM,T,no
-DEM30_DEME30-4,"Does marriage impose any child rearing obligations for one parent, and grandparents from the other side?",,,Binary-YesNo,DEM30,DEM,T,no
-DEM31_DEME31-1,Intermarriage. Is it typical for Focus Group men to marry Neighbour Group women?,,,Binary-YesNo,DEM31,DEM,D,no
-DEM31_DEME31-2,Intermarriage. Is it typical for Focus Group women to marry Neighbour Group men?,,,Binary-YesNo,DEM31,DEM,D,no
-DEM32,Where do marriage ceremonies between Focus Group and Neighbour Group take place?,,,Types,DEM32,DEM,D,no
-DEM33,What language do Focus Group people expect to be used in marriage ceremonies with Neighbour Group people?,,,Types,DEM33,DEM,B,no
-DEM34,How would you rate the overall relationship between Focus Group and Neighbour Group people in practices of marriage exchanges?,,,Scalar,DEM34,DEM,S,no
-DEM35,What is the overall attitude that Focus Group people have towards Neighbour Group people in practices of marriage exchanges?,,,Scalar,DEM35,DEM,B,no
-DEM36,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of marriage?",,,Scalar,DEM36,DEM,B,no
-DEM37_DEME37-1,What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry? Bride wealth,,,Binary-YesNo,DEM37,DEM,D,no
-DEM37_DEME37-2,What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry? Dowry,,,Binary-YesNo,DEM37,DEM,D,no
-DEM37_DEME37-3,What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry? Other,,,Binary-YesNo,DEM37,DEM,D,no
-DEM38,Are there any speech styles used during practices of exchange?,,,Binary-YesNo,DEM38,DEM,D,no
-DEM39_DEME39-1,"Child socialisation. Typically during practices of exchange, do adults other than the parents look after children up to five year of age?",,,Binary-YesNo,DEM39,DEM,T,no
-DEM39_DEME39-2,"Child socialisation. Typically during practices of exchange, do parents look after children up to five year of age?",,,Binary-YesNo,DEM39,DEM,T,no
-DEM39_DEME39-3,"Child socialisation. Typically during practices of exchange, do children from sibling-kin groups look after children up to five year of age?",,,Binary-YesNo,DEM39,DEM,T,no
-DEM39_DEME39-4,"Child socialisation. Typically during practices of exchange, do children up to five year of age look after each other as part of the same peer group?",,,Binary-YesNo,DEM39,DEM,T,no
-DEM40,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of exchange?,,,Scalar,DEM40,DEM,S,no
-DEM41,Do Focus Group people experience exchange differently depending on social group?,,,Binary-YesNo,DEM41,DEM,D,no
-DEM42,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of marriage exchanges?,,,Scalar,DEM42,DEM,S,no
-DEM43,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of marriage exchanges? ,,,Scalar,DEM43,DEM,S,no
-DEM44,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of exchange?,,,Scalar,DEM44,DEM,S,no
-DEM45,"How often are these speech styles typically used during practices of exchange, in comparison with unmonitored speech?",,,Scalar,DEM45,DEM,D,no
-DEM96,"List any other groups that the Focus Group practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this contact through Social Exchange practices happened. ",,,Comment,DEM96,DEM,E,no
-DEM97,What type of data informed your answers to the questions in the domain of social exchange overall? ,,,TypesMultiple,DEM97,DEM,E,no
-DEM98,How certain are you in your responses for the domain of social exchange?,,,Scalar,DEM98,DEM,E,no
-DEM99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DEM],,,Comment,DEM99,DEM,E,no
-DFK00,"Do Focus Group people and Neighbour Group people marry each other, or have they done so in the past?",,,Binary-YesNo,DFK00,DFK,P,no
-DFK01,"What other languages, if any, are spoken between family members?",,,Comment,DFK01,DFK,P,no
-DFK02_DFK02-1,Do mothers form a co-residential unit with their children and their husbands?,,,Binary-YesNo,DFK02,DFK,D,no
-DFK02_DFK02-2,Do mothers form a co-residential unit with their children and their mothers?,,,Binary-YesNo,DFK02,DFK,D,no
-DFK02_DFK02-3,Do mothers form a co-residential unit with their children and their mother in laws?,,,Binary-YesNo,DFK02,DFK,D,no
-DFK03,"Typically, how much of their lives do spouses spend with each other during the course of their lifetime?",,,Scalar,DFK03,DFK,S,no
-DFK04_DFK04-1,"Looking after children. Typically, do fathers look after children up to five year of age?",,,Binary-YesNo,DFK04,DFK,T,no
-DFK04_DFK04-2,"Looking after children. Typically, do mothers primarily look after children up to five year of age?",,,Binary-YesNo,DFK04,DFK,T,no
-DFK04_DFK04-3,Looking after children. Do adults other than the parents look after children up to five year of age?,,,Binary-YesNo,DFK04,DFK,T,no
-DFK04_DFK04-4,Looking after children. Do children from sibling-kin groups look after children up to five year of age?,,,Binary-YesNo,DFK04,DFK,T,no
-DFK04_DFK04-5,Looking after children. Do children up to five year of age look after each other as part of the same peer group?,,,Binary-YesNo,DFK04,DFK,T,no
-DFK05,What language are children expected to speak to their Neighbour Group parent?,,,Types,DFK05,DFK,B,no
-DFK06,What language do Focus Group people typically speak with their Neighbour Group spouse?,,,Types,DFK06,DFK,O,no
-DFK07,Do Focus Group people typically simplify their Focus Group language when speaking with their Neighbour Group spouse?,,,Types,DFK07,DFK,O,no
-DFK08,"Typically in the domain of family, how fluently to Focus Group people speak the Neighbour Group language?",,,Scalar,DFK08,DFK,O,no
-DFK09,What language do Neighbour Group people typically speak with their Focus Group spouse?,,,Types,DFK09,DFK,I,no
-DFK0a,How long have Focus Group and Neighbour Group peoples been forming families with each other for?,,,Comment,DFK0a,DFK,P,yes
-DFK0aN0,"Coarse time range, start [DFK0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DFK0a,DFK,P,no
-DFK0aN1,"Coarse time range, end [DFK0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DFK0a,DFK,P,no
-DFK0b,What’s the time frame of densest contact between Focus Group and Neighbour Group as far as family formation is concerned?,,,Comment,DFK0b,DFK,P,yes
-DFK0bN0,"Coarse time range, start [DFK0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DFK0b,DFK,P,no
-DFK0bN1,"Coarse time range, end [DFK0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DFK0b,DFK,P,no
-DFK10,"Typically in the domain of family, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DFK10,DFK,I,no
-DFK11,How physically proximate to each other are a Focus Group person and their Neighbour Group in-laws?,,,Scalar,DFK11,DFK,S,no
-DFK12,"Thinking about the Focus Group person and their Neighbour Group in-laws, how often would they typically meet?",,,Scalar,DFK12,DFK,S,no
-DFK14,How would you rate the overall relationship between a Focus Group person and their Neighbour Group in-laws?,,,Scalar,DFK14,DFK,S,no
-DFK15,How many people are typically involved in interactions between a Focus Group person and their Neighbour Group in-laws?,,,Scalar,DFK15,DFK,S,no
-DFK16,What is the overall level of affection that the Focus Group person has towards their Neighbour Group spouse?,,,Scalar,DFK16,DFK,B,no
-DFK20,What language do Focus Group parents typically speak with their children?,,,Types,DFK20,DFK,T,no
-DFK21,What language do Neighbour Group parents typically speak with their children?,,,Types,DFK21,DFK,T,no
-DFK22,What language do children typically speak with their Focus Group parent?,,,Types,DFK22,DFK,T,no
-DFK23,What language do children typically speak with their Neighbour Group parent?,,,Types,DFK23,DFK,T,no
-DFK24,"Typically, how much supervision do grandparents provide to children?",,,Scalar,DFK24,DFK,T,no
-DFK25,What language do Neighbour Group grandparent/aunts/uncles typically speak to the children?,,,Types,DFK25,DFK,T,no
-DFK26,"Typically, what language do Focus Group children speak with their Neighbour Group grandparents/aunts/uncles?",,,Types,DFK26,DFK,T,no
-DFK28,"Your child has married a Neighbour Group person. What language does your child’s spouse typically speak to you, a Focus Group person?",,,Types,DFK28,DFK,I,no
-DFK30,Your child has married a Neighbour Group person. What language do you typically speak when speaking with your Neighbour Group son/daughter-in-law?,,,Types,DFK30,DFK,O,no
-DFK31,"Typically, does a Focus Group person simplify their Focus Group language when speaking to their Neighbour Group in-laws?",,,Types,DFK31,DFK,O,no
-DFK32,"Typically, how fluently does a Focus Group person speak the Neighbour Group language when speaking to their Neighbour Group in-laws?",,,Scalar,DFK32,DFK,O,no
-DFK33,What is the overall attitude that a Focus Group person has towards their Neighbour Group in-laws?,,,Scalar,DFK33,DFK,B,no
-DFK34,You have married a Neighbour Group person. What language do you typically speak to your Neighbour Group in-laws (your spouse’s parents and siblings)?,,,Types,DFK34,DFK,I,no
-DFK35,What is the typical pattern of relocation for Focus Group women when starting a new family?,,,Scalar,DFK35,DFK,D,no
-DFK37,How physically proximate to each other are the households of the husband and wife?,,,Scalar,DFK37,DFK,S,no
-DFK38_DFK38-1,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? Lexical avoidance,,,Binary-YesNo,DFK38,DFK,D,no
-DFK38_DFK38-2,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? The use of certain morphosyntactic forms,,,Binary-YesNo,DFK38,DFK,D,no
-DFK38_DFK38-3,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? The use of certain pronominal forms,,,Binary-YesNo,DFK38,DFK,D,no
-DFK39,What is the typical pattern of relocation for Neighbour Group women when starting a new family? ,,,Scalar,DFK39,DFK,D,no
-DFK40,Do Focus Group people experience family life differently depending on social group?,,,Binary-YesNo,DFK40,DFK,D,no
-DFK96,Who do Focus Group people typically form families with besides Neighbour Group people?,,,Types,DFK96,DFK,E,no
-DFK97,"What type of data informed your answers to the questions in the domain of family and kin, overall?",,,TypesMultiple,DFK97,DFK,E,no
-DFK98,How certain are you in your responses for the domain of family and kin?,,,Scalar,DFK98,DFK,E,no
-DFK99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DFK],,,Comment,DFK99,DFK,E,no
-DFKXX,"Typically, how well does a Focus Group person understand the Neighbour Group in-law’s language? [DFK]",,,Scalar,DFKXX,DFK,I,no
-DKN00,Have Focus Group and Neighbour Group people occupied the same spaces of knowledge transfer together?,,,Binary-YesNo,DKN00,DKN,P,no
-DKN01,"What other languages, if any, are spoken in the knowledge domain?",,,Comment,DKN01,DKN,P,no
-DKN02,The most influential form of knowledge in this contact scenario is:,,,Types,DKN02,DKN,D,no
-DKN03_DKN03-1,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,,Binary-YesNo,DKN03,DKN,D,no
-DKN03_DKN03-2,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DKN03,DKN,D,no
-DKN03_DKN03-3,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DKN03,DKN,D,no
-DKN03_DKN03-4,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DKN03,DKN,D,no
-DKN03_DKN03-5,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DKN03,DKN,D,no
-DKN03_DKN03-6,Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s age or life stage?,,,Binary-YesNo,DKN03,DKN,D,no
-DKN03_DKN03-7,Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DKN03,DKN,D,no
-DKN03_DKN03-8,Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s sex or gender?,,,Binary-YesNo,DKN03,DKN,D,no
-DKN03_DKN03-9,Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on any other communities of practice?,,,Binary-YesNo,DKN03,DKN,D,no
-DKN04,The relationship between Focus Group people and Neighbour Group people in the knowledge domain can typically be characterised as:,,,Types,DKN04,DKN,D,no
-DKN05,Where does knowledge transmission between Focus Group people and Neighbour Group people typically take place?,,,Types,DKN05,DKN,D,no
-DKN06,Are there any speech styles used in the knowledge domain?,,,Binary-YesNo,DKN06,DKN,D,no
-DKN07,Do Focus Group people experience the knowledge domain differently depending on social group?,,,Binary-YesNo,DKN07,DKN,D,no
-DKN08,How often do Focus Group people interact with Neighbour Group people in the knowledge domain?,,,Scalar,DKN08,DKN,S,no
-DKN0a,How long have Focus Group and Neighbour Group people been involved in the knowledge domain together for?,,,Comment,DKN0a,DKN,P,yes
-DKN0aN0,"Coarse time range, start [DKN0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DKN0a,DKN,P,no
-DKN0aN1,"Coarse time range, end [DKN0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DKN0a,DKN,P,no
-DKN0b,What is the time frame when the largest number of people had the most opportunities for interaction in the knowledge domain?,,,Comment,DKN0b,DKN,P,yes
-DKN0bN0,"Coarse time range, start [DKN0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DKN0b,DKN,P,no
-DKN0bN1,"Coarse time range, end [DKN0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DKN0b,DKN,P,no
-DKN10,How many people are typically involved in interactions between Focus Group people and Neighbour Group people in the knowledge domain?,,,Scalar,DKN10,DKN,S,no
-DKN11,How physically proximate to each other are people in the knowledge domain?,,,Scalar,DKN11,DKN,S,no
-DKN12,How would you rate the overall relationship between Focus Group and Neighbour Group people in the knowledge domain?,,,Scalar,DKN12,DKN,S,no
-DKN13,What is the overall attitude that Focus Group people have towards Neighbour Group people in the knowledge domain?,,,Scalar,DKN13,DKN,B,no
-DKN14,"How do Focus Group people view themselves overall in relation to Neighbour Group people, in the context of the knowledge domain?",,,Scalar,DKN14,DKN,B,no
-DKN16,What language do Focus Group people expect to be used with Neighbour Group people in the knowledge domain?,,,Types,DKN16,DKN,B,no
-DKN17,What language do Focus Group people typically speak with Neighbour Group people when in the knowledge domain?,,,Types,DKN17,DKN,O,no
-DKN18,Do Focus Group people typically simplify their language when speaking with Neighbour Group people in the knowledge domain?,,,Types,DKN18,DKN,O,no
-DKN19,"Typically in the knowledge domain, how fluently do Focus Group people speak the Neighbour Group language?",,,Scalar,DKN19,DKN,O,no
-DKN20,What language do Neighbour Group people typically speak with Focus Group people in the knowledge domain?,,,Types,DKN20,DKN,I,no
-DKN21,"Typically in the knowledge domain, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DKN21,DKN,I,no
-DKN22,How much do Focus Group children participate in the activities of the knowledge domain?,,,Scalar,DKN22,DKN,T,no
-DKN23_DKN23-1,"Looking after children in the knowledge domain. Typically, do adults other than the parents look after children up to five year of age in the knowledge domain?",,,Binary-YesNo,DKN23,DKN,T,no
-DKN23_DKN23-2,"Looking after children in the knowledge domain. Typically, do parents look after children up to five year of age in the knowledge domain?",,,Binary-YesNo,DKN23,DKN,T,no
-DKN23_DKN23-3,"Looking after children in the knowledge domain. Typically, do children from sibling-kin groups look after children up to five year of age in the knowledge domain?",,,Binary-YesNo,DKN23,DKN,T,no
-DKN23_DKN23-4,"Looking after children in the knowledge domain. Typically, do children up to five year of age look after each other as part of the same peer group in the knowledge domain?",,,Binary-YesNo,DKN23,DKN,T,no
-DKN24,What language do Neighbour Group adults typically speak to a Focus Group children in the knowledge domain?,,,Types,DKN24,DKN,T,no
-DKN25,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DKN]",,,Types,DKN25,DKN,T,no
-DKN26,"Typically, what language would a Focus Group child speak to Neighbour Group children in the knowledge domain?",,,Types,DKN26,DKN,T,no
-DKN27,"Typically, how much structured instruction do adults provide to children in the knowledge domain?",,,Scalar,DKN27,DKN,T,no
-DKN28,How much influence can the Focus Group people exert over the decision of what constitutes legitimate knowledge in this domain?,,,Scalar,DKN28,DKN,D,no
-DKN29,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in the knowledge domain?",,,Scalar,DKN29,DKN,S,no
-DKN30,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in the knowledge domain?",,,Scalar,DKN30,DKN,S,no
-DKN31,"How often are these speech styles typically used in knowledge transmission, in comparison with unmonitored speech?",,,Scalar,DKN31,DKN,D,no
-DKN96,"List any other groups that the Focus Group people intereacted with in the past, in the knowledge domain. List any other group in so far as you believe they had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this interaction happened.",,,Comment,DKN96,DKN,E,no
-DKN97,"What type of data informed your answers to the questions in the domain of knowledge, overall?",,,TypesMultiple,DKN97,DKN,E,no
-DKN98,How certain are you in your responses for the domain of knowledge?,,,Scalar,DKN98,DKN,E,no
-DKN99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DKN],,,Comment,DKN99,DKN,E,no
-DLB00,Has work ever been a relevant domain of contact between Focus Group and Neighbour Group?,,,Binary-YesNo,DLB00,DLB,P,no
-DLB01,"What other languages, if any, are spoken in the labour domain?",,,Comment,DLB01,DLB,P,no
-DLB02,How commonly are Focus Group people and Neighbour Group people involved in public modes of production?,,,Scalar,DLB02,DLB,D,no
-DLB03_DLB03-1,"Involvement in work. Does involvement in work differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,,Binary-YesNo,DLB03,DLB,D,no
-DLB03_DLB03-2,"Involvement in work. Does involvement in work differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DLB03,DLB,D,no
-DLB03_DLB03-3,"Involvement in work. Does involvement in work domain differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DLB03,DLB,D,no
-DLB03_DLB03-4,"Involvement in work. Does involvement in work domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DLB03,DLB,D,no
-DLB03_DLB03-5,"Involvement in work. Does involvement in work differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DLB03,DLB,D,no
-DLB03_DLB03-6,Involvement in work. Does involvement in work differ based on a person’s age or life stage?,,,Binary-YesNo,DLB03,DLB,D,no
-DLB03_DLB03-7,Involvement in work. Does involvement in work differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DLB03,DLB,D,no
-DLB03_DLB03-8,Involvement in work. Does involvement in work differ based on a person’s sex or gender?,,,Binary-YesNo,DLB03,DLB,D,no
-DLB03_DLB03-9,Involvement in work. Does involvement in work differ based on any other communities of practice?,,,Binary-YesNo,DLB03,DLB,D,no
-DLB04,Is there hierarchy involved in work?,,,Binary-YesNo,DLB04,DLB,D,no
-DLB05,Where do Focus Group people and Neighbour Group people typically work together?,,,Types,DLB05,DLB,D,no
-DLB06,Are there any speech styles used during work?,,,Binary-YesNo,DLB06,DLB,D,no
-DLB07,How often do Focus Group people work with Neighbour Group people?,,,Scalar,DLB07,DLB,S,no
-DLB09,How many people are typically involved in interactions between Focus Group people and Neighbour Group people when working?,,,Scalar,DLB09,DLB,S,no
-DLB0a,How long have Focus Group people and Neighbour Group people worked together for?,,,Comment,DLB0a,DLB,P,yes
-DLB0aN0,"Coarse time range, start [DLB0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLB0a,DLB,P,no
-DLB0aN1,"Coarse time range, end [DLB0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLB0a,DLB,P,no
-DLB0b,What is the time frame when the largest number of people had the most opportunities for interaction in the labour domain?,,,Comment,DLB0b,DLB,P,yes
-DLB0bN0,"Coarse time range, start [DLB0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLB0b,DLB,P,no
-DLB0bN1,"Coarse time range, end [DLB0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLB0b,DLB,P,no
-DLB10,How physically proximate to each other are people when working?,,,Scalar,DLB10,DLB,S,no
-DLB11,How would you rate the overall relationship between Focus Group and Neighbour Group people involved in work?,,,Scalar,DLB11,DLB,S,no
-DLB13,Do Focus Group people typically simplify their language when working with Neighbour Group people?,,,Types,DLB13,DLB,O,no
-DLB14,"Typically in work, how fluently do Focus Group people speak the Neighbour Group language?",,,Scalar,DLB14,DLB,O,no
-DLB15,What language do Neighbour Group people typically speak when working with Focus Group people?,,,Types,DLB15,DLB,I,no
-DLB16,"Typically in work, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DLB16,DLB,I,no
-DLB17,How much do Focus Group children participate in work?,,,Scalar,DLB17,DLB,T,no
-DLB18,What language do Neighbour Group adults typically speak to a Focus Group children in work?,,,Types,DLB18,DLB,T,no
-DLB19,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults in work?",,,Types,DLB19,DLB,T,no
-DLB20,"Typically, what language would a Focus Group child speak to Neighbour Group children in work?",,,Types,DLB20,DLB,T,no
-DLB21_DLB21-1,"Looking after children during work. Typically, do adults other than the parents look after children up to five year of age during work?",,,Binary-YesNo,DLB21,DLB,T,no
-DLB21_DLB21-2,"Looking after children during work. Typically, do parents look after children up to five year of age during work?",,,Binary-YesNo,DLB21,DLB,T,no
-DLB21_DLB21-3,"Looking after children during work. Typically, do children from sibling-kin groups look after children up to five year of age during work?",,,Binary-YesNo,DLB21,DLB,T,no
-DLB21_DLB21-4,"Looking after children during work. Typically, do children up to five year of age look after each other as part of the same peer group during work?",,,Binary-YesNo,DLB21,DLB,T,no
-DLB22,What is the overall attitude that Focus Group people have towards Neighbour Group people in work?,,,Scalar,DLB22,DLB,B,no
-DLB23,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of work?",,,Scalar,DLB23,DLB,B,no
-DLB25,What language do Focus Group people expect to be used when working with Neighbour Group people?,,,Types,DLB25,DLB,B,no
-DLB26,"Typically, how much supervision do adults provide to children in work?",,,Scalar,DLB26,DLB,T,no
-DLB27,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in work?",,,Scalar,DLB27,DLB,S,no
-DLB28,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in work?",,,Scalar,DLB28,DLB,S,no
-DLB29,How much influence can the Focus Group exert over the terms of work?,,,Scalar,DLB29,DLB,D,no
-DLB30,Do Focus Group people experience work differently depending on social group?,,,Binary-YesNo,DLB30,DLB,D,no
-DLB31,"How often are these speech styles typically used during work, in comparison with unmonitored speech?",,,Scalar,DLB31,DLB,D,no
-DLB32,What language do Focus Group people typically speak when working with Neighbour Group people?,,,Types,DLB32,DLB,O,no
-DLB96,"List any other groups that the Focus Group people worked with in the past. List any other group in so far as you believe they had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this interaction happened.",,,Comment,DLB96,DLB,E,no
-DLB97,"What type of data informed your answers to the questions in the domain of labour, overall?",,,TypesMultiple,DLB97,DLB,E,no
-DLB98,How certain are you in your responses for the domain of labour?,,,Scalar,DLB98,DLB,E,no
-DLB99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DLB],,,Comment,DLB99,DLB,E,no
-DLC00,Has the local community ever been a relevant domain of contact between Focus Group and Neighbour Group?,,,Binary-YesNo,DLC00,DLC,P,no
-DLC01,"What other languages, if any, are spoken in the local community?",,,Comment,DLC01,DLC,P,no
-DLC02,Choose one of the following where Focus Group people are most likely to speak in an unmonitored way.,,,Types,DLC02,DLC,D,no
-DLC03_DLC03-1,"Looking after children in the local community. Typically, do adults other than the parents look after children up to five year of age in the local community?",,,Binary-YesNo,DLC03,DLC,T,no
-DLC03_DLC03-2,"Looking after children in the local community. Typically, do parents look after children up to five year of age in the local community?",,,Binary-YesNo,DLC03,DLC,T,no
-DLC03_DLC03-3,"Looking after children in the local community. Typically, do children from sibling-kin groups look after children up to five year of age in local community?",,,Binary-YesNo,DLC03,DLC,T,no
-DLC03_DLC03-4,"Looking after children in the local community. Typically, do children up to five year of age look after each other as part of the same peer group in the local community?",,,Binary-YesNo,DLC03,DLC,T,no
-DLC04,What language do Focus Group people expect to be used with Neighbour Group people in the local community?,,,Types,DLC04,DLC,B,no
-DLC05,How physically proximate to each other are people in the local community?,,,Scalar,DLC05,DLC,S,no
-DLC09,What language do Neighbour Group people typically speak with Focus Group people in the local community?,,,Types,DLC09,DLC,I,no
-DLC0a,How long have Focus Group and Neighbour Group people been in contact in the local community?,,,Comment,DLC0a,DLC,P,yes
-DLC0aN0,"Coarse time range, start [DLC0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLC0a,DLC,P,no
-DLC0aN1,"Coarse time range, end [DLC0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLC0a,DLC,P,no
-DLC0b,What is the time frame when the largest number of people had the most opportunities for interaction in the local community?,,,Comment,DLC0b,DLC,P,yes
-DLC0bN0,"Coarse time range, start [DLC0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLC0b,DLC,P,no
-DLC0bN1,"Coarse time range, end [DLC0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLC0b,DLC,P,no
-DLC10,"Typically in the local community, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DLC10,DLC,I,no
-DLC11,What language do Focus Group people typically speak with Neighbour Group people in the local community?,,,Types,DLC11,DLC,O,no
-DLC12,Do Focus Group people typically simplify their language when speaking with Neighbour Group people in the local community?,,,Types,DLC12,DLC,O,no
-DLC13,"Typically in the local community, how fluently do Focus Group people speak the Neighbour Group language?",,,Scalar,DLC13,DLC,O,no
-DLC14,How would you rate the overall relationship between Focus Group and Neighbour Group people in the local community?,,,Scalar,DLC14,DLC,S,no
-DLC15,How many people are typically involved in interactions between Focus Group people and Neighbour Group people in the local community?,,,Scalar,DLC15,DLC,S,no
-DLC16,How often do Focus Group people interact with Neighbour Group people in the local community?,,,Scalar,DLC16,DLC,S,no
-DLC18,What is the overall attitude that Focus Group people have towards Neighbour Group people in the local community?,,,Scalar,DLC18,DLC,B,no
-DLC19,"How do Focus Group people view themselves overall in relation to Neighbour Group people, in the context of the local community?",,,Scalar,DLC19,DLC,B,no
-DLC20,"Typically in the local community, how much supervision do adults provide to children’s own activities, such as playing?",,,Scalar,DLC20,DLC,T,no
-DLC21,What language do Neighbour Group adults typically speak to a Focus Group children?,,,Types,DLC21,DLC,T,no
-DLC22,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DLC]",,,Types,DLC22,DLC,T,no
-DLC23,"Typically, what language would a Focus Group child speak to Neighbour Group children in the local community?",,,Types,DLC23,DLC,T,no
-DLC25_DLC25-1,"Involvement in the Local Community. Does involvement in the local community differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,,Binary-YesNo,DLC25,DLC,D,no
-DLC25_DLC25-2,"Involvement in the Local Community. Does involvement in the local community differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DLC25,DLC,D,no
-DLC25_DLC25-3,"Involvement in the Local Community. Does involvement in the local community differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DLC25,DLC,D,no
-DLC25_DLC25-4,"Involvement in the Local Community. Does involvement in the local community differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DLC25,DLC,D,no
-DLC25_DLC25-5,"Involvement in the Local Community. Does involvement in the local community differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DLC25,DLC,D,no
-DLC25_DLC25-6,Involvement in the Local Community. Does involvement in the local community differ based on a person’s age or life stage?,,,Binary-YesNo,DLC25,DLC,D,no
-DLC25_DLC25-7,Involvement in the Local Community. Does involvement in the local community differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DLC25,DLC,D,no
-DLC25_DLC25-8,Involvement in the Local Community. Does involvement in the local community differ based on a person’s sex or gender?,,,Binary-YesNo,DLC25,DLC,D,no
-DLC25_DLC25-9,Involvement in the Local Community. Does involvement in the local community differ based on any other communities of practice?,,,Binary-YesNo,DLC25,DLC,D,no
-DLC27,How much influence can the Focus Group exert over Neighbour Group in the activities of the local community?,,,Scalar,DLC27,DLC,D,no
-DLC28,Where do Focus Group and Neighbour Group people typically meet up in the local community?,,,Types,DLC28,DLC,D,no
-DLC29,Do Focus Group people experience the local community differently depending on social group?,,,Binary-YesNo,DLC29,DLC,D,no
-DLC31,How much do Focus Group children participate in the activities of the local community?,,,Scalar,DLC31,DLC,T,no
-DLC32,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in the form of local communities?",,,Scalar,DLC32,DLC,S,no
-DLC33,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in the form of local communities?",,,Scalar,DLC33,DLC,S,no
-DLC96,"List any other groups that the Focus Group formed local communities with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this happened.",,,Comment,DLC96,DLC,E,no
-DLC97,"What type of data informed your answers to the questions in the domain of local community, overall?",,,TypesMultiple,DLC97,DLC,E,no
-DLC98,How certain are you in your responses for the domain of local community?,,,Scalar,DLC98,DLC,E,no
-DLC99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DLC],,,Comment,DLC99,DLC,E,no
-DTR00,Has trade ever been a relevant domain of contact between Focus Group and Neighbour Group?,,,Binary-YesNo,DTR00,DTR,P,no
-DTR01,"What other languages, if any, are spoken in trade?",,,Comment,DTR01,DTR,P,no
-DTR02_DTR02-1,Traded good types. Do Focus Group people trade raw materials and primary produce to Neighbour Group people?,,,Binary-YesNo,DTR02,DTR,D,no
-DTR02_DTR02-2,Traded good types. Do Focus Group people trade luxury items to Neighbour Group people?,,,Binary-YesNo,DTR02,DTR,D,no
-DTR02_DTR02-3,Traded good types. Do Focus Group people trade manufactured goods to Neighbour Group people?,,,Binary-YesNo,DTR02,DTR,D,no
-DTR02_DTR02-4,Traded good types. Do Neighbour Group people trade raw material and primary produce to Focus Group people?,,,Binary-YesNo,DTR02,DTR,D,no
-DTR02_DTR02-5,Traded good types. Do Neighbour Group people trade luxury items to Focus Group people?,,,Binary-YesNo,DTR02,DTR,D,no
-DTR02_DTR02-6,Traded good types. Do Neighbour Group people trade manufactured goods to Focus Group people?,,,Binary-YesNo,DTR02,DTR,D,no
-DTR03_DTR03-1,"Involvement in trade. Does involvement in trade differ based on hierarchies associated to profession or wealth, such as a person's class or caste?",,,Binary-YesNo,DTR03,DTR,D,no
-DTR03_DTR03-2,"Involvement in trade. Does involvement in trade differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DTR03,DTR,D,no
-DTR03_DTR03-3,"Involvement in trade. Does involvement in trade differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DTR03,DTR,D,no
-DTR03_DTR03-4,"Involvement in trade. Does involvement in the knowledge domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DTR03,DTR,D,no
-DTR03_DTR03-5,"Involvement in trade. Does involvement in trade differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DTR03,DTR,D,no
-DTR03_DTR03-6,Involvement in trade. Does involvement in trade differ based on a person’s age or life stage?,,,Binary-YesNo,DTR03,DTR,D,no
-DTR03_DTR03-7,Involvement in trade. Does involvement in trade differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DTR03,DTR,D,no
-DTR03_DTR03-8,Involvement in trade. Does involvement in trade differ based on a person’s sex or gender?,,,Binary-YesNo,DTR03,DTR,D,no
-DTR03_DTR03-9,Involvement in trade. Does involvement in trade differ based on any other communities of practice?,,,Binary-YesNo,DTR03,DTR,D,no
-DTR06,Where does trade between Focus Group and Neighbour Group people typically take place?,,,Types,DTR06,DTR,D,no
-DTR08,What language do Focus Group people expect to be used when trading with Neighbour Group people?,,,Types,DTR08,DTR,B,no
-DTR09,What language do Neighbour Group people typically speak when trading with the Focus Group?,,,Types,DTR09,DTR,I,no
-DTR0a,How long have Focus Group and Neighbour Group people traded for?,,,Comment,DTR0a,DTR,P,yes
-DTR0aN0,"Coarse time range, start [DTR0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DTR0a,DTR,P,no
-DTR0aN1,"Coarse time range, end [DTR0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DTR0a,DTR,P,no
-DTR0b,What is the time frame when the largest number of people had the most opportunities for interaction in trade?,,,Comment,DTR0b,DTR,P,yes
-DTR0bN0,"Coarse time range, start [DTR0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DTR0b,DTR,P,no
-DTR0bN1,"Coarse time range, end [DTR0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DTR0b,DTR,P,no
-DTR10,"Typically in trade, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DTR10,DTR,I,no
-DTR11,What language do Focus Group people typically speak when trading with Neighbour Group people?,,,Types,DTR11,DTR,O,no
-DTR12,Do Focus Group people typically simplify their language when speaking with Neighbour Group people during trade?,,,Types,DTR12,DTR,O,no
-DTR13,"Typically in trade, how fluently do Focus Group people speak the Neighbour Group language?",,,Scalar,DTR13,DTR,O,no
-DTR14,How often do Focus Group people trade with Neighbour Group people?,,,Scalar,DTR14,DTR,S,no
-DTR16,What is the overall attitude that Focus Group people have towards Neighbour Group people in trade?,,,Scalar,DTR16,DTR,B,no
-DTR17,How much influence can the Focus Group exert over the Neighbour Group in terms of trade?,,,Scalar,DTR17,DTR,D,no
-DTR18,How much do Focus Group children participate in trade?,,,Scalar,DTR18,DTR,T,no
-DTR19,What language do Neighbour Group adults typically speak to a Focus Group children in trade?,,,Types,DTR19,DTR,T,no
-DTR20,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DTR]",,,Types,DTR20,DTR,T,no
-DTR22,How many people are typically involved in interactions between Focus Group people and Neighbour Group people when trading?,,,Scalar,DTR22,DTR,S,no
-DTR23,How would you rate the overall relationship between Focus Group and Neighbour Group people in trade?,,,Scalar,DTR23,DTR,S,no
-DTR24,"Typically when trading with Neighbour Group people, the Focus Group people will",,,Types,DTR24,DTR,D,no
-DTR27_DTR27-1,"Looking after children during trade. Typically, do adults other than the parents look after children up to five year of age during trade?",,,Binary-YesNo,DTR27,DTR,T,no
-DTR27_DTR27-2,"Looking after children during trade. Typically, do parents look after children up to five year of age during trade?",,,Binary-YesNo,DTR27,DTR,T,no
-DTR27_DTR27-3,"Looking after children during trade. Typically, do children from sibling-kin groups look after children up to five year of age during trade?",,,Binary-YesNo,DTR27,DTR,T,no
-DTR27_DTR27-4,"Looking after children during trade. Typically, do children up to five year of age look after each other as part of the same peer group during trade?",,,Binary-YesNo,DTR27,DTR,T,no
-DTR28,Are there any speech styles used in trade?,,,Binary-YesNo,DTR28,DTR,D,no
-DTR29,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of trade?",,,Scalar,DTR29,DTR,B,no
-DTR31,"Typically, how much supervision do adults provide to children in trade?",,,Scalar,DTR31,DTR,T,no
-DTR32,Do Focus Group people experience trade differently depending on social group?,,,Binary-YesNo,DTR32,DTR,D,no
-DTR33,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in trade?,,,Scalar,DTR33,DTR,S,no
-DTR34,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in trade?,,,Scalar,DTR34,DTR,S,no
-DTR35,"How often are these speech styles typically used in trade, in comparison with unmonitored speech?",,,Scalar,DTR35,DTR,D,no
-DTR36,How physically proximate to each other are people involved in trade?,,,Scalar,DTR36,DTR,S,no
-DTR37,"Typically, what language would a Focus Group child speak to Neighbour Group children in trade?",,,Types,DTR37,DTR,T,no
-DTR96,"List any other groups that the Focus Group traded with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this happened.",,,Comment,DTR96,DTR,E,no
-DTR97,"What type of data informed your answers to the questions in the domain of trade, overall?",,,TypesMultiple,DTR97,DTR,E,no
-DTR98,How certain are you in your responses for the domain of trade?,,,Scalar,DTR98,DTR,E,no
-DTR99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DTR],,,Comment,DTR99,DTR,E,no
-O10,Focus Group peoples’ language loyalty towards Focus Group can be characterised as:,,,Scalar,O10,OV,OI,no
-OB1,There is an emic conception of Focus Group as “a language” or some other categorical or objective thing?,,,Binary-YesNo,OB1,OV,OB,no
-OC1,How certain are you in your responses to the set of questions about each domain?,,,Scalar,OC1,OV,OC,no
-OC2,How certain are you in your responses to the set of questions about social networks (The S-Set of questions)?,,,Scalar,OC2,OV,OC,no
-OC3,How certain are you in your responses to the set of questions about attitudes and ideologies (The B-Set of questions)?,,,Scalar,OC3,OV,OC,no
-OC4,How certain are you in your responses to the set of questions about language production (The O-Set of questions)?,,,Scalar,OC4,OV,OC,no
-OC5,How certain are you in your responses to the set of questions about the languages spoken to the Focus Group people (The I-Set of questions)?,,,Scalar,OC5,OV,OC,no
-OC6,How certain are you in your responses to the set of questions about children (The T-Set of questions)?,,,Scalar,OC6,OV,OC,no
-OD1,What is the total number of native-like speakers of Focus Group?,,,TypesSequential,OD1,OV,OD,no
-OD3,What is the total number of native-like speakers of Neighbour Group?,,,TypesSequential,OD3,OV,OD,no
-OD4,What is the approximate proportion of native-like speakers in the total population of all speakers of Focus Group?,,,Scalar,OD4,OV,OD,no
-OD5,What is the approximate proportion of native-like speakers in the total population of all speakers of Neighbour Group?,,,Scalar,OD5,OV,OD,no
-OE1,How long time have you spent working with this community?,,,Comment,OE1,OV,OE,no
-OE2,Whom did you mostly interact with during your stay and through community-based research?,,,Comment,OE2,OV,OE,no
-OE3,Was your interaction with members of the community typically mediated by one/a few person(s)? Who were they?,,,Comment,OE3,OV,OE,no
-OG1,What is the population density within the area where Focus Group is spoken?,,,TypesSequential,OG1,OV,OG,no
-OH1,"Have there been any natural disasters or major societal upheaval during the densest period of contact between the Focus Group speaking and Neighbour Group speaking people, such it impacted people's mobility, and Focus Group speaking people talk about it?",,,Binary-YesNo,OH1,OV,OH,no
-OI1_OI1-1,"Is Focus Group stated as an expression of identity of any of the following? Group centered around shared descent, such as clan, house, lineage group, kinship group",,,Binary-YesNo,OI1,OV,OI,no
-OI1_OI1-2,"Is Focus Group stated as an expression of identity of any of the following? Race, ethnicity, or some other similar grouping",,,Binary-YesNo,OI1,OV,OI,no
-OI1_OI1-3,"Is Focus Group stated as an expression of identity of any of the following? Micro-level (politico-)territorial group, including regional or areal groups, clans, bands, tribes",,,Binary-YesNo,OI1,OV,OI,no
-OI1_OI1-4,"Is Focus Group stated as an expression of identity of any of the following? Macro-level (politico-)territorial group, such as nation, tribe, state",,,Binary-YesNo,OI1,OV,OI,no
-OI1_OI1-5,"Is Focus Group stated as an expression of identity of any of the following? Formal or informal relationships between non-kin, such as alliances, sodality membership, ad-hoc relationships between families or individuals",,,Binary-YesNo,OI1,OV,OI,no
-OI3,Is there a codified standard variety for Focus Group?,,,Binary-YesNo,OI3,OV,OI,no
-OI6,"What are the Focus Group speakers' attitudes towards linguistic transfers from Neighbour Group, such as lexical or grammatical borrowing?",,,Scalar,OI6,OV,OI,no
-OI7,"What are the Focus Group speakers' general attitudes towards linguistic transfer, such as lexical or grammatical borrowing, from any other language than Neighbour Group?",,,Scalar,OI7,OV,OI,no
-OI8,How significant is language as part of group identity for the speakers of Focus Group?,,,Scalar,OI8,OV,OI,no
-OI9,What are the Focus Group speakers' attitudes towards lectal differences within Focus Group?,,,Scalar,OI9,OV,OI,no
-OL1,What is the approximate rate of formal literacy in the Focus Group speaking community?,,,Scalar,OL1,OV,OL,no
-OL2_OL2-1,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain hierarchy groups associated with profession or wealth (such as class and caste)?",,,Binary-YesNo,OL2,OV,OL,no
-OL2_OL2-2,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain magico-religiously sanctioned groups (such as religious denomination)?",,,Binary-YesNo,OL2,OV,OL,no
-OL2_OL2-3,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain descent groups, such as clan, house, lineage group, kinship group)?",,,Binary-YesNo,OL2,OV,OL,no
-OL2_OL2-4,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain races, ethnicities, or some other similar grouping?",,,Binary-YesNo,OL2,OV,OL,no
-OL2_OL2-5,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain age cohorts or life stages?",,,Binary-YesNo,OL2,OV,OL,no
-OL2_OL2-6,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to a certain sex or genders?",,,Binary-YesNo,OL2,OV,OL,no
-OL2_OL2-7,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to other communities of practice not mentioned above?",,,Binary-YesNo,OL2,OV,OL,no
-OL3,Do the Focus Group speaking people use some orthography in writing their language?,,,Types,OL3,OV,OL,no
-OS1,"Typically, how many levels of jurisdictional hierarchy are there in the Focus Group speaking society, beyond the local community?",,,Scalar,OS1,OV,OS,no
-OS2,"Typically, how many levels of jurisdictional hierarchy are there in Neighbour Group society, beyond the local community?",,,Scalar,OS2,OV,OS,no
-OS4,"Which of the following best characterises the dominant form of the Focus Group speaking group's mobility and sedentism, in regards to subsistence?",,,Types,OS4,OV,OS,no
-OS5,"Which of the following best characterises the dominant form of the Neighbour Group speaking group's mobility and sedentism, in regards to subsistence?",,,Types,OS5,OV,OS,no
-OS6,The Focus Group speaking society's subsistence pattern can be broadly characterised as... ,,,Types,OS6,OV,OS,no
-OS7,What is the mean size of the Focus Group speaking communities at the local level?,,,TypesSequential,OS7,OV,OS,no
-OS9,How frequently do Focus Group people generally interact with out-group people? ,,,Scalar,OS9,OV,OS,no
-OT1,How long have Focus Group and Neighbour Group people been in contact overall?,,,Comment,OT1,OV,OT,yes
-OT1N0,"Coarse time range, start [OT1N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT1,OV,OT,no
-OT1N1,"Coarse time range, end [OT1N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT1,OV,OT,no
-OT2,What is the overall time frame when the largest number of people had the most opportunities for interaction?,,,Comment,OT2,OV,OT,yes
-OT2N0,"Coarse time range, start [OT2N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT2,OV,OT,no
-OT2N1,"Coarse time range, end [OT2N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT2,OV,OT,no
+ID,Name,Description,ColumnSpec,datatype,Question_ID,Domain,Tag,Is_Timeframe_Comment,Use_Equivalence,Socio-Political_Power,Language_Loyalty,Attitudes_and_Ideologies
+F,Focus language,,,,,,,no,no,no,no,no
+S,Contact pair,,,,,,,no,no,no,no,no
+DEM00,Has exchange ever been a relevant domain of contact between Focus Group and Neighbour Group?,,,Binary-YesNo,DEM00,DEM,P,no,no,no,no,no
+DEM01,"What other languages, if any, are spoken in this domain?",,,Comment,DEM01,DEM,P,no,yes,no,no,no
+DEM02_DEME02-1,Characteristic of the domain of Exchange. Is Exchange between Focus Group and Neighbour Group the individual’s initiative?,,,Binary-YesNo,DEM02,DEM,D,no,no,no,no,no
+DEM02_DEME02-2,Characteristic of the domain of Exchange. Is Exchange between Focus Group and Neighbour Group an institutionalised procedure?,,,Binary-YesNo,DEM02,DEM,D,no,no,no,no,no
+DEM02_DEME02-3,Characteristic of the domain of Exchange. Is Exchange between Focus Group and Neighbour Group part of a ceremonial event to which both communities participate?,,,Binary-YesNo,DEM02,DEM,D,no,no,no,no,no
+DEM03_DEME03-1,"Social categories. Does involvement in Exchange practices differ based on hierarchies associated to profession or wealth, such as a person's class or caste?",,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM03_DEME03-2,"Social categories. Does involvement in Exchange practices differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM03_DEME03-3,"Social categories. Does involvement in Exchange practices differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM03_DEME03-4,"Social categories. Does involvement in Exchange practices differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM03_DEME03-5,"Social categories. Does involvement in Exchange practices differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM03_DEME03-6,Social categories. Does involvement in Exchange practices differ based on a person’s age or life stage?,,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM03_DEME03-7,Social categories. Does involvement in Exchange practices differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM03_DEME03-8,Social categories. Does involvement in Exchange practices differ based on a person’s sex or gender?,,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM03_DEME03-9,Social categories. Does involvement in Exchange practices differ based on any other communities of practice?,,,Binary-YesNo,DEM03,DEM,D,no,no,no,no,no
+DEM04,Where does exchange between Focus Group and Neighbour Group people typically take place?,,,Types,DEM04,DEM,D,no,no,yes,no,no
+DEM05,What language do Focus Group people expect to be used when interacting with Neighbour Group people through practices of exchange?,,,Types,DEM05,DEM,B,no,yes,no,yes,no
+DEM06,How much do Focus Group children participate in practices of exchange?,,,Scalar,DEM06,DEM,T,no,no,no,no,no
+DEM08,How often do Focus Group people exchange with Neighbour Group people?,,,Scalar,DEM08,DEM,S,no,no,no,no,no
+DEM0a,How long have Focus Group and Neighbour Group people practised exchange for? ,,,Comment,DEM0a,DEM,P,yes,no,no,no,no
+DEM0aN0,"Coarse time range, start [DEM0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0a,DEM,P,no,no,no,no,no
+DEM0aN1,"Coarse time range, end [DEM0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0a,DEM,P,no,no,no,no,no
+DEM0b,What is the time frame when the largest number of people had the most opportunities for interaction in exchange?,,,Comment,DEM0b,DEM,P,yes,no,no,no,no
+DEM0bN0,"Coarse time range, start [DEM0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0b,DEM,P,no,no,no,no,no
+DEM0bN1,"Coarse time range, end [DEM0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0b,DEM,P,no,no,no,no,no
+DEM10,How would you rate the overall relationship between Focus Group and Neighbour Group people in the domain of exchange?,,,Scalar,DEM10,DEM,S,no,no,no,no,yes
+DEM11,How many people are typically involved in interactions between Focus Group and Neighbour Group in the context of exchange?,,,Scalar,DEM11,DEM,S,no,no,no,no,no
+DEM12,What language do Neighbour Group people typically speak to Focus Group people during practices of exchange?,,,Types,DEM12,DEM,I,no,yes,no,no,no
+DEM13,"Typically in contexts of exchange practices, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DEM13,DEM,I,no,yes,no,no,no
+DEM14,What language do Focus Group people typically speak during practices of exchange with Neighbour Group people?,,,Types,DEM14,DEM,O,no,yes,no,yes,no
+DEM15,Do Focus Group people typically simplify their Focus Group language when speaking with Neighbour Group people during practices of Exchange?,,,Types,DEM15,DEM,O,no,yes,no,no,no
+DEM16,"Typically in the context of exchange practices, how fluently to Focus Group people speak the Neighbour Group language?",,,Scalar,DEM16,DEM,O,no,yes,no,no,no
+DEM17,What is the overall attitude that Focus Group people have towards Neighbour Group people in the context of exchange?,,,Scalar,DEM17,DEM,B,no,no,no,no,yes
+DEM18,How do Focus Group people view themselves overall in relation to Neighbour Group people in the context of exchange?,,,Scalar,DEM18,DEM,B,no,no,no,no,yes
+DEM19,How much influence can the Focus Group exert over exchange?,,,Scalar,DEM19,DEM,D,no,no,yes,no,no
+DEM20,"Typically, how much supervision do adults provide to children during practices of exchange?",,,Scalar,DEM20,DEM,T,no,no,no,no,no
+DEM21,What language do Neighbour Group adults typically speak to Focus Group children during practices of exchange?,,,Types,DEM21,DEM,T,no,yes,no,no,no
+DEM22,"Typically, what language do Focus Group children prefer to speak with Neighbour Group adults in the context of exchange?",,,Types,DEM22,DEM,T,no,yes,no,no,no
+DEM25,"Typically, what language do Focus Group children speak to Neighbour Group children during practices of exchange?",,,Types,DEM25,DEM,T,no,yes,no,no,no
+DEM26_DEME26-1,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their village or other kind of local community?",,,Binary-YesNo,DEM26,DEM,D,no,no,no,no,no
+DEM26_DEME26-2,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their descent group or clan?",,,Binary-YesNo,DEM26,DEM,D,no,no,no,no,no
+DEM26_DEME26-3,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their designated marriage group such as a moiety?",,,Binary-YesNo,DEM26,DEM,D,no,no,no,no,no
+DEM26_DEME26-4,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their hierarchical social group such as class or caste?",,,Binary-YesNo,DEM26,DEM,D,no,no,no,no,no
+DEM26_DEME26-5,"Marrying out: When marrying each other, should Focus Group people and Neighbour Group people marry somebody outside their linguistic group?",,,Binary-YesNo,DEM26,DEM,D,no,no,no,no,no
+DEM27_DEME27-1,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same village or other kind of local community?",,,Binary-YesNo,DEM27,DEM,D,no,no,no,no,no
+DEM27_DEME27-2,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same descent group or clan?",,,Binary-YesNo,DEM27,DEM,D,no,no,no,no,no
+DEM27_DEME27-3,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same designated marriage group such as a moiety?",,,Binary-YesNo,DEM27,DEM,D,no,no,no,no,no
+DEM27_DEME27-4,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same hierarchical social group such as class or caste?",,,Binary-YesNo,DEM27,DEM,D,no,no,no,no,no
+DEM27_DEME27-5,"Marrying within: When marrying each other, should Focus Group people and Neighbour Group people marry somebody from the same linguistic group?",,,Binary-YesNo,DEM27,DEM,D,no,no,no,no,no
+DEM28_DEME28-1,Polygyny. Is polygyny possible for Focus Group men?,,,Binary-YesNo,DEM28,DEM,D,no,no,no,no,no
+DEM28_DEME28-2,Polygyny. Is polygyny possible for Neighbour Group men?,,,Binary-YesNo,DEM28,DEM,D,no,no,no,no,no
+DEM28_DEME28-3,Polygyny. Is polygyny possible for men from all societal strata?,,,Binary-YesNo,DEM28,DEM,D,no,no,no,no,no
+DEM29_DEME29-1,Polyandry. Is polyandry possible for Focus Group women?,,,Binary-YesNo,DEM29,DEM,D,no,no,no,no,no
+DEM29_DEME29-2,Polyandry. Is polyandry possible for Neighbour Group women?,,,Binary-YesNo,DEM29,DEM,D,no,no,no,no,no
+DEM30_DEME30-1,Does marriage impose any child rearing obligations for both parents and grandparents on both sides?,,,Binary-YesNo,DEM30,DEM,T,no,no,no,no,no
+DEM30_DEME30-2,"Does marriage impose any child rearing obligations for one parent, and grandparents on both sides?",,,Binary-YesNo,DEM30,DEM,T,no,no,no,no,no
+DEM30_DEME30-3,"Does marriage impose any child rearing obligations for one parent, and grandparents on that side?",,,Binary-YesNo,DEM30,DEM,T,no,no,no,no,no
+DEM30_DEME30-4,"Does marriage impose any child rearing obligations for one parent, and grandparents from the other side?",,,Binary-YesNo,DEM30,DEM,T,no,no,no,no,no
+DEM31_DEME31-1,Intermarriage. Is it typical for Focus Group men to marry Neighbour Group women?,,,Binary-YesNo,DEM31,DEM,D,no,no,no,no,no
+DEM31_DEME31-2,Intermarriage. Is it typical for Focus Group women to marry Neighbour Group men?,,,Binary-YesNo,DEM31,DEM,D,no,no,no,no,no
+DEM32,Where do marriage ceremonies between Focus Group and Neighbour Group take place?,,,Types,DEM32,DEM,D,no,no,yes,no,no
+DEM33,What language do Focus Group people expect to be used in marriage ceremonies with Neighbour Group people?,,,Types,DEM33,DEM,B,no,yes,no,yes,no
+DEM34,How would you rate the overall relationship between Focus Group and Neighbour Group people in practices of marriage exchanges?,,,Scalar,DEM34,DEM,S,no,no,no,no,yes
+DEM35,What is the overall attitude that Focus Group people have towards Neighbour Group people in practices of marriage exchanges?,,,Scalar,DEM35,DEM,B,no,no,no,no,yes
+DEM36,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of marriage?",,,Scalar,DEM36,DEM,B,no,no,no,no,yes
+DEM37_DEME37-1,What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry? Bride wealth,,,Binary-YesNo,DEM37,DEM,D,no,no,no,no,no
+DEM37_DEME37-2,What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry? Dowry,,,Binary-YesNo,DEM37,DEM,D,no,no,no,no,no
+DEM37_DEME37-3,What type of marriage payments and transfers are expected when Focus Group and Neighbour Group marry? Other,,,Binary-YesNo,DEM37,DEM,D,no,no,no,no,no
+DEM38,Are there any speech styles used during practices of exchange?,,,Binary-YesNo,DEM38,DEM,D,no,no,no,no,no
+DEM39_DEME39-1,"Child socialisation. Typically during practices of exchange, do adults other than the parents look after children up to five year of age?",,,Binary-YesNo,DEM39,DEM,T,no,no,no,no,no
+DEM39_DEME39-2,"Child socialisation. Typically during practices of exchange, do parents look after children up to five year of age?",,,Binary-YesNo,DEM39,DEM,T,no,no,no,no,no
+DEM39_DEME39-3,"Child socialisation. Typically during practices of exchange, do children from sibling-kin groups look after children up to five year of age?",,,Binary-YesNo,DEM39,DEM,T,no,no,no,no,no
+DEM39_DEME39-4,"Child socialisation. Typically during practices of exchange, do children up to five year of age look after each other as part of the same peer group?",,,Binary-YesNo,DEM39,DEM,T,no,no,no,no,no
+DEM40,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of exchange?,,,Scalar,DEM40,DEM,S,no,no,no,no,no
+DEM41,Do Focus Group people experience exchange differently depending on social group?,,,Binary-YesNo,DEM41,DEM,D,no,no,no,no,no
+DEM42,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of marriage exchanges?,,,Scalar,DEM42,DEM,S,no,no,no,no,no
+DEM43,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of marriage exchanges? ,,,Scalar,DEM43,DEM,S,no,no,no,no,no
+DEM44,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of exchange?,,,Scalar,DEM44,DEM,S,no,no,no,no,no
+DEM45,"How often are these speech styles typically used during practices of exchange, in comparison with unmonitored speech?",,,Scalar,DEM45,DEM,D,no,no,no,no,no
+DEM96,"List any other groups that the Focus Group practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this contact through Social Exchange practices happened. ",,,Comment,DEM96,DEM,E,no,no,no,no,no
+DEM97,What type of data informed your answers to the questions in the domain of social exchange overall? ,,,TypesMultiple,DEM97,DEM,E,no,no,no,no,no
+DEM98,How certain are you in your responses for the domain of social exchange?,,,Scalar,DEM98,DEM,E,no,no,no,no,no
+DEM99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DEM],,,Comment,DEM99,DEM,E,no,no,no,no,no
+DFK00,"Do Focus Group people and Neighbour Group people marry each other, or have they done so in the past?",,,Binary-YesNo,DFK00,DFK,P,no,no,no,no,no
+DFK01,"What other languages, if any, are spoken between family members?",,,Comment,DFK01,DFK,P,no,yes,no,no,no
+DFK02_DFK02-1,Do mothers form a co-residential unit with their children and their husbands?,,,Binary-YesNo,DFK02,DFK,D,no,no,no,no,no
+DFK02_DFK02-2,Do mothers form a co-residential unit with their children and their mothers?,,,Binary-YesNo,DFK02,DFK,D,no,no,no,no,no
+DFK02_DFK02-3,Do mothers form a co-residential unit with their children and their mother in laws?,,,Binary-YesNo,DFK02,DFK,D,no,no,no,no,no
+DFK03,"Typically, how much of their lives do spouses spend with each other during the course of their lifetime?",,,Scalar,DFK03,DFK,S,no,no,no,no,no
+DFK04_DFK04-1,"Looking after children. Typically, do fathers look after children up to five year of age?",,,Binary-YesNo,DFK04,DFK,T,no,no,no,no,no
+DFK04_DFK04-2,"Looking after children. Typically, do mothers primarily look after children up to five year of age?",,,Binary-YesNo,DFK04,DFK,T,no,no,no,no,no
+DFK04_DFK04-3,Looking after children. Do adults other than the parents look after children up to five year of age?,,,Binary-YesNo,DFK04,DFK,T,no,no,no,no,no
+DFK04_DFK04-4,Looking after children. Do children from sibling-kin groups look after children up to five year of age?,,,Binary-YesNo,DFK04,DFK,T,no,no,no,no,no
+DFK04_DFK04-5,Looking after children. Do children up to five year of age look after each other as part of the same peer group?,,,Binary-YesNo,DFK04,DFK,T,no,no,no,no,no
+DFK05,What language are children expected to speak to their Neighbour Group parent?,,,Types,DFK05,DFK,B,no,yes,no,yes,no
+DFK06,What language do Focus Group people typically speak with their Neighbour Group spouse?,,,Types,DFK06,DFK,O,no,yes,no,no,no
+DFK07,Do Focus Group people typically simplify their Focus Group language when speaking with their Neighbour Group spouse?,,,Types,DFK07,DFK,O,no,yes,no,no,no
+DFK08,"Typically in the domain of family, how fluently to Focus Group people speak the Neighbour Group language?",,,Scalar,DFK08,DFK,O,no,yes,no,no,no
+DFK09,What language do Neighbour Group people typically speak with their Focus Group spouse?,,,Types,DFK09,DFK,I,no,yes,no,no,no
+DFK0a,How long have Focus Group and Neighbour Group peoples been forming families with each other for?,,,Comment,DFK0a,DFK,P,yes,no,no,no,no
+DFK0aN0,"Coarse time range, start [DFK0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DFK0a,DFK,P,no,no,no,no,no
+DFK0aN1,"Coarse time range, end [DFK0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DFK0a,DFK,P,no,no,no,no,no
+DFK0b,What’s the time frame of densest contact between Focus Group and Neighbour Group as far as family formation is concerned?,,,Comment,DFK0b,DFK,P,yes,no,no,no,no
+DFK0bN0,"Coarse time range, start [DFK0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DFK0b,DFK,P,no,no,no,no,no
+DFK0bN1,"Coarse time range, end [DFK0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DFK0b,DFK,P,no,no,no,no,no
+DFK10,"Typically in the domain of family, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DFK10,DFK,I,no,yes,no,no,no
+DFK11,How physically proximate to each other are a Focus Group person and their Neighbour Group in-laws?,,,Scalar,DFK11,DFK,S,no,no,no,no,no
+DFK12,"Thinking about the Focus Group person and their Neighbour Group in-laws, how often would they typically meet?",,,Scalar,DFK12,DFK,S,no,no,no,no,no
+DFK14,How would you rate the overall relationship between a Focus Group person and their Neighbour Group in-laws?,,,Scalar,DFK14,DFK,S,no,no,no,no,yes
+DFK15,How many people are typically involved in interactions between a Focus Group person and their Neighbour Group in-laws?,,,Scalar,DFK15,DFK,S,no,no,no,no,no
+DFK16,What is the overall level of affection that the Focus Group person has towards their Neighbour Group spouse?,,,Scalar,DFK16,DFK,B,no,no,no,no,yes
+DFK20,What language do Focus Group parents typically speak with their children?,,,Types,DFK20,DFK,T,no,yes,no,yes,no
+DFK21,What language do Neighbour Group parents typically speak with their children?,,,Types,DFK21,DFK,T,no,yes,no,no,no
+DFK22,What language do children typically speak with their Focus Group parent?,,,Types,DFK22,DFK,T,no,yes,no,yes,no
+DFK23,What language do children typically speak with their Neighbour Group parent?,,,Types,DFK23,DFK,T,no,yes,no,yes,no
+DFK24,"Typically, how much supervision do grandparents provide to children?",,,Scalar,DFK24,DFK,T,no,no,no,no,no
+DFK25,What language do Neighbour Group grandparent/aunts/uncles typically speak to the children?,,,Types,DFK25,DFK,T,no,yes,no,no,no
+DFK26,"Typically, what language do Focus Group children speak with their Neighbour Group grandparents/aunts/uncles?",,,Types,DFK26,DFK,T,no,yes,no,yes,no
+DFK28,"Your child has married a Neighbour Group person. What language does your child’s spouse typically speak to you, a Focus Group person?",,,Types,DFK28,DFK,I,no,yes,no,no,no
+DFK30,Your child has married a Neighbour Group person. What language do you typically speak when speaking with your Neighbour Group son/daughter-in-law?,,,Types,DFK30,DFK,O,no,yes,no,no,no
+DFK31,"Typically, does a Focus Group person simplify their Focus Group language when speaking to their Neighbour Group in-laws?",,,Types,DFK31,DFK,O,no,yes,no,no,no
+DFK32,"Typically, how fluently does a Focus Group person speak the Neighbour Group language when speaking to their Neighbour Group in-laws?",,,Scalar,DFK32,DFK,O,no,yes,no,no,no
+DFK33,What is the overall attitude that a Focus Group person has towards their Neighbour Group in-laws?,,,Scalar,DFK33,DFK,B,no,no,no,no,yes
+DFK34,You have married a Neighbour Group person. What language do you typically speak to your Neighbour Group in-laws (your spouse’s parents and siblings)?,,,Types,DFK34,DFK,I,no,yes,no,no,no
+DFK35,What is the typical pattern of relocation for Focus Group women when starting a new family?,,,Scalar,DFK35,DFK,D,no,no,no,no,no
+DFK37,How physically proximate to each other are the households of the husband and wife?,,,Scalar,DFK37,DFK,S,no,no,no,no,no
+DFK38_DFK38-1,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? Lexical avoidance,,,Binary-YesNo,DFK38,DFK,D,no,no,no,no,no
+DFK38_DFK38-2,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? The use of certain morphosyntactic forms,,,Binary-YesNo,DFK38,DFK,D,no,no,no,no,no
+DFK38_DFK38-3,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? The use of certain pronominal forms,,,Binary-YesNo,DFK38,DFK,D,no,no,no,no,no
+DFK39,What is the typical pattern of relocation for Neighbour Group women when starting a new family? ,,,Scalar,DFK39,DFK,D,no,no,no,no,no
+DFK40,Do Focus Group people experience family life differently depending on social group?,,,Binary-YesNo,DFK40,DFK,D,no,no,no,no,no
+DFK96,Who do Focus Group people typically form families with besides Neighbour Group people?,,,Types,DFK96,DFK,E,no,no,no,no,no
+DFK97,"What type of data informed your answers to the questions in the domain of family and kin, overall?",,,TypesMultiple,DFK97,DFK,E,no,no,no,no,no
+DFK98,How certain are you in your responses for the domain of family and kin?,,,Scalar,DFK98,DFK,E,no,no,no,no,no
+DFK99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DFK],,,Comment,DFK99,DFK,E,no,no,no,no,no
+DFKXX,"Typically, how well does a Focus Group person understand the Neighbour Group in-law’s language? [DFK]",,,Scalar,DFKXX,DFK,I,no,yes,no,no,no
+DKN00,Have Focus Group and Neighbour Group people occupied the same spaces of knowledge transfer together?,,,Binary-YesNo,DKN00,DKN,P,no,no,no,no,no
+DKN01,"What other languages, if any, are spoken in the knowledge domain?",,,Comment,DKN01,DKN,P,no,yes,no,no,no
+DKN02,The most influential form of knowledge in this contact scenario is:,,,Types,DKN02,DKN,D,no,no,no,no,no
+DKN03_DKN03-1,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN03_DKN03-2,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN03_DKN03-3,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN03_DKN03-4,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN03_DKN03-5,"Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN03_DKN03-6,Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s age or life stage?,,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN03_DKN03-7,Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN03_DKN03-8,Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on a person’s sex or gender?,,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN03_DKN03-9,Involvement in the knowledge domain. Does involvement in the knowledge domain differ based on any other communities of practice?,,,Binary-YesNo,DKN03,DKN,D,no,no,no,no,no
+DKN04,The relationship between Focus Group people and Neighbour Group people in the knowledge domain can typically be characterised as:,,,Types,DKN04,DKN,D,no,no,yes,no,no
+DKN05,Where does knowledge transmission between Focus Group people and Neighbour Group people typically take place?,,,Types,DKN05,DKN,D,no,no,yes,no,no
+DKN06,Are there any speech styles used in the knowledge domain?,,,Binary-YesNo,DKN06,DKN,D,no,no,no,no,no
+DKN07,Do Focus Group people experience the knowledge domain differently depending on social group?,,,Binary-YesNo,DKN07,DKN,D,no,no,no,no,no
+DKN08,How often do Focus Group people interact with Neighbour Group people in the knowledge domain?,,,Scalar,DKN08,DKN,S,no,no,no,no,no
+DKN0a,How long have Focus Group and Neighbour Group people been involved in the knowledge domain together for?,,,Comment,DKN0a,DKN,P,yes,no,no,no,no
+DKN0aN0,"Coarse time range, start [DKN0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DKN0a,DKN,P,no,no,no,no,no
+DKN0aN1,"Coarse time range, end [DKN0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DKN0a,DKN,P,no,no,no,no,no
+DKN0b,What is the time frame when the largest number of people had the most opportunities for interaction in the knowledge domain?,,,Comment,DKN0b,DKN,P,yes,no,no,no,no
+DKN0bN0,"Coarse time range, start [DKN0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DKN0b,DKN,P,no,no,no,no,no
+DKN0bN1,"Coarse time range, end [DKN0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DKN0b,DKN,P,no,no,no,no,no
+DKN10,How many people are typically involved in interactions between Focus Group people and Neighbour Group people in the knowledge domain?,,,Scalar,DKN10,DKN,S,no,no,no,no,no
+DKN11,How physically proximate to each other are people in the knowledge domain?,,,Scalar,DKN11,DKN,S,no,no,no,no,no
+DKN12,How would you rate the overall relationship between Focus Group and Neighbour Group people in the knowledge domain?,,,Scalar,DKN12,DKN,S,no,no,no,no,yes
+DKN13,What is the overall attitude that Focus Group people have towards Neighbour Group people in the knowledge domain?,,,Scalar,DKN13,DKN,B,no,no,no,no,yes
+DKN14,"How do Focus Group people view themselves overall in relation to Neighbour Group people, in the context of the knowledge domain?",,,Scalar,DKN14,DKN,B,no,no,no,no,yes
+DKN16,What language do Focus Group people expect to be used with Neighbour Group people in the knowledge domain?,,,Types,DKN16,DKN,B,no,yes,no,yes,no
+DKN17,What language do Focus Group people typically speak with Neighbour Group people when in the knowledge domain?,,,Types,DKN17,DKN,O,no,yes,no,yes,no
+DKN18,Do Focus Group people typically simplify their language when speaking with Neighbour Group people in the knowledge domain?,,,Types,DKN18,DKN,O,no,yes,no,no,no
+DKN19,"Typically in the knowledge domain, how fluently do Focus Group people speak the Neighbour Group language?",,,Scalar,DKN19,DKN,O,no,yes,no,no,no
+DKN20,What language do Neighbour Group people typically speak with Focus Group people in the knowledge domain?,,,Types,DKN20,DKN,I,no,yes,no,no,no
+DKN21,"Typically in the knowledge domain, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DKN21,DKN,I,no,yes,no,no,no
+DKN22,How much do Focus Group children participate in the activities of the knowledge domain?,,,Scalar,DKN22,DKN,T,no,no,no,no,no
+DKN23_DKN23-1,"Looking after children in the knowledge domain. Typically, do adults other than the parents look after children up to five year of age in the knowledge domain?",,,Binary-YesNo,DKN23,DKN,T,no,no,no,no,no
+DKN23_DKN23-2,"Looking after children in the knowledge domain. Typically, do parents look after children up to five year of age in the knowledge domain?",,,Binary-YesNo,DKN23,DKN,T,no,no,no,no,no
+DKN23_DKN23-3,"Looking after children in the knowledge domain. Typically, do children from sibling-kin groups look after children up to five year of age in the knowledge domain?",,,Binary-YesNo,DKN23,DKN,T,no,no,no,no,no
+DKN23_DKN23-4,"Looking after children in the knowledge domain. Typically, do children up to five year of age look after each other as part of the same peer group in the knowledge domain?",,,Binary-YesNo,DKN23,DKN,T,no,no,no,no,no
+DKN24,What language do Neighbour Group adults typically speak to a Focus Group children in the knowledge domain?,,,Types,DKN24,DKN,T,no,yes,no,no,no
+DKN25,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DKN]",,,Types,DKN25,DKN,T,no,yes,no,no,no
+DKN26,"Typically, what language would a Focus Group child speak to Neighbour Group children in the knowledge domain?",,,Types,DKN26,DKN,T,no,yes,no,no,no
+DKN27,"Typically, how much structured instruction do adults provide to children in the knowledge domain?",,,Scalar,DKN27,DKN,T,no,no,no,no,no
+DKN28,How much influence can the Focus Group people exert over the decision of what constitutes legitimate knowledge in this domain?,,,Scalar,DKN28,DKN,D,no,no,yes,no,no
+DKN29,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in the knowledge domain?",,,Scalar,DKN29,DKN,S,no,no,no,no,no
+DKN30,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in the knowledge domain?",,,Scalar,DKN30,DKN,S,no,no,no,no,no
+DKN31,"How often are these speech styles typically used in knowledge transmission, in comparison with unmonitored speech?",,,Scalar,DKN31,DKN,D,no,no,no,no,no
+DKN96,"List any other groups that the Focus Group people intereacted with in the past, in the knowledge domain. List any other group in so far as you believe they had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this interaction happened.",,,Comment,DKN96,DKN,E,no,no,no,no,no
+DKN97,"What type of data informed your answers to the questions in the domain of knowledge, overall?",,,TypesMultiple,DKN97,DKN,E,no,no,no,no,no
+DKN98,How certain are you in your responses for the domain of knowledge?,,,Scalar,DKN98,DKN,E,no,no,no,no,no
+DKN99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DKN],,,Comment,DKN99,DKN,E,no,no,no,no,no
+DLB00,Has work ever been a relevant domain of contact between Focus Group and Neighbour Group?,,,Binary-YesNo,DLB00,DLB,P,no,no,no,no,no
+DLB01,"What other languages, if any, are spoken in the labour domain?",,,Comment,DLB01,DLB,P,no,yes,no,no,no
+DLB02,How commonly are Focus Group people and Neighbour Group people involved in public modes of production?,,,Scalar,DLB02,DLB,D,no,no,no,no,no
+DLB03_DLB03-1,"Involvement in work. Does involvement in work differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB03_DLB03-2,"Involvement in work. Does involvement in work differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB03_DLB03-3,"Involvement in work. Does involvement in work domain differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB03_DLB03-4,"Involvement in work. Does involvement in work domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB03_DLB03-5,"Involvement in work. Does involvement in work differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB03_DLB03-6,Involvement in work. Does involvement in work differ based on a person’s age or life stage?,,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB03_DLB03-7,Involvement in work. Does involvement in work differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB03_DLB03-8,Involvement in work. Does involvement in work differ based on a person’s sex or gender?,,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB03_DLB03-9,Involvement in work. Does involvement in work differ based on any other communities of practice?,,,Binary-YesNo,DLB03,DLB,D,no,no,no,no,no
+DLB04,Is there hierarchy involved in work?,,,Binary-YesNo,DLB04,DLB,D,no,no,yes,no,no
+DLB05,Where do Focus Group people and Neighbour Group people typically work together?,,,Types,DLB05,DLB,D,no,no,yes,no,no
+DLB06,Are there any speech styles used during work?,,,Binary-YesNo,DLB06,DLB,D,no,no,no,no,no
+DLB07,How often do Focus Group people work with Neighbour Group people?,,,Scalar,DLB07,DLB,S,no,no,no,no,no
+DLB09,How many people are typically involved in interactions between Focus Group people and Neighbour Group people when working?,,,Scalar,DLB09,DLB,S,no,no,no,no,no
+DLB0a,How long have Focus Group people and Neighbour Group people worked together for?,,,Comment,DLB0a,DLB,P,yes,no,no,no,no
+DLB0aN0,"Coarse time range, start [DLB0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLB0a,DLB,P,no,no,no,no,no
+DLB0aN1,"Coarse time range, end [DLB0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLB0a,DLB,P,no,no,no,no,no
+DLB0b,What is the time frame when the largest number of people had the most opportunities for interaction in the labour domain?,,,Comment,DLB0b,DLB,P,yes,no,no,no,no
+DLB0bN0,"Coarse time range, start [DLB0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLB0b,DLB,P,no,no,no,no,no
+DLB0bN1,"Coarse time range, end [DLB0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLB0b,DLB,P,no,no,no,no,no
+DLB10,How physically proximate to each other are people when working?,,,Scalar,DLB10,DLB,S,no,no,no,no,no
+DLB11,How would you rate the overall relationship between Focus Group and Neighbour Group people involved in work?,,,Scalar,DLB11,DLB,S,no,no,no,no,yes
+DLB13,Do Focus Group people typically simplify their language when working with Neighbour Group people?,,,Types,DLB13,DLB,O,no,yes,no,no,no
+DLB14,"Typically in work, how fluently do Focus Group people speak the Neighbour Group language?",,,Scalar,DLB14,DLB,O,no,yes,no,no,no
+DLB15,What language do Neighbour Group people typically speak when working with Focus Group people?,,,Types,DLB15,DLB,I,no,yes,no,no,no
+DLB16,"Typically in work, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DLB16,DLB,I,no,yes,no,no,no
+DLB17,How much do Focus Group children participate in work?,,,Scalar,DLB17,DLB,T,no,no,no,no,no
+DLB18,What language do Neighbour Group adults typically speak to a Focus Group children in work?,,,Types,DLB18,DLB,T,no,yes,no,no,no
+DLB19,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults in work?",,,Types,DLB19,DLB,T,no,yes,no,no,no
+DLB20,"Typically, what language would a Focus Group child speak to Neighbour Group children in work?",,,Types,DLB20,DLB,T,no,yes,no,no,no
+DLB21_DLB21-1,"Looking after children during work. Typically, do adults other than the parents look after children up to five year of age during work?",,,Binary-YesNo,DLB21,DLB,T,no,no,no,no,no
+DLB21_DLB21-2,"Looking after children during work. Typically, do parents look after children up to five year of age during work?",,,Binary-YesNo,DLB21,DLB,T,no,no,no,no,no
+DLB21_DLB21-3,"Looking after children during work. Typically, do children from sibling-kin groups look after children up to five year of age during work?",,,Binary-YesNo,DLB21,DLB,T,no,no,no,no,no
+DLB21_DLB21-4,"Looking after children during work. Typically, do children up to five year of age look after each other as part of the same peer group during work?",,,Binary-YesNo,DLB21,DLB,T,no,no,no,no,no
+DLB22,What is the overall attitude that Focus Group people have towards Neighbour Group people in work?,,,Scalar,DLB22,DLB,B,no,no,no,no,yes
+DLB23,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of work?",,,Scalar,DLB23,DLB,B,no,no,no,no,yes
+DLB25,What language do Focus Group people expect to be used when working with Neighbour Group people?,,,Types,DLB25,DLB,B,no,yes,no,yes,no
+DLB26,"Typically, how much supervision do adults provide to children in work?",,,Scalar,DLB26,DLB,T,no,no,no,no,no
+DLB27,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in work?",,,Scalar,DLB27,DLB,S,no,no,no,no,no
+DLB28,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in work?",,,Scalar,DLB28,DLB,S,no,no,no,no,no
+DLB29,How much influence can the Focus Group exert over the terms of work?,,,Scalar,DLB29,DLB,D,no,no,yes,no,no
+DLB30,Do Focus Group people experience work differently depending on social group?,,,Binary-YesNo,DLB30,DLB,D,no,no,no,no,no
+DLB31,"How often are these speech styles typically used during work, in comparison with unmonitored speech?",,,Scalar,DLB31,DLB,D,no,no,no,no,no
+DLB32,What language do Focus Group people typically speak when working with Neighbour Group people?,,,Types,DLB32,DLB,O,no,yes,no,yes,no
+DLB96,"List any other groups that the Focus Group people worked with in the past. List any other group in so far as you believe they had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this interaction happened.",,,Comment,DLB96,DLB,E,no,no,no,no,no
+DLB97,"What type of data informed your answers to the questions in the domain of labour, overall?",,,TypesMultiple,DLB97,DLB,E,no,no,no,no,no
+DLB98,How certain are you in your responses for the domain of labour?,,,Scalar,DLB98,DLB,E,no,no,no,no,no
+DLB99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DLB],,,Comment,DLB99,DLB,E,no,no,no,no,no
+DLC00,Has the local community ever been a relevant domain of contact between Focus Group and Neighbour Group?,,,Binary-YesNo,DLC00,DLC,P,no,no,no,no,no
+DLC01,"What other languages, if any, are spoken in the local community?",,,Comment,DLC01,DLC,P,no,yes,no,no,no
+DLC02,Choose one of the following where Focus Group people are most likely to speak in an unmonitored way.,,,Types,DLC02,DLC,D,no,no,no,no,no
+DLC03_DLC03-1,"Looking after children in the local community. Typically, do adults other than the parents look after children up to five year of age in the local community?",,,Binary-YesNo,DLC03,DLC,T,no,no,no,no,no
+DLC03_DLC03-2,"Looking after children in the local community. Typically, do parents look after children up to five year of age in the local community?",,,Binary-YesNo,DLC03,DLC,T,no,no,no,no,no
+DLC03_DLC03-3,"Looking after children in the local community. Typically, do children from sibling-kin groups look after children up to five year of age in local community?",,,Binary-YesNo,DLC03,DLC,T,no,no,no,no,no
+DLC03_DLC03-4,"Looking after children in the local community. Typically, do children up to five year of age look after each other as part of the same peer group in the local community?",,,Binary-YesNo,DLC03,DLC,T,no,no,no,no,no
+DLC04,What language do Focus Group people expect to be used with Neighbour Group people in the local community?,,,Types,DLC04,DLC,B,no,yes,no,yes,no
+DLC05,How physically proximate to each other are people in the local community?,,,Scalar,DLC05,DLC,S,no,no,no,no,no
+DLC09,What language do Neighbour Group people typically speak with Focus Group people in the local community?,,,Types,DLC09,DLC,I,no,yes,no,no,no
+DLC0a,How long have Focus Group and Neighbour Group people been in contact in the local community?,,,Comment,DLC0a,DLC,P,yes,no,no,no,no
+DLC0aN0,"Coarse time range, start [DLC0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLC0a,DLC,P,no,no,no,no,no
+DLC0aN1,"Coarse time range, end [DLC0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLC0a,DLC,P,no,no,no,no,no
+DLC0b,What is the time frame when the largest number of people had the most opportunities for interaction in the local community?,,,Comment,DLC0b,DLC,P,yes,no,no,no,no
+DLC0bN0,"Coarse time range, start [DLC0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLC0b,DLC,P,no,no,no,no,no
+DLC0bN1,"Coarse time range, end [DLC0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DLC0b,DLC,P,no,no,no,no,no
+DLC10,"Typically in the local community, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DLC10,DLC,I,no,yes,no,no,no
+DLC11,What language do Focus Group people typically speak with Neighbour Group people in the local community?,,,Types,DLC11,DLC,O,no,yes,no,yes,no
+DLC12,Do Focus Group people typically simplify their language when speaking with Neighbour Group people in the local community?,,,Types,DLC12,DLC,O,no,yes,no,no,no
+DLC13,"Typically in the local community, how fluently do Focus Group people speak the Neighbour Group language?",,,Scalar,DLC13,DLC,O,no,yes,no,no,no
+DLC14,How would you rate the overall relationship between Focus Group and Neighbour Group people in the local community?,,,Scalar,DLC14,DLC,S,no,no,no,no,yes
+DLC15,How many people are typically involved in interactions between Focus Group people and Neighbour Group people in the local community?,,,Scalar,DLC15,DLC,S,no,no,no,no,no
+DLC16,How often do Focus Group people interact with Neighbour Group people in the local community?,,,Scalar,DLC16,DLC,S,no,no,no,no,no
+DLC18,What is the overall attitude that Focus Group people have towards Neighbour Group people in the local community?,,,Scalar,DLC18,DLC,B,no,no,no,no,yes
+DLC19,"How do Focus Group people view themselves overall in relation to Neighbour Group people, in the context of the local community?",,,Scalar,DLC19,DLC,B,no,no,no,no,yes
+DLC20,"Typically in the local community, how much supervision do adults provide to children’s own activities, such as playing?",,,Scalar,DLC20,DLC,T,no,no,no,no,no
+DLC21,What language do Neighbour Group adults typically speak to a Focus Group children?,,,Types,DLC21,DLC,T,no,yes,no,no,no
+DLC22,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DLC]",,,Types,DLC22,DLC,T,no,yes,no,no,no
+DLC23,"Typically, what language would a Focus Group child speak to Neighbour Group children in the local community?",,,Types,DLC23,DLC,T,no,yes,no,no,no
+DLC25_DLC25-1,"Involvement in the Local Community. Does involvement in the local community differ based on hierarchies associated to profession or wealth, such as a person's class and caste?",,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC25_DLC25-2,"Involvement in the Local Community. Does involvement in the local community differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC25_DLC25-3,"Involvement in the Local Community. Does involvement in the local community differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC25_DLC25-4,"Involvement in the Local Community. Does involvement in the local community differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC25_DLC25-5,"Involvement in the Local Community. Does involvement in the local community differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC25_DLC25-6,Involvement in the Local Community. Does involvement in the local community differ based on a person’s age or life stage?,,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC25_DLC25-7,Involvement in the Local Community. Does involvement in the local community differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC25_DLC25-8,Involvement in the Local Community. Does involvement in the local community differ based on a person’s sex or gender?,,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC25_DLC25-9,Involvement in the Local Community. Does involvement in the local community differ based on any other communities of practice?,,,Binary-YesNo,DLC25,DLC,D,no,no,no,no,no
+DLC27,How much influence can the Focus Group exert over Neighbour Group in the activities of the local community?,,,Scalar,DLC27,DLC,D,no,no,yes,no,no
+DLC28,Where do Focus Group and Neighbour Group people typically meet up in the local community?,,,Types,DLC28,DLC,D,no,no,yes,no,no
+DLC29,Do Focus Group people experience the local community differently depending on social group?,,,Binary-YesNo,DLC29,DLC,D,no,no,no,no,no
+DLC31,How much do Focus Group children participate in the activities of the local community?,,,Scalar,DLC31,DLC,T,no,no,no,no,no
+DLC32,"What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people, in the form of local communities?",,,Scalar,DLC32,DLC,S,no,no,no,no,no
+DLC33,"What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people, in the form of local communities?",,,Scalar,DLC33,DLC,S,no,no,no,no,no
+DLC96,"List any other groups that the Focus Group formed local communities with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this happened.",,,Comment,DLC96,DLC,E,no,no,no,no,no
+DLC97,"What type of data informed your answers to the questions in the domain of local community, overall?",,,TypesMultiple,DLC97,DLC,E,no,no,no,no,no
+DLC98,How certain are you in your responses for the domain of local community?,,,Scalar,DLC98,DLC,E,no,no,no,no,no
+DLC99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DLC],,,Comment,DLC99,DLC,E,no,no,no,no,no
+DTR00,Has trade ever been a relevant domain of contact between Focus Group and Neighbour Group?,,,Binary-YesNo,DTR00,DTR,P,no,no,no,no,no
+DTR01,"What other languages, if any, are spoken in trade?",,,Comment,DTR01,DTR,P,no,yes,no,no,no
+DTR02_DTR02-1,Traded good types. Do Focus Group people trade raw materials and primary produce to Neighbour Group people?,,,Binary-YesNo,DTR02,DTR,D,no,no,no,no,no
+DTR02_DTR02-2,Traded good types. Do Focus Group people trade luxury items to Neighbour Group people?,,,Binary-YesNo,DTR02,DTR,D,no,no,no,no,no
+DTR02_DTR02-3,Traded good types. Do Focus Group people trade manufactured goods to Neighbour Group people?,,,Binary-YesNo,DTR02,DTR,D,no,no,no,no,no
+DTR02_DTR02-4,Traded good types. Do Neighbour Group people trade raw material and primary produce to Focus Group people?,,,Binary-YesNo,DTR02,DTR,D,no,no,no,no,no
+DTR02_DTR02-5,Traded good types. Do Neighbour Group people trade luxury items to Focus Group people?,,,Binary-YesNo,DTR02,DTR,D,no,no,no,no,no
+DTR02_DTR02-6,Traded good types. Do Neighbour Group people trade manufactured goods to Focus Group people?,,,Binary-YesNo,DTR02,DTR,D,no,no,no,no,no
+DTR03_DTR03-1,"Involvement in trade. Does involvement in trade differ based on hierarchies associated to profession or wealth, such as a person's class or caste?",,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR03_DTR03-2,"Involvement in trade. Does involvement in trade differ based on whether a person belongs to some magico-religiously sanctioned group, such as religious denomination?",,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR03_DTR03-3,"Involvement in trade. Does involvement in trade differ based on a person's descent group, such as clan, house, lineage group, kinship group?",,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR03_DTR03-4,"Involvement in trade. Does involvement in the knowledge domain differ based on a person’s group of land ownership, such as tribe, clan, territorial group?",,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR03_DTR03-5,"Involvement in trade. Does involvement in trade differ based on a person’s race, ethnicity, or some other similar grouping?",,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR03_DTR03-6,Involvement in trade. Does involvement in trade differ based on a person’s age or life stage?,,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR03_DTR03-7,Involvement in trade. Does involvement in trade differ based on a person’s place identity and affiliation?,,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR03_DTR03-8,Involvement in trade. Does involvement in trade differ based on a person’s sex or gender?,,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR03_DTR03-9,Involvement in trade. Does involvement in trade differ based on any other communities of practice?,,,Binary-YesNo,DTR03,DTR,D,no,no,no,no,no
+DTR06,Where does trade between Focus Group and Neighbour Group people typically take place?,,,Types,DTR06,DTR,D,no,no,yes,no,no
+DTR08,What language do Focus Group people expect to be used when trading with Neighbour Group people?,,,Types,DTR08,DTR,B,no,yes,no,yes,no
+DTR09,What language do Neighbour Group people typically speak when trading with the Focus Group?,,,Types,DTR09,DTR,I,no,yes,no,no,no
+DTR0a,How long have Focus Group and Neighbour Group people traded for?,,,Comment,DTR0a,DTR,P,yes,no,no,no,no
+DTR0aN0,"Coarse time range, start [DTR0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DTR0a,DTR,P,no,no,no,no,no
+DTR0aN1,"Coarse time range, end [DTR0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DTR0a,DTR,P,no,no,no,no,no
+DTR0b,What is the time frame when the largest number of people had the most opportunities for interaction in trade?,,,Comment,DTR0b,DTR,P,yes,no,no,no,no
+DTR0bN0,"Coarse time range, start [DTR0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DTR0b,DTR,P,no,no,no,no,no
+DTR0bN1,"Coarse time range, end [DTR0bN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DTR0b,DTR,P,no,no,no,no,no
+DTR10,"Typically in trade, how well do Focus Group people understand the Neighbour Group language?",,,Scalar,DTR10,DTR,I,no,yes,no,no,no
+DTR11,What language do Focus Group people typically speak when trading with Neighbour Group people?,,,Types,DTR11,DTR,O,no,yes,no,yes,no
+DTR12,Do Focus Group people typically simplify their language when speaking with Neighbour Group people during trade?,,,Types,DTR12,DTR,O,no,yes,no,no,no
+DTR13,"Typically in trade, how fluently do Focus Group people speak the Neighbour Group language?",,,Scalar,DTR13,DTR,O,no,yes,no,no,no
+DTR14,How often do Focus Group people trade with Neighbour Group people?,,,Scalar,DTR14,DTR,S,no,no,no,no,no
+DTR16,What is the overall attitude that Focus Group people have towards Neighbour Group people in trade?,,,Scalar,DTR16,DTR,B,no,no,no,no,yes
+DTR17,How much influence can the Focus Group exert over the Neighbour Group in terms of trade?,,,Scalar,DTR17,DTR,D,no,no,yes,no,no
+DTR18,How much do Focus Group children participate in trade?,,,Scalar,DTR18,DTR,T,no,no,no,no,no
+DTR19,What language do Neighbour Group adults typically speak to a Focus Group children in trade?,,,Types,DTR19,DTR,T,no,yes,no,no,no
+DTR20,"Typically, what language do Focus Group children from four/five year of age prefer to speak with Neighbour Group adults? [DTR]",,,Types,DTR20,DTR,T,no,yes,no,no,no
+DTR22,How many people are typically involved in interactions between Focus Group people and Neighbour Group people when trading?,,,Scalar,DTR22,DTR,S,no,no,no,no,no
+DTR23,How would you rate the overall relationship between Focus Group and Neighbour Group people in trade?,,,Scalar,DTR23,DTR,S,no,no,no,no,yes
+DTR24,"Typically when trading with Neighbour Group people, the Focus Group people will",,,Types,DTR24,DTR,D,no,no,no,no,no
+DTR27_DTR27-1,"Looking after children during trade. Typically, do adults other than the parents look after children up to five year of age during trade?",,,Binary-YesNo,DTR27,DTR,T,no,no,no,no,no
+DTR27_DTR27-2,"Looking after children during trade. Typically, do parents look after children up to five year of age during trade?",,,Binary-YesNo,DTR27,DTR,T,no,no,no,no,no
+DTR27_DTR27-3,"Looking after children during trade. Typically, do children from sibling-kin groups look after children up to five year of age during trade?",,,Binary-YesNo,DTR27,DTR,T,no,no,no,no,no
+DTR27_DTR27-4,"Looking after children during trade. Typically, do children up to five year of age look after each other as part of the same peer group during trade?",,,Binary-YesNo,DTR27,DTR,T,no,no,no,no,no
+DTR28,Are there any speech styles used in trade?,,,Binary-YesNo,DTR28,DTR,D,no,no,no,no,no
+DTR29,"How do Focus Group people view themselves overall in relation to Neighbour Group people, within the context of trade?",,,Scalar,DTR29,DTR,B,no,no,no,no,yes
+DTR31,"Typically, how much supervision do adults provide to children in trade?",,,Scalar,DTR31,DTR,T,no,no,no,no,no
+DTR32,Do Focus Group people experience trade differently depending on social group?,,,Binary-YesNo,DTR32,DTR,D,no,no,no,no,no
+DTR33,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in trade?,,,Scalar,DTR33,DTR,S,no,no,no,no,no
+DTR34,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in trade?,,,Scalar,DTR34,DTR,S,no,no,no,no,no
+DTR35,"How often are these speech styles typically used in trade, in comparison with unmonitored speech?",,,Scalar,DTR35,DTR,D,no,no,no,no,no
+DTR36,How physically proximate to each other are people involved in trade?,,,Scalar,DTR36,DTR,S,no,no,no,no,no
+DTR37,"Typically, what language would a Focus Group child speak to Neighbour Group children in trade?",,,Types,DTR37,DTR,T,no,yes,no,no,no
+DTR96,"List any other groups that the Focus Group traded with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this happened.",,,Comment,DTR96,DTR,E,no,no,no,no,no
+DTR97,"What type of data informed your answers to the questions in the domain of trade, overall?",,,TypesMultiple,DTR97,DTR,E,no,no,no,no,no
+DTR98,How certain are you in your responses for the domain of trade?,,,Scalar,DTR98,DTR,E,no,no,no,no,no
+DTR99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DTR],,,Comment,DTR99,DTR,E,no,no,no,no,no
+O10,Focus Group peoples’ language loyalty towards Focus Group can be characterised as:,,,Scalar,O10,OV,OI,no,no,no,yes,no
+OB1,There is an emic conception of Focus Group as “a language” or some other categorical or objective thing?,,,Binary-YesNo,OB1,OV,OB,no,no,no,no,no
+OC1,How certain are you in your responses to the set of questions about each domain?,,,Scalar,OC1,OV,OC,no,no,no,no,no
+OC2,How certain are you in your responses to the set of questions about social networks (The S-Set of questions)?,,,Scalar,OC2,OV,OC,no,no,no,no,no
+OC3,How certain are you in your responses to the set of questions about attitudes and ideologies (The B-Set of questions)?,,,Scalar,OC3,OV,OC,no,no,no,no,no
+OC4,How certain are you in your responses to the set of questions about language production (The O-Set of questions)?,,,Scalar,OC4,OV,OC,no,no,no,no,no
+OC5,How certain are you in your responses to the set of questions about the languages spoken to the Focus Group people (The I-Set of questions)?,,,Scalar,OC5,OV,OC,no,no,no,no,no
+OC6,How certain are you in your responses to the set of questions about children (The T-Set of questions)?,,,Scalar,OC6,OV,OC,no,no,no,no,no
+OD1,What is the total number of native-like speakers of Focus Group?,,,TypesSequential,OD1,OV,OD,no,no,no,no,no
+OD3,What is the total number of native-like speakers of Neighbour Group?,,,TypesSequential,OD3,OV,OD,no,no,no,no,no
+OD4,What is the approximate proportion of native-like speakers in the total population of all speakers of Focus Group?,,,Scalar,OD4,OV,OD,no,no,no,no,no
+OD5,What is the approximate proportion of native-like speakers in the total population of all speakers of Neighbour Group?,,,Scalar,OD5,OV,OD,no,no,no,no,no
+OE1,How long time have you spent working with this community?,,,Comment,OE1,OV,OE,no,no,no,no,no
+OE2,Whom did you mostly interact with during your stay and through community-based research?,,,Comment,OE2,OV,OE,no,no,no,no,no
+OE3,Was your interaction with members of the community typically mediated by one/a few person(s)? Who were they?,,,Comment,OE3,OV,OE,no,no,no,no,no
+OG1,What is the population density within the area where Focus Group is spoken?,,,TypesSequential,OG1,OV,OG,no,no,no,no,no
+OH1,"Have there been any natural disasters or major societal upheaval during the densest period of contact between the Focus Group speaking and Neighbour Group speaking people, such it impacted people's mobility, and Focus Group speaking people talk about it?",,,Binary-YesNo,OH1,OV,OH,no,no,no,no,no
+OI1_OI1-1,"Is Focus Group stated as an expression of identity of any of the following? Group centered around shared descent, such as clan, house, lineage group, kinship group",,,Binary-YesNo,OI1,OV,OI,no,no,no,no,no
+OI1_OI1-2,"Is Focus Group stated as an expression of identity of any of the following? Race, ethnicity, or some other similar grouping",,,Binary-YesNo,OI1,OV,OI,no,no,no,no,no
+OI1_OI1-3,"Is Focus Group stated as an expression of identity of any of the following? Micro-level (politico-)territorial group, including regional or areal groups, clans, bands, tribes",,,Binary-YesNo,OI1,OV,OI,no,no,no,no,no
+OI1_OI1-4,"Is Focus Group stated as an expression of identity of any of the following? Macro-level (politico-)territorial group, such as nation, tribe, state",,,Binary-YesNo,OI1,OV,OI,no,no,no,no,no
+OI1_OI1-5,"Is Focus Group stated as an expression of identity of any of the following? Formal or informal relationships between non-kin, such as alliances, sodality membership, ad-hoc relationships between families or individuals",,,Binary-YesNo,OI1,OV,OI,no,no,no,no,no
+OI3,Is there a codified standard variety for Focus Group?,,,Binary-YesNo,OI3,OV,OI,no,yes,no,no,no
+OI6,"What are the Focus Group speakers' attitudes towards linguistic transfers from Neighbour Group, such as lexical or grammatical borrowing?",,,Scalar,OI6,OV,OI,no,yes,no,no,yes
+OI7,"What are the Focus Group speakers' general attitudes towards linguistic transfer, such as lexical or grammatical borrowing, from any other language than Neighbour Group?",,,Scalar,OI7,OV,OI,no,yes,no,no,yes
+OI8,How significant is language as part of group identity for the speakers of Focus Group?,,,Scalar,OI8,OV,OI,no,no,no,yes,no
+OI9,What are the Focus Group speakers' attitudes towards lectal differences within Focus Group?,,,Scalar,OI9,OV,OI,no,no,no,no,yes
+OL1,What is the approximate rate of formal literacy in the Focus Group speaking community?,,,Scalar,OL1,OV,OL,no,no,no,no,no
+OL2_OL2-1,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain hierarchy groups associated with profession or wealth (such as class and caste)?",,,Binary-YesNo,OL2,OV,OL,no,no,no,no,no
+OL2_OL2-2,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain magico-religiously sanctioned groups (such as religious denomination)?",,,Binary-YesNo,OL2,OV,OL,no,no,no,no,no
+OL2_OL2-3,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain descent groups, such as clan, house, lineage group, kinship group)?",,,Binary-YesNo,OL2,OV,OL,no,no,no,no,no
+OL2_OL2-4,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain races, ethnicities, or some other similar grouping?",,,Binary-YesNo,OL2,OV,OL,no,no,no,no,no
+OL2_OL2-5,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to people of certain age cohorts or life stages?",,,Binary-YesNo,OL2,OV,OL,no,no,no,no,no
+OL2_OL2-6,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to a certain sex or genders?",,,Binary-YesNo,OL2,OV,OL,no,no,no,no,no
+OL2_OL2-7,"Restrictions in access to literacy in terms of social categories. Is the ability to read and write restricted, in practice, to other communities of practice not mentioned above?",,,Binary-YesNo,OL2,OV,OL,no,no,no,no,no
+OL3,Do the Focus Group speaking people use some orthography in writing their language?,,,Types,OL3,OV,OL,no,no,no,no,no
+OS1,"Typically, how many levels of jurisdictional hierarchy are there in the Focus Group speaking society, beyond the local community?",,,Scalar,OS1,OV,OS,no,no,yes,no,no
+OS2,"Typically, how many levels of jurisdictional hierarchy are there in Neighbour Group society, beyond the local community?",,,Scalar,OS2,OV,OS,no,no,yes,no,no
+OS4,"Which of the following best characterises the dominant form of the Focus Group speaking group's mobility and sedentism, in regards to subsistence?",,,Types,OS4,OV,OS,no,no,no,no,no
+OS5,"Which of the following best characterises the dominant form of the Neighbour Group speaking group's mobility and sedentism, in regards to subsistence?",,,Types,OS5,OV,OS,no,no,no,no,no
+OS6,The Focus Group speaking society's subsistence pattern can be broadly characterised as... ,,,Types,OS6,OV,OS,no,no,no,no,no
+OS7,What is the mean size of the Focus Group speaking communities at the local level?,,,TypesSequential,OS7,OV,OS,no,no,no,no,no
+OS9,How frequently do Focus Group people generally interact with out-group people? ,,,Scalar,OS9,OV,OS,no,no,no,no,no
+OT1,How long have Focus Group and Neighbour Group people been in contact overall?,,,Comment,OT1,OV,OT,yes,no,no,no,no
+OT1N0,"Coarse time range, start [OT1N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT1,OV,OT,no,no,no,no,no
+OT1N1,"Coarse time range, end [OT1N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT1,OV,OT,no,no,no,no,no
+OT2,What is the overall time frame when the largest number of people had the most opportunities for interaction?,,,Comment,OT2,OV,OT,yes,no,no,no,no
+OT2N0,"Coarse time range, start [OT2N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT2,OV,OT,no,no,no,no,no
+OT2N1,"Coarse time range, end [OT2N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT2,OV,OT,no,no,no,no,no

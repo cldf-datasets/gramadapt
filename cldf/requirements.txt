@@ -8,7 +8,7 @@ Cartopy==0.24.1
 certifi==2024.8.30
 chardet==5.2.0
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/gramadapt@9dd72068c4c99178e99d5ca9bce872d5c7d7bf40#egg=cldfbench_gramadapt
+-e git+https://github.com/cldf-datasets/gramadapt@3127fc7c5d4e2be2d866785319f79bc58710ef35#egg=cldfbench_gramadapt
 cldfcatalog==1.5.1
 -e git+https://github.com/cldf/cldfviz@624f57ba022675ddd2343a08ed02adc9785f02f8#egg=cldfviz
 cldfzenodo==2.1.2

@@ -99,8 +99,25 @@ TAGS = {
     "OH": "History",
     "OE": "Respondent fieldwork experience",
     "OC": "Response confidence",
-    "OB": "",  # OB1
+    "OB": "Behaviour affecting biases",
     "OT": "Time frame",  # OT1, OT2
+}
+MULTICAUSAL_FACTORS = {
+    "Use Equivalence":
+        "Questions pertaining to whether language use is equivalent or language contact dynamics "
+        "between Focus and Neighbour Groups as used in equivalent ways or not. The tag relates to "
+        "questions of language uses in social domains, and discrepancies in fluency between Focus "
+        "and Neighbour group people when speaking.",
+    "Socio-Political Power":
+        "Questions on whether there are differences in socio-political power between the Focus and "
+        "Neighbour groups.",
+    "Language Loyalty":
+        "For the purpose of this dataset language loyalty is defined as a tendency to be loyal to "
+        "one’s language, typically by expressing a desire to retain an identity that is expressed "
+        "through the use of that language. This multicausal factor thus significantly overlaps "
+        "with \"Use Equivalence\".",
+    "Attitudes and Ideologies":
+        "Concernts the two groups’ attitudes towards each other in general.",
 }
 
 
@@ -273,6 +290,7 @@ class Dataset(BaseDataset):
         args.writer.objects['ParameterTable'].append(dict(
             ID='F',
             Name='Focus language',
+            **{k.replace(' ', '_'): False for k in MULTICAUSAL_FACTORS},
         ))
         for code in ['Yes', 'No']:
             args.writer.objects['CodeTable'].append(dict(
@@ -284,6 +302,7 @@ class Dataset(BaseDataset):
         args.writer.objects['ParameterTable'].append(dict(
             ID='S',
             Name='Contact pair',
+            **{k.replace(' ', '_'): False for k in MULTICAUSAL_FACTORS},
         ))
 
         authors, contributors = get_creators_and_contributors(
@@ -398,6 +417,13 @@ class Dataset(BaseDataset):
         rationales = {p.stem: p for p in self.dir.joinpath('rationale').glob('*.md')}
         rationales_linked = {k: False for k in rationales}
 
+        mcfactors = {r['QID']: {k: v.strip().lower() for k, v in r.items()}
+                     for r in self.raw_dir.read_csv('QN_2025_Tagging.csv', dicts=True)
+                     if any(r[mcf].strip().lower() == 'yes' for mcf in MULTICAUSAL_FACTORS)}
+        mcfactors['DFKXX'] = mcfactors['DFK29']
+        qids = {r['QID'] for r in self.raw_dir.read_csv('V1_0_1.csv', dicts=True)}
+        assert all(qid in qids for qid in mcfactors), {qid for qid in mcfactors if qid not in qids}
+
         domains = collections.defaultdict(dict)
         qids = set()
         vals = collections.defaultdict(lambda: collections.Counter())
@@ -417,6 +443,9 @@ class Dataset(BaseDataset):
                 args.log.info('Skipping {}'.format(subid))
                 continue
 
+            mcf = {k.replace(' ', '_'):
+                       mcfactors.get(qid, {}).get(k, '') == 'yes'
+                   for k in MULTICAUSAL_FACTORS}
             # Add Name for questions.csv:
             pid = '{}_{}'.format(qid, subid) if subid else qid
             qnames = {
@@ -475,6 +504,7 @@ class Dataset(BaseDataset):
                     Domain=d['Dom'],
                     Tag=tag,
                     ColumnSpec=dict(datatype=dict(base='integer', maximum=2020, minimum=-2000)),
+                    **mcf,
                 ))
                 args.writer.objects['ParameterTable'].append(dict(
                     ID=pid + '1',
@@ -484,6 +514,7 @@ class Dataset(BaseDataset):
                     Domain=d['Dom'],
                     Tag=tag,
                     ColumnSpec=dict(datatype=dict(base='integer', maximum=2020, minimum=-2000)),
+                    **mcf,
                 ))
             else:
                 args.writer.objects['ParameterTable'].append(dict(
@@ -493,6 +524,7 @@ class Dataset(BaseDataset):
                     datatype=norm_datatype(pid, d['DataType']),
                     Domain=d['Dom'],
                     Tag=tag,
+                    **mcf,
                 ))
             for qid, qs in itertools.groupby(
                 sorted(args.writer.objects['ParameterTable'], key=lambda r: r.get('Question_ID') or 'x'),
@@ -756,7 +788,12 @@ class Dataset(BaseDataset):
                 'name': 'Is_Timeframe_Comment',
                 'dc:description': 'Flag signaling whether answers to this question describe a timeframe.',
                 'datatype': {'base': 'boolean', 'format': 'yes|no'},
-            }
+            },
+            *[{
+                'name': k.replace(' ', '_'),
+                'dc:description': v,
+                'datatype': {'base': 'boolean', 'format': 'yes|no'}
+            } for k, v in MULTICAUSAL_FACTORS.items()],
         )
         t.common_props['dc:description'] = \
             ("Questions in GramAdapt may be broken up into several sub-questions. This table lists "
