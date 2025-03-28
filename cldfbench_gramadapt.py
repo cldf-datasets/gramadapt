@@ -105,7 +105,7 @@ TAGS = {
 MULTICAUSAL_FACTORS = {
     "Use Equivalence":
         "Questions pertaining to whether language use is equivalent or language contact dynamics "
-        "between Focus and Neighbour Groups as used in equivalent ways or not. The tag relates to "
+        "between Focus and Neighbour Groups are used in equivalent ways or not. The tag relates to "
         "questions of language uses in social domains, and discrepancies in fluency between Focus "
         "and Neighbour group people when speaking.",
     "Socio-Political Power":
@@ -117,7 +117,7 @@ MULTICAUSAL_FACTORS = {
         "through the use of that language. This multicausal factor thus significantly overlaps "
         "with \"Use Equivalence\".",
     "Attitudes and Ideologies":
-        "Concernts the two groups’ attitudes towards each other in general.",
+        "Concerns the two groups’ attitudes towards each other in general.",
 }
 
 
@@ -176,6 +176,10 @@ def parse_time_range(s):
 
 def repl_placeholder(s):
     return s.replace("[q2o1answer]", "Focus Group").replace("[q2o2answer]", "Neighbour Group")
+
+
+def insert_placeholder(s):
+    return s.replace('Focus Group', "[q2o1answer]").replace("Neighbour Group", "[q2o2answer]")
 
 
 def norm_question(d):
@@ -281,6 +285,13 @@ class Dataset(BaseDataset):
                 self.cldf_dir.joinpath(
                     'rationale', '{}.md'.format(contrib.id)).write_text(res, encoding='utf8')
         return add_markdown_text(BaseDataset.cmd_readme(self, args), NOTES, section='Description')
+
+    def _iterrows(self):
+        for fname in ['V1_0_1.csv', 'set06b_14_V1.0.1.csv']:
+            for d in self.raw_dir.read_csv(fname, dicts=True):
+                if 'Sub-ID' in d:
+                    d['Sub.ID'] = d.pop('Sub-ID')
+                yield {k.strip(): v.strip() for k, v in d.items()}
 
     def cmd_makecldf(self, args):  # called from "cldfbench makecldf"
         self.schema(args.writer.cldf)
@@ -413,6 +424,21 @@ class Dataset(BaseDataset):
                 Citation=citation(d['Respondents'], '{}: {} and {}'.format(
                     d['SetID'], d['F_Lang'], d['N_Lang'])),
             ))
+            if d['SetID'] == 'set06a':
+                args.writer.objects['ContributionTable'].append(dict(
+                    ID=d['SetID'].replace('a', 'b'),
+                    Name=d['ContactPair'],
+                    Type='contactset',
+                    Contributor=d['Respondents'],
+                    Focus_Language_ID='{}-F'.format(d['SetID']),
+                    Neighbour_Language_ID='{}-N'.format(d['SetID']),
+                    Author_IDs=contribs,
+                    Reviewer_IDs=[
+                        contributor_id(editors[eid.strip()]) for eid in d['Reviewer(s)'].split(',')],
+                    Area=d['AArea'],
+                    Citation=citation(d['Respondents'], '{}: {} and {}'.format(
+                        d['SetID'], d['F_Lang'], d['N_Lang'])),
+                ))
 
         rationales = {p.stem: p for p in self.dir.joinpath('rationale').glob('*.md')}
         rationales_linked = {k: False for k in rationales}
@@ -428,10 +454,7 @@ class Dataset(BaseDataset):
         qids = set()
         vals = collections.defaultdict(lambda: collections.Counter())
         for (qid, subid), rows in itertools.groupby(
-            sorted(
-                self.raw_dir.read_csv('V1_0_1.csv', dicts=True),
-                key=lambda r: (r['QID'], r['Sub.ID'], r['Set'])
-            ),
+            sorted(list(self._iterrows()), key=lambda r: (r['QID'], r['Sub.ID'], r['Set'])),
             lambda r: (r['QID'], r['Sub.ID']),
         ):
             if qid == 'DFK29':  #  The responses to DFKXX are the “correct” one.
@@ -595,14 +618,20 @@ class Dataset(BaseDataset):
                     args.writer.objects['ValueTable'].append(value(pid, d, Value=None))
                     continue
                 if pid in domains:
-                    for i, rr in enumerate(res if isinstance(res, list) else [res], start=1):
-                        args.writer.objects['ValueTable'].append(value(
+                    try:
+                        for i, rr in enumerate(res if isinstance(res, list) else [res], start=1):
+                            if rr not in domains[pid]:
+                                rr = insert_placeholder(rr)
+                            args.writer.objects['ValueTable'].append(value(
                             pid, d,
                             ID='{}-{}-{}'.format(d['Set'], pid, i) if
                             d['DataType'].endswith('Multiple') else '{}-{}'.format(d['Set'], pid),
                             Code_ID=domains[pid][rr],
                             Value=rr,
-                        ))
+                            ))
+                    except KeyError:
+                        print(pid)
+                        raise
                 else:
                     args.writer.objects['ValueTable'].append(value(pid, d, Value=res))
         tfids = [q['ID'][:-2] for q in args.writer.objects['ParameterTable'] if q['ID'].endswith('N0')]
@@ -618,6 +647,10 @@ class Dataset(BaseDataset):
         for k in sorted(rationales):
             if not rationales_linked[k]:
                 args.log.warning('Rationale {} not linked'.format(k))
+
+        for v in args.writer.objects['ValueTable']:
+            if v['Language_ID'] == 'set06b-F':
+                v['Language_ID'] = 'set06a-F'
 
     def schema(self, cldf):
         cldf.add_table(
