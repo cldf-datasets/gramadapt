@@ -28,7 +28,7 @@ cldferd --format compact.svg cldf > erd.svg
 
 Create a map showing the GramAdapt contact pairs running (requires `pip install cldfviz[cartopy]`):
 ```shell
-cldfbench cldfviz.map cldf --parameters F,S --colormaps '{"Yes":"circle","No":"diamond"},tol' --output map.svg --language-labels --markersize 7 --format svg --width 20 --pacific-centered --with-ocean --no-legend --padding-top 3 --padding-bottom 3
+cldfbench cldfviz.map cldf --parameters F,S --colormaps '{"Yes":"circle","No":"diamond"},tol' --output map.svg --language-labels --markersize 5 --format svg --width 20 --pacific-centered --with-ocean --no-legend --padding-top 10 --padding-bottom 12
 ```
 
 Create plots to show the overall applicability of the questionnaire for the contact sets (see [VALIDATION.md](VALIDATION.md)).

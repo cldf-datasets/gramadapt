@@ -14,7 +14,7 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/gramadapt
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/gramadapt/tree/3127fc7">cldf-datasets/gramadapt 3127fc7</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.1">Glottolog v5.1</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/gramadapt/tree/297a9d6">cldf-datasets/gramadapt 297a9d6</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.1">Glottolog v5.1</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | gramadapt
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -27,7 +27,7 @@ The *ValueTable* lists answers to the questions in the GramAdapt questionnaire c
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ValueTable](http://cldf.clld.org/v1.0/terms.rdf#ValueTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 13097
+[dc:extent](http://purl.org/dc/terms/extent) | 13497
 
 
 ### Columns
@@ -107,7 +107,7 @@ The GramAdapt dataset provides two types of contributions: (1) 'contact sets', i
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ContributionTable](http://cldf.clld.org/v1.0/terms.rdf#ContributionTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 124
+[dc:extent](http://purl.org/dc/terms/extent) | 125
 
 
 ### Columns
@@ -168,17 +168,17 @@ Name/Property | Datatype | Description
 `Domain` | `string`<br>Valid choices:<br> `OV` `DEM` `DFK` `DKN` `DLB` `DLC` `DTR` | Indicating the domain to which the responses apply. Possible options are the overview questionnaire (**OV**) and social domains (**DEM** = Exchange and Marriage; **DFK** = Family and Kin; **DKN** = Knowledge; **DLB** = Labour; **DLC** = Local Community; **DTR** = Trade).
 `Tag` | `string`<br>Valid choices:<br> `P` `D` `S` `B` `O` `I` `T` `E` `OD` `OG` `OI` `OL` `OS` `OH` `OE` `OC` `OB` `OT` | Questions of the overview questionnaire may be tagged as **OD** = Demographics; **OG** = Language geography; **OI** = Language and identity; **OL** = Literacy; **OS** = Social structure; **OH** = History; **OE** = Respondent fieldwork experience; **OC** = Response confidence; **OB** = Behaviour affecting biases; **OT** = Time frame. Questions of the domains questionnaire may be tagged as **P** = Preamble; **D** = Domain characterisation; **S** = Social network; **B** = Behaviour affecting biases; **O** = Linguistic output of Focus group people; **I** = Linguistic input of Focus group people, i.e. the output of Neighbour group people; **T** = Language transmission to children; **E** = Ending questions about data source and confidence.
 `Is_Timeframe_Comment` | `boolean`<br>Valid choices:<br> `yes` `no` | Flag signaling whether answers to this question describe a timeframe.
-`Use_Equivalence` | `boolean`<br>Valid choices:<br> `yes` `no` | Questions pertaining to whether language use is equivalent or language contact dynamics between Focus and Neighbour Groups as used in equivalent ways or not. The tag relates to questions of language uses in social domains, and discrepancies in fluency between Focus and Neighbour group people when speaking.
+`Use_Equivalence` | `boolean`<br>Valid choices:<br> `yes` `no` | Questions pertaining to whether language use is equivalent or language contact dynamics between Focus and Neighbour Groups are used in equivalent ways or not. The tag relates to questions of language uses in social domains, and discrepancies in fluency between Focus and Neighbour group people when speaking.
 `Socio-Political_Power` | `boolean`<br>Valid choices:<br> `yes` `no` | Questions on whether there are differences in socio-political power between the Focus and Neighbour groups.
 `Language_Loyalty` | `boolean`<br>Valid choices:<br> `yes` `no` | For the purpose of this dataset language loyalty is defined as a tendency to be loyal to one’s language, typically by expressing a desire to retain an identity that is expressed through the use of that language. This multicausal factor thus significantly overlaps with "Use Equivalence".
-`Attitudes_and_Ideologies` | `boolean`<br>Valid choices:<br> `yes` `no` | Concernts the two groups’ attitudes towards each other in general.
+`Attitudes_and_Ideologies` | `boolean`<br>Valid choices:<br> `yes` `no` | Concerns the two groups’ attitudes towards each other in general.
 
 ## <a name="table-codescsv"></a>Table [codes.csv](./codes.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CodeTable](http://cldf.clld.org/v1.0/terms.rdf#CodeTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1523
+[dc:extent](http://purl.org/dc/terms/extent) | 1524
 
 
 ### Columns

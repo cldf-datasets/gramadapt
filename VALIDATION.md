@@ -28,32 +28,52 @@ of social contact between Focus and Neighbour Group peoples.
 Thus, the relevance of the social domains for the contact scenarios can be computed as precentage of
 sets with a "Yes" answer to the P1 questions as follows
 ```sql
-SELECT
-    p.domain, 
-    cast(sum(CASE c.cldf_name WHEN 'Yes' THEN 1 ELSE 0 END) AS float) / count(v.cldf_id) AS yes_ratio
-FROM valuetable AS v 
-JOIN codetable AS c
-    ON v.cldf_codereference = c.cldf_id
-JOIN parametertable AS p 
-    ON v.cldf_parameterreference = p.cldf_id
-JOIN "questions.csv" AS q 
-    ON q.cldf_id = p.question_id
-JOIN "questions.csv_ContributionTable" AS qc
-    ON q.cldf_id = qc."questions.csv_cldf_id"
-WHERE qc.contributiontable_cldf_id = 'P1'
-GROUP BY p.cldf_id 
-ORDER BY yes_ratio DESC;
+SELECT domain, yes, no, NA, ratio FROM (
+    SELECT
+        p.domain,
+        sum(CASE c.cldf_name WHEN 'Yes' THEN 1 ELSE 0 END) AS 'yes',
+        sum(CASE c.cldf_name WHEN 'Yes' THEN 0 ELSE 1 END) AS 'no',
+        sum(CASE c.cldf_name WHEN NULL THEN 1 ELSE 0 END) AS 'NA',   
+        round(cast(sum(CASE c.cldf_name WHEN 'Yes' THEN 1 ELSE 0 END) AS float) * 100 / count(v.cldf_id), 2) AS ratio
+    FROM valuetable AS v 
+    JOIN codetable AS c
+        ON v.cldf_codereference = c.cldf_id
+    JOIN parametertable AS p 
+        ON v.cldf_parameterreference = p.cldf_id
+    JOIN "questions.csv" AS q 
+        ON q.cldf_id = p.question_id
+    JOIN "questions.csv_ContributionTable" AS qc
+        ON q.cldf_id = qc."questions.csv_cldf_id"
+    WHERE qc.contributiontable_cldf_id = 'P1'
+    GROUP BY p.domain
+)
+ORDER BY ratio;
 ```
 yielding
 
-domain | yes_ration
---- | ---
-DTR|0.939393939393939
-DLC|0.878787878787879
-DLB|0.787878787878788
-DFK|0.787878787878788
-DKN|0.636363636363636
-DEM|0.575757575757576
+domain | yes | no | NA | % yes
+--- | ---:| ---:| ---:| ---
+DEM|20|14|0|58.82
+DKN|22|12|0|64.71
+DFK|27|7|0|79.41
+DLB|27|7|0|79.41
+DLC|30|4|0|88.24
+DTR|32|2|0|94.12
+
+
+which can be summarized (after putting the SQL query into a file `q.sql`) as
+```shell
+$ sqlite3 gramadapt.sqlite --header < q.sql | csvstat -c yes_ratio -d "|" 
+  2. "yes_ratio"
+
+        Smallest value:        0.588
+        Largest value:         0.941
+        Mean:                  0.775
+        Median:                0.794
+        StDev:                 0.135
+
+Row count: 6
+```
 
 
 Contact sets partitioned into groups with equal number of relevant social domains can be computed as

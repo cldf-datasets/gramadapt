@@ -19,7 +19,7 @@ DEM04,Where does exchange between Focus Group and Neighbour Group people typical
 DEM05,What language do Focus Group people expect to be used when interacting with Neighbour Group people through practices of exchange?,,,Types,DEM05,DEM,B,no,yes,no,yes,no
 DEM06,How much do Focus Group children participate in practices of exchange?,,,Scalar,DEM06,DEM,T,no,no,no,no,no
 DEM08,How often do Focus Group people exchange with Neighbour Group people?,,,Scalar,DEM08,DEM,S,no,no,no,no,no
-DEM0a,How long have Focus Group and Neighbour Group people practised exchange for? ,,,Comment,DEM0a,DEM,P,yes,no,no,no,no
+DEM0a,How long have Focus Group and Neighbour Group people practised exchange for?,,,Comment,DEM0a,DEM,P,yes,no,no,no,no
 DEM0aN0,"Coarse time range, start [DEM0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0a,DEM,P,no,no,no,no,no
 DEM0aN1,"Coarse time range, end [DEM0aN]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,DEM0a,DEM,P,no,no,no,no,no
 DEM0b,What is the time frame when the largest number of people had the most opportunities for interaction in exchange?,,,Comment,DEM0b,DEM,P,yes,no,no,no,no
@@ -76,11 +76,11 @@ DEM39_DEME39-4,"Child socialisation. Typically during practices of exchange, do 
 DEM40,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of exchange?,,,Scalar,DEM40,DEM,S,no,no,no,no,no
 DEM41,Do Focus Group people experience exchange differently depending on social group?,,,Binary-YesNo,DEM41,DEM,D,no,no,no,no,no
 DEM42,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of marriage exchanges?,,,Scalar,DEM42,DEM,S,no,no,no,no,no
-DEM43,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of marriage exchanges? ,,,Scalar,DEM43,DEM,S,no,no,no,no,no
+DEM43,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of marriage exchanges?,,,Scalar,DEM43,DEM,S,no,no,no,no,no
 DEM44,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of exchange?,,,Scalar,DEM44,DEM,S,no,no,no,no,no
 DEM45,"How often are these speech styles typically used during practices of exchange, in comparison with unmonitored speech?",,,Scalar,DEM45,DEM,D,no,no,no,no,no
-DEM96,"List any other groups that the Focus Group practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this contact through Social Exchange practices happened. ",,,Comment,DEM96,DEM,E,no,no,no,no,no
-DEM97,What type of data informed your answers to the questions in the domain of social exchange overall? ,,,TypesMultiple,DEM97,DEM,E,no,no,no,no,no
+DEM96,"List any other groups that the Focus Group practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this contact through Social Exchange practices happened.",,,Comment,DEM96,DEM,E,no,no,no,no,no
+DEM97,What type of data informed your answers to the questions in the domain of social exchange overall?,,,TypesMultiple,DEM97,DEM,E,no,no,no,no,no
 DEM98,How certain are you in your responses for the domain of social exchange?,,,Scalar,DEM98,DEM,E,no,no,no,no,no
 DEM99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DEM],,,Comment,DEM99,DEM,E,no,no,no,no,no
 DFK00,"Do Focus Group people and Neighbour Group people marry each other, or have they done so in the past?",,,Binary-YesNo,DFK00,DFK,P,no,no,no,no,no
@@ -129,7 +129,7 @@ DFK37,How physically proximate to each other are the households of the husband a
 DFK38_DFK38-1,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? Lexical avoidance,,,Binary-YesNo,DFK38,DFK,D,no,no,no,no,no
 DFK38_DFK38-2,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? The use of certain morphosyntactic forms,,,Binary-YesNo,DFK38,DFK,D,no,no,no,no,no
 DFK38_DFK38-3,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws? The use of certain pronominal forms,,,Binary-YesNo,DFK38,DFK,D,no,no,no,no,no
-DFK39,What is the typical pattern of relocation for Neighbour Group women when starting a new family? ,,,Scalar,DFK39,DFK,D,no,no,no,no,no
+DFK39,What is the typical pattern of relocation for Neighbour Group women when starting a new family?,,,Scalar,DFK39,DFK,D,no,no,no,no,no
 DFK40,Do Focus Group people experience family life differently depending on social group?,,,Binary-YesNo,DFK40,DFK,D,no,no,no,no,no
 DFK96,Who do Focus Group people typically form families with besides Neighbour Group people?,,,Types,DFK96,DFK,E,no,no,no,no,no
 DFK97,"What type of data informed your answers to the questions in the domain of family and kin, overall?",,,TypesMultiple,DFK97,DFK,E,no,no,no,no,no
@@ -382,9 +382,9 @@ OS1,"Typically, how many levels of jurisdictional hierarchy are there in the Foc
 OS2,"Typically, how many levels of jurisdictional hierarchy are there in Neighbour Group society, beyond the local community?",,,Scalar,OS2,OV,OS,no,no,yes,no,no
 OS4,"Which of the following best characterises the dominant form of the Focus Group speaking group's mobility and sedentism, in regards to subsistence?",,,Types,OS4,OV,OS,no,no,no,no,no
 OS5,"Which of the following best characterises the dominant form of the Neighbour Group speaking group's mobility and sedentism, in regards to subsistence?",,,Types,OS5,OV,OS,no,no,no,no,no
-OS6,The Focus Group speaking society's subsistence pattern can be broadly characterised as... ,,,Types,OS6,OV,OS,no,no,no,no,no
+OS6,The Focus Group speaking society's subsistence pattern can be broadly characterised as...,,,Types,OS6,OV,OS,no,no,no,no,no
 OS7,What is the mean size of the Focus Group speaking communities at the local level?,,,TypesSequential,OS7,OV,OS,no,no,no,no,no
-OS9,How frequently do Focus Group people generally interact with out-group people? ,,,Scalar,OS9,OV,OS,no,no,no,no,no
+OS9,How frequently do Focus Group people generally interact with out-group people?,,,Scalar,OS9,OV,OS,no,no,no,no,no
 OT1,How long have Focus Group and Neighbour Group people been in contact overall?,,,Comment,OT1,OV,OT,yes,no,no,no,no
 OT1N0,"Coarse time range, start [OT1N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT1,OV,OT,no,no,no,no,no
 OT1N1,"Coarse time range, end [OT1N]",,"{""datatype"": {""base"": ""integer"", ""maximum"": 2020, ""minimum"": -2000}}",Value,OT1,OV,OT,no,no,no,no,no

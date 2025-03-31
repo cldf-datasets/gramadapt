@@ -361,6 +361,13 @@ class Dataset(BaseDataset):
                 Parameter_ID='S',
                 Name=d['SetID'],
             ))
+            if d['SetID'] == 'set06a':
+                args.writer.objects['CodeTable'].append(dict(
+                    ID='S-set06b',
+                    Parameter_ID='S',
+                    Name='set06b',
+                ))
+
             for ltype in ['F', 'N']:  # We add both, focus and neighbouring languages to the table.
                 glang = glangs.get(d['{}_Glottocode'.format(ltype)])
                 latlon = {
@@ -404,6 +411,25 @@ class Dataset(BaseDataset):
                     Code_ID='S-{}'.format(d['SetID']),
                     Value=d['SetID'],
                 ))
+                if d['SetID'] == 'set06a':
+                    setid = 'set06b'
+                    args.writer.objects['ValueTable'].append(dict(
+                        ID='F-{}-{}'.format(setid, ltype),
+                        Language_ID='{}-{}'.format(d['SetID'], ltype),
+                        Parameter_ID='F',
+                        Contactset_ID=setid,
+                        Code_ID='F-yes' if ltype == 'F' else 'F-no',
+                        Value='Yes' if ltype == 'F' else 'No',
+                    ))
+                    args.writer.objects['ValueTable'].append(dict(
+                        ID='S-{}-{}'.format(setid, ltype),
+                        Language_ID='{}-{}'.format(d['SetID'], ltype),
+                        Parameter_ID='S',
+                        Contactset_ID=setid,
+                        Code_ID='S-{}'.format(setid),
+                        Value=d['SetID'],
+                    ))
+
             contribs = []
             for n in d['Respondents'].split(' & '):
                 if n not in {'Anonymous'}:
@@ -425,18 +451,19 @@ class Dataset(BaseDataset):
                     d['SetID'], d['F_Lang'], d['N_Lang'])),
             ))
             if d['SetID'] == 'set06a':
+                args.writer.objects['ContributionTable'][-1]['Name'] += ' (modern)'
                 args.writer.objects['ContributionTable'].append(dict(
                     ID=d['SetID'].replace('a', 'b'),
-                    Name=d['ContactPair'],
+                    Name=d['ContactPair'] + ' (historical)',
                     Type='contactset',
-                    Contributor=d['Respondents'],
+                    Contributor='Oona Raatikainen',
                     Focus_Language_ID='{}-F'.format(d['SetID']),
                     Neighbour_Language_ID='{}-N'.format(d['SetID']),
-                    Author_IDs=contribs,
+                    Author_IDs=['raatikainen'],
                     Reviewer_IDs=[
                         contributor_id(editors[eid.strip()]) for eid in d['Reviewer(s)'].split(',')],
                     Area=d['AArea'],
-                    Citation=citation(d['Respondents'], '{}: {} and {}'.format(
+                    Citation=citation('Oona Raatikainen', '{}: {} and {}'.format(
                         d['SetID'], d['F_Lang'], d['N_Lang'])),
                 ))
 

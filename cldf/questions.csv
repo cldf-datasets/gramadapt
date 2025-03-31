@@ -40,11 +40,11 @@ DEM39,Child socialisation,DEM T6
 DEM40,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of exchange?,DEM S6
 DEM41,Do Focus Group people experience exchange differently depending on social group?,DEM D10
 DEM42,What is the proportion of total Focus Group people who have opportunities for contact with Neighbour Group people in the context of marriage exchanges?,DEM S6
-DEM43,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of marriage exchanges? ,DEM S7
+DEM43,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of marriage exchanges?,DEM S7
 DEM44,What is the proportion of total Neighbour Group people who have opportunities for contact with Focus Group people in the context of exchange?,DEM S7
 DEM45,"How often are these speech styles typically used during practices of exchange, in comparison with unmonitored speech?",DEM D12
-DEM96,"List any other groups that the Focus Group practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this contact through Social Exchange practices happened. ",DEM E1
-DEM97,What type of data informed your answers to the questions in the domain of social exchange overall? ,DEM E4
+DEM96,"List any other groups that the Focus Group practiced Social Exchange with in the past, in so far as you believe this had linguistic consequences for the Focus Group language. Where possible, please also give an indication of when this contact through Social Exchange practices happened.",DEM E1
+DEM97,What type of data informed your answers to the questions in the domain of social exchange overall?,DEM E4
 DEM98,How certain are you in your responses for the domain of social exchange?,DEM E5
 DEM99,List any comments or notes that you feel are relevant to this section of the questionnaire. [DEM],DEM
 DFK00,"Do Focus Group people and Neighbour Group people marry each other, or have they done so in the past?",DFK P1
@@ -81,7 +81,7 @@ DFK34,You have married a Neighbour Group person. What language do you typically 
 DFK35,What is the typical pattern of relocation for Focus Group women when starting a new family?,DFK D6_DFK35_DFK39
 DFK37,How physically proximate to each other are the households of the husband and wife?,DFK S4
 DFK38,Are any of the following features characteristic when speaking to one’s Neighbour Group in-laws?,DFK D9_DFK38
-DFK39,What is the typical pattern of relocation for Neighbour Group women when starting a new family? ,DFK D6_DFK35_DFK39
+DFK39,What is the typical pattern of relocation for Neighbour Group women when starting a new family?,DFK D6_DFK35_DFK39
 DFK40,Do Focus Group people experience family life differently depending on social group?,DFK D10
 DFK96,Who do Focus Group people typically form families with besides Neighbour Group people?,DFK E1
 DFK97,"What type of data informed your answers to the questions in the domain of family and kin, overall?",DFK E4
@@ -259,8 +259,8 @@ OS1,"Typically, how many levels of jurisdictional hierarchy are there in the Foc
 OS2,"Typically, how many levels of jurisdictional hierarchy are there in Neighbour Group society, beyond the local community?",OV OS2
 OS4,"Which of the following best characterises the dominant form of the Focus Group speaking group's mobility and sedentism, in regards to subsistence?",OV OS4
 OS5,"Which of the following best characterises the dominant form of the Neighbour Group speaking group's mobility and sedentism, in regards to subsistence?",OV OS5
-OS6,The Focus Group speaking society's subsistence pattern can be broadly characterised as... ,OV OS6
+OS6,The Focus Group speaking society's subsistence pattern can be broadly characterised as...,OV OS6
 OS7,What is the mean size of the Focus Group speaking communities at the local level?,OV OS7
-OS9,How frequently do Focus Group people generally interact with out-group people? ,OV OS9
+OS9,How frequently do Focus Group people generally interact with out-group people?,OV OS9
 OT1,How long have Focus Group and Neighbour Group people been in contact overall?,OV OT1
 OT2,What is the overall time frame when the largest number of people had the most opportunities for interaction?,OV OT2

@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gramadapt",
             "rdf:type": "prov:Entity",
-            "dc:created": "3127fc7",
+            "dc:created": "297a9d6",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
             "dc:description": "The *ValueTable* lists answers to the questions in the GramAdapt questionnaire coded as values for the Focus group language (except for values for the two 'synthetic' parameters 'Focus language' and 'Contact pair', which may also be coded for the language of the Neighbour group).",
-            "dc:extent": 13097,
+            "dc:extent": 13497,
             "tableSchema": {
                 "columns": [
                     {
@@ -317,7 +317,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "The GramAdapt dataset provides two types of contributions: (1) 'contact sets', i.e. descriptions of a contact situation between two neighbouring communities speaking different languages. Each contact set is unique in terms of the timeframe they respond for. We urge researchers who use this dataset to read the Comments column for questions CID P1, P2, and P3 carefully for each set, to get a sense of the heterogeneity of timeframes represented in each set, as well as the whole dataset. (2) 'rationales' explaning the goals, definitions and theoretical support for (sets of) questions in the GramAdapt questionnaire.",
-            "dc:extent": 124,
+            "dc:extent": 125,
             "tableSchema": {
                 "columns": [
                     {
@@ -569,7 +569,7 @@
                         "name": "Is_Timeframe_Comment"
                     },
                     {
-                        "dc:description": "Questions pertaining to whether language use is equivalent or language contact dynamics between Focus and Neighbour Groups as used in equivalent ways or not. The tag relates to questions of language uses in social domains, and discrepancies in fluency between Focus and Neighbour group people when speaking.",
+                        "dc:description": "Questions pertaining to whether language use is equivalent or language contact dynamics between Focus and Neighbour Groups are used in equivalent ways or not. The tag relates to questions of language uses in social domains, and discrepancies in fluency between Focus and Neighbour group people when speaking.",
                         "datatype": {
                             "base": "boolean",
                             "format": "yes|no"
@@ -593,7 +593,7 @@
                         "name": "Language_Loyalty"
                     },
                     {
-                        "dc:description": "Concernts the two groups\u2019 attitudes towards each other in general.",
+                        "dc:description": "Concerns the two groups\u2019 attitudes towards each other in general.",
                         "datatype": {
                             "base": "boolean",
                             "format": "yes|no"
@@ -622,7 +622,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 1523,
+            "dc:extent": 1524,
             "tableSchema": {
                 "columns": [
                     {
