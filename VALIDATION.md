@@ -63,14 +63,15 @@ DTR|32|2|0|94.12
 
 which can be summarized (after putting the SQL query into a file `q.sql`) as
 ```shell
-$ sqlite3 gramadapt.sqlite --header < q.sql | csvstat -c yes_ratio -d "|" 
+$ sqlite3 gramadapt.sqlite --header < q.sql | csvstat -c ratio -d "|" 
   2. "yes_ratio"
 
-        Smallest value:        0.588
-        Largest value:         0.941
-        Mean:                  0.775
-        Median:                0.794
-        StDev:                 0.135
+        Smallest value:        58.82
+        Largest value:         94.12
+        Sum:                   464.71
+        Mean:                  77.452
+        Median:                79.41
+        StDev:                 13.501
 
 Row count: 6
 ```
