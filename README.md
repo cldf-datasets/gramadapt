@@ -25,12 +25,12 @@ column *Rationale* in [cldf/questions.csv](cldf/questions.csv).
 
 ## Contact pairs
 
-![](map.svg)
+![](map.png)
 
 
 ## Data model
 
-![](erd.svg)
+![](gramadapt_erd.svg)
 
 For detailed descriptions of the tables and columns refer to [cldf/README.md](cldf/README.md).
 
