@@ -189,5 +189,13 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Eri Kashima, Francesca Di Garbo, Oona Raatikainen, Rosn\u00e1taly Avelino, Sacha Beck, Anna Berge, Ana Blanco, Ross Bowden, Nicol\u00e1s Brid, Joseph M Brincat, Mar\u00eda Bel\u00e9n Carpio, Alexander Cobbinah, Paola C\u00faneo, Anne-Maria Fehn, Saloumeh Gholami, Arun Ghosh, Hannah Gibson, Elizabeth Hall, Katja Hann\u00df, Hannah Haynie, Jerry Jacka, Matias Jenny, Richard Kowalik, Sonal Kulkarni-Joshi, Maarten Mous, Marcela Mendoza, Cristina Messineo, Francesca Moro, Hank Nater, Michelle A Ocasio, Bruno Olsson, Ana Mar\u00eda Ospina Bozzi, Agustina Paredes, Admire Phiri, Nicolas Quint, Erika Sandman, Dineke Schokkin, Ruth Singer, Ellen Smith-Dennis, Lameen Souag, Yunus Sulistyono, Yvonne Treis, Matthias Urban, Jill Vaughan, Deginet Wotango Doyiso, Georg Ziegelmeyer, Veronika Zikmundov\u00e1. (2023). GramAdapt Crosslinguistic Social Contact Dataset. (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7508054</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "gramadapt"
+        }
+    ]
 }

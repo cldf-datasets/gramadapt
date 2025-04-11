@@ -2,7 +2,7 @@
 
 Recreate the CLDF data from the raw data
 ```shell
-cldfbench makecldf cldfbench_gramadapt.py --glottolog-version v5.1 --with-zenodo --with-cldfreadme
+cldfbench makecldf cldfbench_gramadapt.py --glottolog-version v5.1 --with-cldfreadme
 ```
 and make sure it's valid
 ```shell
@@ -13,6 +13,11 @@ cldf validate --with-cldf-markdown cldf
 Recreate the README and the rendered rationales:
 ```shell
 cldfbench readme cldfbench_gramadapt.py
+```
+
+Recreate metadata for Zenodo:
+```shell
+cldfbench zenodo cldfbench_gramadapt.py --communities "gramadapt,cldf-datasets"
 ```
 
 Recreate the SQLite database:
